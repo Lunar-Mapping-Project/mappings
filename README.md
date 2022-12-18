@@ -4,7 +4,7 @@
 The mappings repository for the lunar mapping project.
 ## Contents
 
-- None, for now.
+- Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/v1.0)
 
 
 ## FAQ
@@ -12,6 +12,8 @@ The mappings repository for the lunar mapping project.
 #### Where are the mappings?
 
 The mappings are still incomplete and have not yet been converted into an intermediate format to be matched with the latest version of lunar client.
+
+However, you can find 'dirty' mappings in the [releases](https://github.com/Lunar-Mapping-Project/mappings/releases) for specific versions of lunar.
 
 #### How can I contribute?
 

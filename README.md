@@ -17,7 +17,7 @@ However, you can find 'dirty' mappings in the [releases](https://github.com/Luna
 
 #### How can I contribute?
 
-Join the discord [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#4550` for further information.
+Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#4550` for further information.
 
 
 ## Roadmap

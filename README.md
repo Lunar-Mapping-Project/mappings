@@ -1,7 +1,9 @@
 
 # Mappings
 
-The mappings repository for the lunar mapping project.
+🌌 The mappings repository for the lunar mapping project.
+
+
 ## Contents
 
 - Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/v1.0)

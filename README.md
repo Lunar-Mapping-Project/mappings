@@ -40,7 +40,10 @@ Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#
 
 - [@Decencies](https://www.github.com/Decencies)
 - [@Moose](https://www.github.com/Moose1301)
-- [@GoXLR](https://www.github.com/GoXLR)
+- [@Scherso](https://www.github.com/Scherso)
+- [@mdo992](https://www.github.com/mdo992)
 - [@ZeoNight](https://www.github.com/ZeoNight)
+- [@GoXLR](https://www.github.com/GoXLR)
+- [@milse113](https://www.github.com/milse113)
 - [@Nox](https://www.github.com/Noxiuam)
 

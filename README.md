@@ -43,6 +43,7 @@ Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#
 - [@Scherso](https://www.github.com/Scherso)
 - [@mdo992](https://www.github.com/mdo992)
 - [@ZeoNight](https://www.github.com/ZeoNight)
+- [@Metacinnabar](https://www.github.com/Metacinnabar)
 - [@GoXLR](https://www.github.com/GoXLR)
 - [@milse113](https://www.github.com/milse113)
 - [@Nox](https://www.github.com/Noxiuam)

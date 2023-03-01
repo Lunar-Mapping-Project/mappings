@@ -39,7 +39,6 @@ Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#
 ## Authors
 
 - [@Decencies](https://www.github.com/Decencies)
-- [@Moose](https://www.github.com/Moose1301)
 - [@Scherso](https://www.github.com/Scherso)
 - [@steviegt6](https://www.github.com/Steviegt6)
 - [@mdo992](https://www.github.com/mdo992)

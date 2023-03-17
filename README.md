@@ -42,6 +42,7 @@ Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#
 - [@Scherso](https://www.github.com/Scherso)
 - [@betterclient](https://www.github.com/betterclient)
 - [@steviegt6](https://www.github.com/Steviegt6)
+- [@TheKodeToad](https://www.github.com/TheKodeToad)
 - [@mdo992](https://www.github.com/mdo992)
 - [@ZeoNight](https://www.github.com/ZeoNight)
 - [@Metacinnabar](https://www.github.com/Metacinnabar)

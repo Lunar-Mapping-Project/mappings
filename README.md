@@ -40,11 +40,12 @@ Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#
 
 - [@Decencies](https://www.github.com/Decencies)
 - [@Scherso](https://www.github.com/Scherso)
+- [@betterclient](https://www.github.com/betterclient)
 - [@steviegt6](https://www.github.com/Steviegt6)
 - [@mdo992](https://www.github.com/mdo992)
 - [@ZeoNight](https://www.github.com/ZeoNight)
 - [@Metacinnabar](https://www.github.com/Metacinnabar)
 - [@GoXLR](https://www.github.com/GoXLR)
 - [@milse113](https://www.github.com/milse113)
-- [@Nox](https://www.github.com/Noxiuam)
+- [@Noxiuam](https://www.github.com/Noxiuam)
 

@@ -3,11 +3,15 @@
 
 🌌 The mappings repository for the lunar mapping project.
 
+## Updates
+
+Great news, the mapping team have reached the mid 90%s on a more recent version of lunar (93d4dd4/master), which also includes all platform modules, genesis & ichor!<br>
+We are currently in the process of cleaning up the mappings, and getting all the files ready for release to the public.<br>
+For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to keep posted with the latest news and updates.
 
 ## Contents
 
 - Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/v1.0)
-
 
 ## FAQ
 
@@ -19,22 +23,7 @@ However, you can find 'dirty' mappings in the [releases](https://github.com/Luna
 
 #### How can I contribute?
 
-Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#0001` for further information.
-
-
-## Roadmap
-
-- Migrate current mappings into intermediate format.
-
-- Updated mappings.
-
-- Javadoc.
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+Join the [Discord](https://discord.gg/wbQv3sRenF) for further information on how to contribute to the project (anonymous contributions are also welcome!)
 
 ## Authors
 
@@ -50,3 +39,19 @@ Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#
 - [@milse113](https://www.github.com/milse113)
 - [@Noxiuam](https://www.github.com/Noxiuam)
 
+And other anonymous contributors <3
+
+## Honorable Mentions
+
+- [@Relief](https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx) for their amazing ambience
+
+## Roadmap
+
+- Migrate current mappings into intermediate format.
+- Updated mappings (currently migrating from a397868/master -> 93d4dd4/master)
+- Javadoc.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)

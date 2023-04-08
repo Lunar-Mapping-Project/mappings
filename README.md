@@ -1,10 +1,10 @@
 # Mappings
 
-🌌 The mappings repository for the lunar mapping project.
+🌌 The mappings repository for the lunar mapping project
 
 ## Updates
 
-For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to keep posted with the latest news and updates.
+For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to keep posted with the latest news and updates
 
 ## Contents
 
@@ -15,9 +15,9 @@ For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to
 
 #### Where are the latest mappings?
 
-The mappings are slowly being migrated to newer versions of lunar client.
+The mappings are slowly being migrated to newer versions of lunar, through the use of [Matcher](https://github.com/sfPlayer1/Matcher)
 
-You can find 'dirty' or old mappings in the [releases](https://github.com/Lunar-Mapping-Project/mappings/releases) for specific versions of lunar.
+You can find 'dirty' or old mappings in the [releases](https://github.com/Lunar-Mapping-Project/mappings/releases) for specific versions of lunar
 
 #### How can I contribute?
 
@@ -45,9 +45,9 @@ And other anonymous contributors <3
 
 ## Roadmap
 
-- Migrate current mappings into intermediate format.
+- Migrate current mappings into intermediate format
 - Updated mappings (currently migrating from a397868/master -> 93d4dd4/master)
-- Javadoc.
+- Javadoc
 
 
 ## License

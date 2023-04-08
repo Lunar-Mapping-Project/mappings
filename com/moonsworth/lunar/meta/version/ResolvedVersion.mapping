@@ -1,0 +1,48 @@
+CLASS com/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/meta/version/ResolvedVersion
+	FIELD HROOOOIORHCHIHHHRRRCOHOOI time Ljava/lang/String;
+	FIELD akh parent Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD aki javaVersion Lcom/google/gson/JsonObject;
+	FIELD akj assetIndex Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD akk releaseTime Ljava/lang/String;
+	FIELD akl downloads Ljava/util/Map;
+	FIELD id id Ljava/lang/String;
+	FIELD mainClass mainClass Ljava/lang/String;
+	FIELD type type Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD CCCRCRRCIRIIIICOHIIIOCRHI setTime (Ljava/lang/String;)V
+	METHOD CICORIOORCRRHCCIRROCORIRR getMainClass ()Ljava/lang/String;
+	METHOD HRCHIIICCCIOHHORIHRCICHIH getReleaseTime ()Ljava/lang/String;
+	METHOD ICCRHRRCOOOIIORHCIIRRRCCI getAssetIndex ()Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD ICIRHOHIHOCIIRIOCIOHOHRIO getTime ()Ljava/lang/String;
+	METHOD ICRRCICRHHRIHCOIIIOHRHOHH getDownloads ()Ljava/util/Map;
+	METHOD IORCRCCIIORORCROICOIOROCI getJavaVersion ()Lcom/google/gson/JsonObject;
+	METHOD IRHOHOCRIICICOCHICHHROHIC getParent ()Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI setParent (Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)V
+		ARG 1 info
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)Ljava/util/Optional;
+		ARG 0 version
+	METHOD OHHOIRCICORHRRRIHCRHIHCIO setMainClass (Ljava/lang/String;)V
+	METHOD OROCHHRICHOHIIRHHIICORRHH setDownloads (Ljava/util/Map;)V
+	METHOD RHCRHHOICOCCHHOOROHCROHIO setReleaseTime (Ljava/lang/String;)V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getType getType ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD setId setId (Ljava/lang/String;)V
+	METHOD setType setType (Ljava/lang/String;)V
+	METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI DownloadInfo
+		FIELD akg sha1 Ljava/lang/String;
+		FIELD url url Ljava/lang/String;
+		METHOD <init> <init> ()V
+		METHOD HHICROCHCHHHHROOCHCOROICH setSha1 (Ljava/lang/String;)V
+			ARG 1 sha1
+		METHOD HIHIHOIROORORHCCHRHIRCCHO getSha1 ()Ljava/lang/String;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getUrl getUrl ()Ljava/lang/String;
+		METHOD hashCode hashCode ()I
+		METHOD setUrl setUrl (Ljava/lang/String;)V
+		METHOD toString toString ()Ljava/lang/String;

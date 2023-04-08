@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/v1_19_0/mixin/BiomeMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getBiomeName bridge$getBiomeName ()Ljava/lang/String;

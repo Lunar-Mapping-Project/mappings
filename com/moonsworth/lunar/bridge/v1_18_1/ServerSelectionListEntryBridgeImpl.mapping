@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOICOIICOIOORHCHIHCOICII/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/bridge/v1_18_1/ServerSelectionListEntryBridgeImpl
+	FIELD CHHIIRICCOIOCRCHRICHOHRCO screen Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;
+	FIELD HCRRRCOOHORCIRIRCRHOROHOO minecraft Lnet/minecraft/client/Minecraft;
+	FIELD HHHRIORHOCCCCIHHIORROOHHR texture Lnet/minecraft/client/renderer/texture/DynamicTexture;
+	FIELD ICCIIHRHOIRIHICCHHRCRCIHR serverList Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;
+	FIELD ICIRHOHIHOCIIRIOCIOHOHRIO server Lnet/minecraft/client/multiplayer/ServerData;
+	FIELD OORCRCCCCHCHCICCIIORHOCOH serverIcon Lnet/minecraft/resources/ResourceLocation;
+	METHOD <init> <init> (Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;Lnet/minecraft/client/multiplayer/ServerData;)V
+		ARG 1 screen
+		ARG 2 serverList
+		ARG 3 server
+	METHOD IHHHIICCOCCOROHHORHOIHIRR save ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Optional;
+		ARG 0 buffer
+	METHOD getNarration getNarration ()Lnet/minecraft/network/chat/Component;
+	METHOD getServerData getServerData ()Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD keyPressed keyPressed (III)Z
+	METHOD mouseClicked mouseClicked (DDI)Z
+		ARG 1 mouseX
+		ARG 3 mouseY
+		ARG 5 button
+	METHOD render render (Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIIIZF)V
+		ARG 1 stack

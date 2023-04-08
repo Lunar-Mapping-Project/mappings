@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CCRHOHCCOIICHCCHIOIICHHOO/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/bridge/v1_17_0/ServerSelectionListEntryBridgeImpl
+	FIELD HIHHHCOCIORCCCIHCHCHCOCRO serverIcon Lnet/minecraft/resources/ResourceLocation;
+	FIELD RHIIHRHORIORROOOHOHOHCHOC server Lnet/minecraft/client/multiplayer/ServerData;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	FIELD screen screen Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;
+	FIELD serverSelectionList serverSelectionList Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;
+	METHOD <init> <init> (Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;Lnet/minecraft/client/multiplayer/ServerData;)V
+		ARG 1 screen
+		ARG 2 serverSelectionList
+		ARG 3 server
+	METHOD getNarration getNarration ()Lnet/minecraft/network/chat/Component;
+	METHOD getServerData getServerData ()Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD keyPressed keyPressed (III)Z
+	METHOD mouseClicked mouseClicked (DDI)Z
+	METHOD render render (Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIIIZF)V

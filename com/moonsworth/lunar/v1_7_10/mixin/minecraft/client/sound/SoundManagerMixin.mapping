@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/sound/SoundManagerMixin
+	METHOD <init> <init> ()V
+	METHOD impl$cancelReload impl$cancelReload (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

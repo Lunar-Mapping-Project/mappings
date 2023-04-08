@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CIHCIOHCCICCICHOHHCCOCOHC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/v1_16_5/mixin/GuiMixin
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	FIELD screenHeight screenHeight I
+	FIELD screenWidth screenWidth I
+	METHOD <init> <init> ()V
+	METHOD impl$renderCrosshair impl$renderCrosshair (Lcom/mojang/blaze3d/vertex/PoseStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

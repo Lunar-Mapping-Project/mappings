@@ -1,0 +1,25 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/impl/client/gui/ScreenInjectorImpl
+	FIELD customScreen customScreen Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$allowUserInput bridge$allowUserInput ()Z
+	METHOD bridge$doesGuiPauseGame bridge$doesGuiPauseGame ()Z
+	METHOD bridge$drawScreen bridge$drawScreen (IIF)V
+	METHOD bridge$drawScrollableHoveringText bridge$drawScrollableHoveringText (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;Ljava/util/List;II)V
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;
+	METHOD bridge$handleMouseInput bridge$handleMouseInput ()V
+	METHOD bridge$keyTyped bridge$keyTyped (CLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$mouseClicked bridge$mouseClicked (III)V
+	METHOD bridge$mouseReleased bridge$mouseReleased (III)V
+	METHOD bridge$onGuiClosed bridge$onGuiClosed ()V
+	METHOD bridge$setClickedLinkURI bridge$setClickedLinkURI (Ljava/net/URI;)V
+	METHOD bridge$setWorldAndResolution bridge$setWorldAndResolution (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR;II)V
+	METHOD bridge$updateScreen bridge$updateScreen ()V
+	METHOD drawScreen drawScreen (IIF)V
+	METHOD getCustomScreen getCustomScreen ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD handleMouseInput handleMouseInput ()V
+	METHOD keyTyped keyTyped (CI)V
+	METHOD mouseClicked mouseClicked (III)V
+	METHOD mouseReleased mouseReleased (III)V
+	METHOD onGuiClosed onGuiClosed ()V
+	METHOD setWorldAndResolution setWorldAndResolution (Lnet/minecraft/client/Minecraft;II)V
+	METHOD updateScreen updateScreen ()V

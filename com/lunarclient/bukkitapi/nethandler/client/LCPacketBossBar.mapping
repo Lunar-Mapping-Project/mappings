@@ -1,0 +1,15 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketBossBar com/lunarclient/bukkitapi/nethandler/client/LCPacketBossBar
+	FIELD action action I
+	FIELD health health F
+	FIELD text text Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (ILjava/lang/String;F)V
+		ARG 1 action
+		ARG 2 text
+		ARG 3 health
+	METHOD getAction getAction ()I
+	METHOD getHealth getHealth ()F
+	METHOD getText getText ()Ljava/lang/String;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

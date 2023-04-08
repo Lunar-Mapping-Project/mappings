@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/client/chat/ChatComponentUtils
+	METHOD <init> <init> ()V
+	METHOD CRCCHRCHCRCIHROCRHOHIROCR deserialize (Ljava/lang/String;)Lnet/kyori/adventure/text/Component;
+		ARG 0 string
+	METHOD OCIROORRIRIOHIIIRRIORCIHI toTextComponent (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)Ljava/util/Optional;
+		ARG 0 component
+	METHOD OCIROORRIRIOHIIIRRIORCIHI toComponent (Lnet/kyori/adventure/text/Component;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 0 component
+	METHOD OIOORRORCRHOOCICORRCHOHRC serialize (Lnet/kyori/adventure/text/Component;)Ljava/lang/String;
+		ARG 0 component
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI toComponent (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lnet/kyori/adventure/text/Component;
+		ARG 0 component
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI drawString (Lnet/kyori/adventure/text/Component;FFIZ)F
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lnet/kyori/adventure/text/Component;[Ljava/lang/String;)Z
+		ARG 0 component
+		ARG 1 literals
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getText (Lnet/kyori/adventure/text/TextComponent;)Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getStringWidth (Lnet/kyori/adventure/text/TextComponent;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)F
+		ARG 0 component
+		ARG 1 font
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI isSet (Lnet/kyori/adventure/text/format/TextDecoration$State;)Ljava/lang/Boolean;
+		ARG 0 state

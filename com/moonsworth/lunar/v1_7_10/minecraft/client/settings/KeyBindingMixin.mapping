@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/minecraft/client/settings/KeyBindingMixin
+	FIELD clashesWith clashesWith Ljava/util/List;
+	FIELD keyCategory keyCategory Ljava/lang/String;
+	FIELD keyCode keyCode I
+	FIELD keyDescription keyDescription Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD bridge$getCategory bridge$getCategory ()Ljava/lang/String;
+	METHOD bridge$getClashesWith bridge$getClashesWith ()Ljava/util/List;
+	METHOD bridge$getKey bridge$getKey ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getKeyDescription bridge$getKeyDescription ()Ljava/lang/String;
+	METHOD bridge$getKeyName bridge$getKeyName ()Ljava/lang/String;
+	METHOD bridge$isKeyDown bridge$isKeyDown ()Z
+	METHOD bridge$setKey bridge$setKey (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$setKeyBindState bridge$setKeyBindState (Z)V
+	METHOD getIsKeyPressed getIsKeyPressed ()Z
+	METHOD impl$onSetKeyCode impl$onSetKeyCode (ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

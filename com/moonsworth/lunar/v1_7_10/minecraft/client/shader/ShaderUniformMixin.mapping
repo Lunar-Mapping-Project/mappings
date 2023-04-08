@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RIORHCCRCIOORHIHIHIHHRIOH/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_7_10/minecraft/client/shader/ShaderUniformMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$set bridge$set (F)V
+	METHOD bridge$set bridge$set (FF)V
+	METHOD bridge$set bridge$set (FFF)V
+	METHOD set set (F)V
+	METHOD set set (FF)V
+	METHOD set set (FFF)V

@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/effect/MobEffectInstanceMixin
+	FIELD duration duration I
+	FIELD effect effect Lnet/minecraft/world/effect/MobEffect;
+	FIELD showIcon showIcon Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getAmplifier bridge$getAmplifier ()I
+	METHOD bridge$getDuration bridge$getDuration ()F
+	METHOD bridge$getEffectName bridge$getEffectName ()Ljava/lang/String;
+	METHOD bridge$getIsPotionDurationMax bridge$getIsPotionDurationMax ()Z
+	METHOD bridge$getPotionID bridge$getPotionID ()I
+	METHOD bridge$renderEffectIcon bridge$renderEffectIcon (FF)V
+	METHOD getAmplifier getAmplifier ()I
+	METHOD getDescriptionId getDescriptionId ()Ljava/lang/String;
+	METHOD getDuration getDuration ()I
+	METHOD getEffect getEffect ()Lnet/minecraft/world/effect/MobEffect;
+	METHOD showIcon showIcon ()Z

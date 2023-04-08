@@ -1,0 +1,23 @@
+CLASS com/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannel com/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannel
+	FIELD listening listening Ljava/util/Map;
+	FIELD name name Ljava/lang/String;
+	FIELD players players Ljava/util/Map;
+	FIELD uuid uuid Ljava/util/UUID;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/UUID;Ljava/lang/String;Ljava/util/Map;Ljava/util/Map;)V
+		ARG 1 uuid
+		ARG 2 name
+		ARG 3 players
+		ARG 4 listening
+	METHOD getListening getListening ()Ljava/util/Map;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getPlayers getPlayers ()Ljava/util/Map;
+	METHOD getUuid getUuid ()Ljava/util/UUID;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD readMap readMap (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)Ljava/util/Map;
+		ARG 1 buf
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD writeMap writeMap (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;Ljava/util/Map;)V
+		ARG 1 buf
+		ARG 2 players

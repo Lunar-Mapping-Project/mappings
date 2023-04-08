@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/external/model/SkullModelImpl
+	FIELD aho model Lnet/minecraft/client/model/SkullModel;
+	FIELD profile profile Lcom/mojang/authlib/GameProfile;
+	METHOD <init> <init> (Lnet/minecraft/client/model/SkullModel;)V
+		ARG 1 model
+	METHOD <init> <init> (Lnet/minecraft/client/model/geom/ModelPart;Lnet/minecraft/client/model/SkullModel;)V
+		ARG 1 part
+		ARG 2 model
+	METHOD renderToBuffer renderToBuffer (Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V
+	METHOD setGameProfile setGameProfile (Lcom/mojang/authlib/GameProfile;)V
+		ARG 0 profile
+	METHOD setupAnim setupAnim (FFF)V

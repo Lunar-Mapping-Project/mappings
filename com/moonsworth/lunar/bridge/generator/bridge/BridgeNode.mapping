@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/generator/bridge/BridgeNode
+	FIELD HHIORRIHICRHCICCHIOIRCOIO fieldNode Lorg/objectweb/asm/tree/FieldNode;
+	FIELD IOHCCCIOOIRHOIOOOHROIRIOC ownerType Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	FIELD RHIRIOHHHRHIIORHOROCICROR methodSignature Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;
+	FIELD ROHHRICHHCOIORHRHCRRHOHHI ownerClass Lorg/objectweb/asm/tree/ClassNode;
+	FIELD RRORCHOOICRCRCCCOCRORHRHR isInterface Z
+	FIELD methodNode methodNode Lorg/objectweb/asm/tree/MethodNode;
+	METHOD <init> <init> (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lorg/objectweb/asm/tree/FieldNode;Lorg/objectweb/asm/tree/MethodNode;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;Z)V
+		ARG 1 ownerClass
+		ARG 2 ownerType
+		ARG 3 fieldNode
+		ARG 4 methodNode
+		ARG 5 methodSignature
+		ARG 6 isInterface
+	METHOD COIICOHHHCORORIOCOOIORCCO fieldNode ()Lorg/objectweb/asm/tree/FieldNode;
+	METHOD HCRRCIRHIRCCRHCIIIHRICICI getReturnType ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD IHRIORIRICOCCRCHHIIHOOCRC ownerClass ()Lorg/objectweb/asm/tree/ClassNode;
+	METHOD RICOIROHHRCRIHHHHOOIHIHOH ownerType ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD RIROIOIOIOIORHRICCIHHHIIC methodSignature ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD RORHCIIHOIORCOOORHROIHCRO methodNode ()Lorg/objectweb/asm/tree/MethodNode;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD isInterface isInterface ()Z
+	METHOD toString toString ()Ljava/lang/String;

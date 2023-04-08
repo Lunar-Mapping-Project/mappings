@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/management/DictionaryManager
+	FIELD RIOCRCHHIRHCOIOICOIRRHIHO items Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD CHOHORIOOOIRCCCHOORORHIOI populateItems ()Ljava/util/Map;
+	METHOD HIOHHHCIOIOHHIOIICHCORROR getCachedItems ()Ljava/util/Map;
+	METHOD close close ()V
+	METHOD init init ()V

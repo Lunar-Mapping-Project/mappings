@@ -1,0 +1,7 @@
+CLASS com/lunarclient/bukkitapi/nethandler/shared/LCNetHandler com/lunarclient/bukkitapi/nethandler/shared/LCNetHandler
+	METHOD handleAddWaypoint handleAddWaypoint (Lcom/lunarclient/bukkitapi/nethandler/shared/LCPacketWaypointAdd;)V
+		ARG 1 packet
+	METHOD handleEmote handleEmote (Lcom/lunarclient/bukkitapi/nethandler/shared/LCPacketEmoteBroadcast;)V
+		ARG 1 packet
+	METHOD handleRemoveWaypoint handleRemoveWaypoint (Lcom/lunarclient/bukkitapi/nethandler/shared/LCPacketWaypointRemove;)V
+		ARG 1 packet

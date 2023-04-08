@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/nbt/NBTTagCompoundBridge
+	METHOD bridge$getBoolean bridge$getBoolean (Ljava/lang/String;)Z
+	METHOD bridge$getByte bridge$getByte (Ljava/lang/String;)B
+	METHOD bridge$getCompoundTag bridge$getCompoundTag (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getDouble bridge$getDouble (Ljava/lang/String;)D
+	METHOD bridge$getFloat bridge$getFloat (Ljava/lang/String;)F
+	METHOD bridge$getInteger bridge$getInteger (Ljava/lang/String;)I
+	METHOD bridge$getLong bridge$getLong (Ljava/lang/String;)J
+	METHOD bridge$getShort bridge$getShort (Ljava/lang/String;)S
+	METHOD bridge$getString bridge$getString (Ljava/lang/String;)Ljava/lang/String;

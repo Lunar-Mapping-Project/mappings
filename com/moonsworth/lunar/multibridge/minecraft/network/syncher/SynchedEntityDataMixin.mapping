@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/network/syncher/SynchedEntityDataMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$updateObject bridge$updateObject (ILjava/lang/Object;)V
+	METHOD set set (Lnet/minecraft/network/syncher/EntityDataAccessor;Ljava/lang/Object;)V

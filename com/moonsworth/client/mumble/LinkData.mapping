@@ -1,0 +1,42 @@
+CLASS com/moonsworth/client/mumble/LinkData com/moonsworth/client/mumble/LinkData
+	FIELD avatarFront avatarFront Lcom/moonsworth/client/mumble/MumbleVec;
+	FIELD avatarPosition avatarPosition Lcom/moonsworth/client/mumble/MumbleVec;
+	FIELD avatarTop avatarTop Lcom/moonsworth/client/mumble/MumbleVec;
+	FIELD cameraFront cameraFront Lcom/moonsworth/client/mumble/MumbleVec;
+	FIELD cameraPosition cameraPosition Lcom/moonsworth/client/mumble/MumbleVec;
+	FIELD cameraTop cameraTop Lcom/moonsworth/client/mumble/MumbleVec;
+	FIELD context context Ljava/lang/String;
+	FIELD playerName playerName Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Lcom/moonsworth/client/mumble/MumbleVec;Lcom/moonsworth/client/mumble/MumbleVec;Lcom/moonsworth/client/mumble/MumbleVec;Lcom/moonsworth/client/mumble/MumbleVec;Lcom/moonsworth/client/mumble/MumbleVec;Lcom/moonsworth/client/mumble/MumbleVec;)V
+		ARG 1 playerName
+		ARG 2 context
+		ARG 3 avatarFront
+		ARG 4 avatarTop
+		ARG 5 avatarPosition
+		ARG 6 cameraPosition
+		ARG 7 cameraFront
+		ARG 8 cameraTop
+	METHOD getAvatarFront getAvatarFront ()Lcom/moonsworth/client/mumble/MumbleVec;
+	METHOD getAvatarPosition getAvatarPosition ()Lcom/moonsworth/client/mumble/MumbleVec;
+	METHOD getAvatarTop getAvatarTop ()Lcom/moonsworth/client/mumble/MumbleVec;
+	METHOD getCameraFront getCameraFront ()Lcom/moonsworth/client/mumble/MumbleVec;
+	METHOD getCameraPosition getCameraPosition ()Lcom/moonsworth/client/mumble/MumbleVec;
+	METHOD getCameraTop getCameraTop ()Lcom/moonsworth/client/mumble/MumbleVec;
+	METHOD getContext getContext ()Ljava/lang/String;
+	METHOD getPlayerName getPlayerName ()Ljava/lang/String;
+	METHOD setAvatarFront setAvatarFront (Lcom/moonsworth/client/mumble/MumbleVec;)V
+		ARG 1 avatarFront
+	METHOD setAvatarPosition setAvatarPosition (Lcom/moonsworth/client/mumble/MumbleVec;)V
+		ARG 1 avatarPosition
+	METHOD setAvatarTop setAvatarTop (Lcom/moonsworth/client/mumble/MumbleVec;)V
+		ARG 1 avatarTop
+	METHOD setCameraFront setCameraFront (Lcom/moonsworth/client/mumble/MumbleVec;)V
+		ARG 1 cameraFront
+	METHOD setCameraPosition setCameraPosition (Lcom/moonsworth/client/mumble/MumbleVec;)V
+		ARG 1 cameraPosition
+	METHOD setCameraTop setCameraTop (Lcom/moonsworth/client/mumble/MumbleVec;)V
+		ARG 1 cameraTop
+	METHOD setContext setContext (Ljava/lang/String;)V
+		ARG 1 context
+	METHOD setPlayerName setPlayerName (Ljava/lang/String;)V
+		ARG 1 playerName

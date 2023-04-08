@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/entity/projectile/EntityArrowMixin
+	METHOD <init> <init> (Lnet/minecraft/world/World;)V
+	METHOD lunar$projectileDestinationEvent lunar$projectileDestinationEvent (Lnet/minecraft/block/Block;Lnet/minecraft/world/World;IIILnet/minecraft/entity/Entity;)V
+	METHOD lunar$projectileDestinationEvent lunar$projectileDestinationEvent (Lnet/minecraft/entity/Entity;Lnet/minecraft/util/DamageSource;F)Z

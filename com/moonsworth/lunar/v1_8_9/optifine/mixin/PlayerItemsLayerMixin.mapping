@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/v1_8_9/optifine/mixin/PlayerItemsLayerMixin
+	METHOD <init> <init> ()V
+	METHOD register register (Ljava/util/Map;)V
+	METHOD renderEquippedItems renderEquippedItems (Lnet/minecraft/entity/EntityLivingBase;FF)V

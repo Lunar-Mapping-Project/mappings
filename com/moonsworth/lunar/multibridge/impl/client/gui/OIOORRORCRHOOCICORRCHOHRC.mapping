@@ -1,0 +1,32 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/impl/client/gui/OIOORRORCRHOOCICORRCHOHRC
+	FIELD totalFolderCount totalFolderCount I
+	FIELD totalPackCount totalPackCount I
+	METHOD OCIROORRIRIOHIIIRRIORCIHI getTotalPackCount (Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getTotalFolderCount (Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)I
+	METHOD mouseClicked mouseClicked (DDI)Z
+		ARG 1 mouseX
+		ARG 3 mouseY
+		ARG 5 button
+	METHOD render render (Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIIIZF)V
+	METHOD showHoverOverlay showHoverOverlay ()Z
+	METHOD updateDescription updateDescription ()V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		METHOD bindIcon$v1_16_1 bindIcon$v1_16_1 (Lnet/minecraft/client/renderer/texture/TextureManager;)V
+		METHOD canMoveDown canMoveDown ()Z
+		METHOD canMoveUp canMoveUp ()Z
+		METHOD canSelect canSelect ()Z
+		METHOD canUnselect canUnselect ()Z
+		METHOD getCompatibility getCompatibility ()Lnet/minecraft/server/packs/repository/PackCompatibility;
+		METHOD getDescription getDescription ()Lnet/minecraft/network/chat/Component;
+		METHOD getExtendedDescription$v1_16_1 getExtendedDescription$v1_16_1 ()Lnet/minecraft/network/chat/FormattedText;
+		METHOD getExtendedDescription$v1_16_5 getExtendedDescription$v1_16_5 ()Lnet/minecraft/network/chat/Component;
+		METHOD getIconTexture$v1_16_5 getIconTexture$v1_16_5 ()Lnet/minecraft/resources/ResourceLocation;
+		METHOD getPackSource getPackSource ()Lnet/minecraft/server/packs/repository/PackSource;
+		METHOD getTitle getTitle ()Lnet/minecraft/network/chat/Component;
+		METHOD isFixedPosition isFixedPosition ()Z
+		METHOD isRequired isRequired ()Z
+		METHOD isSelected isSelected ()Z
+		METHOD moveDown moveDown ()V
+		METHOD moveUp moveUp ()V
+		METHOD select select ()V
+		METHOD unselect unselect ()V

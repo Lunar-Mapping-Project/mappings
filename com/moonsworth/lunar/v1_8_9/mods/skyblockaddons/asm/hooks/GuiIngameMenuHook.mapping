@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/GuiIngameMenuHook
+	METHOD <init> <init> ()V
+	METHOD addMenuButtons addMenuButtons (Ljava/util/List;II)V
+	METHOD onButtonClick onButtonClick ()V

@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/world/item/ItemStackMixin
+	METHOD <init> <init> ()V
+	METHOD lambda$lunar$itemTooltipEvent$0 lambda$lunar$itemTooltipEvent$0 (Lnet/minecraft/network/chat/Component;)Lnet/kyori/adventure/text/Component;
+		ARG 0 component
+	METHOD lambda$lunar$itemTooltipEvent$1 lambda$lunar$itemTooltipEvent$1 (Lnet/kyori/adventure/text/Component;)Lnet/minecraft/network/chat/Component;
+		ARG 0 component
+	METHOD lunar$itemTooltipEvent lunar$itemTooltipEvent (Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/item/TooltipFlag;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+		ARG 1 player
+		ARG 2 flag
+		ARG 3 cir
+	METHOD lunar$useItemEvent lunar$useItemEvent (Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+		ARG 1 level
+		ARG 2 player
+		ARG 3 hand
+		ARG 4 cir

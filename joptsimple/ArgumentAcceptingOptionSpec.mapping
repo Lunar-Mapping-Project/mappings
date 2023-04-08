@@ -1,0 +1,53 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC joptsimple/ArgumentAcceptingOptionSpec
+	FIELD abr NIL_VALUE_SEPARATOR C
+	FIELD abs argumentRequired Z
+	FIELD abt defaultValues Ljava/util/List;
+	FIELD abu converter Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;
+	FIELD argumentDescription argumentDescription Ljava/lang/String;
+	FIELD optionRequired optionRequired Z
+	FIELD valueSeparator valueSeparator Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Z)V
+		ARG 1 option
+		ARG 2 argumentRequired
+	METHOD <init> <init> (Ljava/util/List;ZLjava/lang/String;)V
+		ARG 1 options
+		ARG 2 argumentRequired
+		ARG 3 description
+	METHOD CICRRIRHIHIRCCCCOHCHCHOCO ofType (Ljava/lang/Class;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 1 argumentType
+	METHOD CRIRHIHHIHHHHHCOHRHHHOHCH describedAs (Ljava/lang/String;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 1 description
+	METHOD ICHIRCHIIHIRICHRHOHIOCIHC required ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD OCHICHICOCRORHRICHHOCCROO withValuesSeparatedBy (Ljava/lang/String;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 1 separator
+	METHOD OCIROORRIRIOHIIIRRIORCIHI withValuesConvertedBy (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 1 aConverter
+	METHOD OHICCROHCCHCRCROHHIHCRCIO defaultsTo (Ljava/lang/Object;[Ljava/lang/Object;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 1 value
+		ARG 2 values
+	METHOD OOCCOHCOOIRCIOOROORRHIHRR withValuesSeparatedBy (C)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 1 separator
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI detectOptionArgument (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)V
+		ARG 1 parser
+		ARG 2 arguments
+		ARG 3 detectedOptions
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handleOption (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;Ljava/lang/String;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI addArguments (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;Ljava/lang/String;)V
+		ARG 1 detectedOptions
+		ARG 2 detectedArgument
+	METHOD ROIOOCOOIHCRHCIORROHIIRII defaultsTo ([Ljava/lang/Object;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 1 values
+	METHOD acceptsArguments acceptsArguments ()Z
+	METHOD addDefaultValue addDefaultValue (Ljava/lang/Object;)V
+		ARG 1 value
+	METHOD argumentDescription argumentDescription ()Ljava/lang/String;
+	METHOD argumentTypeIndicator argumentTypeIndicator ()Ljava/lang/String;
+	METHOD canConvertArgument canConvertArgument (Ljava/lang/String;)Z
+		ARG 1 argument
+	METHOD convert convert (Ljava/lang/String;)Ljava/lang/Object;
+	METHOD defaultValues defaultValues ()Ljava/util/List;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD isArgumentOfNumberType isArgumentOfNumberType ()Z
+	METHOD isRequired isRequired ()Z
+	METHOD requiresArgument requiresArgument ()Z

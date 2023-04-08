@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/client/gui/FontRendererBridge
+	METHOD IOICCORHHICCROCCRIHOIIRHC getHeight ()I
+	METHOD OCIROORRIRIOHIIIRRIORCIHI bridge$drawStringPos (Ljava/lang/String;FFI)F
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI bridge$getStringXPos (Ljava/lang/String;F)F
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI bridge$drawStringPosWithShadow (Ljava/lang/String;FFI)F
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI bridge$drawStringPos (Ljava/lang/String;FFIZ)F
+	METHOD bridge$drawString bridge$drawString (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;FFIZ)F
+	METHOD bridge$drawString bridge$drawString (Ljava/lang/String;FFIZ)F
+	METHOD bridge$drawStringElements bridge$drawStringElements (Ljava/lang/String;FFFZ)V
+	METHOD bridge$getStringWidth bridge$getStringWidth (Ljava/lang/String;)F
+	METHOD bridge$getStringWidth bridge$getStringWidth (Lnet/kyori/adventure/text/Component;)F
+	METHOD clearCaches clearCaches ()V
+	METHOD tick tick ()V

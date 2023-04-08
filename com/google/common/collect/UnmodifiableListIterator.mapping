@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIHORHHROHOIHIHOHCRHOOCRO com/google/common/collect/UnmodifiableListIterator
+	METHOD <init> <init> ()V
+	METHOD add add (Ljava/lang/Object;)V
+	METHOD set set (Ljava/lang/Object;)V

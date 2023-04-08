@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/client/shader/ShaderGroupMixin
+	FIELD listShaders listShaders Ljava/util/List;
+	METHOD <init> <init> ()V
+	METHOD bridge$close bridge$close ()V
+	METHOD bridge$getShaderGroupName bridge$getShaderGroupName ()Ljava/lang/String;
+	METHOD bridge$listShaders bridge$listShaders ()Ljava/util/List;
+	METHOD bridge$process bridge$process (F)V
+	METHOD deleteShaderGroup deleteShaderGroup ()V
+	METHOD getShaderGroupName getShaderGroupName ()Ljava/lang/String;
+	METHOD loadShaderGroup loadShaderGroup (F)V

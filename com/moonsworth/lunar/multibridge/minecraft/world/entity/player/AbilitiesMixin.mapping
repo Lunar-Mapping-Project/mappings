@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/world/entity/player/AbilitiesMixin
+	FIELD flyingSpeed flyingSpeed F
+	FIELD flying flying Z
+	FIELD instabuild instabuild Z
+	FIELD mayfly mayfly Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getFlySpeed bridge$getFlySpeed ()F
+	METHOD bridge$getWalkSpeed bridge$getWalkSpeed ()F
+	METHOD bridge$isAllowFlying bridge$isAllowFlying ()Z
+	METHOD bridge$isCreativeMode bridge$isCreativeMode ()Z
+	METHOD bridge$isFlying bridge$isFlying ()Z
+	METHOD bridge$setFlySpeed bridge$setFlySpeed (F)V
+	METHOD bridge$setFlying bridge$setFlying (Z)V
+	METHOD getWalkingSpeed getWalkingSpeed ()F

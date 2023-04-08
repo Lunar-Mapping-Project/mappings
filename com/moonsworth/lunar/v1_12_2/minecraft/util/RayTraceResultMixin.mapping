@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRROCIIHHROCROOHICOCHRIR/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_12_2/minecraft/util/RayTraceResultMixin
+	FIELD blockPos blockPos Lnet/minecraft/util/math/BlockPos;
+	FIELD border border Z
+	FIELD entityHit entityHit Lnet/minecraft/entity/Entity;
+	FIELD hitVec hitVec Lnet/minecraft/util/math/Vec3d;
+	FIELD typeOfHit typeOfHit Lnet/minecraft/util/math/RayTraceResult$Type;
+	METHOD <init> <init> ()V
+	METHOD bridge$border bridge$border ()V
+	METHOD bridge$getBlockPosition bridge$getBlockPosition ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;
+	METHOD bridge$getEntityHit bridge$getEntityHit ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$isBorder bridge$isBorder ()Z
+	METHOD bridge$isTypeOfHit bridge$isTypeOfHit (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OIOOCIIHICICRRHCROHOOHOCI;)Z

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/container/SlotBridge
+	METHOD bridge$getIndex bridge$getIndex ()I
+	METHOD bridge$getInventory bridge$getInventory ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$getItem bridge$getItem ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getXDisplayPosition bridge$getXDisplayPosition ()I
+	METHOD bridge$getYDisplayPosition bridge$getYDisplayPosition ()I

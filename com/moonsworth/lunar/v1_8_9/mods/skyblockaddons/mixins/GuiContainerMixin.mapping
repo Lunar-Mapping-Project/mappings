@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/GuiContainerMixin
+	FIELD theSlot theSlot Lnet/minecraft/inventory/Slot;
+	METHOD <init> <init> ()V
+	METHOD drawSlot drawSlot (Lnet/minecraft/inventory/Slot;)V
+	METHOD impl$checkHotbarKeys impl$checkHotbarKeys (CILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$drawBackpacks impl$drawBackpacks (IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$drawGradientRect impl$drawGradientRect (Lnet/minecraft/client/gui/inventory/GuiContainer;IIIIII)V
+	METHOD impl$drawSlot impl$drawSlot (Lnet/minecraft/client/gui/inventory/GuiContainer;Lnet/minecraft/inventory/Slot;)V
+	METHOD impl$handleMouseClick impl$handleMouseClick (Lnet/minecraft/inventory/Slot;IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$keyTyped impl$keyTyped (CILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$setLastSlot impl$setLastSlot (IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

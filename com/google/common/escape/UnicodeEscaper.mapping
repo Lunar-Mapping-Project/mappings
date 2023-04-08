@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR com/google/common/escape/UnicodeEscaper
+	FIELD Bo DEST_PAD I
+	METHOD <init> <init> ()V
+	METHOD HOHOHRIHCIICROCRCRIIOCCHC escapeSlow (Ljava/lang/String;I)Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI codePointAt (Ljava/lang/CharSequence;II)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI growBuffer ([CII)[C
+	METHOD escape escape (I)[C
+	METHOD escape escape (Ljava/lang/String;)Ljava/lang/String;
+	METHOD nextEscapeIndex nextEscapeIndex (Ljava/lang/CharSequence;II)I

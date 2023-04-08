@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/MultiBridgeModern
+	FIELD agX modernBridge Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD <init> <init> ()V
+	METHOD CHHOOOHCCHHORIIORRHCOIRIR getModernBridge ()Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD COHHOIRHIHHRHHHHHORRCHORI initCosmeticsBridge ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIORHCCRCIOORHIHIHIHHRIOH/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD IICOHCHCCIRORIRIOOCIRCHHH getEntityRendererContext ()Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;
+	METHOD IIROHIIHCHOORORIIHORHRORO initComponentLiteral (Ljava/lang/String;)Lnet/minecraft/network/chat/Component;
+	METHOD ORORHHIROHORCHOICICCORHIO initPacketListener ()Lnet/minecraft/client/multiplayer/ClientPacketListener;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI initComponentTranslatable (Ljava/lang/String;[Ljava/lang/Object;)Lnet/minecraft/network/chat/Component;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI initServerListEntry (Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;Lnet/minecraft/client/multiplayer/ServerData;)Ljava/util/Optional;
+		ARG 1 screen
+		ARG 2 serverList
+		ARG 3 server
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI iniClientLevel (Lnet/minecraft/client/multiplayer/ClientPacketListener;)Lnet/minecraft/client/multiplayer/ClientLevel;
+		ARG 1 listener
+	METHOD getMinecraftVersion getMinecraftVersion ()Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;

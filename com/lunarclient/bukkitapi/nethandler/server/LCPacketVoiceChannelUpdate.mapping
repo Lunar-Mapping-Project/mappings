@@ -1,0 +1,18 @@
+CLASS com/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannelUpdate com/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannelUpdate
+	FIELD channelUuid channelUuid Ljava/util/UUID;
+	FIELD name name Ljava/lang/String;
+	FIELD status status I
+	FIELD uuid uuid Ljava/util/UUID;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (ILjava/util/UUID;Ljava/util/UUID;Ljava/lang/String;)V
+		ARG 1 status
+		ARG 2 channelUuid
+		ARG 3 uuid
+		ARG 4 name
+	METHOD getChannelUuid getChannelUuid ()Ljava/util/UUID;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getStatus getStatus ()I
+	METHOD getUuid getUuid ()Ljava/util/UUID;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

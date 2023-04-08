@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/ROOIRIIIRHHIIRRCOCHIOCIHO com/moonsworth/lunar/bridge/client/renderer/texture/TextureUtilBridge
+	METHOD bridge$deleteTexture bridge$deleteTexture (I)V
+	METHOD bridge$glGenTextures bridge$glGenTextures ()I
+	METHOD bridge$uploadTextureImage bridge$uploadTextureImage (ILjava/awt/image/BufferedImage;)V

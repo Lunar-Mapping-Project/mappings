@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CORRCCIICOIIHIORCIIROOROI com/google/common/collect/SortedIterables
+	METHOD <init> <init> ()V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR hasSameComparator (Ljava/util/Comparator;Ljava/lang/Iterable;)Z
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR comparator (Ljava/util/SortedSet;)Ljava/util/Comparator;

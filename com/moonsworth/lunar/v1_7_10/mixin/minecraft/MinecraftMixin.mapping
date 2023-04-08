@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/MinecraftMixin
+	FIELD gameSettings gameSettings Lnet/minecraft/client/settings/GameSettings;
+	FIELD objectMouseOver objectMouseOver Lnet/minecraft/util/MovingObjectPosition;
+	METHOD <init> <init> ()V
+	METHOD getLimitFramerate getLimitFramerate ()I
+	METHOD impl$launchIntegratedServer impl$launchIntegratedServer (Ljava/lang/String;Ljava/lang/String;Lnet/minecraft/world/WorldSettings;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD onSwing onSwing (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD unPressKeysWhenOpeningGui unPressKeysWhenOpeningGui (Lnet/minecraft/client/gui/GuiScreen;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

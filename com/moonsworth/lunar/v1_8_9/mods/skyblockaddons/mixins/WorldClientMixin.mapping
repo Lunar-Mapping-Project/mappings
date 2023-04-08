@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/IOICCHIHCCHCOCROIRRHIHORO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/WorldClientMixin
+	METHOD <init> <init> (Lnet/minecraft/world/storage/ISaveHandler;Lnet/minecraft/world/storage/WorldInfo;Lnet/minecraft/world/WorldProvider;Lnet/minecraft/profiler/Profiler;Z)V
+	METHOD impl$onEntityRemoved impl$onEntityRemoved (Lnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD sba$invalidateRegionAndSetBlock sba$invalidateRegionAndSetBlock (Lnet/minecraft/util/BlockPos;Lnet/minecraft/block/state/IBlockState;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

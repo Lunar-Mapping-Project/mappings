@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OORCOCHHRRCCOHIOHIHRCICRI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/client/v1_18_2/mixin/LevelRendererMixin
+	FIELD level level Lnet/minecraft/client/multiplayer/ClientLevel;
+	METHOD <init> <init> ()V
+	METHOD drawFillBoundingBox drawFillBoundingBox (Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/phys/AABB;DDDI)V
+	METHOD lambda$lunar$post3dEvent$0 lambda$lunar$post3dEvent$0 (Lnet/minecraft/client/Camera;FLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;)V
+	METHOD lunar$changeRainColor lunar$changeRainColor (Lcom/mojang/blaze3d/vertex/VertexConsumer;FFFF)Lcom/mojang/blaze3d/vertex/VertexConsumer;
+	METHOD lunar$forceRainInAllBiomes lunar$forceRainInAllBiomes (Z)Z
+	METHOD lunar$modifyPrecipitation lunar$modifyPrecipitation (Lnet/minecraft/world/level/biome/Biome$Precipitation;)Lnet/minecraft/world/level/biome/Biome$Precipitation;
+	METHOD lunar$modifyRainStrength lunar$modifyRainStrength (F)F
+	METHOD lunar$optifineWeatherControl lunar$optifineWeatherControl (Lnet/minecraft/client/renderer/LightTexture;FDDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$post3dEvent lunar$post3dEvent (Lcom/mojang/blaze3d/vertex/PoseStack;FJZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lcom/mojang/math/Matrix4f;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$preventRainParticles lunar$preventRainParticles (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$renderHitOutline lunar$renderHitOutline (Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/entity/Entity;DDDLnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$saveViewMatrix lunar$saveViewMatrix (Lcom/mojang/blaze3d/vertex/PoseStack;FJZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lcom/mojang/math/Matrix4f;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD mapPrecipitation mapPrecipitation (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/HRORHICOOORCIICRCCOHRCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI$RHOIOCRHOCHOOHHCOHIOIIRHI;)Lnet/minecraft/world/level/biome/Biome$Precipitation;
+	CLASS 1
+		METHOD <clinit> <clinit> ()V

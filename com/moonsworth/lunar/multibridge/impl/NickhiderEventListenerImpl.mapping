@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/impl/NickhiderEventListenerImpl
+	FIELD ahz ahz Lcom/google/common/cache/LoadingCache;
+	METHOD <init> <init> ()V
+	CLASS 1
+		METHOD <init> <init> (Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;)V
+		METHOD load load (Ljava/lang/Object;)Ljava/lang/Object;

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/util/ROOIRIIIRHHIIRRCOCHIOCIHO com/moonsworth/lunar/ichor/util/TriFunction
+	METHOD apply apply (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+		ARG 1 a
+		ARG 2 b
+		ARG 3 c

@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RCRIIRROHHOCHHHCHOCIICRHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/client/mchorse/mclib/math/Variable
+	FIELD name name Ljava/lang/String;
+	FIELD value value D
+	METHOD <init> <init> (Ljava/lang/String;D)V
+	METHOD HCHOHCOICRCHOOCCIRRHOCCCH doubleValue ()D
+	METHOD IOICCHIHCCHCOCROIRRHIHORO set (D)V
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD toString toString ()Ljava/lang/String;

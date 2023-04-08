@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/HICCCOROHIIHIHRCOIHHCRHCR com/moonsworth/lunar/v1_12_2/minecraft/client/gui/GuiScreenResourcePacksMixin
+	FIELD availableResourcePacksList availableResourcePacksList Lnet/minecraft/client/gui/GuiResourcePackAvailable;
+	FIELD availableResourcePacks availableResourcePacks Ljava/util/List;
+	FIELD baseAvailableResourcePacks baseAvailableResourcePacks Ljava/util/List;
+	FIELD changed changed Z
+	FIELD components components Ljava/util/List;
+	FIELD resourcePackFolderEntries resourcePackFolderEntries Ljava/util/Map;
+	FIELD searchField searchField Lnet/minecraft/client/gui/GuiTextField;
+	FIELD selectedResourcePacksList selectedResourcePacksList Lnet/minecraft/client/gui/GuiResourcePackSelected;
+	FIELD selectedResourcePacks selectedResourcePacks Ljava/util/List;
+	FIELD showIncompatible showIncompatible Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/HOHOHRIHCIICROCRCRIIOCCHC;
+	METHOD <init> <init> ()V
+	METHOD bridge$handlePackSwapList bridge$handlePackSwapList ()V
+	METHOD discoverResourcePacks discoverResourcePacks ()V
+	METHOD impl$drawBackground impl$drawBackground (Lnet/minecraft/client/gui/GuiScreenResourcePacks;I)V
+	METHOD impl$drawScreen impl$drawScreen (IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$mouseClicked impl$mouseClicked (IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onSwapPack impl$onSwapPack (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD initGui initGui ()V
+	METHOD keyTyped keyTyped (CI)V
+	METHOD updateScreen updateScreen ()V

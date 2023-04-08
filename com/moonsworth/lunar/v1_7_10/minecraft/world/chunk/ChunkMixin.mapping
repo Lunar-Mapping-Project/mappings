@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OIOOCIIHICICRRHCROHOOHOCI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/world/chunk/ChunkMixin
+	FIELD isGapLightingUpdated isGapLightingUpdated Z
+	FIELD isLightPopulated isLightPopulated Z
+	FIELD isTerrainPopulated isTerrainPopulated Z
+	FIELD worldObj worldObj Lnet/minecraft/world/World;
+	FIELD xPosition xPosition I
+	FIELD zPosition zPosition I
+	METHOD <init> <init> ()V
+	METHOD bridge$getBiome bridge$getBiome (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RIHOOROIIHIHROCCHIRICHOII;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getX bridge$getX ()I
+	METHOD bridge$getZ bridge$getZ ()I
+	METHOD generateSkylightMap generateSkylightMap ()V
+	METHOD getBiomeGenForWorldCoords getBiomeGenForWorldCoords (IILnet/minecraft/world/biome/WorldChunkManager;)Lnet/minecraft/world/biome/BiomeGenBase;
+	METHOD impl$checkLight impl$checkLight (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$checkSkylightNeighborHeight impl$checkSkylightNeighborHeight (IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$enqueueRelightChecks impl$enqueueRelightChecks (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$recheckGaps impl$recheckGaps (Lnet/minecraft/world/World;IIIIZ)Z
+	METHOD impl$relightBlock$getHasNoSky impl$relightBlock$getHasNoSky (Lnet/minecraft/world/WorldProvider;)Z
+	METHOD impl$setBlockState$lightCheck2 impl$setBlockState$lightCheck2 (Lnet/minecraft/world/chunk/Chunk;)V
+	METHOD impl$updateSkylightNeighborHeight impl$updateSkylightNeighborHeight (IIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

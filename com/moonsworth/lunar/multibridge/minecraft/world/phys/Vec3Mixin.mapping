@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/world/phys/Vec3Mixin
+	FIELD x x D
+	FIELD y y D
+	FIELD z z D
+	METHOD <init> <init> ()V
+	METHOD bridge$crossProduct bridge$crossProduct (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROOICOIICOIOORHCHIHCOICII;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROOICOIICOIOORHCHIHCOICII;
+	METHOD bridge$dotProduct bridge$dotProduct (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROOICOIICOIOORHCHIHCOICII;)D
+	METHOD bridge$lengthVector bridge$lengthVector ()D
+	METHOD bridge$normalize bridge$normalize ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROOICOIICOIOORHCHIHCOICII;
+	METHOD bridge$xCoord bridge$xCoord ()D
+	METHOD bridge$yCoord bridge$yCoord ()D
+	METHOD bridge$zCoord bridge$zCoord ()D
+	METHOD cross cross (Lnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;
+	METHOD dot dot (Lnet/minecraft/world/phys/Vec3;)D
+	METHOD length length ()D
+	METHOD normalize normalize ()Lnet/minecraft/world/phys/Vec3;

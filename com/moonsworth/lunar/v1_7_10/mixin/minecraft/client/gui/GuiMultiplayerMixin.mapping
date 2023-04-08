@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/gui/GuiMultiplayerMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$blocklist lunar$blocklist (Lnet/minecraft/client/multiplayer/ServerData;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

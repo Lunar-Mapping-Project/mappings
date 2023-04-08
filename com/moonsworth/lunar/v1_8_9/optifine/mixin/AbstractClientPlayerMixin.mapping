@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/optifine/mixin/AbstractClientPlayerMixin
+	FIELD locationOfCape locationOfCape Lnet/minecraft/util/ResourceLocation;
+	METHOD <init> <init> ()V
+	METHOD impl$setLocationOfCape impl$setLocationOfCape (Lnet/minecraft/util/ResourceLocation;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

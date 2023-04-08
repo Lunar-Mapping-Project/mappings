@@ -1,0 +1,29 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/client/util/MavenComparableVersion
+	FIELD value value Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD compareTo compareTo (Ljava/lang/Object;)I
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI Item
+		METHOD getType getType ()I
+		METHOD isNull isNull ()Z
+	CLASS OIOORRORCRHOOCICORRCHOHRC ListItem
+		METHOD <init> <init> ()V
+		METHOD getType getType ()I
+		METHOD isNull isNull ()Z
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR StringItem
+		FIELD value value Ljava/lang/String;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Ljava/lang/String;Z)V
+		METHOD getType getType ()I
+		METHOD isNull isNull ()Z
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI IntegerItem
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> ()V
+		METHOD <init> <init> (Ljava/lang/String;)V
+		METHOD getType getType ()I
+		METHOD isNull isNull ()Z
+		METHOD toString toString ()Ljava/lang/String;

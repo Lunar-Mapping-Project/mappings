@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRROCIIHHROCROOHICOCHRIR/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_12_2/minecraft/util/MovementInputMixin
+	FIELD backKeyDown backKeyDown Z
+	FIELD forwardKeyDown forwardKeyDown Z
+	FIELD jump jump Z
+	FIELD leftKeyDown leftKeyDown Z
+	FIELD moveForward moveForward F
+	FIELD moveStrafe moveStrafe F
+	FIELD rightKeyDown rightKeyDown Z
+	FIELD sneak sneak Z
+	METHOD <init> <init> ()V
+	METHOD bridge$down bridge$down ()Z
+	METHOD bridge$getForwardSpeed bridge$getForwardSpeed ()F
+	METHOD bridge$getStrafeSpeed bridge$getStrafeSpeed ()F
+	METHOD bridge$isJumping bridge$isJumping ()Z
+	METHOD bridge$isSneaking bridge$isSneaking ()Z
+	METHOD bridge$left bridge$left ()Z
+	METHOD bridge$right bridge$right ()Z
+	METHOD bridge$setDown bridge$setDown (Z)V
+	METHOD bridge$setJump bridge$setJump (Z)V
+	METHOD bridge$setLeft bridge$setLeft (Z)V
+	METHOD bridge$setMoveForward bridge$setMoveForward (F)V
+	METHOD bridge$setMoveStrafe bridge$setMoveStrafe (F)V
+	METHOD bridge$setRight bridge$setRight (Z)V
+	METHOD bridge$setSneak bridge$setSneak (Z)V
+	METHOD bridge$setUp bridge$setUp (Z)V
+	METHOD bridge$up bridge$up ()Z

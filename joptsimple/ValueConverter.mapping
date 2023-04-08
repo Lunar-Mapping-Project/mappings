@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH joptsimple/ValueConverter
+	METHOD convert convert (Ljava/lang/String;)Ljava/lang/Object;
+		ARG 1 value
+	METHOD valuePattern valuePattern ()Ljava/lang/String;
+	METHOD valueType valueType ()Ljava/lang/Class;

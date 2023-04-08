@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/multibridge/impl/OptionsAdapter
+	METHOD <init> <init> (Lnet/minecraft/client/Options$FieldAccess;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICCORHHICCROCCRIHOIIRHC/RHOIOCRHOCHOOHHCOHIOIIRHI;Z)V
+	METHOD process$v1_17_0 process$v1_17_0 (Ljava/lang/String;D)D
+	METHOD process$v1_17_0 process$v1_17_0 (Ljava/lang/String;Ljava/lang/Object;Ljava/util/function/IntFunction;Ljava/util/function/ToIntFunction;)Ljava/lang/Object;
+	METHOD process$v1_19_pre process$v1_19_pre (Ljava/lang/String;Lnet/minecraft/client/OptionInstance;)V
+	METHOD process process (Ljava/lang/String;F)F
+	METHOD process process (Ljava/lang/String;I)I
+	METHOD process process (Ljava/lang/String;Ljava/lang/Object;Ljava/util/function/Function;Ljava/util/function/Function;)Ljava/lang/Object;
+	METHOD process process (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD process process (Ljava/lang/String;Z)Z

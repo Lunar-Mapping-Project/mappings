@@ -1,0 +1,32 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/feature/server/holograms/Hologram
+	FIELD CIICOOOHCRCOROHCHHCCIHIOI uuid Ljava/util/UUID;
+	FIELD CRCOOICHROCCHCHOCCIORHOCC textShadow Z
+	FIELD HCHOCICHIOIHHCCRRROCIOIIH lines [Ljava/lang/String;
+	FIELD HOCRRRIIIIOOIOIOOHHOOIHCH y D
+	FIELD IOCIIHCRRICHHCRHOOHCORRIR x D
+	FIELD RHCHICHCCHCRHORCOHOHIIOOI z D
+	FIELD baseColor baseColor I
+	METHOD <init> <init> (Ljava/util/UUID;[Ljava/lang/String;DDD)V
+		ARG 1 uuid
+		ARG 2 lines
+		ARG 3 x
+		ARG 5 y
+		ARG 7 z
+	METHOD <init> <init> (Ljava/util/UUID;[Ljava/lang/String;DDDZZ)V
+		ARG 1 uuid
+		ARG 2 lines
+		ARG 3 x
+		ARG 5 y
+		ARG 7 z
+		ARG 10 textShadow
+	METHOD HCRRORRHHICRCOICOORIRHCOC getUUID ()Ljava/util/UUID;
+	METHOD IHRICCROOHOIIRHOIOCCCOOHO hasTextShadow ()Z
+	METHOD IIROHIIHCHOORORIIHORHRORO setLines ([Ljava/lang/String;)V
+		ARG 1 lines
+	METHOD OROCHIOCOORRICIIRIRCOIHCO getLines ()[Ljava/lang/String;
+	METHOD getBaseColor getBaseColor ()I
+	METHOD getX getX ()D
+	METHOD getY getY ()D
+	METHOD getZ getZ ()D
+	METHOD setBaseColor setBaseColor (I)V
+		ARG 1 baseColor

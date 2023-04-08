@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/impl/ModelWingsImplementation
+	FIELD compiledFrames compiledFrames Ljava/util/List;
+	METHOD <init> <init> (I)V
+	METHOD accept accept (Ljava/lang/Object;)V
+	METHOD accept accept (Lnet/minecraft/client/model/geom/ModelPart;)V
+	METHOD mapV mapV (FII)F
+	METHOD renderToBuffer renderToBuffer (Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V

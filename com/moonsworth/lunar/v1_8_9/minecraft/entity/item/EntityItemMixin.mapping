@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/entity/item/EntityItemMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getItem bridge$getItem ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD getEntityItem getEntityItem ()Lnet/minecraft/item/ItemStack;
+	METHOD lunar$itemPickupEvent lunar$itemPickupEvent (Lnet/minecraft/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

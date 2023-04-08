@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/multibridge/minecraft/world/entity/MobMixin
+	METHOD <init> <init> (Lnet/minecraft/world/entity/EntityType;Lnet/minecraft/world/level/Level;)V

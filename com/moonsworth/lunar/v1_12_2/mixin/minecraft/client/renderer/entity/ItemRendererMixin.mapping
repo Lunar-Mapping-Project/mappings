@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/renderer/entity/ItemRendererMixin
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD impl$onRenderItemInFirstPerson impl$onRenderItemInFirstPerson (Lnet/minecraft/client/entity/AbstractClientPlayer;FFLnet/minecraft/util/EnumHand;FLnet/minecraft/item/ItemStack;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderFire impl$renderFire (FFF)V
+	METHOD impl$rotateWithPlayerRotations$rotateYaw impl$rotateWithPlayerRotations$rotateYaw (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

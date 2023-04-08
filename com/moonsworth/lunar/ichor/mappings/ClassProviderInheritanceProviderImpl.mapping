@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/ichor/mappings/ClassProviderInheritanceProviderImpl
+	FIELD afy container Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD <init> <init> (ILorg/cadixdev/bombe/provider/ClassProvider;Lorg/cadixdev/lorenz/MappingSet;Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+		ARG 4 container
+	METHOD provide provide (Ljava/lang/String;)Ljava/util/Optional;

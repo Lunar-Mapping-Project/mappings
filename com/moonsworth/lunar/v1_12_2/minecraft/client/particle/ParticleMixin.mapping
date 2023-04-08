@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/client/particle/ParticleMixin
+	FIELD impl$defaultColor impl$defaultColor Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/IOICCORHHICCROCCRIHOIIRHC;
+	FIELD impl$defaultScale impl$defaultScale F
+	FIELD impl$particleId impl$particleId I
+	FIELD particleBlue particleBlue F
+	FIELD particleGreen particleGreen F
+	FIELD particleRed particleRed F
+	FIELD particleScale particleScale F
+	METHOD <init> <init> ()V
+	METHOD bridge$applySettings bridge$applySettings ()V
+	METHOD bridge$getParticleType bridge$getParticleType ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$resetSettings bridge$resetSettings ()V
+	METHOD bridge$setColor bridge$setColor (FFF)V
+	METHOD bridge$setId bridge$setId (I)V
+	METHOD bridge$setScale bridge$setScale (F)V
+	METHOD isFirework isFirework ()Z
+	METHOD onRender onRender (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD onRenderEnd onRenderEnd (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

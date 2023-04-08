@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/entity/player/EntityPlayerMPMixin
+	METHOD <init> <init> (Lnet/minecraft/world/World;Lcom/mojang/authlib/GameProfile;)V
+	METHOD lunar$livingEntityDeathEvent lunar$livingEntityDeathEvent (Lnet/minecraft/util/DamageSource;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

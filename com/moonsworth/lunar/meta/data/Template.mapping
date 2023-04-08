@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/meta/data/Template
+	FIELD ajJ key Ljava/lang/String;
+	FIELD ajK value Ljava/lang/String;
+	FIELD ajL MINECRAFT_VERSION Ljava/lang/String;
+	FIELD ajM MINECRAFT_ID Ljava/lang/String;
+	FIELD ajN MCP_VERSION Ljava/lang/String;
+	FIELD ajO PARCHMENT_VAR Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 key
+		ARG 2 value
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC of (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO;
+		ARG 0 version
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI of (Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO;
+		ARG 0 versionInfo
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD key key ()Ljava/lang/String;
+	METHOD toString toString ()Ljava/lang/String;
+	METHOD value value ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI TemplateProvider
+		METHOD IHOCOCCCICIOCORCHHCRIIOIO replaceTemplate (Ljava/lang/String;)Ljava/lang/String;
+			ARG 1 template
+		METHOD OOCHIRCHRRCRHRHCHOHOOHIOR getTemplates ()Ljava/util/Collection;

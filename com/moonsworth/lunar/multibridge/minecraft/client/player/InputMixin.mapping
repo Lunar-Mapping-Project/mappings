@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/player/InputMixin
+	FIELD down down Z
+	FIELD forwardImpulse forwardImpulse F
+	FIELD jumping jumping Z
+	FIELD leftImpulse leftImpulse F
+	FIELD left left Z
+	FIELD right right Z
+	FIELD shiftKeyDown shiftKeyDown Z
+	FIELD up up Z
+	METHOD <init> <init> ()V
+	METHOD bridge$down bridge$down ()Z
+	METHOD bridge$getForwardSpeed bridge$getForwardSpeed ()F
+	METHOD bridge$getStrafeSpeed bridge$getStrafeSpeed ()F
+	METHOD bridge$isJumping bridge$isJumping ()Z
+	METHOD bridge$isSneaking bridge$isSneaking ()Z
+	METHOD bridge$left bridge$left ()Z
+	METHOD bridge$right bridge$right ()Z
+	METHOD bridge$setDown bridge$setDown (Z)V
+	METHOD bridge$setJump bridge$setJump (Z)V
+	METHOD bridge$setLeft bridge$setLeft (Z)V
+	METHOD bridge$setMoveForward bridge$setMoveForward (F)V
+	METHOD bridge$setMoveStrafe bridge$setMoveStrafe (F)V
+	METHOD bridge$setRight bridge$setRight (Z)V
+	METHOD bridge$setSneak bridge$setSneak (Z)V
+	METHOD bridge$setUp bridge$setUp (Z)V
+	METHOD bridge$up bridge$up ()Z

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/external/renderer/pose/MatrixUtil
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/Camera;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI copy (Lcom/mojang/math/Matrix4f;)Ljavax/vecmath/Matrix4f;
+		ARG 0 src

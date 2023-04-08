@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/RHRROCIIHHROCROOHICOCHRIR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/ScoreboardManager
+	FIELD SIDEBAR_EMOJI_PATTERN SIDEBAR_EMOJI_PATTERN Ljava/util/regex/Pattern;
+	FIELD lastFoundScoreboard lastFoundScoreboard J
+	FIELD scoreboardLines scoreboardLines Ljava/util/List;
+	FIELD scoreboardTitle scoreboardTitle Ljava/lang/String;
+	FIELD strippedScoreboardLines strippedScoreboardLines Ljava/util/List;
+	FIELD strippedScoreboardTitle strippedScoreboardTitle Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD clear clear ()V
+	METHOD getLastFoundScoreboard getLastFoundScoreboard ()J
+	METHOD getNumberOfLines getNumberOfLines ()I
+	METHOD getScoreboardLines getScoreboardLines ()Ljava/util/List;
+	METHOD getScoreboardTitle getScoreboardTitle ()Ljava/lang/String;
+	METHOD getStrippedScoreboardLines getStrippedScoreboardLines ()Ljava/util/List;
+	METHOD getStrippedScoreboardTitle getStrippedScoreboardTitle ()Ljava/lang/String;
+	METHOD hasScoreboard hasScoreboard ()Z
+	METHOD lambda$tick$0 lambda$tick$0 (Lnet/minecraft/scoreboard/Score;)Z
+	METHOD tick tick ()V

@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/OICCIHOCRHCCRRHCRCCCHIIRC com/moonsworth/lunar/client/options/OptionTitle
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/util/function/BooleanSupplier;)V
+	METHOD IHIIHCICCHCHHHROHOHOOIIRR isValueOverridden ()Ljava/lang/Boolean;
+	METHOD IOICICOOIRRHCCHORRHOOOICR getValue (Ljava/lang/String;)Ljava/util/Optional;
+	METHOD ORRCHORCCOOOCCORCIHCROOCC getUIComponent (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/HOHOHRIHCIICROCRCRIIOCCHC;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD get get ()Ljava/lang/Object;
+	METHOD get get ()Ljava/lang/String;
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD lambda$new$0 lambda$new$0 ()Z
+	METHOD load load (Lcom/google/gson/JsonObject;)V
+	METHOD update update (Ljava/lang/String;)V

@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_8_9/forge/mixin/ServerConfigurationManagerMixin
+	FIELD logger logger Lorg/apache/logging/log4j/Logger;
+	FIELD mcServer mcServer Lnet/minecraft/server/MinecraftServer;
+	METHOD <init> <init> ()V
+	METHOD getMaxPlayers getMaxPlayers ()I
+	METHOD getServerInstance getServerInstance ()Lnet/minecraft/server/MinecraftServer;
+	METHOD initializeConnectionToPlayer initializeConnectionToPlayer (Lnet/minecraft/network/NetworkManager;Lnet/minecraft/entity/player/EntityPlayerMP;Lnet/minecraft/network/NetHandlerPlayServer;)V
+	METHOD playerLoggedIn playerLoggedIn (Lnet/minecraft/entity/player/EntityPlayerMP;)V
+	METHOD readPlayerDataFromFile readPlayerDataFromFile (Lnet/minecraft/entity/player/EntityPlayerMP;)Lnet/minecraft/nbt/NBTTagCompound;
+	METHOD sendChatMsg sendChatMsg (Lnet/minecraft/util/IChatComponent;)V
+	METHOD sendScoreboard sendScoreboard (Lnet/minecraft/scoreboard/ServerScoreboard;Lnet/minecraft/entity/player/EntityPlayerMP;)V
+	METHOD setPlayerGameTypeBasedOnOther setPlayerGameTypeBasedOnOther (Lnet/minecraft/entity/player/EntityPlayerMP;Lnet/minecraft/entity/player/EntityPlayerMP;Lnet/minecraft/world/World;)V
+	METHOD updateTimeAndWeatherForPlayer updateTimeAndWeatherForPlayer (Lnet/minecraft/entity/player/EntityPlayerMP;Lnet/minecraft/world/WorldServer;)V

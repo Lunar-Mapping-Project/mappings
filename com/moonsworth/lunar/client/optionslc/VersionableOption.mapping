@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICCORHHICCROCCRIHOIIRHC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/optionslc/VersionableOption
+	METHOD OIOORRORCRHOOCICORRCHOHRC isAvaliable (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+		ARG 1 version
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI toJson (Ljava/lang/String;Lcom/google/gson/JsonPrimitive;)Lcom/google/gson/JsonPrimitive;
+		ARG 2 value

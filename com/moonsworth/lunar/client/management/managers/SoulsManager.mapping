@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/client/management/managers/SoulsManager
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD IOCRCCOICOOCCRRROOIHHCIRH populateItems ()Ljava/util/Set;
+	METHOD OORHRCOHOORHOIHROIOOOCIOI getConfigFile ()Ljava/lang/String;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD init init ()V
+	METHOD load load (Lcom/google/gson/JsonObject;)V

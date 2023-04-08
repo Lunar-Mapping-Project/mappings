@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/util/particle/VanillaParticleData
+	METHOD <init> <init> (Ljava/lang/String;I)V
+	METHOD IRCHOORRCOIIRCORRHHHCIIOR getParticleId ()I
+	METHOD RHOOCROHIOCHRRHORORHOCHIC getParticleName ()Ljava/lang/String;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getId getId ()I
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

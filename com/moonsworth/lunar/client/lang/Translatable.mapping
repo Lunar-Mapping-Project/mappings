@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/lang/Translatable
+	METHOD OCIROORRIRIOHIIIRRIORCIHI translate (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;

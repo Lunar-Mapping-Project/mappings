@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_12_2/optifine/mixin/GuiScreenMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$blurMenusOptiFine lunar$blurMenusOptiFine (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 0 ci

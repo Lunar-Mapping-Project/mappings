@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/impl/client/model/ModelCloakBridgeImpl
+	FIELD compiledFrames compiledFrames Ljava/util/List;
+	METHOD <init> <init> (III)V
+	METHOD mapV mapV (FII)F
+	METHOD render render (IF)V
+	METHOD updateUVPosition updateUVPosition (II)V

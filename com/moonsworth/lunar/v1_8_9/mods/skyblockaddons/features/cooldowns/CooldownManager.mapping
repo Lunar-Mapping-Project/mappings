@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/cooldowns/CooldownManager
+	FIELD ALTERNATE_COOLDOWN_PATTERN ALTERNATE_COOLDOWN_PATTERN Ljava/util/regex/Pattern;
+	FIELD ITEM_COOLDOWN_PATTERN ITEM_COOLDOWN_PATTERN Ljava/util/regex/Pattern;
+	FIELD cooldowns cooldowns Ljava/util/Map;
+	FIELD itemCooldowns itemCooldowns Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD get get (Ljava/lang/String;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD get get (Lnet/minecraft/item/ItemStack;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD getItemCooldown getItemCooldown (Ljava/lang/String;)I
+	METHOD getItemCooldown getItemCooldown (Lnet/minecraft/item/ItemStack;)I
+	METHOD getLoreCooldown getLoreCooldown (Lnet/minecraft/item/ItemStack;)I
+	METHOD getRemainingCooldown getRemainingCooldown (Ljava/lang/String;)J
+	METHOD getRemainingCooldown getRemainingCooldown (Lnet/minecraft/item/ItemStack;)J
+	METHOD getRemainingCooldownPercent getRemainingCooldownPercent (Ljava/lang/String;)D
+	METHOD getRemainingCooldownPercent getRemainingCooldownPercent (Lnet/minecraft/item/ItemStack;)D
+	METHOD isOnCooldown isOnCooldown (Ljava/lang/String;)Z
+	METHOD isOnCooldown isOnCooldown (Lnet/minecraft/item/ItemStack;)Z
+	METHOD put put (Ljava/lang/String;)V
+	METHOD put put (Ljava/lang/String;J)V
+	METHOD put put (Lnet/minecraft/item/ItemStack;)V
+	METHOD put put (Lnet/minecraft/item/ItemStack;J)V
+	METHOD remove remove (Ljava/lang/String;)V
+	METHOD setItemCooldowns setItemCooldowns (Ljava/util/Map;)V

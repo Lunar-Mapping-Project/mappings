@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/nectar/Available
+	METHOD max max ()I
+	METHOD min min ()I
+	METHOD value value ()[I

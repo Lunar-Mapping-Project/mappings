@@ -1,0 +1,9 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketServerUpdate com/lunarclient/bukkitapi/nethandler/client/LCPacketServerUpdate
+	FIELD server server Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 server
+	METHOD getServer getServer ()Ljava/lang/String;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

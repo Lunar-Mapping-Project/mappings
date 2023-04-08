@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/world/biome/BiomeGenBaseMixin
+	FIELD biomeID biomeID I
+	FIELD biomeName biomeName Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD bridge$getBiomeID bridge$getBiomeID ()Ljava/util/Optional;
+	METHOD bridge$getBiomeName bridge$getBiomeName ()Ljava/lang/String;

@@ -1,0 +1,45 @@
+CLASS com/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/meta/match/Match
+	FIELD akr akr Ljava/util/List;
+	METHOD <init> <init> (Ljava/util/List;)V
+	METHOD IOCHOIHICCCOIOIHOHRROOOHI classMatches ()Ljava/util/List;
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI FieldMatch
+		FIELD akw akw Ljava/lang/String;
+		FIELD akx akx Ljava/lang/String;
+		FIELD aky aky Ljava/lang/String;
+		FIELD akz akz Ljava/lang/String;
+		METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+		METHOD HOHOOHCRIHRCRRRCRHHRRIRRR oldFieldType ()Ljava/lang/String;
+		METHOD HORHIRORIRIIRHCCHIIROCIII newFieldType ()Ljava/lang/String;
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS OIOORRORCRHOOCICORRCHOHRC
+		METHOD HICRIHIHCHOHOICOCOIIRHCHC oldName ()Ljava/lang/String;
+		METHOD HROICROCHRRHRRRIRHORIOCOI newName ()Ljava/lang/String;
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR MethodMatch
+		METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+		METHOD CCCHOCIIROCCIRHCICCIOCIRR oldSignature ()Ljava/lang/String;
+		METHOD RRIRCHHOHCCCHHRCOIHRRHOOC newSignature ()Ljava/lang/String;
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI ClassMatch
+		FIELD aks aks Ljava/lang/String;
+		FIELD akt akt Ljava/lang/String;
+		FIELD aku aku Ljava/util/List;
+		FIELD akv akv Ljava/util/List;
+		METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+		METHOD CCOIHRRIOIOHHOCIROOCCHHOC fieldMatches ()Ljava/util/List;
+		METHOD HICRIHIHCHOHOICOCOIIRHCHC oldName ()Ljava/lang/String;
+		METHOD HIOCRIIHIOCIOIICORRHROROR methodMatches ()Ljava/util/List;
+		METHOD HROICROCHRRHRRRIRHORIOCOI newName ()Ljava/lang/String;
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;

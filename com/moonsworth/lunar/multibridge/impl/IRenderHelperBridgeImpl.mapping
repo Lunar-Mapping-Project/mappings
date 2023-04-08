@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/multibridge/impl/IRenderHelperBridgeImpl
+	METHOD <init> <init> ()V
+	METHOD bridge$disableStandardItemLighting bridge$disableStandardItemLighting ()V
+	METHOD bridge$drawNameplate bridge$drawNameplate (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;Ljava/lang/String;DDDFZZLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$drawNameplates bridge$drawNameplates (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;Ljava/util/List;DDDFZZLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$enableGUIStandardItemLighting bridge$enableGUIStandardItemLighting ()V
+	METHOD bridge$enableStandardItemLighting bridge$enableStandardItemLighting ()V
+	METHOD bridge$highlightBlock bridge$highlightBlock (DDDDDDI)V
+	METHOD bridge$highlightRegion bridge$highlightRegion (DDDDDDDDDI)V
+	METHOD bridge$turnOnLighting bridge$turnOnLighting ()V

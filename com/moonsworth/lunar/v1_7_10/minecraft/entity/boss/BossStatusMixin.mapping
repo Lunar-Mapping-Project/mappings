@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/entity/boss/BossStatusMixin
+	FIELD statusBarTime statusBarTime I
+	METHOD <init> <init> ()V
+	METHOD impl$setBossStatus impl$setBossStatus (Lnet/minecraft/entity/boss/IBossDisplayData;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/gui/splash/SplashCategory
+	METHOD HRCCCCCIIIHIORHCRHIHHOIRC postInitialize ()V
+	METHOD getCategory getCategory ()Ljava/lang/String;
+	METHOD getElements getElements ()Ljava/util/Set;

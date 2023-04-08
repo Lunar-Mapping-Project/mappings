@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ICOICORHIORHRCRIIIOCCCOCO/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/v1_18_2/DataFixerBuilderImpl
+	FIELD OCRHOCHHROIOORCCCORRORCCO EXECUTOR Ljava/util/concurrent/Executor;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (I)V
+	METHOD build build (Ljava/util/concurrent/Executor;)Lcom/mojang/datafixers/DataFixer;

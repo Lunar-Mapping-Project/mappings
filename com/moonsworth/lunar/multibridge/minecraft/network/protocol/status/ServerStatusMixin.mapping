@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/network/protocol/status/ServerStatusMixin
+	FIELD lunarServer lunarServer Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD getLunarServer getLunarServer ()Ljava/lang/String;
+	METHOD setLunarServer setLunarServer (Ljava/lang/String;)V

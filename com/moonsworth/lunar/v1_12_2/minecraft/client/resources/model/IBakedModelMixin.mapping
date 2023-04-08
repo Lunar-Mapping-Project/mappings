@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/client/resources/model/IBakedModelMixin
+	METHOD bridge$getItemCameraTransforms bridge$getItemCameraTransforms ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getParticleTexture bridge$getParticleTexture ()Ljava/util/Optional;
+	METHOD bridge$isGui3D bridge$isGui3D ()Z
+	METHOD getItemCameraTransforms getItemCameraTransforms ()Lnet/minecraft/client/renderer/block/model/ItemCameraTransforms;
+	METHOD getParticleTexture getParticleTexture ()Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;
+	METHOD isGui3d isGui3d ()Z

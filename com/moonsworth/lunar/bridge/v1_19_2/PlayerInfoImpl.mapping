@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/v1_19_2/PlayerInfoImpl
+	METHOD <init> <init> (Lnet/minecraft/network/protocol/game/ClientboundPlayerInfoPacket$PlayerUpdate;Lnet/minecraft/util/SignatureValidator;)V
+	METHOD registerTextures registerTextures ()V

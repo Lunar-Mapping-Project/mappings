@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/ROOICOIICOIOORHCHIHCOICII com/moonsworth/lunar/client/management/managers/RuleFeaturesManager
+	METHOD <init> <init> ()V
+	METHOD IOCRCCOICOOCCRRROOIHHCIRH populateItems ()Ljava/util/Set;
+	METHOD OORHRCOHOORHOIHROIOOOCIOI getConfigFile ()Ljava/lang/String;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI createRuleFeature (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;
+		ARG 1 rule
+	METHOD close close ()V
+	METHOD init init ()V
+	METHOD load load (Lcom/google/gson/JsonObject;)V

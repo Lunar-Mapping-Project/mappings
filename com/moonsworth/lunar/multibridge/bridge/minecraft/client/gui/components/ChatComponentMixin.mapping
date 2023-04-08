@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/gui/components/ChatComponentMixin
+	FIELD clicked clicked Z
+	METHOD <init> <init> ()V
+	METHOD impl$getChatComponentStyle impl$getChatComponentStyle (Lnet/minecraft/client/StringSplitter;Lnet/minecraft/util/FormattedCharSequence;I)Lnet/minecraft/network/chat/Style;
+	METHOD impl$handleChatQueueClicked impl$handleChatQueueClicked (DDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

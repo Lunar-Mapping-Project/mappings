@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC com/google/common/escape/ArrayBasedUnicodeEscaper
+	FIELD AW replacements [[C
+	FIELD AX replacementsLength I
+	FIELD AY safeMin I
+	FIELD AZ safeMax I
+	FIELD Ba safeMinChar C
+	FIELD Bb safeMaxChar C
+	METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI;IILjava/lang/String;)V
+	METHOD <init> <init> (Ljava/util/Map;IILjava/lang/String;)V
+	METHOD RHRIHRHRHOIHRCIRIHOHOIIIH escapeUnsafe (I)[C
+	METHOD escape escape (I)[C
+	METHOD escape escape (Ljava/lang/String;)Ljava/lang/String;
+	METHOD nextEscapeIndex nextEscapeIndex (Ljava/lang/CharSequence;II)I

@@ -1,0 +1,47 @@
+CLASS com/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/debug/Stripper
+	METHOD <init> <init> ()V
+	METHOD HORRIRRROCHOHCCORHOOCHICO removePlatformMembers (Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 0 classNode
+	METHOD IIROHIIHCHOORORIIHORHRORO (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/tree/MethodNode;)V
+		ARG 1 methodNode
+	METHOD OCIROORRIRIOHIIIRRIORCIHI nextCode (Lorg/objectweb/asm/tree/AbstractInsnNode;)Lorg/objectweb/asm/tree/AbstractInsnNode;
+		ARG 0 abstractInsnNode
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lorg/objectweb/asm/tree/FieldNode;)Z
+		ARG 0 fieldNode
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC (Lorg/objectweb/asm/tree/MethodNode;)Z
+		ARG 0 methodNode
+	METHOD OIOOCIIHICICRRHCROHOOHOCI (Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 0 classNode
+	METHOD OIOORRORCRHOOCICORRCHOHRC isLambda (Lorg/objectweb/asm/tree/MethodNode;)Z
+		ARG 0 methodNode
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/tree/MethodNode;)Ljava/util/List;
+		ARG 0 classNode
+		ARG 1 methodNode
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR (Lorg/objectweb/asm/tree/MethodNode;)Ljava/lang/String;
+		ARG 0 methodNode
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC (Lorg/objectweb/asm/tree/MethodNode;)Z
+		ARG 0 methodNode
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/util/Set;Lorg/objectweb/asm/tree/MethodNode;)Z
+		ARG 1 methodNode
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/AbstractInsnNode;Lorg/objectweb/asm/tree/InsnList;)Z
+		ARG 0 abstractInsnNode
+		ARG 1 insnList
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		ARG 0 classNode
+		ARG 1 version
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI doesNotContainField (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/tree/FieldInsnNode;)Z
+		ARG 0 classNode
+		ARG 1 fieldInsnNode
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/FieldInsnNode;Lorg/objectweb/asm/tree/FieldNode;)Z
+		ARG 1 fieldNode
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/FieldInsnNode;Lorg/objectweb/asm/tree/InsnList;[Lorg/objectweb/asm/tree/analysis/Frame;)Lorg/objectweb/asm/tree/AbstractInsnNode;
+		ARG 0 fieldInsnNode
+		ARG 1 insnList
+		ARG 2 frames
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI mapInvokeDynamic (Lorg/objectweb/asm/tree/InvokeDynamicInsnNode;Lorg/objectweb/asm/tree/ClassNode;)Ljava/lang/String;
+		ARG 0 invokeDynamicInsnNode
+		ARG 1 classNode
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH removePlatformFromAnnotations (Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 0 classNode
+	METHOD ROOHRHIRRRIOCHOOOOOICHHIO removeLambdas (Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 0 classNode

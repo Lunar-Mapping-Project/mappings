@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/events/PlayerReviveEvent
+	FIELD revivedPlayer revivedPlayer Lnet/minecraft/entity/player/EntityPlayer;
+	FIELD reviverPlayer reviverPlayer Lnet/minecraft/entity/player/EntityPlayer;
+	METHOD <init> <init> (Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/entity/player/EntityPlayer;)V

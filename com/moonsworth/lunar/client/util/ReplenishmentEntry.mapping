@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/RHRROCIIHHROCROOHICOCHRIR com/moonsworth/lunar/client/util/ReplenishmentEntry
+	FIELD IICOORICOHOIIHHIHHCHRCHOI healing I
+	FIELD saturationModifier saturationModifier F
+	METHOD <init> <init> (IF)V
+	METHOD IIOHORRCORICICOCOOORICIOC getReplenishment ()F
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I

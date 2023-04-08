@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/gui/components/ToastComponent
+	FIELD toast toast Lnet/minecraft/client/gui/components/toasts/Toast;
+	METHOD <init> <init> ()V
+	METHOD impl$onRenderToast impl$onRenderToast (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

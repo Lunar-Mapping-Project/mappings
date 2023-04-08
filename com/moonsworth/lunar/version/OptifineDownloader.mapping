@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/version/OptifineDownloader
+	FIELD aml aml Ljava/lang/String;
+	FIELD amm amm [C
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD HRORHICOOORCIICRCCOHRCCHR getSHA ([B)Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI downloadOptifine (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/nio/file/Path;)V
+	METHOD ROOHRHIRRRIOCHOOOOOICHHIO getSHA (Ljava/nio/file/Path;)Ljava/lang/String;

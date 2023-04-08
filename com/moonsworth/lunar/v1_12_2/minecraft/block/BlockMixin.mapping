@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/block/BlockMixin
+	FIELD blockState blockState Lnet/minecraft/block/state/BlockStateContainer;
+	FIELD material material Lnet/minecraft/block/material/Material;
+	METHOD <init> <init> ()V
+	METHOD bridge$getStack bridge$getStack (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getValidStates bridge$getValidStates ()Ljava/util/List;
+	METHOD bridge$isFoliage bridge$isFoliage ()Z
+	METHOD bridge$isSkull bridge$isSkull ()Z
+	METHOD bridge$isWater bridge$isWater ()Z
+	METHOD getItem getItem (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/item/ItemStack;
+	METHOD hasTileEntity hasTileEntity ()Z

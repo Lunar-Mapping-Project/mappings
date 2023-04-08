@@ -1,0 +1,9 @@
+CLASS com/lunarclient/bukkitapi/nethandler/server/LCPacketStaffModStatus com/lunarclient/bukkitapi/nethandler/server/LCPacketStaffModStatus
+	FIELD enabled enabled Ljava/util/Set;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/Set;)V
+		ARG 1 enabled
+	METHOD getEnabled getEnabled ()Ljava/util/Set;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

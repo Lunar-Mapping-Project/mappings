@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/core/EntityAggregate
+	FIELD entities entities Ljava/util/List;
+	METHOD <init> <init> ([Ljava/util/UUID;)V
+	METHOD getEntities getEntities ()Ljava/util/List;
+	METHOD getEntityFromUUID getEntityFromUUID (Ljava/util/UUID;)Lnet/minecraft/entity/Entity;
+	METHOD isDead isDead ()Z

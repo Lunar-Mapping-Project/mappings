@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/impl/texture/NativeImageBridgeImpl
+	FIELD aiT opaque B
+	FIELD aiU image Lcom/mojang/blaze3d/platform/NativeImage;
+	METHOD <init> <init> (Lcom/mojang/blaze3d/platform/NativeImage;)V
+		ARG 1 image
+	METHOD bridge$getHeight bridge$getHeight ()I
+	METHOD bridge$getWidth bridge$getWidth ()I
+	METHOD close close ()V

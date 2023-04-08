@@ -1,0 +1,35 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/util/cosmetic/Mesh
+	FIELD data data Lmchorse/emoticons/skin_n_bones/api/bobj/BOBJLoader$CompiledData;
+	FIELD frameCount frameCount I
+	FIELD indexBuffer indexBuffer I
+	FIELD indices indices Ljava/nio/IntBuffer;
+	FIELD lastFrame lastFrame I
+	FIELD normalBuffer normalBuffer I
+	FIELD normals normals Ljava/nio/FloatBuffer;
+	FIELD texcoordBuffer texcoordBuffer I
+	FIELD textcoords texCoords Ljava/nio/FloatBuffer;
+	FIELD texture texture Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	FIELD vertexBuffer vertexBuffer I
+	FIELD vertices vertices Ljava/nio/FloatBuffer;
+	METHOD <init> <init> (Lmchorse/emoticons/skin_n_bones/api/bobj/BOBJLoader$CompiledData;)V
+		ARG 1 data
+	METHOD IIROHIIHCHOORORIIHORHRORO render (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OICCIHOCRHCCRRHCRCCCHIIRC;)V
+		ARG 1 context
+	METHOD OHICCROHCCHCRCROHHIHCRCIO render (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;)V
+		ARG 1 context
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR updateTexCoords ([F)V
+		ARG 1 texCoords
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OICCIHOCRHCCRRHCRCCCHIIRC;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/RCRIIRROHHOCHHHCHOCIICRHR;)V
+		ARG 2 renderSystem
+	METHOD delete delete ()V
+	METHOD getFiltering getFiltering ()I
+	METHOD initBuffers initBuffers ()V
+	METHOD mapV mapV (FII)F
+	METHOD setFiltering setFiltering (I)V
+	METHOD updateNormals updateNormals ([F)V
+		ARG 1 normals
+	METHOD updateUVPosition updateUVPosition (II)V
+		ARG 1 lastFrame
+		ARG 2 frameCount
+	METHOD updateVertices updateVertices ([F)V
+		ARG 1 vertices

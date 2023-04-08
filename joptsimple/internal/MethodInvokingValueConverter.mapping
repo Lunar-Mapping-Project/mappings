@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC joptsimple/internal/MethodInvokingValueConverter
+	FIELD aco method Ljava/lang/reflect/Method;
+	FIELD acp clazz Ljava/lang/Class;
+	METHOD <init> <init> (Ljava/lang/reflect/Method;Ljava/lang/Class;)V
+		ARG 1 method
+		ARG 2 clazz
+	METHOD convert convert (Ljava/lang/String;)Ljava/lang/Object;
+	METHOD valuePattern valuePattern ()Ljava/lang/String;
+	METHOD valueType valueType ()Ljava/lang/Class;

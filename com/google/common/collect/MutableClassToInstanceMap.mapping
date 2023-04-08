@@ -1,0 +1,45 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HOIOICIROICRHIOIRHRRCCORH com/google/common/collect/MutableClassToInstanceMap
+	FIELD tF delegate Ljava/util/Map;
+	METHOD <init> <init> (Ljava/util/Map;)V
+	METHOD CCRHOHCCOIICHCCHIOIICHHOO checkedEntry (Ljava/util/Map$Entry;)Ljava/util/Map$Entry;
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD HCOCIICCICRIRCCROHHCHIIIC access$100 (Ljava/util/Map$Entry;)Ljava/util/Map$Entry;
+	METHOD HCORIHIHIOCROIHHHHRHIRHRI create (Ljava/util/Map;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HOIOICIROICRHIOIRHRRCCORH;
+	METHOD IIROHIIHCHOORORIIHORHRORO access$000 (Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD OHHROHOOCCOCCRRCRHICOHRCH create ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HOIOICIROICRHIOIRHRRCCORH;
+	METHOD OHRRIROHIICHOHOHIOICCCRHR delegate ()Ljava/util/Map;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR cast (Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RCRIIRROHHOCHHHCHOCIICRHR getInstance (Ljava/lang/Class;)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI putInstance (Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD entrySet entrySet ()Ljava/util/Set;
+	METHOD put put (Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD put put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD putAll putAll (Ljava/util/Map;)V
+	METHOD writeReplace writeReplace ()Ljava/lang/Object;
+	CLASS 1 1
+		FIELD tG val$entry Ljava/util/Map$Entry;
+		METHOD <init> <init> (Ljava/util/Map$Entry;)V
+		METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+		METHOD CRRICHRHRHOCIOOOHOHRCROHH delegate ()Ljava/util/Map$Entry;
+		METHOD setValue setValue (Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS 2 2
+		FIELD tH this$0 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HOIOICIROICRHIOIRHRRCCORH;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HOIOICIROICRHIOIRHRRCCORH;)V
+		METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+		METHOD HRCROROCHCHRRCOIORCCCIRIH delegate ()Ljava/util/Set;
+		METHOD OOHIICRCHHHIHHROOCCCHCOCO delegate ()Ljava/util/Collection;
+		METHOD ROOICOIICOIOORHCHIHCOICII lambda$spliterator$0 (Ljava/util/Map$Entry;)Ljava/util/Map$Entry;
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD spliterator spliterator ()Ljava/util/Spliterator;
+		METHOD toArray toArray ()[Ljava/lang/Object;
+		METHOD toArray toArray ([Ljava/lang/Object;)[Ljava/lang/Object;
+		CLASS 1 1
+			FIELD tI this$1 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HOIOICIROICRHIOIRHRRCCORH$2;
+			METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HOIOICIROICRHIOIRHRRCCORH$2;Ljava/util/Iterator;)V
+			METHOD HICCCOROHIIHIHRCOIHHCRHCR transform (Ljava/util/Map$Entry;)Ljava/util/Map$Entry;
+			METHOD transform transform (Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI SerializedForm
+		FIELD tJ backingMap Ljava/util/Map;
+		FIELD tK serialVersionUID J
+		METHOD <init> <init> (Ljava/util/Map;)V
+		METHOD readResolve readResolve ()Ljava/lang/Object;

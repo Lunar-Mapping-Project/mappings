@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/server/packs/PackMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getInputStream bridge$getInputStream (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)Ljava/io/InputStream;
+	METHOD bridge$getPackImage bridge$getPackImage ()Ljava/util/Optional;
+	METHOD bridge$getPackName bridge$getPackName ()Ljava/lang/String;
+	METHOD getTitle getTitle ()Lnet/minecraft/network/chat/Component;
+	METHOD open open ()Lnet/minecraft/server/packs/PackResources;

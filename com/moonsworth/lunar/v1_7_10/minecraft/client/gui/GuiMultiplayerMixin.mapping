@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/ROOIRIIIRHHIIRRCOCHIOCIHO com/moonsworth/lunar/v1_7_10/minecraft/client/gui/GuiMultiplayerMixin
+	FIELD deletingServer deletingServer Z
+	FIELD parentScreen parentScreen Lnet/minecraft/client/gui/GuiScreen;
+	FIELD serverListSelector serverListSelector Lnet/minecraft/client/gui/ServerSelectionList;
+	METHOD <init> <init> ()V
+	METHOD connectToServer connectToServer (Lnet/minecraft/client/multiplayer/ServerData;)V
+	METHOD impl$actionPerformed impl$actionPerformed (Lnet/minecraft/client/gui/GuiButton;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$connectToSelected impl$connectToSelected (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/client/gui/GuiListExtended_IGuiListEntry;)V
+	METHOD impl$onConnectToServer impl$onConnectToServer (Lnet/minecraft/client/multiplayer/ServerData;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

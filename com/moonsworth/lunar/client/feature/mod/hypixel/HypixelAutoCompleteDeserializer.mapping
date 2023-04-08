@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RHCICOIRIORCIOIOIHHHCHHHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/feature/mod/hypixel/HypixelAutoCompleteDeserializer
+	METHOD <init> <init> ()V
+	METHOD deserialize deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;
+		ARG 1 element
+		ARG 2 type
+		ARG 3 deserializer

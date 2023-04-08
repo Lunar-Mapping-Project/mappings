@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/renderer/DebugRendererMixin
+	FIELD chunkBorderEnabled chunkBorderEnabled Z
+	METHOD <init> <init> ()V
+	METHOD impl$toggleChunkBorders impl$toggleChunkBorders (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_12_2/optifine/impl/CustomColorsImpl
+	METHOD <init> <init> ()V
+	METHOD getDurabilityColor getDurabilityColor (I)I
+	METHOD getTextColor getTextColor (II)I

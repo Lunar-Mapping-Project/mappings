@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/generator/util/SignatureAnnotation
+	FIELD HHRIRIOCRICHCRICIRHOCOORI index I
+	FIELD RCIOHHRCRIRHOIIOCRICIIROI type Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	FIELD annotations annotations Ljava/util/Map;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;ILjava/util/List;)V
+		ARG 1 type
+		ARG 2 index
+		ARG 3 annotations
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;ILjava/util/Map;)V
+		ARG 1 type
+		ARG 2 index
+		ARG 3 annotations
+	METHOD HCRRCIRHIRCCRHCIIIHRICICI type ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD IHIROCRRCROOROCCHROIHOHIR annotations ()Ljava/util/Map;
+	METHOD OCIRIRHIIHOHCIHHCICCICHHI toInsnNode ()Lorg/objectweb/asm/tree/AbstractInsnNode;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD index index ()I
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/minecraft/client/resources/model/ModelBakeryMixin
+	FIELD bakedRegistry bakedRegistry Lnet/minecraft/util/RegistrySimple;
+	FIELD itemLocations itemLocations Ljava/util/Map;
+	FIELD models models Ljava/util/Map;
+	FIELD prebakedItemModels prebakedItemModels Ljava/util/HashSet;
+	FIELD sprites sprites Ljava/util/Map;
+	FIELD textureMap textureMap Lnet/minecraft/client/renderer/texture/TextureMap;
+	METHOD <init> <init> ()V
+	METHOD bakeItemModels bakeItemModels ()V
+	METHOD hasItemModel hasItemModel (Lnet/minecraft/client/renderer/block/model/ModelBlock;)Z
+	METHOD impl$dontBakePrebakedModels impl$dontBakePrebakedModels (Lnet/minecraft/client/resources/model/ModelBakery;)Ljava/util/Map;
+	METHOD isCustomRenderer isCustomRenderer (Lnet/minecraft/client/renderer/block/model/ModelBlock;)Z
+	METHOD lambda$bakeItemModels$0 lambda$bakeItemModels$0 (Ljava/lang/String;Lnet/minecraft/util/ResourceLocation;)V
+	METHOD onInit onInit (Lnet/minecraft/client/resources/IResourceManager;Lnet/minecraft/client/renderer/texture/TextureMap;Lnet/minecraft/client/renderer/BlockModelShapes;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

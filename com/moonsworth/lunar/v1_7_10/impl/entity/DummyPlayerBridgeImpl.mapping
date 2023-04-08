@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/impl/entity/DummyPlayerBridgeImpl
+	FIELD customGameProfile customGameProfile Lcom/mojang/authlib/GameProfile;
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;Lnet/minecraft/world/World;Lnet/minecraft/client/network/NetHandlerPlayClient;Lnet/minecraft/stats/StatFileWriter;)V
+	METHOD entityInit entityInit ()V
+	METHOD getAlwaysRenderNameTagForRender getAlwaysRenderNameTagForRender ()Z
+	METHOD getGameProfile getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD setGameProfile setGameProfile (Lcom/mojang/authlib/GameProfile;)V

@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/renderer/entity/player/PlayerRendererMixin
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;Lnet/minecraft/client/model/PlayerModel;F)V
+	METHOD bridge$getMainModel bridge$getMainModel ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$setPlayerModelType$v1_17 bridge$setPlayerModelType$v1_17 (Z)V
+	METHOD bridge$setPlayerModelType bridge$setPlayerModelType (Z)V
+	METHOD getRenderOffset getRenderOffset (Lnet/minecraft/client/player/AbstractClientPlayer;F)Lnet/minecraft/world/phys/Vec3;
+	METHOD getRenderOffset getRenderOffset (Lnet/minecraft/world/entity/Entity;F)Lnet/minecraft/world/phys/Vec3;
+	METHOD getTextureLocation getTextureLocation (Lnet/minecraft/client/player/AbstractClientPlayer;)Lnet/minecraft/resources/ResourceLocation;
+	METHOD getTextureLocation getTextureLocation (Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;
+	METHOD impl$onPostRenderPlayer impl$onPostRenderPlayer (Lnet/minecraft/client/player/AbstractClientPlayer;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onPreRenderPlayer impl$onPreRenderPlayer (Lnet/minecraft/client/player/AbstractClientPlayer;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 player
+		ARG 3 partialTicks
+		ARG 4 pose
+		ARG 5 source
+		ARG 7 ci
+	METHOD lambda$impl$onPreRenderPlayer$0 lambda$impl$onPreRenderPlayer$0 (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC;Lnet/minecraft/client/renderer/MultiBufferSource;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 2 pass
+	METHOD renderNameTag renderNameTag (Lnet/minecraft/client/player/AbstractClientPlayer;Lnet/minecraft/network/chat/Component;Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD renderNameTag renderNameTag (Lnet/minecraft/world/entity/Entity;Lnet/minecraft/network/chat/Component;Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V

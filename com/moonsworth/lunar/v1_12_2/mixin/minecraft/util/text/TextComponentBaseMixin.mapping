@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/util/text/TextComponentBaseMixin
+	FIELD bridge$adventureComponent bridge$adventureComponent Lnet/kyori/adventure/text/Component;
+	METHOD <init> <init> ()V
+	METHOD moonBridge$asAdventureComponent moonBridge$asAdventureComponent ()Lnet/kyori/adventure/text/Component;

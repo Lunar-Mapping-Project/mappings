@@ -1,0 +1,60 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC com/moonsworth/lunar/client/util/NameLine
+	FIELD HHRHCIROOOIRIIRHICCHHROHO lines Ljava/util/Set;
+	METHOD <init> <init> (ILjava/lang/String;)V
+		ARG 1 color
+		ARG 2 text
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		ARG 1 component
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC$OIOORRORCRHOOCICORRCHOHRC;)V
+		ARG 1 data
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 text
+	METHOD <init> <init> (Lnet/kyori/adventure/text/TextComponent;)V
+		ARG 1 component
+	METHOD OICOOORIRHORHIHHIIHIIIOHC getLines ()Ljava/util/Set;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI addLine (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC$OIOORRORCRHOOCICORRCHOHRC;)V
+		ARG 1 data
+	CLASS OCIROORRIRIOHIIIRRIORCIHI NameLineComponent
+		FIELD OCCICRIHRCIICHOORRHCOOIHC component Lnet/kyori/adventure/text/TextComponent;
+		METHOD <init> <init> (Lnet/kyori/adventure/text/TextComponent;)V
+			ARG 1 component
+		METHOD HHHOOHOOHIOOIRHRRCCOHCORO getComponent ()Lnet/kyori/adventure/text/TextComponent;
+		METHOD RCHHIHHRCCIHIRCCCRHIOCCHR setComponent (Lnet/kyori/adventure/text/TextComponent;)V
+			ARG 1 component
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getColor getColor ()I
+		METHOD getText getText ()Ljava/lang/String;
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS OIOORRORCRHOOCICORRCHOHRC NameLineData
+		METHOD getColor getColor ()I
+		METHOD getText getText ()Ljava/lang/String;
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR NameLineSimple
+		FIELD text text Ljava/lang/String;
+		METHOD <init> <init> (Ljava/lang/String;)V
+			ARG 1 text
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getColor getColor ()I
+		METHOD getText getText ()Ljava/lang/String;
+		METHOD hashCode hashCode ()I
+		METHOD setText setText (Ljava/lang/String;)V
+			ARG 1 text
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI NameLineColor
+		FIELD color color I
+		FIELD text text Ljava/lang/String;
+		METHOD <init> <init> (ILjava/lang/String;)V
+			ARG 1 color
+			ARG 2 text
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getColor getColor ()I
+		METHOD getText getText ()Ljava/lang/String;
+		METHOD hashCode hashCode ()I
+		METHOD setColor setColor (I)V
+			ARG 1 color
+		METHOD setText setText (Ljava/lang/String;)V
+			ARG 1 text
+		METHOD toString toString ()Ljava/lang/String;

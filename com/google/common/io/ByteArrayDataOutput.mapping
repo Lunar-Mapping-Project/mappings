@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/RCHHIHHRCCIHIRCCCRHIOCCHR com/google/common/io/ByteArrayDataOutput
+	METHOD toByteArray toByteArray ()[B
+	METHOD write write (I)V
+	METHOD write write ([B)V
+	METHOD write write ([BII)V
+	METHOD writeBoolean writeBoolean (Z)V
+	METHOD writeByte writeByte (I)V
+	METHOD writeBytes writeBytes (Ljava/lang/String;)V
+	METHOD writeChar writeChar (I)V
+	METHOD writeChars writeChars (Ljava/lang/String;)V
+	METHOD writeDouble writeDouble (D)V
+	METHOD writeFloat writeFloat (F)V
+	METHOD writeInt writeInt (I)V
+	METHOD writeLong writeLong (J)V
+	METHOD writeShort writeShort (I)V
+	METHOD writeUTF writeUTF (Ljava/lang/String;)V

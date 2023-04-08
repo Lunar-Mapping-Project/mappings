@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/client/options/NumberOption
+	FIELD CICCIHHOCIOICOCICOHCRHCIO step I
+	FIELD HOIOOOIIIHICRHOIROHOHRHCC min Ljava/lang/Number;
+	FIELD IHHIHCRHOHCROIHIHRRHHHHOR max Ljava/lang/Number;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Number;Ljava/lang/Number;Ljava/lang/Number;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Number;Ljava/lang/Number;Ljava/lang/Number;I)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Number;Ljava/lang/Number;Ljava/lang/Number;ILjava/util/function/BooleanSupplier;)V
+	METHOD CCOOROCCORCCHHOCRCCCOIIRI getStep ()I
+	METHOD HHRHOORCOOOCOCHCHHHIHRCRI getMax ()Ljava/lang/Number;
+	METHOD IOICICOOIRRHCCHORRHOOOICR getValue (Ljava/lang/String;)Ljava/util/Optional;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI parse (Ljava/lang/Double;)Ljava/lang/Number;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI setMin (Ljava/lang/Number;)V
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC setValue (Ljava/lang/Object;)V
+	METHOD OIOORRORCRHOOCICORRCHOHRC setMax (Ljava/lang/Number;)V
+	METHOD OOCCRHOICRICCRRICROIHHRCH isRoundedStep ()Z
+	METHOD ORRCHORCCOOOCCORCIHCROOCC getUIComponent (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/HOHOHRIHCIICROCRCRIIOCCHC;
+	METHOD RCORHOHHORCCICOOHIOHOHHII getMin ()Ljava/lang/Number;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setValueFromDouble (Ljava/lang/Double;)V
+	METHOD getValueAsString getValueAsString ()Ljava/lang/String;
+	METHOD lambda$new$0 lambda$new$0 ()Z
+	METHOD update update (Ljava/lang/String;)V

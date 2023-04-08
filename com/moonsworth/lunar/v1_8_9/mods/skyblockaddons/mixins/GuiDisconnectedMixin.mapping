@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/GuiDisconnectedMixin
+	METHOD <init> <init> ()V
+	METHOD impl$onDisconnect impl$onDisconnect (Lnet/minecraft/client/gui/GuiScreen;Ljava/lang/String;Lnet/minecraft/util/IChatComponent;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

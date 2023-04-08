@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCHIHCCHCOCROIRRHIHORO joptsimple/ParserRules
+	FIELD abZ HYPHEN_CHAR C
+	FIELD aca HYPHEN Ljava/lang/String;
+	FIELD acb DOUBLE_HYPHEN Ljava/lang/String;
+	FIELD acc OPTION_TERMINATOR Ljava/lang/String;
+	FIELD acd RESERVED_FOR_EXTENSIONS Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD RCCHHOROOCOIHRORCROCIHHRO ensureLegalOptions (Ljava/util/List;)V
+		ARG 0 options
+	METHOD ensureLegalOption ensureLegalOption (Ljava/lang/String;)V
+		ARG 0 option
+	METHOD ensureLegalOptionCharacter ensureLegalOptionCharacter (C)V
+		ARG 0 option
+	METHOD isAllowedPunctuation isAllowedPunctuation (C)Z
+		ARG 0 option
+	METHOD isLongOptionToken isLongOptionToken (Ljava/lang/String;)Z
+		ARG 0 argument
+	METHOD isOptionTerminator isOptionTerminator (Ljava/lang/String;)Z
+		ARG 0 argument
+	METHOD isShortOptionToken isShortOptionToken (Ljava/lang/String;)Z
+		ARG 0 argument

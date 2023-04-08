@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/util/texture/ImageUtils
+	METHOD <init> <init> ()V
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC readCloakDownloadScaed (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;
+		ARG 0 image
+	METHOD ORRCHORCCOOOCCORCIHCROOCC readDownscaledImage (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;
+		ARG 0 image
+	METHOD RHCICOIRIORCIOIOIHHHCHHHI isCosmeticTexture (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)Z
+		ARG 0 location
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC getNewHeight (III)I
+		ARG 0 height
+		ARG 2 width
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC readSlicedCloak (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;
+		ARG 0 image
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI readImage (Ljava/awt/image/BufferedImage;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/IOICICOOIRRHCCHORRHOOOICR;)Ljava/awt/image/BufferedImage;
+		ARG 0 image
+		ARG 1 quality
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI readSlicedCloak (Ljava/awt/image/BufferedImage;Z)Ljava/awt/image/BufferedImage;
+		ARG 0 image
+		ARG 1 downscale

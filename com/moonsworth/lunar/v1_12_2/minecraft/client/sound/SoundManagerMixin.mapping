@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/client/sound/SoundManagerMixin
+	FIELD playingSounds playingSounds Ljava/util/Map;
+	FIELD sndSystem sndSystem Lnet/minecraft/client/audio/SoundManager$SoundSystemStarterThread;
+	METHOD <init> <init> ()V
+	METHOD bridge$setPlayingSoundVolume bridge$setPlayingSoundVolume (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;F)V
+	METHOD lambda$bridge$setPlayingSoundVolume$0 lambda$bridge$setPlayingSoundVolume$0 (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;Ljava/util/Map$Entry;)Z
+	METHOD lambda$bridge$setPlayingSoundVolume$1 lambda$bridge$setPlayingSoundVolume$1 (FLjava/util/Map$Entry;)V

@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/multibridge/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC
+	FIELD ahq screen Lnet/minecraft/client/gui/screens/Screen;
+	FIELD ahr formattedText Lnet/minecraft/network/chat/Component;
+	METHOD <init> (Lnet/minecraft/client/gui/screens/Screen;Lnet/minecraft/network/chat/Component;)V
+		ARG 1 screen
+		ARG 2 formattedText
+	METHOD OIIORHCCIRIHCOIOHHCROHICH formattedText ()Lnet/minecraft/network/chat/Component;
+	METHOD OOCOORRCROOCRCRRRIRIHIRIO screen ()Lnet/minecraft/client/gui/screens/Screen;
+	METHOD onTooltip onTooltip (Lnet/minecraft/client/gui/components/Button;Lcom/mojang/blaze3d/vertex/PoseStack;II)V

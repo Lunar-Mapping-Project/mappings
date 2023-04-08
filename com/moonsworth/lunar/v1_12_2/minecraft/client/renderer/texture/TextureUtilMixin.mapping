@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_12_2/minecraft/client/renderer/texture/TextureUtilMixin
+	METHOD <init> <init> ()V
+	METHOD readBufferedImage readBufferedImage (Ljava/io/InputStream;)Ljava/awt/image/BufferedImage;

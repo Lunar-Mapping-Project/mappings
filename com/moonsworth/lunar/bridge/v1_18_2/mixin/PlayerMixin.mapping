@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ICOICORHIORHRCRIIIOCCCOCO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/v1_18_2/mixin/PlayerMixin
+	FIELD gameProfile gameProfile Lcom/mojang/authlib/GameProfile;
+	METHOD <init> <init> (Lnet/minecraft/world/entity/EntityType;Lnet/minecraft/world/level/Level;)V
+	METHOD bridge$addChatMessage bridge$addChatMessage (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD bridge$getGameProfile bridge$getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD bridge$getName bridge$getName ()Ljava/lang/String;

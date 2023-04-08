@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/ROIOOOIRHICHRHRHCIROCRCCH com/google/common/util/concurrent/ForwardingExecutorService
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD CRRHOOHOCHHCIOCICRCCCOOCC delegate ()Ljava/util/concurrent/ExecutorService;
+	METHOD awaitTermination awaitTermination (JLjava/util/concurrent/TimeUnit;)Z
+	METHOD execute execute (Ljava/lang/Runnable;)V
+	METHOD invokeAll invokeAll (Ljava/util/Collection;)Ljava/util/List;
+	METHOD invokeAll invokeAll (Ljava/util/Collection;JLjava/util/concurrent/TimeUnit;)Ljava/util/List;
+	METHOD invokeAny invokeAny (Ljava/util/Collection;)Ljava/lang/Object;
+	METHOD invokeAny invokeAny (Ljava/util/Collection;JLjava/util/concurrent/TimeUnit;)Ljava/lang/Object;
+	METHOD isShutdown isShutdown ()Z
+	METHOD isTerminated isTerminated ()Z
+	METHOD shutdown shutdown ()V
+	METHOD shutdownNow shutdownNow ()Ljava/util/List;
+	METHOD submit submit (Ljava/lang/Runnable;)Ljava/util/concurrent/Future;
+	METHOD submit submit (Ljava/lang/Runnable;Ljava/lang/Object;)Ljava/util/concurrent/Future;
+	METHOD submit submit (Ljava/util/concurrent/Callable;)Ljava/util/concurrent/Future;

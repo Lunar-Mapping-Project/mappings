@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/narrator/NarratorMixin
+	METHOD getNarrator getNarrator ()Lcom/mojang/text2speech/Narrator;

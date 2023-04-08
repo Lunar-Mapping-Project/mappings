@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/ichor/IchorLoader
+	METHOD <init> <init> ()V
+	METHOD IIROHIIHCHOORORIIHORHRORO getModContainer (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;)Ljava/util/Optional;
+		ARG 1 injector
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		ARG 1 injector
+		ARG 2 version

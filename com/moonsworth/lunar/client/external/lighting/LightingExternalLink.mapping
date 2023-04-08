@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/external/lighting/LightingExternalLink
+	METHOD beforeOBJMeshRender beforeOBJMeshRender ()V
+	METHOD beginBeacon beginBeacon ()V
+	METHOD endBeacon endBeacon ()V
+	METHOD lunar$areShadersEnabledInConfig lunar$areShadersEnabledInConfig ()Z
+	METHOD lunar$displayLightingModWarningIfNeeded lunar$displayLightingModWarningIfNeeded (Ljava/lang/Runnable;)V

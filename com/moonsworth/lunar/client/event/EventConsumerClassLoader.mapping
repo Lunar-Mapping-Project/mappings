@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/event/EventConsumerClassLoader
+	FIELD ICOHIRIOCCHORHHCRHCIIROCI classes Ljava/util/Map;
+	METHOD <init> <init> (Ljava/lang/ClassLoader;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getClass (Ljava/lang/String;[B)Ljava/lang/Class;

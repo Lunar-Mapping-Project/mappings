@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/glfw/GLContextBridgeImpl
+	FIELD ahb ahb J
+	METHOD <init> <init> ()V
+	METHOD getX getX ()I
+	METHOD getY getY ()I

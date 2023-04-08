@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/potion/PotionBridge
+	METHOD bridge$getID bridge$getID ()I
+	METHOD bridge$getStatusIconIndex bridge$getStatusIconIndex ()I
+	METHOD bridge$hasStatusIcon bridge$hasStatusIcon ()Z
+	METHOD bridge$isBadEffect bridge$isBadEffect ()Z

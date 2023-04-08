@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/entity/item/EntityItemFrameMixin
+	METHOD <init> <init> (Lnet/minecraft/world/World;)V
+	METHOD canBeCollidedWith canBeCollidedWith ()Z

@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/client/renderer/texture/FilePNGImage
+	FIELD CHIIRCRRORCROCIOOHIHCCRCR image Ljava/awt/image/BufferedImage;
+	METHOD <init> <init> (Ljava/awt/image/BufferedImage;)V
+	METHOD OIOORRORCRHOOCICORRCHOHRC bridge$isPresent (II)Z
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR bridge$isOpaque (II)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI writeToPngFile (Ljava/io/File;)V
+	METHOD bridge$getHeight bridge$getHeight ()I
+	METHOD bridge$getWidth bridge$getWidth ()I
+	METHOD close close ()V

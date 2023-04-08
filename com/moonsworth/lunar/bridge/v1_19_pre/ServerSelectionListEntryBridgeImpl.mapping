@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIHOOROIIHIHROCCHIRICHOII/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/bridge/v1_19_pre/ServerSelectionListEntryBridgeImpl
+	FIELD CIRIORHIHHOOCRRCOCRHCICIO minecraft Lnet/minecraft/client/Minecraft;
+	FIELD COCRHOIOCROCHCHHROIRHRRCR serverSelectionList Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;
+	FIELD HCRHHROHCCRRRHOHHHHCROIOH serverIcon Lnet/minecraft/resources/ResourceLocation;
+	FIELD HHCHORROHRHRRCOCRCICHHROO screen Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;
+	FIELD HHHRIORHOCCCCIHHIORROOHHR texture Lnet/minecraft/client/renderer/texture/DynamicTexture;
+	FIELD ICOIRCHHOIOHOOHIOOCRHIIOR server Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD <init> <init> (Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;Lnet/minecraft/client/multiplayer/ServerData;)V
+		ARG 1 screen
+		ARG 2 serverSelectionList
+		ARG 3 server
+	METHOD IHHHIICCOCCOROHHORHOIHIRR save ()V
+	METHOD getNarration getNarration ()Lnet/minecraft/network/chat/Component;
+	METHOD getServerData getServerData ()Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD keyPressed keyPressed (III)Z
+	METHOD mouseClicked mouseClicked (DDI)Z
+	METHOD render render (Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIIIZF)V

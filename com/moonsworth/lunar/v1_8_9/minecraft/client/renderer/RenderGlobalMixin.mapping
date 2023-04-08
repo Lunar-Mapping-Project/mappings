@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/RenderGlobalMixin
+	FIELD displayListEntitiesDirty displayListEntitiesDirty Z
+	FIELD renderInfos renderInfos Ljava/util/List;
+	FIELD viewFrustum viewFrustum Lnet/minecraft/client/renderer/ViewFrustum;
+	METHOD <init> <init> ()V
+	METHOD bridge$getMaximumRenderCount bridge$getMaximumRenderCount ()I
+	METHOD bridge$getUnculledRenderCount bridge$getUnculledRenderCount ()I
+	METHOD bridge$reloadChunks bridge$reloadChunks ()V
+	METHOD bridge$setNeedsFullRenderChunkUpdate bridge$setNeedsFullRenderChunkUpdate (Z)V
+	METHOD impl$drawSelectionBoundingBox impl$drawSelectionBoundingBox (Lnet/minecraft/util/AxisAlignedBB;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$drawSelectionBox$getBlock impl$drawSelectionBox$getBlock (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/MovingObjectPosition;)Lnet/minecraft/block/Block;
+	METHOD lambda$bridge$getUnculledRenderCount$0 lambda$bridge$getUnculledRenderCount$0 (Lnet/minecraft/client/renderer/RenderGlobal$ContainerLocalRenderInformation;)Z
+	METHOD loadRenderers loadRenderers ()V

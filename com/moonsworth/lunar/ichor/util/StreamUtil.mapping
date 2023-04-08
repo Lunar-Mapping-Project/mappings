@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/util/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/util/StreamUtil
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI toByteArray (Ljava/io/InputStream;Z)[B
+	METHOD copy copy (Ljava/io/InputStream;Ljava/io/OutputStream;)J
+	METHOD toByteArray toByteArray (Ljava/io/InputStream;)[B

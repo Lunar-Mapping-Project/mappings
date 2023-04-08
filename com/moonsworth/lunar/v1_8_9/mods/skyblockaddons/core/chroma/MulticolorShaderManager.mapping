@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/core/chroma/MulticolorShaderManager
+	FIELD currentState currentState Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI$RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD begin begin (ZZZ)V
+	METHOD end end ()V
+	METHOD shouldUseChromaShaders shouldUseChromaShaders ()Z
+	CLASS OCIROORRIRIOHIIIRRIORCIHI ShaderChromaState
+		FIELD shaderType shaderType Ljava/lang/Class;
+		METHOD <init> <init> (ZZZ)V
+		METHOD disable disable ()V
+		METHOD setup setup ()V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI MulticolorState
+		FIELD chromaEnabled chromaEnabled Z
+		FIELD ignoreTexture ignoreTexture Z
+		FIELD render3D render3D Z
+		FIELD textured textured Z
+		METHOD <init> <init> ()V
+		METHOD <init> <init> (ZZZ)V
+		METHOD disable disable ()V
+		METHOD setup setup ()V

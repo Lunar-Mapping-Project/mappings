@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/management/ErrorFilter
+	FIELD HOCCIOHRCIICRIRHHCCORHOOI patterns Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD OHHRRCICIRRIHOORRHCOCRRHR getPatterns ()Ljava/util/Collection;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI addPattern (Ljava/lang/String;Ljava/util/regex/Pattern;)V

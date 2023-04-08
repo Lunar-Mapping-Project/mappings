@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/nbt/NBTUtilMixin
+	METHOD <init> <init> ()V
+	METHOD fromString fromString (Ljava/lang/String;)Ljava/util/UUID;
+	METHOD impl$parseUUID impl$parseUUID (Ljava/lang/String;)Ljava/util/UUID;

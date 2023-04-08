@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/DisconnectedScreenMixin
+	FIELD message$v1_16_5 message$v1_16_5 Lnet/minecraft/client/gui/components/MultiLineLabel;
+	FIELD parent parent Lnet/minecraft/client/gui/screens/Screen;
+	FIELD reason reason Lnet/minecraft/network/chat/Component;
+	FIELD textHeight textHeight I
+	METHOD <init> <init> (Lnet/minecraft/network/chat/Component;)V
+	METHOD init init ()V
+	METHOD lambda$init$0 lambda$init$0 (Lnet/minecraft/client/gui/components/Button;)V
+	METHOD lambda$init$1 lambda$init$1 (Lnet/minecraft/client/gui/components/Button;)V
+	METHOD lunar$addButton lunar$addButton (Lnet/minecraft/client/gui/components/Button;)V

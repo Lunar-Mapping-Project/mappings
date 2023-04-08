@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RCRIIRROHHOCHHHCHOCIICRHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/mchorse/mclib/utils/Interpolations
+	METHOD <init> <init> ()V
+	METHOD bezier bezier (DDDDD)D
+	METHOD bezier bezier (FFFFF)F
+	METHOD bezierX bezierX (DDDD)D
+	METHOD bezierX bezierX (DDF)D
+	METHOD bezierX bezierX (FFF)F
+	METHOD bezierX bezierX (FFFF)F
+	METHOD cubic cubic (DDDDD)D
+	METHOD cubic cubic (FFFFF)F
+	METHOD cubicHermite cubicHermite (DDDDD)D
+	METHOD cubicHermiteYaw cubicHermiteYaw (FFFFF)D
+	METHOD cubicYaw cubicYaw (DDDDD)D
+	METHOD cubicYaw cubicYaw (FFFFF)F
+	METHOD envelope envelope (DDD)D
+	METHOD envelope envelope (DDDDD)D
+	METHOD envelope envelope (FFF)F
+	METHOD envelope envelope (FFFFF)F
+	METHOD lerp lerp (DDD)D
+	METHOD lerp lerp (FFF)F
+	METHOD lerpYaw lerpYaw (DDD)D
+	METHOD lerpYaw lerpYaw (FFF)F
+	METHOD normalizeYaw normalizeYaw (DD)D
+	METHOD normalizeYaw normalizeYaw (FF)F

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/client/event/impl/world/UpdateHorizionEvent
+	FIELD value value D
+	METHOD <init> <init> ()V
+	METHOD getValue getValue ()D
+	METHOD setValue setValue (D)V

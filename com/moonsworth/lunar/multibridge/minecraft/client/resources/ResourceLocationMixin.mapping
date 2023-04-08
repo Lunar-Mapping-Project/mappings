@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/resources/ResourceLocationMixin
+	FIELD namespace namespace Ljava/lang/String;
+	FIELD path path Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD bridge$getDomain bridge$getDomain ()Ljava/lang/String;
+	METHOD bridge$getPath bridge$getPath ()Ljava/lang/String;
+	METHOD isValidPath isValidPath (Ljava/lang/String;)Z
+		ARG 0 path
+	METHOD lunar$isValidPath lunar$isValidPath (Ljava/lang/String;)Z
+		ARG 1 path
+	METHOD lunar$validChar lunar$validChar (C)Z
+		ARG 0 c
+	METHOD validNamespaceChar validNamespaceChar (C)Z
+		ARG 0 c
+	METHOD validPathChar validPathChar (C)Z
+		ARG 0 c

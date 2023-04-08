@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/ROOICOIICOIOORHCHIHCOICII com/moonsworth/lunar/client/util/NativeMapping
+	METHOD <init> <init> ()V
+	METHOD OIOOCIIHICICRRHCROHOOHOCI mapClass (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI map (Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/String;)V
+	METHOD ROOHRHIRRRIOCHOOOOOICHHIO mapField (Ljava/lang/String;Ljava/lang/String;)V

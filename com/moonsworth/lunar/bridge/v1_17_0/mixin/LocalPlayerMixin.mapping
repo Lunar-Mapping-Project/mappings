@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CCRHOHCCOIICHCCHIOIICHHOO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/v1_17_0/mixin/LocalPlayerMixin
+	FIELD connection connection Lnet/minecraft/client/multiplayer/ClientPacketListener;
+	METHOD <init> <init> (Lnet/minecraft/client/multiplayer/ClientLevel;Lcom/mojang/authlib/GameProfile;)V
+	METHOD chat chat (Ljava/lang/String;)V

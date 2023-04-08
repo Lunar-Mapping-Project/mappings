@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/scoreboard/ScoreBridge
+	METHOD bridge$getPlayerName bridge$getPlayerName ()Ljava/lang/String;
+	METHOD bridge$getScorePoints bridge$getScorePoints ()Ljava/lang/Integer;
+	METHOD bridge$setScorePoints bridge$setScorePoints (I)V

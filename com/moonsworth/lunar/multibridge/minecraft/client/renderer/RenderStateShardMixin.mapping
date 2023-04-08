@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/multibridge/minecraft/client/renderer/RenderStateShardMixin
+	FIELD clearState clearState Ljava/lang/Runnable;
+	FIELD setupState setupState Ljava/lang/Runnable;
+	METHOD <init> <init> ()V
+	METHOD setClearStateRunnable setClearStateRunnable (Ljava/lang/Runnable;)V
+	METHOD setSetupStateRunnable setSetupStateRunnable (Ljava/lang/Runnable;)V

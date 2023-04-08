@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/management/metadata/GameMetadata
+	FIELD loaded loaded Z
+	FIELD name name Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD HIHRRIIICHCCIIIICHOHORCII isLoaded ()Z
+	METHOD IRCOCRHRIHOIRCCHHCCHIIIHC getTranslation ()Ljava/lang/String;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR handle (Lcom/google/gson/JsonElement;)V
+		ARG 1 json
+	METHOD accept accept (Ljava/lang/Object;)V
+	METHOD setName setName (Ljava/lang/String;)V

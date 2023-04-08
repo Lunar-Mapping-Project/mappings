@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC com/google/common/io/ByteArrayDataInput
+	METHOD readBoolean readBoolean ()Z
+	METHOD readByte readByte ()B
+	METHOD readChar readChar ()C
+	METHOD readDouble readDouble ()D
+	METHOD readFloat readFloat ()F
+	METHOD readFully readFully ([B)V
+	METHOD readFully readFully ([BII)V
+	METHOD readInt readInt ()I
+	METHOD readLine readLine ()Ljava/lang/String;
+	METHOD readLong readLong ()J
+	METHOD readShort readShort ()S
+	METHOD readUTF readUTF ()Ljava/lang/String;
+	METHOD readUnsignedByte readUnsignedByte ()I
+	METHOD readUnsignedShort readUnsignedShort ()I
+	METHOD skipBytes skipBytes (I)I

@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/particle/ParticleMixin
+	FIELD bCol bCol F
+	FIELD gCol gCol F
+	FIELD impl$defaultColor impl$defaultColor Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/IOICCORHHICCROCCRIHOIIRHC;
+	FIELD impl$particleId impl$particleId I
+	FIELD impl$scale impl$scale F
+	FIELD rCol rCol F
+	FIELD x x D
+	FIELD xd xd D
+	FIELD y y D
+	FIELD yd yd D
+	FIELD z z D
+	FIELD zd zd D
+	METHOD <init> <init> ()V
+	METHOD bridge$getParticleType bridge$getParticleType ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$resetSettings bridge$resetSettings ()V
+	METHOD bridge$setColor bridge$setColor (FFF)V
+	METHOD bridge$setId bridge$setId (I)V
+	METHOD bridge$setScale bridge$setScale (F)V
+	METHOD isFirework isFirework ()Z
+	METHOD move move (DDD)V

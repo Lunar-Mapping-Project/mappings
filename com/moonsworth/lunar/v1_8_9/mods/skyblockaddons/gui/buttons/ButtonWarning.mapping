@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/HCOCIICCICRIRCCROHHCHIIIC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/gui/buttons/ButtonWarning
+	FIELD main main Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD timeOpened timeOpened J
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (DDLjava/lang/String;)V
+	METHOD drawButton drawButton (Lnet/minecraft/client/Minecraft;II)V
+	METHOD mousePressed mousePressed (Lnet/minecraft/client/Minecraft;II)Z

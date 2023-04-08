@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/potion/PotionMixin
+	FIELD isBadEffect isBadEffect Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getID bridge$getID ()I
+	METHOD bridge$getStatusIconIndex bridge$getStatusIconIndex ()I
+	METHOD bridge$hasStatusIcon bridge$hasStatusIcon ()Z
+	METHOD bridge$isBadEffect bridge$isBadEffect ()Z
+	METHOD getStatusIconIndex getStatusIconIndex ()I
+	METHOD hasStatusIcon hasStatusIcon ()Z

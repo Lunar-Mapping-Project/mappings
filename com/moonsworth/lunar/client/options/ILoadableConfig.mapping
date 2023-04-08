@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/client/options/ILoadableConfig
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+		ARG 1 json
+	METHOD load load (Lcom/google/gson/JsonObject;)V
+		ARG 1 json

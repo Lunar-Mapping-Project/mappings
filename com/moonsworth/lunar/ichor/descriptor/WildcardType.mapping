@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/ichor/descriptor/WildcardType
+	METHOD <init> <init> ()V
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD toString toString ()Ljava/lang/String;

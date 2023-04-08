@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/morph/IBoneRenderer
+	METHOD applyBoneTransform applyBoneTransform (Ljavax/vecmath/Matrix4f;Ljava/lang/String;)V
+		ARG 1 transform
+		ARG 2 boneName

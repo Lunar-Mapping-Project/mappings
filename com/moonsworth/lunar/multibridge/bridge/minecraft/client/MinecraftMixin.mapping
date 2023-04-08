@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/bridge/minecraft/client/MinecraftMixin
+	FIELD hitResult hitResult Lnet/minecraft/world/phys/HitResult;
+	FIELD missTime missTime I
+	METHOD <init> <init> ()V
+	METHOD impl$callWorldLoadEvent impl$callWorldLoadEvent (Lnet/minecraft/client/multiplayer/ClientLevel;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$launchIntegratedServer$1_19 impl$launchIntegratedServer$1_19 (Lnet/minecraft/world/level/storage/LevelStorageSource$LevelStorageAccess;Lnet/minecraft/core/RegistryAccess;Lnet/minecraft/world/level/storage/WorldData;)V
+	METHOD impl$launchIntegratedServer impl$launchIntegratedServer (Lnet/minecraft/world/level/storage/LevelStorageSource$LevelStorageAccess;Lnet/minecraft/core/RegistryAccess;Lnet/minecraft/world/level/storage/WorldData;)V
+	METHOD lunar$applyMenuFPSLimit lunar$applyMenuFPSLimit (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$increaseDefaultResourcePackCount lunar$increaseDefaultResourcePackCount (I)I
+	METHOD onSwing onSwing (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD onSwing onSwing (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

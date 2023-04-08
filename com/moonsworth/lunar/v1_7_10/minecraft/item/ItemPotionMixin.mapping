@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_7_10/minecraft/item/ItemPotionMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getEffects bridge$getEffects (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Collection;
+	METHOD getEffects getEffects (Lnet/minecraft/item/ItemStack;)Ljava/util/List;

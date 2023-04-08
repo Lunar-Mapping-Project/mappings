@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/RenderManagerMixin
+	METHOD <init> <init> ()V
+	METHOD impl$onDoRender impl$onDoRender (Lnet/minecraft/entity/Entity;DDDFFZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_8_9/mixin/util/client/gui/GuiPlayerTabOverlayMixin
+	FIELD additionWeight additionWeight Z
+	FIELD field_175252_a field_175252_a Lcom/google/common/collect/Ordering;
+	FIELD footer footer Lnet/minecraft/util/IChatComponent;
+	FIELD header header Lnet/minecraft/util/IChatComponent;
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	FIELD modifyingPlayerEntry modifyingPlayerEntry Ljava/util/UUID;
+	FIELD playerIndex playerIndex I
+	FIELD playerList playerList Ljava/util/List;
+	FIELD tempFooter tempFooter Lnet/minecraft/util/IChatComponent;
+	FIELD tempHeader tempHeader Lnet/minecraft/util/IChatComponent;
+	METHOD <init> <init> ()V
+	METHOD impl$drawPing impl$drawPing (IIILnet/minecraft/client/network/NetworkPlayerInfo;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$isEncrypted impl$isEncrypted (Lnet/minecraft/network/NetworkManager;)Z
+	METHOD impl$isRunningIntegrated impl$isRunningIntegrated (Lnet/minecraft/client/Minecraft;)Z
+	METHOD impl$onDrawString impl$onDrawString (Lnet/minecraft/client/gui/FontRenderer;Ljava/lang/String;FFI)I
+	METHOD impl$onGetPlayerName$0 impl$onGetPlayerName$0 (Lnet/minecraft/client/gui/GuiPlayerTabOverlay;Lnet/minecraft/client/network/NetworkPlayerInfo;)Ljava/lang/String;
+	METHOD impl$onGetPlayerName impl$onGetPlayerName (Lnet/minecraft/client/gui/GuiPlayerTabOverlay;Lnet/minecraft/client/network/NetworkPlayerInfo;)Ljava/lang/String;
+	METHOD impl$onGetStringWidth impl$onGetStringWidth (Lnet/minecraft/client/gui/FontRenderer;Ljava/lang/String;)I
+	METHOD impl$render$fill$1 impl$render$fill$1 (IIIII)V
+	METHOD impl$render$fill$2 impl$render$fill$2 (IIIII)V
+	METHOD impl$render$getPlayerInfo impl$render$getPlayerInfo (Lcom/google/common/collect/Ordering;Ljava/lang/Iterable;)Ljava/util/List;
+	METHOD impl$render$head impl$render$head (ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$render$return impl$render$return (ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$onDrawString$0 lambda$impl$onDrawString$0 (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/IIOORHHORIRORRHIRCRHHHIHO/RHOIOCRHOCHOOHHCOHIOIIRHI;Lnet/kyori/adventure/text/TextComponent$Builder;)Lnet/kyori/adventure/text/ComponentLike;
+	METHOD lambda$impl$render$getPlayerInfo$1 lambda$impl$render$getPlayerInfo$1 (Lnet/minecraft/client/network/NetworkPlayerInfo;)Z

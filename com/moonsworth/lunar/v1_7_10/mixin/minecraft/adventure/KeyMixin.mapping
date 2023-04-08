@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/adventure/KeyMixin
+	METHOD key key (Ljava/lang/String;Ljava/lang/String;)Lnet/kyori/adventure/key/Key;

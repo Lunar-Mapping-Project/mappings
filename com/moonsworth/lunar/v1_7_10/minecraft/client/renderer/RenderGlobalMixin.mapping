@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_7_10/minecraft/client/renderer/RenderGlobalMixin
+	FIELD displayListEntitiesDirty displayListEntitiesDirty Z
+	FIELD random random Ljava/util/Random;
+	FIELD renderersBeingRendered renderersBeingRendered I
+	FIELD renderersLoaded renderersLoaded I
+	METHOD <init> <init> ()V
+	METHOD bridge$getMaximumRenderCount bridge$getMaximumRenderCount ()I
+	METHOD bridge$getUnculledRenderCount bridge$getUnculledRenderCount ()I
+	METHOD bridge$reloadChunks bridge$reloadChunks ()V
+	METHOD bridge$setNeedsFullRenderChunkUpdate bridge$setNeedsFullRenderChunkUpdate (Z)V
+	METHOD doSpawnParticle doSpawnParticle (Ljava/lang/String;DDDDDD)Lnet/minecraft/client/particle/EntityFX;
+	METHOD impl$doSpawnParticle impl$doSpawnParticle (Ljava/lang/String;DDDDDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$drawOutlinedBoundingBox impl$drawOutlinedBoundingBox (Lnet/minecraft/util/AxisAlignedBB;I)V
+	METHOD impl$drawSelectionBox$getBlock impl$drawSelectionBox$getBlock (Lnet/minecraft/client/multiplayer/WorldClient;IIILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/MovingObjectPosition;)Lnet/minecraft/block/Block;
+	METHOD impl$renderEntities$isInRangeToRender3d impl$renderEntities$isInRangeToRender3d (Lnet/minecraft/entity/Entity;DDD)Z
+	METHOD impl$spawnParticle$doSpawnParticle impl$spawnParticle$doSpawnParticle (Ljava/lang/String;DDDDDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD loadRenderers loadRenderers ()V

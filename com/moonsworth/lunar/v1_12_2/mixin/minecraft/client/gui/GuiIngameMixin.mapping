@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/gui/GuiIngameMixin
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	FIELD titlesTimer titlesTimer I
+	METHOD <init> <init> ()V
+	METHOD impl$isKeyDown impl$isKeyDown (Lnet/minecraft/client/settings/KeyBinding;)Z
+	METHOD impl$onRenderBossHealth impl$onRenderBossHealth (Lnet/minecraft/client/gui/GuiBossOverlay;)V
+	METHOD impl$onRenderEffects impl$onRenderEffects (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$render3DOverlays impl$render3DOverlays (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderAttackIndicator impl$renderAttackIndicator (FLnet/minecraft/client/gui/ScaledResolution;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderGameOverlay$title impl$renderGameOverlay$title (Lnet/minecraft/client/gui/GuiIngame;)I
+	METHOD impl$renderGameOverlay impl$renderGameOverlay (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderHotbar impl$renderHotbar (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderPlayerHealth impl$renderPlayerHealth (Lnet/minecraft/client/gui/ScaledResolution;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderPlayerStats impl$renderPlayerStats (I)I
+	METHOD renderScoreboard renderScoreboard (Lnet/minecraft/scoreboard/ScoreObjective;Lnet/minecraft/client/gui/ScaledResolution;)V

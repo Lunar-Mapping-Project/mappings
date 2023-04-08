@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/minecraft/scoreboard/ScoreboardMixin
+	FIELD teamMemberships teamMemberships Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD bridge$getObjectiveInDisplaySlot bridge$getObjectiveInDisplaySlot (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getPlayersTeam bridge$getPlayersTeam (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getSortedScores bridge$getSortedScores (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OCIROORRIRIOHIIIRRIORCIHI;)Ljava/util/Collection;
+	METHOD bridge$getValueFromObjective bridge$getValueFromObjective (Ljava/lang/String;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OCIROORRIRIOHIIIRRIORCIHI;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD getObjectiveInDisplaySlot getObjectiveInDisplaySlot (I)Lnet/minecraft/scoreboard/ScoreObjective;
+	METHOD getPlayersTeam getPlayersTeam (Ljava/lang/String;)Lnet/minecraft/scoreboard/ScorePlayerTeam;
+	METHOD getSortedScores getSortedScores (Lnet/minecraft/scoreboard/ScoreObjective;)Ljava/util/Collection;
+	METHOD getValueFromObjective getValueFromObjective (Ljava/lang/String;Lnet/minecraft/scoreboard/ScoreObjective;)Lnet/minecraft/scoreboard/Score;
+	METHOD impl$removeObjective impl$removeObjective (Lnet/minecraft/scoreboard/ScoreObjective;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 2 ci
+	METHOD impl$removeTeam impl$removeTeam (Lnet/minecraft/scoreboard/ScorePlayerTeam;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 2 ci
+	METHOD lambda$bridge$getSortedScores$0 lambda$bridge$getSortedScores$0 (Lnet/minecraft/scoreboard/Score;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD removePlayerFromTeam removePlayerFromTeam (Ljava/lang/String;Lnet/minecraft/scoreboard/ScorePlayerTeam;)V

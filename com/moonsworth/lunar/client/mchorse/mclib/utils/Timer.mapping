@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RCRIIRROHHOCHHHCHOCIICRHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/client/mchorse/mclib/utils/Timer
+	FIELD duration duration J
+	FIELD enabled enabled Z
+	FIELD time time J
+	METHOD <init> <init> (J)V
+	METHOD check check ()Z
+	METHOD checkRepeat checkRepeat ()Z
+	METHOD checkReset checkReset ()Z
+	METHOD getRemaining getRemaining ()J
+	METHOD isTime isTime ()Z
+	METHOD mark mark ()V
+	METHOD mark mark (J)V
+	METHOD reset reset ()V

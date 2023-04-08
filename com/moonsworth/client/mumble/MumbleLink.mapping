@@ -1,0 +1,7 @@
+CLASS com/moonsworth/client/mumble/MumbleLink com/moonsworth/client/mumble/MumbleLink
+	FIELD ok ok Z
+	METHOD <init> <init> ()V
+	METHOD init init ()I
+	METHOD isOk isOk ()Z
+	METHOD update update (Lcom/moonsworth/client/mumble/LinkData;)V
+		ARG 1 data

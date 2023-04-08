@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/blaze3d/platform/NativeImageMixin
+	FIELD height height I
+	FIELD pixels pixels J
+	FIELD size size J
+	FIELD width width I
+	METHOD <init> <init> ()V
+	METHOD bridge$checkAllocated bridge$checkAllocated ()V
+	METHOD bridge$getHeight bridge$getHeight ()I
+	METHOD bridge$getPixels bridge$getPixels ()J
+	METHOD bridge$getWidth bridge$getWidth ()I
+	METHOD bridge$size bridge$size ()J
+	METHOD checkAllocated checkAllocated ()V

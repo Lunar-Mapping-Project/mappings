@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/mixin/MixinConfiguration
+	FIELD acR version Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		ARG 1 version
+	METHOD CCCRIIOIRIOORICOICIIIRRHC getVersionedMixinConfig (Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 version
+	METHOD COOIOHHOCOCCHIOROHOIRRCOR getMixinConfig ()Ljava/lang/String;

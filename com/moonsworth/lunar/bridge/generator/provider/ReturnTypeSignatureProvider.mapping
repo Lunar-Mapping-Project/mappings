@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/bridge/generator/provider/ReturnTypeSignatureProvider
+	FIELD IICOHCHCCIRORIRIOOCIRCHHH valueProviders Ljava/util/List;
+	METHOD <init> <init> (Ljava/util/List;)V
+		ARG 1 valueProviders
+	METHOD HOCCCHHIROCRROCHRIOHOROCC valueProviders ()Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI provide (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC;Ljava/util/Queue;Ljava/util/Stack;Lorg/objectweb/asm/tree/InsnList;)V
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

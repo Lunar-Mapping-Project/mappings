@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/v1_19_pre/mixin/core/FeatureMixin
+	METHOD <init> <init> ()V
+	METHOD register register (Ljava/lang/String;Lnet/minecraft/world/level/levelgen/feature/Feature;)Lnet/minecraft/world/level/levelgen/feature/Feature;
+	METHOD test test (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD test2 test2 (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

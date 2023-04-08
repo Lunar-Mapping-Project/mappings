@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/gui/buttons/ButtonNewTag
+	METHOD <init> <init> (II)V
+	METHOD drawButton drawButton (Lnet/minecraft/client/Minecraft;II)V
+	METHOD playPressSound playPressSound (Lnet/minecraft/client/audio/SoundHandler;)V

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/impl/util/pose/TransformationUtil
+	METHOD OCIROORRIRIOHIIIRRIORCIHI applyOrigin (Lcom/mojang/math/Transformation;Lcom/mojang/math/Vector3f;)Lcom/mojang/math/Transformation;
+		ARG 0 transformation
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI pushTransformation (Lcom/mojang/math/Transformation;Lcom/mojang/blaze3d/vertex/PoseStack;)V
+		ARG 0 transformation

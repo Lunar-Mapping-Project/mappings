@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/impl/client/renderer/BlockRendererDispatcherBridgeImpl
+	FIELD aik source Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;
+	METHOD <init> <init> ()V
+	METHOD bridge$flush bridge$flush ()V
+	METHOD bridge$renderBlock bridge$renderBlock (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;II)V

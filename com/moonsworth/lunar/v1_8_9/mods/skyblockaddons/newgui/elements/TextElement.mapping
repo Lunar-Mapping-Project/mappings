@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/newgui/elements/TextElement
+	FIELD scale scale F
+	FIELD text text Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD render render ()V

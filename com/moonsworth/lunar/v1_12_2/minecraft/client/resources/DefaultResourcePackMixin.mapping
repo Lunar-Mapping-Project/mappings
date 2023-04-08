@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/client/resources/DefaultResourcePackMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getInputStream bridge$getInputStream (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)Ljava/io/InputStream;
+	METHOD bridge$getPackImage bridge$getPackImage ()Ljava/util/Optional;
+	METHOD bridge$getPackName bridge$getPackName ()Ljava/lang/String;
+	METHOD getPackImage getPackImage ()Ljava/awt/image/BufferedImage;
+	METHOD getPackName getPackName ()Ljava/lang/String;
+	METHOD getResourceDomains getResourceDomains ()Ljava/util/Set;
+	METHOD getResourceStream getResourceStream (Lnet/minecraft/util/ResourceLocation;)Ljava/io/InputStream;
+	METHOD impl$getResourceAsStream impl$getResourceAsStream (Lnet/minecraft/util/ResourceLocation;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

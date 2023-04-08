@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IOICCHIHCCHCOCROIRRHIHORO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/TileEntityEnderChestRendererHook
+	FIELD BLANK_ENDERCHEST BLANK_ENDERCHEST Lnet/minecraft/util/ResourceLocation;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD bindTexture bindTexture (Lnet/minecraft/client/renderer/tileentity/TileEntityEnderChestRenderer;Lnet/minecraft/util/ResourceLocation;)V
+	METHOD setEnderchestColor setEnderchestColor ()V

@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO joptsimple/internal/SimpleOptionNameMap
+	FIELD acw map Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD contains contains (Ljava/lang/String;)Z
+	METHOD get get (Ljava/lang/String;)Ljava/lang/Object;
+	METHOD put put (Ljava/lang/String;Ljava/lang/Object;)V
+	METHOD putAll putAll (Ljava/lang/Iterable;Ljava/lang/Object;)V
+	METHOD remove remove (Ljava/lang/String;)V
+	METHOD toJavaUtilMap toJavaUtilMap ()Ljava/util/Map;

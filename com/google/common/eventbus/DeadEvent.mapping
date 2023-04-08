@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC com/google/common/eventbus/DeadEvent
+	FIELD Bp source Ljava/lang/Object;
+	FIELD Bq event Ljava/lang/Object;
+	METHOD <init> <init> (Ljava/lang/Object;Ljava/lang/Object;)V
+	METHOD IRICORCIOHHCIIHROIOCIICCC getEvent ()Ljava/lang/Object;
+	METHOD getSource getSource ()Ljava/lang/Object;
+	METHOD toString toString ()Ljava/lang/String;

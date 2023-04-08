@@ -1,0 +1,44 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/impl/client/gui/ScreenInjectorImpl
+	FIELD ahV customScreen Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 customScreen
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Optional;
+		ARG 0 buffer
+	METHOD bridge$allowUserInput bridge$allowUserInput ()Z
+	METHOD bridge$doesGuiPauseGame bridge$doesGuiPauseGame ()Z
+	METHOD bridge$drawScreen bridge$drawScreen (IIF)V
+	METHOD bridge$drawScrollableHoveringText bridge$drawScrollableHoveringText (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;Ljava/util/List;II)V
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;
+	METHOD bridge$handleMouseInput bridge$handleMouseInput ()V
+	METHOD bridge$keyTyped bridge$keyTyped (CLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$mouseClicked bridge$mouseClicked (III)V
+	METHOD bridge$mouseReleased bridge$mouseReleased (III)V
+	METHOD bridge$onGuiClosed bridge$onGuiClosed ()V
+	METHOD bridge$setClickedLinkURI bridge$setClickedLinkURI (Ljava/net/URI;)V
+	METHOD bridge$setWorldAndResolution bridge$setWorldAndResolution (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR;II)V
+	METHOD bridge$updateScreen bridge$updateScreen ()V
+	METHOD charTyped charTyped (CI)Z
+		ARG 2 keyCode
+	METHOD getCustomScreen getCustomScreen ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD init init (Lnet/minecraft/client/Minecraft;II)V
+		ARG 1 minecraft
+		ARG 2 screenWidth
+		ARG 3 screenHeight
+	METHOD keyPressed keyPressed (III)Z
+	METHOD mouseClicked mouseClicked (DDI)Z
+		ARG 1 mouseX
+		ARG 3 mouseY
+		ARG 5 button
+	METHOD mouseDragged mouseDragged (DDIDD)Z
+	METHOD mouseReleased mouseReleased (DDI)Z
+		ARG 1 mouseX
+		ARG 3 mouseY
+		ARG 5 button
+	METHOD mouseScrolled mouseScrolled (DDD)Z
+		ARG 1 mouseX
+		ARG 3 mouseY
+		ARG 5 delta
+	METHOD removed removed ()V
+	METHOD render render (Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V
+	METHOD shouldCloseOnEsc shouldCloseOnEsc ()Z
+	METHOD tick tick ()V

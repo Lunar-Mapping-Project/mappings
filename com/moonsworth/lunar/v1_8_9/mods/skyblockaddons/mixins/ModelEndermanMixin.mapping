@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/ROOHRHIRRRIOCHOOOOOICHHIO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/ModelEndermanMixin
+	METHOD <init> <init> ()V
+	METHOD render render (Lnet/minecraft/entity/Entity;FFFFFF)V

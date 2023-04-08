@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/container/ContainerRepairBridge
+	METHOD bridge$detectAndSendChanges bridge$detectAndSendChanges ()V
+	METHOD bridge$getMaximumCost bridge$getMaximumCost ()I
+	METHOD bridge$inputSlots bridge$inputSlots ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$outputSlot bridge$outputSlot ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$player bridge$player ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$repairedItemName bridge$repairedItemName ()Ljava/lang/String;
+	METHOD bridge$setMaterialCost bridge$setMaterialCost (I)V
+	METHOD bridge$setMaximumCost bridge$setMaximumCost (I)V

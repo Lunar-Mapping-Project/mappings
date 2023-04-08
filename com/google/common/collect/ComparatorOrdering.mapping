@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCOOOORCHOCROCHHIIHIRHOOI com/google/common/collect/ComparatorOrdering
+	FIELD fK comparator Ljava/util/Comparator;
+	FIELD fL serialVersionUID J
+	METHOD <init> <init> (Ljava/util/Comparator;)V
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OOCCOHCOOIRCIOOROORRHIHRR/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/v1_19_pre/mixin/MinecraftMixin
+	FIELD options options Lnet/minecraft/client/Options;
+	METHOD <init> <init> ()V
+	METHOD getFramerateLimit getFramerateLimit ()I
+	METHOD impl$callWorldLoadEvent impl$callWorldLoadEvent (Lnet/minecraft/client/multiplayer/ClientLevel;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$launchIntegratedServer impl$launchIntegratedServer (Lnet/minecraft/world/level/storage/LevelStorageSource$LevelStorageAccess;Lnet/minecraft/core/RegistryAccess;Lnet/minecraft/world/level/storage/WorldData;)V

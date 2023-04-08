@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/event/impl/chat/ComponentClickEvent
+	FIELD IHIROROOCOCRIORRCCIIHOICR component Lnet/kyori/adventure/text/Component;
+	METHOD <init> <init> (Lnet/kyori/adventure/text/Component;Ljava/lang/String;)V
+	METHOD OIOIIOCOICCCOIOCCICRCOROC getComponent ()Lnet/kyori/adventure/text/Component;

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/modern/platform/NativeImageBridge
+	METHOD bridge$checkAllocated bridge$checkAllocated ()V
+	METHOD bridge$getHeight bridge$getHeight ()I
+	METHOD bridge$getPixels bridge$getPixels ()J
+	METHOD bridge$getWidth bridge$getWidth ()I
+	METHOD bridge$size bridge$size ()J

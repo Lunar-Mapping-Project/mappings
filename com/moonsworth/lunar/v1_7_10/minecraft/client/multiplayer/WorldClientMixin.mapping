@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_7_10/minecraft/client/multiplayer/WorldClientMixin
+	METHOD <init> <init> (Lnet/minecraft/world/storage/ISaveHandler;Ljava/lang/String;Lnet/minecraft/world/WorldProvider;Lnet/minecraft/world/WorldSettings;Lnet/minecraft/profiler/Profiler;)V
+	METHOD bridge$disconnect bridge$disconnect ()V
+	METHOD bridge$getScoreboard bridge$getScoreboard ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD impl$sendQuittingDisconnectingPacket impl$sendQuittingDisconnectingPacket (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD sendQuittingDisconnectingPacket sendQuittingDisconnectingPacket ()V

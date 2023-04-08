@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/genesis/WrappedFileSystem
+	FIELD CIHIOCOORIHOCRCOOHRCCCROI fileSystem Ljava/nio/file/FileSystem;
+	METHOD <init> <init> (Ljava/nio/file/Path;)V
+		ARG 1 path
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI write (Ljava/lang/String;Lcom/moonsworth/lunar/ichor/util/RIORHCCRCIOORHIHIHIHHRIOH;)V
+		ARG 1 path
+		ARG 2 resource
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI read (Ljava/lang/String;Ljava/util/function/Supplier;)Lcom/moonsworth/lunar/ichor/util/RIORHCCRCIOORHIHIHIHHRIOH;
+		ARG 1 path
+		ARG 2 defaultSupplier
+	METHOD close close ()V

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCRIIRROHHOCHHHCHOCIICRHR com/moonsworth/lunar/v1_8_9/optifine/mixin/TileEntitySignRendererMixin
+	FIELD textRenderDistanceSq textRenderDistanceSq D
+	METHOD <init> <init> ()V
+	METHOD isRenderText isRenderText (Lnet/minecraft/tileentity/TileEntitySign;)Z

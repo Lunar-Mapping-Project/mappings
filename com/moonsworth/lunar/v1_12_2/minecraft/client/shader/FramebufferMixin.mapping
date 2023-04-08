@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/client/shader/FramebufferMixin
+	FIELD depthBuffer depthBuffer I
+	FIELD framebufferHeight framebufferHeight I
+	FIELD framebufferTextureHeight framebufferTextureHeight I
+	FIELD framebufferTexture framebufferTexture I
+	FIELD framebufferTextureWidth framebufferTextureWidth I
+	FIELD framebufferWidth framebufferWidth I
+	FIELD useDepth useDepth Z
+	METHOD <init> <init> ()V
+	METHOD bindFramebuffer bindFramebuffer (Z)V
+	METHOD bridge$bindWrite bridge$bindWrite (Z)V
+	METHOD bridge$delete bridge$delete ()V
+	METHOD bridge$frameBufferRender bridge$frameBufferRender (II)V
+	METHOD bridge$framebufferHeight bridge$framebufferHeight ()I
+	METHOD bridge$framebufferTextureHeight bridge$framebufferTextureHeight ()I
+	METHOD bridge$framebufferTextureWidth bridge$framebufferTextureWidth ()I
+	METHOD bridge$framebufferWidth bridge$framebufferWidth ()I
+	METHOD bridge$getFramebufferTexture bridge$getFramebufferTexture ()I
+	METHOD bridge$unbindFrameBuffer bridge$unbindFrameBuffer ()V
+	METHOD deleteFramebuffer deleteFramebuffer ()V
+	METHOD framebufferRender framebufferRender (II)V
+	METHOD impl$doNotDeleteTexture impl$doNotDeleteTexture (Lnet/minecraft/client/shader/Framebuffer;)I
+	METHOD impl$doNotRecreateTexture impl$doNotRecreateTexture ()I
+	METHOD impl$offscreenFramebuffer impl$offscreenFramebuffer ()Z
+	METHOD impl$useDepth impl$useDepth (Lnet/minecraft/client/shader/Framebuffer;)Z
+	METHOD unbindFramebuffer unbindFramebuffer ()V

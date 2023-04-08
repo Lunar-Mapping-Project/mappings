@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/ichor/mixin/MixinApplicator
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI apply (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOHHRHHRCHRRIOCIIRHICCIC;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 phase
+		ARG 2 mixinProxy
+		ARG 3 classLoader

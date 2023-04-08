@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/ServerSelectionListEntryBridge
+	METHOD getServerData getServerData ()Lnet/minecraft/client/multiplayer/ServerData;

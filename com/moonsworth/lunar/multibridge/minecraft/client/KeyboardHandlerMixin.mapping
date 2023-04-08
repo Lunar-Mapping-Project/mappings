@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/KeyboardHandlerMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$onCharPress lunar$onCharPress (JIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onKeyPress lunar$onKeyPress (JIIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

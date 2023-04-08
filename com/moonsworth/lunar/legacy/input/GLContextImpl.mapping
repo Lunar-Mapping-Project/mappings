@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/legacy/input/GLContextImpl
+	METHOD <init> <init> ()V
+	METHOD CRORIOCOIOOHROHORIORIHRRI isButtonDown (I)Z
+	METHOD OCOIHRCOHCCHOROHORCIHHCCO deleteCursor ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI createCursor (ILjava/util/function/Supplier;II)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setCursor (Ljava/lang/Object;)V
+	METHOD getX getX ()I
+	METHOD getY getY ()I

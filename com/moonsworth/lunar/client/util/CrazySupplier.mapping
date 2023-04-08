@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/client/util/CrazySupplier
+	CLASS OCIROORRIRIOHIIIRRIORCIHI CrazySupplierImpl
+		FIELD RRIHHOOHHRORICIICHHOCORCO supplier Ljava/util/function/Supplier;
+		FIELD instance instance Ljava/lang/Object;
+		METHOD <init> <init> (Ljava/util/function/Supplier;)V
+		METHOD get get ()Ljava/lang/Object;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI SynchronizedCrazySupplier
+		FIELD RRIHHOOHHRORICIICHHOCORCO supplier Ljava/util/function/Supplier;
+		FIELD instance instance Ljava/lang/Object;
+		FIELD lock lock Ljava/lang/Object;
+		METHOD <init> <init> (Ljava/util/function/Supplier;)V
+		METHOD get get ()Ljava/lang/Object;

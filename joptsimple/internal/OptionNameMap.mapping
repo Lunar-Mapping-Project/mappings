@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC joptsimple/internal/OptionNameMap
+	METHOD contains contains (Ljava/lang/String;)Z
+		ARG 1 key
+	METHOD get get (Ljava/lang/String;)Ljava/lang/Object;
+		ARG 1 key
+	METHOD put put (Ljava/lang/String;Ljava/lang/Object;)V
+		ARG 1 key
+		ARG 2 newValue
+	METHOD putAll putAll (Ljava/lang/Iterable;Ljava/lang/Object;)V
+		ARG 1 keys
+		ARG 2 newValue
+	METHOD remove remove (Ljava/lang/String;)V
+		ARG 1 key
+	METHOD toJavaUtilMap toJavaUtilMap ()Ljava/util/Map;

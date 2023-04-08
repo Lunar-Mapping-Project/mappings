@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/impl/inventory/InventoryCraftingBridgeImpl
+	FIELD inv inv Lnet/minecraft/inventory/IInventory;
+	METHOD <init> <init> (Lnet/minecraft/inventory/IInventory;)V
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Lnet/kyori/adventure/text/Component;
+	METHOD bridge$getStackInSlot bridge$getStackInSlot (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$setInventorySlotContents bridge$setInventorySlotContents (ILcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)V

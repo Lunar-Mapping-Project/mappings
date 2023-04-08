@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OHICCROHCCHCRCROHHIHCRCIO com/moonsworth/lunar/bridge/client/renderer/RenderStateShardBridge
+	METHOD setClearStateRunnable setClearStateRunnable (Ljava/lang/Runnable;)V
+	METHOD setSetupStateRunnable setSetupStateRunnable (Ljava/lang/Runnable;)V

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHRROCIIHHROCROOHICOCHRIR com/moonsworth/lunar/v1_7_10/minecraft/client/gui/GuiLanguage_ListMixin
+	FIELD field_148176_l field_148176_l Ljava/util/List;
+	FIELD field_148177_m field_148177_m Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD impl$onDrawSlot impl$onDrawSlot (IIIILnet/minecraft/client/renderer/Tessellator;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

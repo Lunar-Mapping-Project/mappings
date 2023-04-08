@@ -1,0 +1,37 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/impl/GeometryTessellatorBridgeImpl
+	FIELD delta delta D
+	FIELD deltaS deltaS D
+	FIELD instance instance Lcom/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (I)V
+	METHOD begin begin (I)V
+	METHOD beginLines beginLines ()V
+	METHOD beginQuads beginQuads ()V
+	METHOD bridge$begin bridge$begin (I)V
+	METHOD bridge$draw bridge$draw ()V
+	METHOD bridge$drawCuboid bridge$drawCuboid (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD bridge$drawCuboid bridge$drawCuboid (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD bridge$drawLines bridge$drawLines (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD bridge$drawLines bridge$drawLines (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD bridge$isDrawing bridge$isDrawing ()Z
+	METHOD bridge$setDelta bridge$setDelta (D)V
+	METHOD bridge$setTranslation bridge$setTranslation (DDD)V
+	METHOD drawCuboid drawCuboid (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD drawCuboid drawCuboid (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD drawCuboid drawCuboid (Lnet/minecraft/client/renderer/Tessellator;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD drawCuboid drawCuboid (Lnet/minecraft/client/renderer/Tessellator;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;II)V
+	METHOD drawCuboid drawCuboid (Lnet/minecraft/client/renderer/Tessellator;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROIOOOIRHICHRHRHCIROCRCCH;IID)V
+	METHOD drawLines drawLines (Lnet/minecraft/client/renderer/Tessellator;DDDDDDII)V
+		ARG 14 color
+	METHOD drawLines drawLines (Lnet/minecraft/client/renderer/Tessellator;DDDDDDIIIII)V
+	METHOD drawQuads drawQuads (Lnet/minecraft/client/renderer/Tessellator;DDDDDDII)V
+		ARG 14 color
+	METHOD drawQuads drawQuads (Lnet/minecraft/client/renderer/Tessellator;DDDDDDIIIII)V
+	METHOD getInstance getInstance ()Lcom/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD setDelta setDelta (D)V
+	METHOD setStaticDelta setStaticDelta (D)V
+	METHOD setTranslation setTranslation (DDD)V
+		ARG 1 x
+		ARG 3 y
+		ARG 5 z

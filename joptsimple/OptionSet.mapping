@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO joptsimple/OptionSet
+	FIELD abR detectedSpecs Ljava/util/List;
+	FIELD abS detectedOptions Ljava/util/Map;
+	FIELD abT optionsToArguments Ljava/util/Map;
+	FIELD abU recognizedSpecs Ljava/util/Map;
+	FIELD abV defaultValues Ljava/util/Map;
+	METHOD <init> <init> (Ljava/util/Map;)V
+	METHOD IIROHIIHCHOORORIIHORHRORO valuesOf (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC;)Ljava/util/List;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI has (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC;)Z
+	METHOD OCIROORRIRIOHIIIRRIORCIHI add (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD OIOORRORCRHOOCICORRCHOHRC hasArgument (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC;)Z
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR valueOf (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC;)Ljava/lang/Object;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC defaultValueFor (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC;)Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI addWithArgument (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;)V
+	METHOD asMap asMap ()Ljava/util/Map;
+	METHOD defaultValues defaultValues (Ljava/util/Map;)Ljava/util/Map;
+	METHOD defaultValuesFor defaultValuesFor (Ljava/lang/String;)Ljava/util/List;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD has has (Ljava/lang/String;)Z
+	METHOD hasArgument hasArgument (Ljava/lang/String;)Z
+	METHOD hasOptions hasOptions ()Z
+	METHOD hashCode hashCode ()I
+	METHOD nonOptionArguments nonOptionArguments ()Ljava/util/List;
+	METHOD specs specs ()Ljava/util/List;
+	METHOD valueOf valueOf (Ljava/lang/String;)Ljava/lang/Object;
+	METHOD valuesOf valuesOf (Ljava/lang/String;)Ljava/util/List;

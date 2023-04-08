@@ -1,0 +1,12 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketStaffModState com/lunarclient/bukkitapi/nethandler/client/LCPacketStaffModState
+	FIELD mod mod Ljava/lang/String;
+	FIELD state state Z
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Z)V
+		ARG 1 mod
+		ARG 2 state
+	METHOD getMod getMod ()Ljava/lang/String;
+	METHOD isState isState ()Z
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

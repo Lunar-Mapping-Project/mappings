@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_12_2/minecraft/client/resources/SkinManagerMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getInsecureSkinInformation bridge$getInsecureSkinInformation (Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;
+	METHOD bridge$registerTexture bridge$registerTexture (Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD loadSkin loadSkin (Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;)Lnet/minecraft/util/ResourceLocation;
+	METHOD loadSkinFromCache loadSkinFromCache (Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;

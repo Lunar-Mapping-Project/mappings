@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/gson/PatternAdapter
+	METHOD <init> <init> ()V
+	METHOD read read (Lcom/google/gson/stream/JsonReader;)Ljava/lang/Object;
+	METHOD read read (Lcom/google/gson/stream/JsonReader;)Ljava/util/regex/Pattern;
+	METHOD write write (Lcom/google/gson/stream/JsonWriter;Ljava/lang/Object;)V
+	METHOD write write (Lcom/google/gson/stream/JsonWriter;Ljava/util/regex/Pattern;)V

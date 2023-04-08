@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/ConnectUtils
+	FIELD USER_AGENT USER_AGENT Ljava/lang/String;
+	FIELD logger logger Lorg/apache/logging/log4j/Logger;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD get get (Ljava/lang/String;Ljava/util/function/Consumer;)V
+	METHOD lambda$get$0 lambda$get$0 (Ljava/lang/String;Ljava/util/function/Consumer;)V

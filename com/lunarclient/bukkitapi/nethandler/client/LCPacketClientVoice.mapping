@@ -1,0 +1,9 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketClientVoice com/lunarclient/bukkitapi/nethandler/client/LCPacketClientVoice
+	FIELD data data [B
+	METHOD <init> <init> ()V
+	METHOD <init> <init> ([B)V
+		ARG 1 data
+	METHOD getData getData ()[B
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

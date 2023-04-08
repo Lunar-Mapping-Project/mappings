@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/client/management/Manager
+	METHOD close close ()V
+	METHOD init init ()V

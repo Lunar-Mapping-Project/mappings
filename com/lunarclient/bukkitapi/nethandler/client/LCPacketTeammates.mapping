@@ -1,0 +1,21 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketTeammates com/lunarclient/bukkitapi/nethandler/client/LCPacketTeammates
+	FIELD lastMs lastMs J
+	FIELD leader leader Ljava/util/UUID;
+	FIELD players players Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/UUID;JLjava/util/Map;)V
+		ARG 1 leader
+		ARG 2 lastMs
+		ARG 4 players
+	METHOD getLastMs getLastMs ()J
+	METHOD getLeader getLeader ()Ljava/util/UUID;
+	METHOD getPlayers getPlayers ()Ljava/util/Map;
+	METHOD lambda$null$0 lambda$null$0 (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;Ljava/lang/String;Ljava/lang/Double;)V
+		ARG 1 key
+		ARG 2 val
+	METHOD lambda$write$1 lambda$write$1 (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;Ljava/util/UUID;Ljava/util/Map;)V
+		ARG 1 uuid
+		ARG 2 posMap
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

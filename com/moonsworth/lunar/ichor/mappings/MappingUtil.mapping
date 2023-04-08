@@ -1,0 +1,43 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/ichor/mappings/MappingUtil
+	FIELD afh CACHE Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD OIOORRORCRHOOCICORRCHOHRC getUnmapped (Lorg/cadixdev/lorenz/MappingSet;)Lorg/cadixdev/lorenz/MappingSet;
+		ARG 0 mappingSet
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/MappingSet;Lcom/moonsworth/lunar/ichor/util/OICCIHOCRHCCRRHCRCCCHIIRC;Ljava/nio/file/Path;Ljava/lang/String;[B)[B
+		ARG 5 className
+		ARG 6 data
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI mapClass (Ljava/lang/String;Ljava/lang/String;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/MappingSet;)V
+		ARG 0 srcName
+		ARG 1 dstName
+		ARG 2 src
+		ARG 3 dst
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI remapJar (Ljava/nio/file/Path;Ljava/nio/file/Path;ZLjava/util/function/BiFunction;Ljava/util/function/Function;)V
+		ARG 0 src
+		ARG 1 dst
+		ARG 2 write
+		ARG 3 bytesFunction
+		ARG 4 nameFunction
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI remap (Ljava/nio/file/Path;Lorg/cadixdev/lorenz/MappingSet;Ljava/nio/file/Path;Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;[Ljava/nio/file/Path;)V
+		ARG 0 path
+		ARG 1 mappingSet
+		ARG 2 dst
+		ARG 3 version
+		ARG 4 classpath
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI mapClassFields (Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/MappingSet;)V
+		ARG 0 src
+		ARG 1 dst
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI mapClassFields (Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/model/ClassMapping;)V
+		ARG 0 src
+		ARG 1 dst
+		ARG 2 mapping
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI mapFields (Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/model/ClassMapping;Lorg/cadixdev/lorenz/model/ClassMapping;)V
+		ARG 0 srcMappings
+		ARG 1 dstMappings
+		ARG 2 src
+		ARG 3 dst
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH toURL (Ljava/nio/file/Path;)Ljava/net/URL;
+		ARG 0 path
+	CLASS 1
+		METHOD <init> <init> ()V
+		METHOD load load (Ljava/lang/Object;)Ljava/lang/Object;

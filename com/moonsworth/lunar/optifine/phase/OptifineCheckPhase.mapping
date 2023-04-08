@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/optifine/phase/OptifineCheckPhase
+	METHOD CRORIOCOIOOHROHORIORIHRRI remap (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)Lorg/cadixdev/lorenz/MappingSet;
+		ARG 1 classLoader
+	METHOD IOICICOOIRRHCCHORRHOOOICR checkForDuplicates (Lorg/objectweb/asm/tree/ClassNode;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/cadixdev/lorenz/MappingSet;Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		ARG 1 loader

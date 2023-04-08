@@ -1,0 +1,27 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/blaze3d/pipeline/RenderTargetMixin
+	FIELD colorTextureId colorTextureId I
+	FIELD depthBufferId depthBufferId I
+	FIELD height height I
+	FIELD useDepth useDepth Z
+	FIELD viewHeight viewHeight I
+	FIELD viewWidth viewWidth I
+	FIELD width width I
+	METHOD <init> <init> ()V
+	METHOD bindWrite bindWrite (Z)V
+	METHOD blitToScreen blitToScreen (II)V
+	METHOD bridge$bindWrite bridge$bindWrite (Z)V
+	METHOD bridge$delete bridge$delete ()V
+	METHOD bridge$frameBufferRender bridge$frameBufferRender (II)V
+	METHOD bridge$framebufferHeight bridge$framebufferHeight ()I
+	METHOD bridge$framebufferTextureHeight bridge$framebufferTextureHeight ()I
+	METHOD bridge$framebufferTextureWidth bridge$framebufferTextureWidth ()I
+	METHOD bridge$framebufferWidth bridge$framebufferWidth ()I
+	METHOD bridge$getFramebufferTexture bridge$getFramebufferTexture ()I
+	METHOD bridge$unbindFrameBuffer bridge$unbindFrameBuffer ()V
+	METHOD destroyBuffers destroyBuffers ()V
+	METHOD impl$doNotDeleteTexture impl$doNotDeleteTexture (Lcom/mojang/blaze3d/pipeline/RenderTarget;)I
+	METHOD impl$doNotRecreateTexture impl$doNotRecreateTexture ()I
+	METHOD impl$enableClamping impl$enableClamping (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onBindDepthBuffer impl$onBindDepthBuffer (Lcom/mojang/blaze3d/pipeline/RenderTarget;)Z
+	METHOD impl$onTexImage2D impl$onTexImage2D (IIIIIIIILjava/nio/IntBuffer;)V
+	METHOD unbindWrite unbindWrite ()V

@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/MultiPlayerGameModeMixin
+	FIELD destroyDelay destroyDelay I
+	METHOD <init> <init> ()V
+	METHOD bridge$destroyDelay bridge$destroyDelay ()I
+	METHOD bridge$isSpectator bridge$isSpectator ()Z
+	METHOD bridge$isSpectatorMode bridge$isSpectatorMode ()Z
+	METHOD isAlwaysFlying isAlwaysFlying ()Z

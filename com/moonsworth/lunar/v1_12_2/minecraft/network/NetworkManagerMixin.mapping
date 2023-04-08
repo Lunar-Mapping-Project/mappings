@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/network/NetworkManagerMixin
+	FIELD channel channel Lio/netty/channel/Channel;
+	FIELD packetListener packetListener Lnet/minecraft/network/INetHandler;
+	METHOD <init> <init> ()V
+	METHOD bridge$closeChannel bridge$closeChannel (Ljava/lang/String;)V
+	METHOD bridge$getChannel bridge$getChannel ()Lio/netty/channel/Channel;
+	METHOD bridge$getNetHandler bridge$getNetHandler ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$isLocalChannel bridge$isLocalChannel ()Z
+	METHOD bridge$synchronizeRunnable bridge$synchronizeRunnable (Ljava/lang/Runnable;)V
+	METHOD closeChannel closeChannel (Lnet/minecraft/util/text/ITextComponent;)V
+	METHOD impl$enableEncryption impl$enableEncryption (Ljavax/crypto/SecretKey;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD isLocalChannel isLocalChannel ()Z

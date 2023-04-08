@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/ichor/mixin/MixinProxy
+	METHOD getMixinAndTargetClasses getMixinAndTargetClasses ()Ljava/util/Set;
+	METHOD gotoDefaultPhase gotoDefaultPhase ()V
+	METHOD registerMixins registerMixins (Ljava/util/List;)V
+		ARG 1 mixins
+	METHOD transformClassBytes transformClassBytes (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;Ljava/lang/String;Ljava/lang/String;[B)[B
+		ARG 1 pipeline
+		ARG 4 bytes

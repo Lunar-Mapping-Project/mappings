@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/tilentity/RenderPlayerMixin
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/RenderManager;Lnet/minecraft/client/model/ModelBase;F)V
+	METHOD canRenderName canRenderName (Lnet/minecraft/entity/Entity;)Z
+	METHOD impl$renderLeftArm impl$renderLeftArm (Lnet/minecraft/client/entity/AbstractClientPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderRightArm impl$renderRightArm (Lnet/minecraft/client/entity/AbstractClientPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$setModelVisibilities impl$setModelVisibilities (Lnet/minecraft/client/entity/AbstractClientPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

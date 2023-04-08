@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/level/block/BlockMixin
+	FIELD stateDefinition stateDefinition Lnet/minecraft/world/level/block/state/StateDefinition;
+	METHOD <init> <init> ()V
+	METHOD bridge$getStack bridge$getStack (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getValidStates bridge$getValidStates ()Ljava/util/List;
+	METHOD bridge$isFoliage bridge$isFoliage ()Z
+	METHOD bridge$isSkull bridge$isSkull ()Z
+	METHOD bridge$isWater bridge$isWater ()Z
+	METHOD getCloneItemStack getCloneItemStack (Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/item/ItemStack;
+	METHOD getName getName ()Lnet/minecraft/network/chat/MutableComponent;

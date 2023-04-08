@@ -1,0 +1,48 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/client/settings/GameSettingsBridge
+	METHOD bridge$getChatScale bridge$getChatScale ()F
+	METHOD bridge$getFrameRateLimit bridge$getFrameRateLimit ()I
+	METHOD bridge$getKeyBindings bridge$getKeyBindings ()[Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getModelParts bridge$getModelParts ()Ljava/util/Set;
+	METHOD bridge$getRenderDistance bridge$getRenderDistance ()I
+	METHOD bridge$getScreenshotKey bridge$getScreenshotKey ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getSmoothCamera bridge$getSmoothCamera ()Z
+	METHOD bridge$getThirdPersonView bridge$getThirdPersonView ()I
+	METHOD bridge$getToggleSneak bridge$getToggleSneak ()Z
+	METHOD bridge$getToggleSprint bridge$getToggleSprint ()Z
+	METHOD bridge$getZoomKey bridge$getZoomKey ()Ljava/util/Optional;
+	METHOD bridge$isFancyGraphics bridge$isFancyGraphics ()Z
+	METHOD bridge$isHideGui bridge$isHideGui ()Z
+	METHOD bridge$keyBindAttack bridge$keyBindAttack ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindBack bridge$keyBindBack ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindForward bridge$keyBindForward ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindJump bridge$keyBindJump ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindLeft bridge$keyBindLeft ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindRight bridge$keyBindRight ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindSneak bridge$keyBindSneak ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindSprint bridge$keyBindSprint ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindTogglePerspective bridge$keyBindTogglePerspective ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindUseItem bridge$keyBindUseItem ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$removeGammaOverride bridge$removeGammaOverride ()V
+	METHOD bridge$setFancyGraphics bridge$setFancyGraphics (Z)V
+		ARG 1 fancyGraphics
+	METHOD bridge$setFrameRateLimit bridge$setFrameRateLimit (I)V
+		ARG 1 limitFramerate
+	METHOD bridge$setGamma bridge$setGamma (F)V
+	METHOD bridge$setGammaOverride bridge$setGammaOverride (F)V
+	METHOD bridge$setKeyBindState bridge$setKeyBindState (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;Z)V
+		ARG 1 key
+		ARG 2 state
+	METHOD bridge$setKeyBinds bridge$setKeyBinds ([Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 keyBindings
+	METHOD bridge$setOptionFloatValue bridge$setOptionFloatValue (IF)V
+	METHOD bridge$setSmoothCamera bridge$setSmoothCamera (Z)V
+		ARG 1 smoothCamera
+	METHOD bridge$setThirdPersonView bridge$setThirdPersonView (I)V
+	METHOD bridge$setToggleSneak bridge$setToggleSneak (Z)V
+	METHOD bridge$setToggleSprint bridge$setToggleSprint (Z)V
+	METHOD bridge$setVBO bridge$setVBO (Z)V
+		ARG 1 useVbo
+	METHOD bridge$showDebugInfo bridge$showDebugInfo ()Z
+	METHOD bridge$unpressAllKeys bridge$unpressAllKeys ()V
+	METHOD bridge$updateVSync bridge$updateVSync ()V
+	METHOD getResourcePacks getResourcePacks ()Ljava/util/List;

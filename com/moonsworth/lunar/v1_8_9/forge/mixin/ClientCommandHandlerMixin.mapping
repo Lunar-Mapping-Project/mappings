@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/forge/mixin/ClientCommandHandlerMixin
+	METHOD <init> <init> ()V
+	METHOD impl$processCommand impl$processCommand (Lnet/minecraft/command/ICommand;Lnet/minecraft/command/ICommandSender;[Ljava/lang/String;)V

@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/impl/client/gui/ResourcePackListEntryBackImpl
+	FIELD parent parent Ljava/lang/String;
+	FIELD previousEntries previousEntries Ljava/util/List;
+	METHOD <init> <init> (Lnet/minecraft/client/gui/GuiScreenResourcePacks;Ljava/lang/String;Ljava/util/List;)V
+	METHOD func_148311_a func_148311_a ()Ljava/lang/String;
+	METHOD func_148312_b func_148312_b ()Ljava/lang/String;
+	METHOD func_148313_c func_148313_c ()V
+	METHOD mousePressed mousePressed (IIIIII)Z

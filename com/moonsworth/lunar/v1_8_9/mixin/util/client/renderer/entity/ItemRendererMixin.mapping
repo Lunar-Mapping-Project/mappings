@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/client/renderer/entity/ItemRendererMixin
+	FIELD equippedProgress equippedProgress F
+	FIELD itemToRender itemToRender Lnet/minecraft/item/ItemStack;
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	FIELD prevEquippedProgress prevEquippedProgress F
+	METHOD <init> <init> ()V
+	METHOD doBlockTransformations doBlockTransformations ()V
+	METHOD doBowTransformations doBowTransformations (FLnet/minecraft/client/entity/AbstractClientPlayer;)V
+	METHOD impl$onRenderItemInFirstPerson impl$onRenderItemInFirstPerson (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderFire impl$renderFire (FFF)V
+	METHOD impl$rotateWithPlayerRotations$rotateYaw impl$rotateWithPlayerRotations$rotateYaw (Lnet/minecraft/client/entity/EntityPlayerSP;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$onRenderItemInFirstPerson$0 lambda$impl$onRenderItemInFirstPerson$0 ()V
+	METHOD lambda$impl$onRenderItemInFirstPerson$1 lambda$impl$onRenderItemInFirstPerson$1 ()V
+	METHOD renderItem renderItem (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/ItemCameraTransforms$TransformType;)V
+	METHOD transformFirstPersonItem transformFirstPersonItem (FF)V

@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/renderer/entity/ItemEntityRendererMixin
+	FIELD clumpSpread clumpSpread F
+	METHOD <init> <init> ()V
+	METHOD impl$onInitialTranslate impl$onInitialTranslate (Lcom/mojang/blaze3d/vertex/PoseStack;DDDLnet/minecraft/world/entity/item/ItemEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD impl$onRender impl$onRender (Lnet/minecraft/world/entity/item/ItemEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/world/item/ItemStack;ILnet/minecraft/client/resources/model/BakedModel;)V
+	METHOD impl$onRotate impl$onRotate (Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/math/Quaternion;Lnet/minecraft/world/entity/item/ItemEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD impl$tweakClumping impl$tweakClumping (F)F
+	METHOD lunar$event$groundItemClumping$v1_18 lunar$event$groundItemClumping$v1_18 (Ljava/util/Random;JLnet/minecraft/world/entity/item/ItemEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD lunar$event$groundItemClumping$v1_19 lunar$event$groundItemClumping$v1_19 (Lnet/minecraft/util/RandomSource;JLnet/minecraft/world/entity/item/ItemEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD onRender onRender (Lnet/minecraft/world/entity/item/ItemEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/genesis/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/genesis/GenesisClassLoader
+	FIELD CRORRHOCHHHRRRRCORCRRIICI exclusions Ljava/util/Set;
+	FIELD IIIIIHHRCIHCROIICOIHIHRHO pipeline Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ([Ljava/net/URL;Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)V
+		ARG 2 pipeline
+	METHOD close close ()V
+	METHOD findClass findClass (Ljava/lang/String;)Ljava/lang/Class;
+		ARG 1 className
+	METHOD getResourceAsStream getResourceAsStream (Ljava/lang/String;)Ljava/io/InputStream;
+		ARG 1 resourceName
+	METHOD isExcluded isExcluded (Ljava/lang/String;)Z
+	METHOD loadClass loadClass (Ljava/lang/String;Z)Ljava/lang/Class;
+		ARG 1 className
+		ARG 2 resolve
+	METHOD toString toString ()Ljava/lang/String;

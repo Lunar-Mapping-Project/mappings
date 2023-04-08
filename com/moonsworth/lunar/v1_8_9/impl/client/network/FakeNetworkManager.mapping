@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/impl/client/network/FakeNetworkManager
+	METHOD <init> <init> ()V
+	METHOD channelRead0 channelRead0 (Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V

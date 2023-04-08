@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_7_10/minecraft/network/ServerStatusResponseMixin
+	FIELD lunarServer lunarServer Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD getLunarServer getLunarServer ()Ljava/lang/String;
+	METHOD setLunarServer setLunarServer (Ljava/lang/String;)V

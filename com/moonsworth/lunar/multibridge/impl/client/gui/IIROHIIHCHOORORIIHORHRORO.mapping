@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/impl/client/gui/IIROHIIHCHOORORIIHORHRORO
+	FIELD aii style Lnet/minecraft/network/chat/Style;
+	FIELD aij font Lnet/minecraft/client/gui/font/FontSet;
+	FIELD x x F
+	FIELD y y F
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lnet/minecraft/client/gui/Font;Lnet/minecraft/network/chat/Style;)Lnet/minecraft/client/gui/font/FontSet;
+		ARG 1 font
+		ARG 2 style

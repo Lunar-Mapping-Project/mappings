@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RIHOOROIIHIHROCCHIRICHOII com/moonsworth/lunar/bridge/util/Vector3i
+	FIELD HRCCOIOOCOOHCCOCIHHICCIRR xPos I
+	FIELD IIIHIHRCCRRIRIICIHICIIHCC yPos I
+	FIELD RCIOCCRRRHHIOCHCOOCRIOOCH zPos I
+	METHOD <init> <init> (III)V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getX getX ()I
+	METHOD getY getY ()I
+	METHOD getZ getZ ()I
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

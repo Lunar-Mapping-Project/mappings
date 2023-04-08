@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/minecraft/client/network/OldServerPingerMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$ping bridge$ping (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD impl$ping impl$ping (Ljava/lang/String;Lnet/minecraft/client/multiplayer/ServerData;)Ljava/net/InetAddress;
+	METHOD ping ping (Lnet/minecraft/client/multiplayer/ServerData;)V

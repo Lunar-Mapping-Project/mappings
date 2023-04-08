@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/entity/DataWatcherMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$updateObject bridge$updateObject (ILjava/lang/Object;)V
+	METHOD updateObject updateObject (ILjava/lang/Object;)V

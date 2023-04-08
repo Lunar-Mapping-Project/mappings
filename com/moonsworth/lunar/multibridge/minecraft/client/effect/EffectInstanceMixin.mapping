@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/effect/EffectInstanceMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getShaderUniform bridge$getShaderUniform (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD getUniform getUniform (Ljava/lang/String;)Lcom/mojang/blaze3d/shaders/Uniform;

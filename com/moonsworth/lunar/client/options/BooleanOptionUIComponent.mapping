@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/ROOIRIIIRHHIIRRCOCHIOCIHO com/moonsworth/lunar/client/options/BooleanOptionUIComponent
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Boolean;)V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Boolean;Ljava/util/function/BooleanSupplier;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/Boolean;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/Boolean;Ljava/util/function/BooleanSupplier;)V
+	METHOD getName getName ()Ljava/lang/String;

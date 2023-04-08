@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/item/RenderPlayerMixin
+	FIELD alexModel alexModel Lcom/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD lunar$savedPartialTicks lunar$savedPartialTicks F
+	FIELD modelBipedMain modelBipedMain Lnet/minecraft/client/model/ModelBiped;
+	FIELD original original Lnet/minecraft/client/model/ModelBiped;
+	FIELD steveModel steveModel Lcom/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD <init> <init> (Lnet/minecraft/client/model/ModelBase;F)V
+	METHOD hasModernSkin hasModernSkin (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+	METHOD impl$PlayerRenderer$construct impl$PlayerRenderer$construct (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onDoRender$tail impl$onDoRender$tail (Lnet/minecraft/client/entity/AbstractClientPlayer;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onPreRenderPlayer impl$onPreRenderPlayer (Lnet/minecraft/client/entity/AbstractClientPlayer;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onRenderHand$tail impl$onRenderHand$tail (Lnet/minecraft/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onRenderHand impl$onRenderHand (Lnet/minecraft/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD isModernSkin isModernSkin (Lnet/minecraft/client/entity/AbstractClientPlayer;)Z
+	METHOD lunar$onRotatef lunar$onRotatef (FFFF)V
+	METHOD lunar$onScalef lunar$onScalef (FFF)V
+	METHOD lunar$onTranslatef lunar$onTranslatef (FFF)V
+	METHOD renderModel renderModel (Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V

@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/gui/FontMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$drawString bridge$drawString (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;FFIZ)F
+	METHOD bridge$drawString bridge$drawString (Ljava/lang/String;FFIZ)F
+	METHOD bridge$drawStringElements bridge$drawStringElements (Ljava/lang/String;FFFZ)V
+	METHOD bridge$getStringWidth bridge$getStringWidth (Ljava/lang/String;)F
+	METHOD bridge$getStringWidth bridge$getStringWidth (Lnet/kyori/adventure/text/Component;)F
+	METHOD clearCaches clearCaches ()V
+	METHOD draw draw (Lcom/mojang/blaze3d/vertex/PoseStack;Ljava/lang/String;FFI)I
+	METHOD drawInBatch$v1_16_1 drawInBatch$v1_16_1 (Lnet/minecraft/network/chat/FormattedText;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I
+	METHOD drawInBatch$v1_16_5 drawInBatch$v1_16_5 (Lnet/minecraft/network/chat/Component;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I
+	METHOD drawInBatch drawInBatch (Ljava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I
+	METHOD drawInternal$v1_16_1 drawInternal$v1_16_1 (Lnet/minecraft/network/chat/FormattedText;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I
+	METHOD drawInternal$v1_16_5 drawInternal$v1_16_5 (Lnet/minecraft/util/FormattedCharSequence;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I
+	METHOD drawInternal drawInternal (Ljava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZIIZ)I
+	METHOD proxy$component$width proxy$component$width (Lnet/minecraft/network/chat/FormattedText;)I
+	METHOD proxy$fcs$drawInternal proxy$fcs$drawInternal (Lnet/minecraft/util/FormattedCharSequence;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I
+	METHOD proxy$sequence$width proxy$sequence$width (Lnet/minecraft/util/FormattedCharSequence;)I
+	METHOD proxy$string$drawInternal proxy$string$drawInternal (Ljava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZIIZ)I
+	METHOD proxy$string$width proxy$string$width (Ljava/lang/String;)I
+	METHOD tick tick ()V
+	METHOD width$v1_16_5 width$v1_16_5 (Lnet/minecraft/util/FormattedCharSequence;)I
+	METHOD width width (Ljava/lang/String;)I
+	METHOD width width (Lnet/minecraft/network/chat/FormattedText;)I

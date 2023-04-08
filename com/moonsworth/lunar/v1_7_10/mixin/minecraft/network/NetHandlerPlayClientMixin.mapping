@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/network/NetHandlerPlayClientMixin
+	FIELD clientWorldController clientWorldController Lnet/minecraft/client/multiplayer/WorldClient;
+	METHOD <init> <init> ()V
+	METHOD lunar$dontCloseChat lunar$dontCloseChat (Lnet/minecraft/network/play/server/S2EPacketCloseWindow;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onKickedEvent lunar$onKickedEvent (Lnet/minecraft/network/play/server/S40PacketDisconnect;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onProjectileLaunchEvent lunar$onProjectileLaunchEvent (Lnet/minecraft/network/play/server/S0EPacketSpawnObject;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$skipIfWorldUnloaded lunar$skipIfWorldUnloaded (Lnet/minecraft/network/play/server/S0EPacketSpawnObject;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

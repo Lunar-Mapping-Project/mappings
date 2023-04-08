@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/network/ConnectionMixin
+	FIELD channel channel Lio/netty/channel/Channel;
+	FIELD packetListener packetListener Lnet/minecraft/network/PacketListener;
+	METHOD <init> <init> ()V
+	METHOD bridge$closeChannel bridge$closeChannel (Ljava/lang/String;)V
+	METHOD bridge$getChannel bridge$getChannel ()Lio/netty/channel/Channel;
+	METHOD bridge$getNetHandler bridge$getNetHandler ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$isLocalChannel bridge$isLocalChannel ()Z
+	METHOD disconnect disconnect (Lnet/minecraft/network/chat/Component;)V
+	METHOD isMemoryConnection isMemoryConnection ()Z

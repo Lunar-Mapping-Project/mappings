@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/optifine/mixin/model/ModelBakeryMixin
+	METHOD <init> <init> ()V
+	METHOD fixModelLocation fixModelLocation (Lnet/minecraft/util/ResourceLocation;Ljava/lang/String;)Lnet/minecraft/util/ResourceLocation;
+	METHOD fixModelLocations fixModelLocations (Lnet/minecraft/client/renderer/block/model/ModelBlock;Ljava/lang/String;)V
+	METHOD fixResourcePath fixResourcePath (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD getModelLocation getModelLocation (Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/util/ResourceLocation;
+	METHOD lunar$fixModelLocationsAsOptiFineDoes lunar$fixModelLocationsAsOptiFineDoes (Lnet/minecraft/client/renderer/block/model/ModelBlock;Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/client/renderer/block/model/ModelBlock;
+	METHOD lunar$initializeOptiFineCITs lunar$initializeOptiFineCITs (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$setResourceLocationAsOptiFineDoes lunar$setResourceLocationAsOptiFineDoes (Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/util/ResourceLocation;

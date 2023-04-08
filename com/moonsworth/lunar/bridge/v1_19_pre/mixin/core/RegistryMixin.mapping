@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/bridge/v1_19_pre/mixin/core/RegistryMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$registry$clinit bridge$registry$clinit (Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/core/Registry$RegistryBootstrap;)Lnet/minecraft/core/Registry;
+	METHOD checkRegistry checkRegistry (Lnet/minecraft/core/Registry;)V
+	METHOD lambda$checkRegistry$0 lambda$checkRegistry$0 (Lnet/minecraft/core/Registry;Lnet/minecraft/core/Registry;)V
+	METHOD registerSimple registerSimple (Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/core/Registry$RegistryBootstrap;)Lnet/minecraft/core/Registry;

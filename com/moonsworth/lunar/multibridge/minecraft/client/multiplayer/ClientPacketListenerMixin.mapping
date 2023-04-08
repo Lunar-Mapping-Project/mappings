@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ClientPacketListenerMixin
+	FIELD connection connection Lnet/minecraft/network/Connection;
+	FIELD level level Lnet/minecraft/client/multiplayer/ClientLevel;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD bridge$addToSendQueue bridge$addToSendQueue (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$getLCChannelName bridge$getLCChannelName ()Ljava/lang/String;
+	METHOD bridge$getNetworkManager bridge$getNetworkManager ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getPlayerInfoMap bridge$getPlayerInfoMap ()Ljava/util/List;
+	METHOD bridge$getRegisterPacketName bridge$getRegisterPacketName ()Ljava/lang/String;
+	METHOD bridge$quit bridge$quit ()V
+	METHOD bridge$transferQuit bridge$transferQuit ()V
+	METHOD getOnlinePlayers getOnlinePlayers ()Ljava/util/Collection;
+	METHOD impl$handleCustomPayload impl$handleCustomPayload (Lnet/minecraft/network/protocol/game/ClientboundCustomPayloadPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleEntityStatus impl$handleEntityStatus (Lnet/minecraft/network/protocol/game/ClientboundEntityEventPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/world/entity/Entity;)V
+	METHOD impl$handleKeepAlive impl$handleKeepAlive (Lnet/minecraft/network/protocol/game/ClientboundKeepAlivePacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleLogin impl$handleLogin (Lnet/minecraft/network/protocol/game/ClientboundLoginPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onDisconnect impl$onDisconnect (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

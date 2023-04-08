@@ -1,0 +1,59 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHCICOIRIORCIOIOIHHHCHHHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/profile/Profile
+	FIELD HORRORHHCOCOIOCIIIORORCHI isDefaultProfile Z
+	FIELD active active Z
+	FIELD displayName displayName Ljava/lang/String;
+	FIELD file file Ljava/io/File;
+	FIELD icon icon Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	FIELD iconName iconName Ljava/lang/String;
+	FIELD name name Ljava/lang/String;
+	FIELD server server Ljava/lang/String;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHCICOIRIORCIOIOIHHHCHHHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;Ljava/lang/String;ZZLjava/lang/String;)V
+		ARG 1 parent
+		ARG 2 name
+		ARG 3 displayName
+		ARG 4 isDefaultProfile
+		ARG 5 active
+		ARG 6 iconName
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHCICOIRIORCIOIOIHHHCHHHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;ZZ)V
+		ARG 1 parent
+		ARG 2 name
+		ARG 3 isDefaultProfile
+		ARG 4 active
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;ZZLjava/lang/String;)V
+		ARG 1 name
+		ARG 2 displayName
+		ARG 3 isDefaultProfile
+		ARG 4 active
+		ARG 5 iconName
+	METHOD <init> <init> (Ljava/lang/String;ZZ)V
+		ARG 1 name
+		ARG 2 isDefaultProfile
+		ARG 3 active
+	METHOD CRORIOCOIOOHROHORIORIHRRI setIcon (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+		ARG 1 icon
+	METHOD HCOHOIOCIICIIOOIHRCHCIHHI setDefaultProfile (Z)V
+		ARG 1 isDefaultProfile
+	METHOD HIRIRRIIRHCOOIHHIRCOHRIRH setIcon (Ljava/lang/String;)V
+		ARG 1 iconName
+	METHOD OCCRRCRRIOCCCHHHHCIIHICCC isDefaultProfile ()Z
+	METHOD RRIHCIROROIIRIOHOOIHCOCRH getIconName ()Ljava/lang/String;
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getDisplayName getDisplayName ()Ljava/lang/String;
+	METHOD getFile getFile ()Ljava/io/File;
+	METHOD getIcon getIcon ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getServer getServer ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD isActive isActive ()Z
+	METHOD setActive setActive (Z)V
+		ARG 1 active
+	METHOD setDisplayName setDisplayName (Ljava/lang/String;)V
+		ARG 1 displayName
+	METHOD setFile setFile (Ljava/io/File;)V
+		ARG 1 file
+	METHOD setName setName (Ljava/lang/String;)V
+		ARG 1 name
+	METHOD setServer setServer (Ljava/lang/String;)V
+		ARG 1 server
+	METHOD toString toString ()Ljava/lang/String;

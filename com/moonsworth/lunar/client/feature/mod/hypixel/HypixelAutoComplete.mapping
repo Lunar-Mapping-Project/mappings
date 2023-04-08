@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RHCICOIRIORCIOIOIHHHCHHHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/feature/mod/hypixel/HypixelAutoComplete
+	FIELD HIROCOOCHIIIHCRROCIRHCRIO values [Ljava/lang/String;
+	FIELD OOICHIOIHIRIHRICCRCHCOICH autoCompletes Ljava/util/Map;
+	METHOD <init> <init> ([Ljava/lang/String;Ljava/util/Map;)V
+		ARG 1 values
+		ARG 2 autoCompletes
+	METHOD HCIHHCIIIROHHHHIIHOHRHIOC getAutoCompletes ()Ljava/util/Map;
+	METHOD getValues getValues ()[Ljava/lang/String;

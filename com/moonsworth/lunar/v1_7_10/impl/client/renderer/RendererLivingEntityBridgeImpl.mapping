@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/impl/client/renderer/RendererLivingEntityBridgeImpl
+	METHOD <init> <init> (Lnet/minecraft/client/model/ModelBase;F)V
+	METHOD bridge$canRenderName bridge$canRenderName (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;)Z
+	METHOD bridge$create bridge$create ()V
+	METHOD bridge$setBrightness bridge$setBrightness (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;F)Z
+	METHOD bridge$unsetBrightness bridge$unsetBrightness ()V
+	METHOD doRender doRender (Lnet/minecraft/entity/Entity;DDDFF)V
+	METHOD getColorMultiplier getColorMultiplier (Lnet/minecraft/entity/EntityLivingBase;FF)I
+	METHOD getEntityTexture getEntityTexture (Lnet/minecraft/entity/Entity;)Lnet/minecraft/util/ResourceLocation;

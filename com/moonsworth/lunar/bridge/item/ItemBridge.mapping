@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/bridge/item/ItemBridge
+	METHOD bridge$getColorFromItemStack bridge$getColorFromItemStack (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;I)Ljava/lang/Integer;
+		ARG 1 stack
+	METHOD bridge$getEnchantments bridge$getEnchantments (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Map;
+	METHOD bridge$getFood bridge$getFood ()Ljava/util/Optional;
+	METHOD bridge$getRegistryName bridge$getRegistryName ()Ljava/lang/String;
+	METHOD bridge$getSprite bridge$getSprite (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;I)Ljava/util/Optional;
+		ARG 1 stack
+	METHOD bridge$hasEffect bridge$hasEffect (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+		ARG 1 stack
+	METHOD bridge$isItemBlock bridge$isItemBlock ()Z
+	METHOD bridge$isItemPotion bridge$isItemPotion ()Z
+	METHOD bridge$isItemSkull bridge$isItemSkull ()Z
+	METHOD bridge$isItemSoup bridge$isItemSoup ()Z
+	METHOD bridge$isRepairable bridge$isRepairable (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+		ARG 1 stack
+	METHOD bridge$requiresMultipleRenderPasses bridge$requiresMultipleRenderPasses ()Z
+	METHOD bridge$shouldRotateAroundWhenRendering bridge$shouldRotateAroundWhenRendering ()Z

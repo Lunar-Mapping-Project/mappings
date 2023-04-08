@@ -1,0 +1,53 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/mappings/PackageRemapper
+	FIELD aeJ classNode Lorg/objectweb/asm/tree/ClassNode;
+	FIELD aeK remapper Lorg/objectweb/asm/commons/Remapper;
+	METHOD <init> <init> (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/commons/Remapper;)V
+		ARG 1 classNode
+		ARG 2 remapper
+	METHOD CCHRHIRICCOHCHIICOHIROCOO mapPermitted ()V
+	METHOD CCIRRCCHOOOICIOCCHIIRCCRH mapInnerClasses ()V
+	METHOD CHRHOOOROCORROIICIHICRROR mapRecords ()V
+	METHOD CRCRHOHCIORHRRCIRCICORRIC mapAttributes ()V
+	METHOD HOROHCOHHRRCRCRCHRCRCHHCC mapModule ()V
+	METHOD HRIHCCIHROROOICRHORROOHHO mapMethods ()V
+	METHOD HRRRIHIRHOROIHOOHRHRHOIIO mapNest ()V
+	METHOD OCOHICOIRROHCIOOIORHCROIR mapOuter ()V
+	METHOD OIOORRORCRHOOCICORRCHOHRC mapAnnotations (Ljava/util/List;Ljava/util/List;)V
+		ARG 1 a
+		ARG 2 b
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/commons/Remapper;)Lorg/objectweb/asm/tree/ClassNode;
+		ARG 0 pipeline
+		ARG 1 classNode
+		ARG 2 remapper
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/tree/MethodNode;Lorg/objectweb/asm/commons/Remapper;)V
+		ARG 0 classNode
+		ARG 1 methodNode
+		ARG 2 remapper
+	METHOD ROICRRRCRIORHHIICROCHRIHH mapFields ()V
+	METHOD RORHHCOHICCRHHHIOCCIHCCCI map ()V
+	METHOD run run ()V
+	CLASS IIROHIIHCHOORORIIHORHRORO RecordRemapper
+		FIELD aeT recordComponentNode Lorg/objectweb/asm/tree/RecordComponentNode;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/objectweb/asm/tree/RecordComponentNode;)V
+			ARG 2 recordComponentNode
+		METHOD run run ()V
+	CLASS OCIROORRIRIOHIIIRRIORCIHI FieldRemapper
+		FIELD aeN fieldNode Lorg/objectweb/asm/tree/FieldNode;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/objectweb/asm/tree/FieldNode;)V
+			ARG 2 fieldNode
+		METHOD run run ()V
+	CLASS OIOORRORCRHOOCICORRCHOHRC MethodRemapper
+		FIELD aeP methodNode Lorg/objectweb/asm/tree/MethodNode;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/objectweb/asm/tree/MethodNode;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/AbstractInsnNode;)V
+			ARG 1 abstractInsnNode
+		METHOD run run ()V
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR ModuleRemapper
+		FIELD aeR moduleNode Lorg/objectweb/asm/tree/ModuleNode;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/objectweb/asm/tree/ModuleNode;)V
+			ARG 2 moduleNode
+		METHOD run run ()V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI AnnotationRemapper
+		FIELD aeL annotationNode Lorg/objectweb/asm/tree/AnnotationNode;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/objectweb/asm/tree/AnnotationNode;)V
+		METHOD run run ()V

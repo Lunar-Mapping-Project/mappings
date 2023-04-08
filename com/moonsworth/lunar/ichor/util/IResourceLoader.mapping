@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/ichor/util/ROOHRHIRRRIOCHOOOOOICHHIO com/moonsworth/lunar/ichor/util/IResourceLoader
+	METHOD ROICHCOOHOOCRCIOHOIHHOCIC getOriginalResourceAsStream (Ljava/lang/String;)Ljava/io/InputStream;
+		ARG 1 resourceName

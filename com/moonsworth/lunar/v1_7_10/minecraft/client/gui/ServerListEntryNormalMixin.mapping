@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/CCRHOHCCOIICHCCHIOIICHHOO com/moonsworth/lunar/v1_7_10/minecraft/client/gui/ServerListEntryNormalMixin
+	METHOD <init> <init> ()V
+	METHOD getServerData getServerData ()Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD impl$drawEntry impl$drawEntry (IIIIILnet/minecraft/client/renderer/Tessellator;IIZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

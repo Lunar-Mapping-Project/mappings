@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/objects/IntPair
+	FIELD x x Lorg/apache/commons/lang3/mutable/MutableInt;
+	FIELD y y Lorg/apache/commons/lang3/mutable/MutableInt;
+	METHOD <init> <init> (II)V
+	METHOD cloneCoords cloneCoords ()Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getX getX ()I
+	METHOD getY getY ()I
+	METHOD hashCode hashCode ()I
+	METHOD setX setX (I)V
+	METHOD setY setY (I)V
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mixin/util/entity/projectile/EntityFishHookMixin
+	FIELD angler angler Lnet/minecraft/entity/player/EntityPlayer;
+	FIELD hasFired hasFired Z
+	METHOD <init> <init> ()V
+	METHOD impl$attack impl$attack (Lnet/minecraft/entity/Entity;Lnet/minecraft/util/DamageSource;F)Z
+	METHOD impl$cast impl$cast (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$attack$0 lambda$impl$attack$0 (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC;)V
+	METHOD lambda$retract$1 lambda$retract$1 (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC;)V
+	METHOD retract retract (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

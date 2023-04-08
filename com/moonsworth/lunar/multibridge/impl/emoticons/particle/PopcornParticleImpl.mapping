@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/impl/emoticons/particle/PopcornParticleImpl
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lnet/minecraft/client/multiplayer/ClientLevel;DDDD)V
+	METHOD getRenderType getRenderType ()Lnet/minecraft/client/particle/ParticleRenderType;
+	METHOD render render (Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/client/Camera;F)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		METHOD <init> <init> ()V
+		METHOD accept accept (Ljava/lang/Object;)V
+		METHOD accept accept (Lnet/minecraft/client/model/geom/ModelPart;)V
+		METHOD renderToBuffer renderToBuffer (Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V

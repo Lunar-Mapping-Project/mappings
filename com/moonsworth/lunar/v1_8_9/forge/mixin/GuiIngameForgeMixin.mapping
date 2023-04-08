@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/forge/mixin/GuiIngameForgeMixin
+	METHOD <init> <init> ()V
+	METHOD impl$drawChat impl$drawChat (Lnet/minecraft/client/gui/GuiNewChat;I)V
+	METHOD impl$onRenderPlayerList impl$onRenderPlayerList (Lnet/minecraft/client/gui/GuiPlayerTabOverlay;ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V
+	METHOD impl$renderGameOverlay$title impl$renderGameOverlay$title (Lnet/minecraftforge/client/GuiIngameForge;)I
+	METHOD impl$renderPlayerStats impl$renderPlayerStats (I)I
+	METHOD lunar$render3DOverlays$forge lunar$render3DOverlays$forge (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$renderGameOverlay$forge lunar$renderGameOverlay$forge (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD renderPlayerStats_isHardcoreModeEnabled renderPlayerStats_isHardcoreModeEnabled (Lnet/minecraft/world/storage/WorldInfo;)Z

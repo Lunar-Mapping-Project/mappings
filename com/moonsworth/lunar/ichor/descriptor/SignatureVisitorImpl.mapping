@@ -1,0 +1,46 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/ichor/descriptor/SignatureVisitorImpl
+	FIELD afS interfaces Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD afV typeParameters Ljava/util/Map;
+	FIELD afW params Ljava/util/List;
+	FIELD afX returnType Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD OCIROORRIRIOHIIIRRIORCIHI getFieldType (Ljava/lang/String;Ljava/lang/String;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;)Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getMethodType (Ljava/lang/String;Ljava/lang/String;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;)Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD lambda$static$0 lambda$static$0 ()Ljava/lang/String;
+	METHOD visitArrayType visitArrayType ()Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitBaseType visitBaseType (C)V
+	METHOD visitClassBound visitClassBound ()Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitClassType visitClassType (Ljava/lang/String;)V
+	METHOD visitEnd visitEnd ()V
+	METHOD visitExceptionType visitExceptionType ()Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitFormalTypeParameter visitFormalTypeParameter (Ljava/lang/String;)V
+	METHOD visitInnerClassType visitInnerClassType (Ljava/lang/String;)V
+	METHOD visitInterfaceBound visitInterfaceBound ()Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitParameterType visitParameterType ()Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitReturnType visitReturnType ()Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitSuperclass visitSuperclass ()Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitTypeArgument visitTypeArgument ()V
+	METHOD visitTypeArgument visitTypeArgument (C)Lorg/objectweb/asm/signature/SignatureVisitor;
+	METHOD visitTypeVariable visitTypeVariable (Ljava/lang/String;)V
+	CLASS 1
+		METHOD <clinit> <clinit> ()V
+	CLASS OCIROORRIRIOHIIIRRIORCIHI
+		FIELD aga aga Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+		METHOD <init> <init> (Ljava/lang/String;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;)V
+	CLASS OIOORRORCRHOOCICORRCHOHRC TypeVar
+		FIELD age age Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC;Ljava/lang/String;)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD CLASS_BOUND CLASS_BOUND Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD INTERFACE_BOUND INTERFACE_BOUND Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD NONE NONE Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD PARAM PARAM Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD RETURN RETURN Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD TYPE_PARAMETER TYPE_PARAMETER Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD $values $values ()[Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Ljava/lang/String;I)V
+		METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD values values ()[Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;

@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCIIIRRIIICHIRIHCHOCHICI com/google/common/collect/EvictingQueue
+	FIELD hh delegate Ljava/util/Queue;
+	FIELD hi maxSize I
+	FIELD hj serialVersionUID J
+	METHOD <init> <init> (I)V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD IICOHOCRHCOCRHIROCCCIHCCH delegate ()Ljava/util/Queue;
+	METHOD OOHIICRCHHHIHHROOCCCHCOCO delegate ()Ljava/util/Collection;
+	METHOD RCHHOIOORCOCCRRHRCIIIOHOI create (I)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCIIIRRIIICHIRIHCHOCHICI;
+	METHOD add add (Ljava/lang/Object;)Z
+	METHOD addAll addAll (Ljava/util/Collection;)Z
+	METHOD contains contains (Ljava/lang/Object;)Z
+	METHOD offer offer (Ljava/lang/Object;)Z
+	METHOD remainingCapacity remainingCapacity ()I
+	METHOD remove remove (Ljava/lang/Object;)Z

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/optifine/impl/CustomColorsBridgeImpl
+	METHOD <init> <init> ()V
+	METHOD getDurabilityColor getDurabilityColor (I)I
+	METHOD getTextColor getTextColor (II)I

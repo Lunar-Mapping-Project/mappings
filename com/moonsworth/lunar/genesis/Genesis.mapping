@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/Genesis com/moonsworth/lunar/genesis/Genesis
+	FIELD DUMP_CLASSES_WHITELIST DUMP_CLASSES_WHITELIST Ljava/nio/file/Path;
+	FIELD LOGGER LOGGER Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC;
+	FIELD LUNARCLIENT_DATA LUNARCLIENT_DATA Ljava/nio/file/Path;
+	METHOD hash hash ([Ljava/lang/Object;)Ljava/lang/String;
+	METHOD main main ([Ljava/lang/String;)V
+		ARG 0 args
+	METHOD prebake prebake (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;Lcom/moonsworth/lunar/genesis/OCIROORRIRIOHIIIRRIORCIHI;Ljava/nio/file/Path;Ljava/util/HashMap;)V
+		ARG 0 pipeline
+		ARG 1 classLoader
+		ARG 2 path

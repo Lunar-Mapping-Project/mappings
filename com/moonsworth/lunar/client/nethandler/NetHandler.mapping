@@ -1,0 +1,66 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HOHOHRIHCIICROCRCRIIOCCHC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/nethandler/NetHandler
+	FIELD CCHRIIHIHCROICHCRICOHIRII LUNAR_CHANNEL Ljava/lang/String;
+	FIELD CICOOHROOHCIOOCRRORICCROC BINARY_CHANNEL Ljava/lang/String;
+	FIELD HIHOORRIOIIICORIIHIHCRCHC SERVER_REGISTERED_CHANNELS Ljava/util/List;
+	FIELD HIIIHIOCORIHICCRCRHHHIIIO CLIENT_REGISTERED_CHANNELS Ljava/util/Set;
+	FIELD IOHCHHCOHRORCORIHIHHHIOCI registeredLunar Z
+	FIELD RCCIIHIRCCRIOOORHHRROCRIH lunarChannel Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD CIIIROICHHOHORCIHIICHHCIH unregisterChannel (Ljava/lang/String;)V
+	METHOD CIRCCHIIROHICHORRHRIROOOI registerChannel (Ljava/lang/String;)V
+	METHOD CROIOIHHOOCICROCIRHRIHOIO updateState ()V
+	METHOD CRORIOCOIOOHROHORIORIHRRI (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;)Z
+		ARG 0 mod
+	METHOD IRCHOICCHIIIIIIHIIICHCCOO isRegistered ()Z
+	METHOD OCIROORRIRIOHIIIRRIORCIHI onCustomPayload (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 event
+	METHOD OCIROORRIRIOHIIIRRIORCIHI onConnectionStateUpdate (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/OICCIHOCRHCCRRHCRCCCHIIRC;)V
+		ARG 1 event
+	METHOD ORHCHIHIRRIIRRRRRRRCRICHI getBinaryChannel ()Ljava/lang/String;
+	METHOD RHCICOIRIORCIOIOIHHHCHHHI muteUser (Ljava/util/UUID;)V
+		ARG 1 playerId
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI sendPacket (Lcom/lunarclient/bukkitapi/nethandler/LCPacket;)V
+		ARG 1 packet
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getServerRuleType (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketServerRule;)Ljava/lang/Object;
+		ARG 1 packet
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;)Z
+		ARG 1 mod
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/lunarclient/bukkitapi/nethandler/shared/LCPacketWaypointRemove;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/HHHCHHIORCOOHICRHCOIRHRCI/OCIROORRIRIOHIIIRRIORCIHI;)Z
+		ARG 1 waypoint
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI onServerJoin (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		ARG 1 event
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/util/concurrent/atomic/AtomicInteger;Ljava/lang/StringBuilder;Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+		ARG 3 mod
+	METHOD RIOCCCICHOORCRHHRRCORICOH getLunarChannel ()Ljava/lang/String;
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;
+	METHOD handleAddHologram handleAddHologram (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketHologram;)V
+	METHOD handleAddWaypoint handleAddWaypoint (Lcom/lunarclient/bukkitapi/nethandler/shared/LCPacketWaypointAdd;)V
+	METHOD handleBossBar handleBossBar (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketBossBar;)V
+	METHOD handleCooldown handleCooldown (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketCooldown;)V
+	METHOD handleEmote handleEmote (Lcom/lunarclient/bukkitapi/nethandler/shared/LCPacketEmoteBroadcast;)V
+	METHOD handleGhost handleGhost (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketGhost;)V
+	METHOD handleModSettings handleModSettings (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketModSettings;)V
+	METHOD handleNametagsUpdate handleNametagsUpdate (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketNametagsUpdate;)V
+	METHOD handleNotification handleNotification (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketNotification;)V
+	METHOD handleOverrideNametags handleOverrideNametags (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketNametagsOverride;)V
+	METHOD handleRemoveHologram handleRemoveHologram (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketHologramRemove;)V
+	METHOD handleRemoveWaypoint handleRemoveWaypoint (Lcom/lunarclient/bukkitapi/nethandler/shared/LCPacketWaypointRemove;)V
+	METHOD handleServerRule handleServerRule (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketServerRule;)V
+	METHOD handleServerUpdate handleServerUpdate (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketServerUpdate;)V
+	METHOD handleStaffModState handleStaffModState (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketStaffModState;)V
+	METHOD handleTeammates handleTeammates (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketTeammates;)V
+	METHOD handleTitle handleTitle (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketTitle;)V
+	METHOD handleUpdateHologram handleUpdateHologram (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketHologramUpdate;)V
+	METHOD handleUpdateWorld handleUpdateWorld (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketUpdateWorld;)V
+	METHOD handleVoice handleVoice (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoice;)V
+	METHOD handleVoiceChannelDelete handleVoiceChannelDelete (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannelRemove;)V
+	METHOD handleVoiceChannelUpdate handleVoiceChannelUpdate (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannelUpdate;)V
+	METHOD handleVoiceChannels handleVoiceChannels (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannel;)V
+	METHOD handleWorldBorder handleWorldBorder (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorder;)V
+	METHOD handleWorldBorderCreateNew handleWorldBorderCreateNew (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderCreateNew;)V
+	METHOD handleWorldBorderRemove handleWorldBorderRemove (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderRemove;)V
+	METHOD handleWorldBorderUpdate handleWorldBorderUpdate (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderUpdate;)V
+	METHOD handleWorldBorderUpdateNew handleWorldBorderUpdateNew (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderUpdateNew;)V
+	METHOD onDisconnect onDisconnect (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC;)V
+		ARG 1 event

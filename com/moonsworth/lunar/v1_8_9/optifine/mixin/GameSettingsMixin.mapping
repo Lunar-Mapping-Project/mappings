@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_8_9/optifine/mixin/GameSettingsMixin
+	FIELD ofKeyBindZoom ofKeyBindZoom Lnet/minecraft/client/settings/KeyBinding;
+	METHOD <init> <init> ()V
+	METHOD bridge$getZoomKey bridge$getZoomKey ()Ljava/util/Optional;
+	METHOD bridge$updateVSync bridge$updateVSync ()V
+	METHOD impl$isKeyDown impl$isKeyDown (Lnet/minecraft/client/settings/KeyBinding;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$setOptionValueOF$head impl$setOptionValueOF$head (Lnet/minecraft/client/settings/GameSettings$Options;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$setOptionValueOF$tail impl$setOptionValueOF$tail (Lnet/minecraft/client/settings/GameSettings$Options;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD updateVSync updateVSync ()V

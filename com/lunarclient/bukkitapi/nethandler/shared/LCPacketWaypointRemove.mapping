@@ -1,0 +1,12 @@
+CLASS com/lunarclient/bukkitapi/nethandler/shared/LCPacketWaypointRemove com/lunarclient/bukkitapi/nethandler/shared/LCPacketWaypointRemove
+	FIELD name name Ljava/lang/String;
+	FIELD world world Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 name
+		ARG 2 world
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getWorld getWorld ()Ljava/lang/String;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

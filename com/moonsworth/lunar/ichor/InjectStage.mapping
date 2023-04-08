@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/ichor/InjectStage
+	FIELD adS parent Lcom/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI;)V
+		ARG 1 parent
+	METHOD CHCHHHORIRIHCCORRRCCIIRRC getParent ()Lcom/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setParent (Lcom/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI;)V
+		ARG 1 parent
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

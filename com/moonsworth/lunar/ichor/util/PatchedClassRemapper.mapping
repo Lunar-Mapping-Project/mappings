@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/ichor/util/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/ichor/util/PatchedClassRemapper
+	FIELD className className Ljava/lang/String;
+	METHOD <init> <init> (Lorg/objectweb/asm/ClassVisitor;Lorg/objectweb/asm/commons/Remapper;)V
+	METHOD visit visit (IILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V
+	METHOD visitMethod visitMethod (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Lorg/objectweb/asm/MethodVisitor;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI PatchedMethodRemapper
+		FIELD methodName methodName Ljava/lang/String;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/util/OIOOCIIHICICRRHCROHOOHOCI;Ljava/lang/String;Lorg/objectweb/asm/MethodVisitor;Lorg/objectweb/asm/commons/Remapper;)V
+		METHOD remapFrameTypes remapFrameTypes (I[Ljava/lang/Object;)[Ljava/lang/Object;
+		METHOD visitFrame visitFrame (II[Ljava/lang/Object;I[Ljava/lang/Object;)V

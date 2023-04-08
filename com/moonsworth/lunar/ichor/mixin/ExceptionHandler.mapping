@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/ichor/mixin/ExceptionHandler
+	METHOD handle handle (Ljava/lang/Throwable;)V
+		ARG 1 throwable
+	METHOD register register (Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO;)V
+		ARG 0 handler

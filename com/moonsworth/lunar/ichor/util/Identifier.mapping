@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/ichor/util/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/ichor/util/Identifier
+	FIELD agP TAKEN Ljava/util/HashSet;
+	FIELD agQ RANDOM Ljava/util/Random;
+	FIELD agR identifier Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (I)V
+		ARG 1 length
+	METHOD HHRRCOOCHIIIIORIROCRRCOHC get (I)Ljava/lang/String;
+		ARG 0 length
+	METHOD ICHCHOICCOCIOHCHHCIIOHRHC (I)Z
+		ARG 0 n
+	METHOD toString toString ()Ljava/lang/String;

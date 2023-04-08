@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/lunar/ILunarWorldBorderBridge
+	METHOD allowsInteraction allowsInteraction ()Z
+	METHOD bridge$setCenter bridge$setCenter (DD)V
+		ARG 1 x
+		ARG 3 z
+	METHOD bridge$setTransition bridge$setTransition (D)V
+	METHOD contains contains (DD)Z
+	METHOD getColor getColor ()I
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getWalls getWalls ()Ljava/util/List;
+	METHOD getWorld getWorld ()Ljava/lang/String;
+	METHOD isCancelEntry isCancelEntry ()Z
+	METHOD isCancelExit isCancelExit ()Z
+	METHOD isWorldBorder isWorldBorder ()Z
+	METHOD renderBox renderBox (F)V
+	METHOD setCanShrink setCanShrink (Z)V
+	METHOD setCancelEntry setCancelEntry (Z)V
+	METHOD setCancelExit setCancelExit (Z)V
+	METHOD setColor setColor (I)V
+	METHOD setStaticBounds setStaticBounds (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD shouldRender shouldRender ()Z
+	METHOD update update (DDDDI)V

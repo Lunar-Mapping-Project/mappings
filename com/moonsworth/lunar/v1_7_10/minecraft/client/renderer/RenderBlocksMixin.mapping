@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/minecraft/client/renderer/RenderBlocksMixin
+	FIELD renderAllFaces renderAllFaces Z
+	METHOD <init> <init> ()V
+	METHOD impl$renderBlockByRenderType impl$renderBlockByRenderType (Lnet/minecraft/block/Block;IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$renderBlockTripWireSetColor impl$renderBlockTripWireSetColor (Lnet/minecraft/client/renderer/Tessellator;FFF)V

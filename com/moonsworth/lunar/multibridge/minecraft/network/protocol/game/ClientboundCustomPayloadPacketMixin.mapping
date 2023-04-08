@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/network/protocol/game/ClientboundCustomPayloadPacketMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getBufferData bridge$getBufferData ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getChannelName bridge$getChannelName ()Ljava/lang/String;
+	METHOD getData getData ()Lnet/minecraft/network/FriendlyByteBuf;
+	METHOD getIdentifier getIdentifier ()Lnet/minecraft/resources/ResourceLocation;

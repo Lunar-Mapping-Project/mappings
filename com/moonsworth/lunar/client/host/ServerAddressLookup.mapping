@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/client/host/ServerAddressLookup
+	FIELD EMPTY EMPTY Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/RHOHHRHHRCHRRIOCIIRHICCIC;
+	METHOD <clinit> <clinit> ()V
+	METHOD createDnsSrvRedirectHandler createDnsSrvRedirectHandler ()Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/RHOHHRHHRCHRRIOCIIRHICCIC;
+	METHOD lambda$createDnsSrvRedirectHandler$1 lambda$createDnsSrvRedirectHandler$1 (Ljavax/naming/directory/InitialDirContext;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OIOORRORCRHOOCICORRCHOHRC;)Ljava/util/Optional;
+		ARG 1 address
+	METHOD lambda$static$0 lambda$static$0 (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OIOORRORCRHOOCICORRCHOHRC;)Ljava/util/Optional;
+		ARG 0 address
+	METHOD lookupRedirect lookupRedirect (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OIOORRORCRHOOCICORRCHOHRC;)Ljava/util/Optional;
+		ARG 1 address

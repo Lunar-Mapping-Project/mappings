@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RCRIIRROHHOCHHHCHOCIICRHR com/moonsworth/lunar/v1_7_10/minecraft/client/gui/GuiResourcePackListMixin
+	FIELD field_148204_l field_148204_l Ljava/util/List;
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;IIIII)V
+	METHOD drawScreen drawScreen (IIF)V
+	METHOD overlayBackground overlayBackground (IIII)V
+	METHOD setUnderlyingList setUnderlyingList (Ljava/util/List;)V

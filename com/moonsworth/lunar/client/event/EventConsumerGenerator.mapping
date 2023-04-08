@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/event/EventConsumerGenerator
+	FIELD classNode classNode Lorg/objectweb/asm/tree/ClassNode;
+	FIELD clazz clazz Ljava/lang/Class;
+	FIELD instance instance Ljava/lang/Object;
+	METHOD <init> <init> (Ljava/lang/Object;)V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR getClassBytes (Ljava/lang/Class;)[B
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI compile (Lorg/objectweb/asm/tree/MethodNode;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI CompiledConsumer
+		FIELD RICHORHHCCHOCIHIHCIOCCCOR bytecode [B
+		FIELD name name Ljava/lang/String;
+		METHOD <init> <init> (Ljava/lang/String;[B)V
+		METHOD OCIROORRIRIOHIIIRRIORCIHI setBytecode ([B)V
+		METHOD OROOIOHCOIOOCHCOHOHRHHIHI getBytecode ()[B
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getName getName ()Ljava/lang/String;
+		METHOD hashCode hashCode ()I
+		METHOD setName setName (Ljava/lang/String;)V
+		METHOD toString toString ()Ljava/lang/String;

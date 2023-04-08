@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/GuiChestMixin
+	FIELD lowerChestInventory lowerChestInventory Lnet/minecraft/inventory/IInventory;
+	METHOD <init> <init> (Lnet/minecraft/inventory/Container;)V
+	METHOD drawScreen drawScreen (IIF)V
+	METHOD handleMouseClick handleMouseClick (Lnet/minecraft/inventory/Slot;III)V
+	METHOD impl$drawGuiContainerForegroundLayer impl$drawGuiContainerForegroundLayer (IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD initGui initGui ()V
+	METHOD keyTyped keyTyped (CI)V
+	METHOD mouseClickMove mouseClickMove (IIIJ)V
+	METHOD mouseClicked mouseClicked (III)V
+	METHOD mouseReleased mouseReleased (III)V
+	METHOD onGuiClosed onGuiClosed ()V
+	METHOD redirect$color redirect$color (FFFF)V
+	METHOD redirect$drawString redirect$drawString (Lnet/minecraft/client/gui/FontRenderer;Ljava/lang/String;III)I
+	METHOD updateScreen updateScreen ()V

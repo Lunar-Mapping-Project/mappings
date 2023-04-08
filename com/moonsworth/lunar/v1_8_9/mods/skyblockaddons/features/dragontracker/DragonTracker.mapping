@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/dragontracker/DragonTracker
+	FIELD contributedToCurrentDragon contributedToCurrentDragon Z
+	FIELD dummyDragons dummyDragons Ljava/util/List;
+	FIELD eyesToPlace eyesToPlace I
+	FIELD instance instance Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD lastDragonKilled lastDragonKilled J
+	FIELD recentInventoryDifferences recentInventoryDifferences Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD addEye addEye ()V
+	METHOD checkInventoryDifferenceForDrops checkInventoryDifferenceForDrops (Ljava/util/List;)V
+	METHOD dragonKilled dragonKilled ()V
+	METHOD dragonSpawned dragonSpawned (Ljava/lang/String;)V
+	METHOD getDragsSince getDragsSince (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;)I
+	METHOD getDummyDragons getDummyDragons ()Ljava/util/List;
+	METHOD getInstance getInstance ()Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD getRecentDragons getRecentDragons ()Ljava/util/List;
+	METHOD lambda$checkInventoryDifferenceForDrops$0 lambda$checkInventoryDifferenceForDrops$0 (Ljava/util/Map$Entry;)Z
+	METHOD removeEye removeEye ()V
+	METHOD reset reset ()V

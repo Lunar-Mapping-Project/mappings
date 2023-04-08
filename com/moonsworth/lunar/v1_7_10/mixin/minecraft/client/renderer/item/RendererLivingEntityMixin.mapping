@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/item/RendererLivingEntityMixin
+	METHOD <init> <init> ()V
+	METHOD colorArmorHit colorArmorHit (FFFF)V
+	METHOD colorPlayerHit colorPlayerHit (FFFF)V
+	METHOD lunar$onRotatef lunar$onRotatef (FFFF)V
+	METHOD lunar$onScalef lunar$onScalef (FFF)V
+	METHOD lunar$onTranslatef lunar$onTranslatef (FFF)V

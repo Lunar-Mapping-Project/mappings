@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/generator/test/NormalEntityBridge
+	METHOD CRIRIOIOCCRRHOIIROHIHHCCO bridge$getWorld ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD ORCHIHHCIIOHHHRCOICCRRCHO bridge$getPositon ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROOICOIICOIOORHCHIHCOICII;
+	METHOD ORICCRORCIHCRRROCCHHCCRIH bridge$getName ()Lnet/kyori/adventure/text/Component;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI bridge$setPosition (Ljava/lang/Double;Ljava/lang/Double;Ljava/lang/Double;)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+	METHOD bridge$getPosX bridge$getPosX ()D
+	METHOD bridge$getPosY bridge$getPosY ()D
+	METHOD bridge$getPosZ bridge$getPosZ ()D
+	METHOD bridge$isInvisibleTo bridge$isInvisibleTo (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR;)Z
+		ARG 1 entity
+	METHOD bridge$setPosX bridge$setPosX (D)V
+		ARG 1 x
+	METHOD bridge$setPosY bridge$setPosY (D)V
+		ARG 1 y
+	METHOD bridge$setPosZ bridge$setPosZ (D)V
+		ARG 1 z

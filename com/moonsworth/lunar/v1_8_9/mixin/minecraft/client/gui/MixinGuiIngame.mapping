@@ -1,0 +1,25 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mixin/minecraft/client/gui/MixinGuiIngame
+	FIELD persistantChatGUI persistantChatGUI Lnet/minecraft/client/gui/GuiNewChat;
+	FIELD titlesTimer titlesTimer I
+	METHOD <init> <init> ()V
+	METHOD impl$drawChat impl$drawChat (Lnet/minecraft/client/gui/GuiNewChat;I)V
+	METHOD impl$onRenderPlayerList impl$onRenderPlayerList (Lnet/minecraft/client/gui/GuiPlayerTabOverlay;ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V
+	METHOD impl$render3DOverlays impl$render3DOverlays (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 2 ci
+	METHOD impl$renderGameOverlay$title impl$renderGameOverlay$title (Lnet/minecraft/client/gui/GuiIngame;)I
+	METHOD impl$renderGameOverlay impl$renderGameOverlay (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 2 ci
+	METHOD impl$renderHotbar impl$renderHotbar (Lnet/minecraft/client/gui/ScaledResolution;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 3 ci
+	METHOD impl$renderPlayerHealth impl$renderPlayerHealth (Lnet/minecraft/client/gui/ScaledResolution;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderPlayerStats impl$renderPlayerStats (I)I
+	METHOD impl$renderTooltip impl$renderTooltip (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$showCrosshair impl$showCrosshair (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+		ARG 1 cir
+	METHOD renderBossHealth renderBossHealth ()V
+	METHOD renderPlayerStats_isHardcoreModeEnabled renderPlayerStats_isHardcoreModeEnabled (Lnet/minecraft/world/storage/WorldInfo;)Z
+	METHOD renderScoreboard renderScoreboard (Lnet/minecraft/scoreboard/ScoreObjective;Lnet/minecraft/client/gui/ScaledResolution;)V
+	METHOD showCrosshair showCrosshair ()Z
+	CLASS 1
+		FIELD $SwitchMap$com$moonsworth$lunar$client$event$EventWithResult$EventStateResult $SwitchMap$com$moonsworth$lunar$client$event$EventWithResult$EventStateResult [I
+		METHOD <clinit> <clinit> ()V

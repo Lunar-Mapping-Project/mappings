@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_12_2/impl/entity/data/DummyPlayerBridgeImpl
+	FIELD realUuid realUuid Ljava/util/UUID;
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;Lnet/minecraft/world/World;Lnet/minecraft/client/network/NetHandlerPlayClient;Lnet/minecraft/stats/StatisticsManager;)V
+	METHOD entityInit entityInit ()V
+	METHOD getAlwaysRenderNameTag getAlwaysRenderNameTag ()Z
+	METHOD getAlwaysRenderNameTagForRender getAlwaysRenderNameTagForRender ()Z
+	METHOD getPlayerInfo getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo;
+	METHOD hasCustomName hasCustomName ()Z
+	METHOD isSpectatedByPlayer isSpectatedByPlayer (Lnet/minecraft/entity/player/EntityPlayerMP;)Z
+	METHOD isSpectator isSpectator ()Z
+	METHOD isUser isUser ()Z

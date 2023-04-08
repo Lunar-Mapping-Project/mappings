@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/v1_8_9/optifine/mixin/MinecraftMixin
+	METHOD <init> <init> ()V
+	METHOD impl$runTick$changeCurrentItem impl$runTick$changeCurrentItem (Lnet/minecraft/entity/player/InventoryPlayer;I)V
+	METHOD impl$startGame impl$startGame (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO joptsimple/OptionArgumentConversionException
+	FIELD abD serialVersionUID J
+	FIELD abE argument Ljava/lang/String;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC;Ljava/lang/String;Ljava/lang/Throwable;)V
+	METHOD OCHRHOIHIHCRCCHRIHHCCIOOH messageArguments ()[Ljava/lang/Object;

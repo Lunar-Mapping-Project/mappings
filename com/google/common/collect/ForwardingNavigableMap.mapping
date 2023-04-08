@@ -1,0 +1,54 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCCOIHOROCIHCHHRHIHIIRRCC com/google/common/collect/ForwardingNavigableMap
+	METHOD <init> <init> ()V
+	METHOD CCOCHCIRIIORCCICHRHCORHIR standardPollFirstEntry ()Ljava/util/Map$Entry;
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD CHIIRCRRORCROCIOOHIHCCRCR standardHigherKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD CIIIIRHHHIIORIOHRCCCRCORC standardHeadMap (Ljava/lang/Object;)Ljava/util/SortedMap;
+	METHOD CIIRIORICHRIRRCCCIORRCRCR standardTailMap (Ljava/lang/Object;)Ljava/util/SortedMap;
+	METHOD ICOICORHIORHRCRIIIOCCCOCO standardSubMap (Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/SortedMap;
+	METHOD ICORCIRHCRIHCIRIIIHCIIICI standardDescendingKeySet ()Ljava/util/NavigableSet;
+	METHOD IHIHRHOICOICRCROHCOIRHRIC standardFirstEntry ()Ljava/util/Map$Entry;
+	METHOD IIHRCCIRHHHRHHIHRRCHOCHIH delegate ()Ljava/util/NavigableMap;
+	METHOD IRCHIIOORIHHRCIROOHORORIR standardCeilingKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD IRORHCRIOHOHCRHCHHRCOHIIR delegate ()Ljava/util/SortedMap;
+	METHOD IRROHRORCCCHOIOCCIIIROIIO standardPollLastEntry ()Ljava/util/Map$Entry;
+	METHOD OCOIOIOIRHHORIIROHHRHCIRO standardLastEntry ()Ljava/util/Map$Entry;
+	METHOD OHRRIROHIICHOHOHIOICCCRHR delegate ()Ljava/util/Map;
+	METHOD ORHOOOCCHRCOHROIHHHCIHRCR standardLowerKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RHOIROHIRIRIOIRIIHOROORRC standardFloorKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD ceilingEntry ceilingEntry (Ljava/lang/Object;)Ljava/util/Map$Entry;
+	METHOD ceilingKey ceilingKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD descendingKeySet descendingKeySet ()Ljava/util/NavigableSet;
+	METHOD descendingMap descendingMap ()Ljava/util/NavigableMap;
+	METHOD firstEntry firstEntry ()Ljava/util/Map$Entry;
+	METHOD floorEntry floorEntry (Ljava/lang/Object;)Ljava/util/Map$Entry;
+	METHOD floorKey floorKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD headMap headMap (Ljava/lang/Object;Z)Ljava/util/NavigableMap;
+	METHOD higherEntry higherEntry (Ljava/lang/Object;)Ljava/util/Map$Entry;
+	METHOD higherKey higherKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD lastEntry lastEntry ()Ljava/util/Map$Entry;
+	METHOD lowerEntry lowerEntry (Ljava/lang/Object;)Ljava/util/Map$Entry;
+	METHOD lowerKey lowerKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD navigableKeySet navigableKeySet ()Ljava/util/NavigableSet;
+	METHOD pollFirstEntry pollFirstEntry ()Ljava/util/Map$Entry;
+	METHOD pollLastEntry pollLastEntry ()Ljava/util/Map$Entry;
+	METHOD subMap subMap (Ljava/lang/Object;ZLjava/lang/Object;Z)Ljava/util/NavigableMap;
+	METHOD tailMap tailMap (Ljava/lang/Object;Z)Ljava/util/NavigableMap;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI StandardNavigableKeySet
+		FIELD hU this$0 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCCOIHOROCIHCHHRHIHIIRRCC;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCCOIHOROCIHCHHRHIHIIRRCC;)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI StandardDescendingMap
+		FIELD hS this$0 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCCOIHOROCIHCHHRHIHIIRRCC;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCCOIHOROCIHCHHRHIHIIRRCC;)V
+		METHOD CRIROCHCICHOORCOIORCCRHHC forward ()Ljava/util/NavigableMap;
+		METHOD IHRHIHOHIOHHCCICCHHCIIHRO entryIterator ()Ljava/util/Iterator;
+		METHOD replaceAll replaceAll (Ljava/util/function/BiFunction;)V
+		CLASS 1 1
+			FIELD COCROOROHRRHRRCHHCORHCOHC toRemove Ljava/util/Map$Entry;
+			FIELD HIHOOCHIIHCCICHCICIOHOCHH nextOrNull Ljava/util/Map$Entry;
+			FIELD hT this$1 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCCOIHOROCIHCHHRHIHIIRRCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+			METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCCOIHOROCIHCHHRHIHIIRRCC$RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+			METHOD hasNext hasNext ()Z
+			METHOD next next ()Ljava/lang/Object;
+			METHOD next next ()Ljava/util/Map$Entry;
+			METHOD remove remove ()V

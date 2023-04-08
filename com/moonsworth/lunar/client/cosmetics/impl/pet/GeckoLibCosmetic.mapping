@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOIRIIIRHHIIRRCOCHIOCIHO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/cosmetics/impl/pet/GeckoLibCosmetic
+	FIELD HRRRHIIORIIHICCHCHHRIRCHC model Lsoftware/bernie/geckolib3/model/GeckolibModel;
+	FIELD RCCCCCCRRCOORHRHOIICOIOCI definition Lsoftware/bernie/geckolib3/cosmetics/GeckolibCosmeticDefinition;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (JLjava/lang/String;Ljava/lang/String;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOIRIIIRHHIIRRCOCHIOCIHO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC;Z)V
+	METHOD CHIROHOIIOORHCIIHCCIROCHI getModel ()Lsoftware/bernie/geckolib3/model/GeckolibModel;
+	METHOD HOOOICCIIHCIRHOOIRRCCCHOC getDefinition ()Lsoftware/bernie/geckolib3/cosmetics/GeckolibCosmeticDefinition;
+	METHOD OOIOCOIICIROCHRHOIRHHICIH hashcode ()I
+	METHOD getFactory getFactory ()Lsoftware/bernie/geckolib3/core/manager/AnimationFactory;
+	METHOD registerControllers registerControllers (Lsoftware/bernie/geckolib3/core/manager/AnimationData;)V

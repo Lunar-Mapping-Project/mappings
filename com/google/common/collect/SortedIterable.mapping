@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RRHROCICOICOIIIHCRORCOOOO com/google/common/collect/SortedIterable
+	METHOD comparator comparator ()Ljava/util/Comparator;
+	METHOD iterator iterator ()Ljava/util/Iterator;

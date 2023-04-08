@@ -1,0 +1,38 @@
+CLASS com/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/fabric/ExternalMod
+	FIELD aeq container Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD key key Ljava/lang/String;
+	FIELD version version Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 key
+		ARG 2 version
+	METHOD OCIROORRIRIOHIIIRRIORCIHI getRefmaps (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;)Ljava/util/List;
+		ARG 1 injector
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)Ljava/util/Optional;
+		ARG 1 pipeline
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getMixins (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;)Ljava/util/List;
+		ARG 1 injector
+	METHOD getKey getKey ()Ljava/lang/String;
+	METHOD getVersion getVersion ()Ljava/lang/String;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI ExternalModContainer
+		FIELD aes externalModMetadata Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI$OIOORRORCRHOOCICORRCHOHRC;
+		FIELD aet aet Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI$OIOORRORCRHOOCICORRCHOHRC;)V
+			ARG 2 externalModMetadata
+		METHOD IRHOIIIRRRHOIRCOICICIROCR getExternalModMetadata ()Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI$OIOORRORCRHOOCICORRCHOHRC;
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI$OIOORRORCRHOOCICORRCHOHRC;)V
+			ARG 1 externalModMetadata
+		METHOD canEqual canEqual (Ljava/lang/Object;)Z
+			ARG 1 other
+		METHOD equals equals (Ljava/lang/Object;)Z
+			ARG 1 other
+		METHOD getMetadata getMetadata ()Lnet/fabricmc/loader/api/metadata/ModMetadata;
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS OIOORRORCRHOOCICORRCHOHRC ModMetadataImpl
+		FIELD aeu aeu Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;)V
+		METHOD getId getId ()Ljava/lang/String;
+		METHOD getVersion getVersion ()Lnet/fabricmc/loader/api/Version;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI MixinConfigurationImpl
+		FIELD aer aer Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;)V

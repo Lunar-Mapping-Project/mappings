@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/sounds/SoundManagerMixin
+	FIELD currentLunarSong currentLunarSong Lnet/minecraft/client/sounds/ChannelAccess$ChannelHandle;
+	FIELD registry registry Ljava/util/Map;
+	FIELD soundEngine soundEngine Lnet/minecraft/client/sounds/SoundEngine;
+	METHOD <init> <init> ()V
+	METHOD bridge$getAllRegisteredSounds bridge$getAllRegisteredSounds ()Ljava/util/Set;
+	METHOD bridge$getSoundEngine bridge$getSoundEngine ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$playLunarMusic bridge$playLunarMusic (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$playSound bridge$playSound (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setLunarMusicVolume bridge$setLunarMusicVolume (F)V
+	METHOD bridge$stopPlayingLunarMusic bridge$stopPlayingLunarMusic ()V
+	METHOD impl$playDelayedSound impl$playDelayedSound (Lnet/minecraft/client/resources/sounds/SoundInstance;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$playSound impl$playSound (Lnet/minecraft/client/resources/sounds/SoundInstance;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$bridge$playLunarMusic$2 lambda$bridge$playLunarMusic$2 (Lnet/minecraft/client/sounds/AudioStream;Lcom/mojang/blaze3d/audio/Channel;)V
+	METHOD lambda$bridge$playLunarMusic$3 lambda$bridge$playLunarMusic$3 (Lnet/minecraft/client/sounds/AudioStream;)V
+	METHOD lambda$bridge$playSound$0 lambda$bridge$playSound$0 (Lnet/minecraft/client/sounds/AudioStream;Lcom/mojang/blaze3d/audio/Channel;)V
+	METHOD lambda$bridge$playSound$1 lambda$bridge$playSound$1 (Lnet/minecraft/client/sounds/ChannelAccess$ChannelHandle;Lnet/minecraft/client/sounds/AudioStream;)V
+	METHOD lambda$bridge$setLunarMusicVolume$4 lambda$bridge$setLunarMusicVolume$4 (FLcom/mojang/blaze3d/audio/Channel;)V
+	METHOD play play (Lnet/minecraft/client/resources/sounds/SoundInstance;)V

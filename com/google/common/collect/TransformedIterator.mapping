@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OHICOCOIRCOCIICRIOHRCOORI com/google/common/collect/TransformedIterator
+	FIELD yI backingIterator Ljava/util/Iterator;
+	METHOD <init> <init> (Ljava/util/Iterator;)V
+	METHOD hasNext hasNext ()Z
+	METHOD next next ()Ljava/lang/Object;
+	METHOD remove remove ()V
+	METHOD transform transform (Ljava/lang/Object;)Ljava/lang/Object;

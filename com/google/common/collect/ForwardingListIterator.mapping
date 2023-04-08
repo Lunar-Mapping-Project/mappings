@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IICCCIHICOCOOHCOORHRCHRCC com/google/common/collect/ForwardingListIterator
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD CICHHRHCRHIHIOOHHROIHROHI delegate ()Ljava/util/ListIterator;
+	METHOD RCCCHCRRROHOHCOHHCRROHIHI delegate ()Ljava/util/Iterator;
+	METHOD add add (Ljava/lang/Object;)V
+	METHOD hasPrevious hasPrevious ()Z
+	METHOD nextIndex nextIndex ()I
+	METHOD previous previous ()Ljava/lang/Object;
+	METHOD previousIndex previousIndex ()I
+	METHOD set set (Ljava/lang/Object;)V

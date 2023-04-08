@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/client/resources/I18nMixin
+	METHOD <init> <init> ()V
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;
+	METHOD impl$onFormat impl$onFormat (Ljava/lang/String;[Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lambda$impl$onFormat$0 lambda$impl$onFormat$0 (Ljava/lang/String;[Ljava/lang/Object;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Ljava/lang/String;)V

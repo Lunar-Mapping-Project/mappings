@@ -1,0 +1,30 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketTitle com/lunarclient/bukkitapi/nethandler/client/LCPacketTitle
+	FIELD displayTimeMs displayTimeMs J
+	FIELD fadeInTimeMs fadeInTimeMs J
+	FIELD fadeOutTimeMs fadeOutTimeMs J
+	FIELD message message Ljava/lang/String;
+	FIELD scale scale F
+	FIELD type type Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;FJJJ)V
+		ARG 1 type
+		ARG 2 message
+		ARG 3 scale
+		ARG 4 displayTimeMs
+		ARG 6 fadeInTimeMs
+		ARG 8 fadeOutTimeMs
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;JJJ)V
+		ARG 1 type
+		ARG 2 message
+		ARG 3 displayTimeMs
+		ARG 5 fadeInTimeMs
+		ARG 7 fadeOutTimeMs
+	METHOD getDisplayTimeMs getDisplayTimeMs ()J
+	METHOD getFadeInTimeMs getFadeInTimeMs ()J
+	METHOD getFadeOutTimeMs getFadeOutTimeMs ()J
+	METHOD getMessage getMessage ()Ljava/lang/String;
+	METHOD getScale getScale ()F
+	METHOD getType getType ()Ljava/lang/String;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

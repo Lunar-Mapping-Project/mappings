@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/MinecraftMixin
+	FIELD allowOneSevenUse allowOneSevenUse Ljava/util/Set;
+	FIELD gameSettings gameSettings Lnet/minecraft/client/settings/GameSettings;
+	FIELD leftClickPressed leftClickPressed Z
+	FIELD objectMouseOver objectMouseOver Lnet/minecraft/util/MovingObjectPosition;
+	FIELD playerController playerController Lnet/minecraft/client/multiplayer/PlayerControllerMP;
+	FIELD thePlayer thePlayer Lnet/minecraft/client/entity/EntityPlayerSP;
+	FIELD theWorld theWorld Lnet/minecraft/client/multiplayer/WorldClient;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD getLimitFramerate getLimitFramerate ()I
+	METHOD impl$getIsHittingBlock impl$getIsHittingBlock (Lnet/minecraft/client/multiplayer/PlayerControllerMP;)Z
+	METHOD impl$launchIntegratedServer impl$launchIntegratedServer (Ljava/lang/String;Ljava/lang/String;Lnet/minecraft/world/WorldSettings;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$runTick impl$runTick (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$runTick_isUsingItem impl$runTick_isUsingItem (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD onSwing onSwing (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD unPressKeysWhenOpeningGui unPressKeysWhenOpeningGui (Lnet/minecraft/client/gui/GuiScreen;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

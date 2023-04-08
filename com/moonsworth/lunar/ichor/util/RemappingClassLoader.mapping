@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/ichor/util/OICCIHOCRHCCRRHCRCCCHIIRC com/moonsworth/lunar/ichor/util/RemappingClassLoader
+	METHOD <init> <init> (Lorg/cadixdev/lorenz/MappingSet;[Ljava/net/URL;Ljava/lang/ClassLoader;)V
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD loadClass loadClass (Ljava/lang/String;Z)Ljava/lang/Class;

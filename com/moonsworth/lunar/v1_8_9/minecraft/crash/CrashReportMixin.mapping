@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/crash/CrashReportMixin
+	FIELD cause cause Ljava/lang/Throwable;
+	FIELD description description Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD bridge$getCause bridge$getCause ()Ljava/lang/Throwable;
+	METHOD bridge$getTitle bridge$getTitle ()Ljava/lang/String;

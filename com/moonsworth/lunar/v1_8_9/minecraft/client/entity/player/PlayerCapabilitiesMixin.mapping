@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/client/entity/player/PlayerCapabilitiesMixin
+	FIELD allowFlying allowFlying Z
+	FIELD flySpeed flySpeed F
+	FIELD isCreativeMode isCreativeMode Z
+	FIELD isFlying isFlying Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getFlySpeed bridge$getFlySpeed ()F
+	METHOD bridge$getWalkSpeed bridge$getWalkSpeed ()F
+	METHOD bridge$isAllowFlying bridge$isAllowFlying ()Z
+	METHOD bridge$isCreativeMode bridge$isCreativeMode ()Z
+	METHOD bridge$isFlying bridge$isFlying ()Z
+	METHOD bridge$setFlySpeed bridge$setFlySpeed (F)V
+	METHOD bridge$setFlying bridge$setFlying (Z)V
+	METHOD getWalkSpeed getWalkSpeed ()F

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/texture/SimpleTextureMixin
+	FIELD textureLocation textureLocation Lnet/minecraft/util/ResourceLocation;
+	METHOD <init> <init> ()V
+	METHOD impl$readImage impl$readImage (Ljava/io/InputStream;)Ljava/awt/image/BufferedImage;

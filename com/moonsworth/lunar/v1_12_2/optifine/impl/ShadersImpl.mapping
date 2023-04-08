@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_12_2/optifine/impl/ShadersImpl
+	METHOD <init> <init> ()V
+	METHOD getEntityModelVertexFormat getEntityModelVertexFormat ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD getPackDefault getPackDefault ()Ljava/lang/String;
+	METHOD getPackNone getPackNone ()Ljava/lang/String;
+	METHOD getProgramBasic getProgramBasic ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD getShaderPack getShaderPack ()Ljava/lang/String;
+	METHOD hasShadowPass hasShadowPass ()Z
+	METHOD popProgram popProgram ()V
+	METHOD pushUseProgram pushUseProgram (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/IIROHIIHCHOORORIIHORHRORO;)V
+	METHOD setShaderPack setShaderPack (Ljava/lang/String;)V

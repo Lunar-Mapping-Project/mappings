@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/tileentity/TileEntityMixin
+	FIELD blockType blockType Lnet/minecraft/block/Block;
+	METHOD <init> <init> ()V
+	METHOD bridge$getBlockType bridge$getBlockType ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getPos bridge$getPos ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;
+	METHOD getBlockType getBlockType ()Lnet/minecraft/block/Block;
+	METHOD getPos getPos ()Lnet/minecraft/util/BlockPos;

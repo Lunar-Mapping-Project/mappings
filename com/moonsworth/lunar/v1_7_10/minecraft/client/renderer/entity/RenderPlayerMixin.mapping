@@ -1,0 +1,55 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/client/renderer/entity/RenderPlayerMixin
+	FIELD layers layers Ljava/util/List;
+	FIELD modelArmorChestplate modelArmorChestplate Lnet/minecraft/client/model/ModelBiped;
+	FIELD modelArmor modelArmor Lnet/minecraft/client/model/ModelBiped;
+	FIELD modelBipedMain modelBipedMain Lnet/minecraft/client/model/ModelBiped;
+	FIELD slicedModelCloak slicedModelCloak Lcom/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <init> <init> ()V
+	METHOD bridge$addLayer bridge$addLayer (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD bridge$addLayer bridge$addLayer (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Z)V
+	METHOD bridge$getLayerCape bridge$getLayerCape ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getMainModel bridge$getMainModel ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$renderEquippedItems bridge$renderEquippedItems (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI;F)V
+	METHOD bridge$setPlayerModelType bridge$setPlayerModelType (Z)V
+	METHOD copyLayers copyLayers (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD getLayers getLayers ()Ljava/util/List;
+	METHOD impl$getCurrentItem impl$getCurrentItem (Lnet/minecraft/entity/player/InventoryPlayer;)Lnet/minecraft/item/ItemStack;
+		ARG 1 inventory
+	METHOD impl$getHideCape impl$getHideCape (Lnet/minecraft/client/entity/AbstractClientPlayer;)Z
+		ARG 1 player
+	METHOD impl$getLocationCape impl$getLocationCape (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation;
+	METHOD impl$hasCape impl$hasCape (Lnet/minecraft/client/entity/AbstractClientPlayer;)Z
+		ARG 1 player
+	METHOD impl$helmet impl$helmet (Lnet/minecraft/entity/player/InventoryPlayer;I)Lnet/minecraft/item/ItemStack;
+		ARG 1 inventory
+	METHOD impl$isSneaking impl$isSneaking (Lnet/minecraft/client/entity/AbstractClientPlayer;)Z
+		ARG 1 player
+	METHOD impl$onModelBipedRenderPost impl$onModelBipedRenderPost (Lnet/minecraft/client/entity/AbstractClientPlayer;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 player
+		ARG 2 partialTicks
+		ARG 3 ci
+	METHOD impl$onSetModelVisibilities impl$onSetModelVisibilities (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD impl$renderCloak impl$renderCloak (Lnet/minecraft/client/model/ModelBiped;FLnet/minecraft/client/entity/AbstractClientPlayer;)V
+		ARG 1 model
+		ARG 2 partialTicks
+		ARG 3 player
+	METHOD impl$renderHat impl$renderHat (Lnet/minecraft/client/entity/AbstractClientPlayer;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 player
+		ARG 2 partialTicks
+		ARG 3 ci
+	METHOD impl$resetColorTintAfterItemRendering impl$resetColorTintAfterItemRendering (Lnet/minecraft/client/entity/AbstractClientPlayer;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 player
+		ARG 2 partialTicks
+		ARG 3 ci
+	METHOD impl$setupEmoteTransform impl$setupEmoteTransform (Lnet/minecraft/client/entity/AbstractClientPlayer;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 player
+		ARG 2 partialTicks
+		ARG 3 ci
+	METHOD renderEquippedItems renderEquippedItems (Lnet/minecraft/client/entity/AbstractClientPlayer;F)V
+		ARG 1 player
+		ARG 2 partialTicks
+	METHOD shouldRender shouldRender (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+		ARG 1 layer
+		ARG 2 player

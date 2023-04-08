@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/v1_8_9/optifine/mixin/PlayerConfigurationsMixin
+	METHOD <init> <init> ()V
+	METHOD getPlayerConfiguration getPlayerConfiguration (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/optifine/player/PlayerConfiguration;

@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/multibridge/minecraft/client/TimerMixin
+	FIELD partialTick partialTick F
+	FIELD tickDelta tickDelta F
+	METHOD <init> <init> ()V
+	METHOD advanceTime advanceTime (J)I
+	METHOD bridge$advanceTime bridge$advanceTime (J)V
+	METHOD bridge$partialTick bridge$partialTick ()F
+	METHOD bridge$timer bridge$timer ()F

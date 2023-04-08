@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/management/SetManager
+	FIELD OCCIHIHRCCIHRRIRRCIRHCIRH items Ljava/util/Set;
+	METHOD <init> <init> ()V
+	METHOD IOCRCCOICOOCCRRROOIHHCIRH populateItems ()Ljava/util/Set;
+	METHOD RROHOHOIRHCCCICOOORHCRCCC getItems ()Ljava/util/Set;
+	METHOD close close ()V
+	METHOD init init ()V

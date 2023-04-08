@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/network/ServerStatusPinger
+	FIELD val$data val$data Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD <init> <init> ()V
+	METHOD impl$onResponse impl$onResponse (Lnet/minecraft/network/protocol/status/ClientboundStatusResponsePacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

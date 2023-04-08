@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/ichor/util/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/ichor/util/ClassResource
+	METHOD <init> <init> (Ljava/lang/String;[B)V
+	METHOD CIRRORIHIICIOCCROCICOIICH classBytes ()[B
+	METHOD className className ()Ljava/lang/String;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

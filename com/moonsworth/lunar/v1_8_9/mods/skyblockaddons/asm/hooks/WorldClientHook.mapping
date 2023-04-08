@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/WorldClientHook
+	METHOD <init> <init> ()V
+	METHOD blockUpdated blockUpdated (Lnet/minecraft/util/BlockPos;Lnet/minecraft/block/state/IBlockState;)V
+	METHOD onEntityRemoved onEntityRemoved (Lnet/minecraft/entity/Entity;)V

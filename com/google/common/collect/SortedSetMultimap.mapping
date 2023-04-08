@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRHHRIORCOIRHRIOIIROCCROC com/google/common/collect/SortedSetMultimap
+	METHOD CHCIHCIIHIRRHCOIICCHIOCRR valueComparator ()Ljava/util/Comparator;
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO removeAll (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD IIOORHHORIRORRHIRCRHHHIHO get (Ljava/lang/Object;)Ljava/util/SortedSet;
+	METHOD IIROHIIHCHOORORIIHORHRORO replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/SortedSet;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/Collection;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/Set;
+	METHOD RIHIOOIHCHIRIRHHIRIRCCRCO removeAll (Ljava/lang/Object;)Ljava/util/SortedSet;
+	METHOD ROIOOCOOIHCRHCIORROHIIRII get (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD asMap asMap ()Ljava/util/Map;
+	METHOD get get (Ljava/lang/Object;)Ljava/util/Set;
+	METHOD removeAll removeAll (Ljava/lang/Object;)Ljava/util/Set;

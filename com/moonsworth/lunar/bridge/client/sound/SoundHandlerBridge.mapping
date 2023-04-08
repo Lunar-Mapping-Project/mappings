@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/client/sound/SoundHandlerBridge
+	METHOD bridge$getAllRegisteredSounds bridge$getAllRegisteredSounds ()Ljava/util/Set;
+	METHOD bridge$getSoundEngine bridge$getSoundEngine ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$playLunarMusic bridge$playLunarMusic (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$playSound bridge$playSound (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setLunarMusicVolume bridge$setLunarMusicVolume (F)V
+	METHOD bridge$stopPlayingLunarMusic bridge$stopPlayingLunarMusic ()V

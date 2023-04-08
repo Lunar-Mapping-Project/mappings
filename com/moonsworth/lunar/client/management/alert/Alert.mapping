@@ -1,0 +1,28 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/management/alert/Alert
+	FIELD CCOHICCHCCRRHRIOHCHOCOCCO PATTERN Ljava/util/regex/Pattern;
+	FIELD HHOCOHHCRIIHHIOHROHCRIHRI icon Ljava/lang/String;
+	FIELD HOCCICCROOIRCOCHORCCRORCC color Ljava/lang/String;
+	FIELD HRRCHOCHCRICHRROHRCIIIRCH id I
+	FIELD ICHIOCICIOHIIHOCCIORRICCO name Ljava/lang/String;
+	FIELD ICHIOICRHICIHHHOIRCOOORRH iconResource Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	FIELD IICHCIRCHHHRRRIOCRRHHHCIR dismissable Z
+	FIELD IOIOOOICRORHCHOHIIHCOCCOC text Ljava/lang/String;
+	FIELD link link Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V
+		ARG 1 id
+		ARG 2 name
+		ARG 3 text
+		ARG 4 color
+		ARG 5 icon
+		ARG 6 link
+		ARG 7 dismissable
+	METHOD CIOCIOIORIOOOOIHOIIOHCRHC isDismissable ()Z
+	METHOD HIHROORCCHRIOOOCROHHICHHI getIcon ()Ljava/lang/String;
+	METHOD HIOCRHCCHCRRIHCOORICHRIIO getTimeString ()Ljava/lang/String;
+	METHOD RCOHROHHRCRIRCOOCRRROOOCH getColor ()Ljava/lang/String;
+	METHOD RHHOCHOCHOHIOOCCCRRIROROR getLink ()Ljava/lang/String;
+	METHOD getIconResource getIconResource ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD getId getId ()I
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getText getText ()Ljava/lang/String;

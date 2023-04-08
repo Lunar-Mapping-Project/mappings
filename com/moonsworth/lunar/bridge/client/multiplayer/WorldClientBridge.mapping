@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/client/multiplayer/WorldClientBridge
+	METHOD bridge$disconnect bridge$disconnect ()V
+	METHOD bridge$getScoreboard bridge$getScoreboard ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RCHHIHHRCCIHIRCCCRHIOCCHR;

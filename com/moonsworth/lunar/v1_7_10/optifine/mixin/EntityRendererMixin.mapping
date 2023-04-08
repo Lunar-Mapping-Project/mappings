@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_7_10/optifine/mixin/EntityRendererMixin
+	METHOD <init> <init> ()V
+	METHOD impl$isKeyDown impl$isKeyDown (I)Z
+	METHOD impl$isMouseDown impl$isMouseDown (I)Z

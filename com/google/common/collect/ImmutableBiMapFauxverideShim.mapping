@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CIIIROICHHOHORCIHIICHHCIH com/google/common/collect/ImmutableBiMapFauxverideShim
+	METHOD <init> <init> ()V
+	METHOD OCIROORRIRIOHIIIRRIORCIHI toImmutableMap (Ljava/util/function/Function;Ljava/util/function/Function;)Ljava/util/stream/Collector;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI toImmutableMap (Ljava/util/function/Function;Ljava/util/function/Function;Ljava/util/function/BinaryOperator;)Ljava/util/stream/Collector;

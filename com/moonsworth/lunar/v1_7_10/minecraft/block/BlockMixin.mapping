@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/block/BlockMixin
+	FIELD blockMaterial blockMaterial Lnet/minecraft/block/material/Material;
+	METHOD <init> <init> ()V
+	METHOD bridge$getStack bridge$getStack (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getValidStates bridge$getValidStates ()Ljava/util/List;
+	METHOD bridge$isFoliage bridge$isFoliage ()Z
+	METHOD bridge$isSkull bridge$isSkull ()Z
+	METHOD bridge$isWater bridge$isWater ()Z
+	METHOD getDamageValue getDamageValue (Lnet/minecraft/world/World;III)I
+	METHOD getItem getItem (Lnet/minecraft/world/World;III)Lnet/minecraft/item/Item;
+	METHOD isFlowerPot isFlowerPot ()Z

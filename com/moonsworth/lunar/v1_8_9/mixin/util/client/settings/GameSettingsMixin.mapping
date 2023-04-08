@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/client/settings/GameSettingsMixin
+	FIELD useVbo useVbo Z
+	METHOD <init> <init> ()V
+	METHOD enableVBOsDefault enableVBOsDefault (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

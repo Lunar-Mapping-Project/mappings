@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/network/LunarServerData
+	METHOD getLunarServer getLunarServer ()Ljava/lang/String;
+	METHOD setLunarServer setLunarServer (Ljava/lang/String;)V
+		ARG 1 server

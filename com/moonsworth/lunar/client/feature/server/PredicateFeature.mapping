@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/feature/server/PredicateFeature
+	FIELD obj obj Ljava/lang/Object;
+	METHOD <init> <init> (Ljava/lang/Object;Z)V
+	METHOD RCOIIOROIRIHHRRIORROROHHR getObj ()Ljava/lang/Object;
+	METHOD RHHICOIOOHIIRIHIIOORHCOCR getPredicate ()Ljava/util/function/Predicate;

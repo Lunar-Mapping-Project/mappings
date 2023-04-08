@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/multiplayer/GuiConnecting
+	FIELD ip ip Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD impl$run$getIpString impl$run$getIpString (Ljava/lang/String;)Ljava/net/InetAddress;
+	METHOD impl$run$netManager impl$run$netManager (Ljava/net/InetAddress;IZ)Lnet/minecraft/network/NetworkManager;
+	METHOD impl$run$setNetHandler impl$run$setNetHandler (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

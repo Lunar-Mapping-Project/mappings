@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HCHIICRHCHCCHOCRRIROROIOO com/google/common/collect/ImmutableEnumSet
+	FIELD hashCode hashCode I
+	FIELD jl delegate Ljava/util/EnumSet;
+	METHOD <init> <init> (Ljava/util/EnumSet;)V
+	METHOD <init> <init> (Ljava/util/EnumSet;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HCHIICRHCHCCHOCRRIROROIOO$1;)V
+	METHOD IHRRRORICHRIICCCROCRCRHRI iterator ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORIROCHHIRICRCCHHCOHHCCCO;
+	METHOD OHOIIRIHHCHOROOHCCORCCRRC isHashCodeFast ()Z
+	METHOD OIOORRORCRHOOCICORRCHOHRC asImmutable (Ljava/util/EnumSet;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IHRORRIIIIOOCIRIHICIHCICH;
+	METHOD ORCOROOOIHHOHIOHCIOOCHCIO isPartialView ()Z
+	METHOD contains contains (Ljava/lang/Object;)Z
+	METHOD containsAll containsAll (Ljava/util/Collection;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD forEach forEach (Ljava/util/function/Consumer;)V
+	METHOD hashCode hashCode ()I
+	METHOD isEmpty isEmpty ()Z
+	METHOD iterator iterator ()Ljava/util/Iterator;
+	METHOD size size ()I
+	METHOD spliterator spliterator ()Ljava/util/Spliterator;
+	METHOD toString toString ()Ljava/lang/String;
+	METHOD writeReplace writeReplace ()Ljava/lang/Object;
+	CLASS 1 1
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI EnumSerializedForm
+		FIELD jm delegate Ljava/util/EnumSet;
+		FIELD jn serialVersionUID J
+		METHOD <init> <init> (Ljava/util/EnumSet;)V
+		METHOD readResolve readResolve ()Ljava/lang/Object;

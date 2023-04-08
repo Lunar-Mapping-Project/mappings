@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/optifine/OptifineBridge
+	METHOD getBossTextColor getBossTextColor (I)I
+	METHOD getConfig getConfig ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD getCustomColors getCustomColors ()Ljava/util/Optional;
+	METHOD getCustomItems getCustomItems ()Ljava/util/Optional;
+	METHOD getShaders getShaders ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/RHOHHRHHRCHRRIOCIIRHICCIC;

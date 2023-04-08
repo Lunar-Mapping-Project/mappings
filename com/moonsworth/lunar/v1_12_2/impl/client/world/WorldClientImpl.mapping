@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/impl/client/world/WorldClientImpl
+	METHOD <init> <init> (Lnet/minecraft/client/network/NetHandlerPlayClient;)V
+	METHOD getChunkProvider getChunkProvider ()Lnet/minecraft/world/chunk/IChunkProvider;

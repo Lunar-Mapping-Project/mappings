@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/scoreboard/ScoreObjectiveMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getScoreboard bridge$getScoreboard ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$setDisplayName bridge$setDisplayName (Ljava/lang/String;)V
+	METHOD getDisplayName getDisplayName ()Ljava/lang/String;
+	METHOD getScoreboard getScoreboard ()Lnet/minecraft/scoreboard/Scoreboard;
+	METHOD setDisplayName setDisplayName (Ljava/lang/String;)V

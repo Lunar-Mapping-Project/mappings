@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/EntityRendererMixin
+	METHOD <init> <init> ()V
+	METHOD impl$getNightVisionBrightness impl$getNightVisionBrightness (Lnet/minecraft/entity/EntityLivingBase;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD sba$updateCameraAndRender sba$updateCameraAndRender (Lnet/minecraft/profiler/Profiler;Ljava/lang/String;)V

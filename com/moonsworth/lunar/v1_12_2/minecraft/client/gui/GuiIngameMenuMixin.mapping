@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/v1_12_2/minecraft/client/gui/GuiIngameMenuMixin
+	METHOD <init> <init> ()V
+	METHOD impl$onActionPerformed impl$onActionPerformed (Lnet/minecraft/client/gui/GuiButton;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onInitGui impl$onInitGui (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

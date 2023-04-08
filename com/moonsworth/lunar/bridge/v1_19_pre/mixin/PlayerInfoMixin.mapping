@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/v1_19_pre/mixin/PlayerInfoMixin
+	FIELD profile profile Lcom/mojang/authlib/GameProfile;
+	FIELD profileTextureUuid profileTextureUuid Ljava/util/UUID;
+	METHOD <init> <init> ()V
+	METHOD bridge$getGameProfile bridge$getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD bridge$getProfileTextureId bridge$getProfileTextureId ()Ljava/util/UUID;
+	METHOD getModelName getModelName ()Ljava/lang/String;
+	METHOD getProfile getProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD getSkinLocation getSkinLocation ()Lnet/minecraft/resources/ResourceLocation;
+	METHOD proxy$getSkinLocation proxy$getSkinLocation ()Lnet/minecraft/resources/ResourceLocation;
+	METHOD proxy$getSkinType proxy$getSkinType ()Ljava/lang/String;

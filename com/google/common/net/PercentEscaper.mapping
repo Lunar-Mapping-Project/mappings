@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC com/google/common/net/PercentEscaper
+	FIELD Rd PLUS_SIGN [C
+	FIELD Re UPPER_HEX_DIGITS [C
+	FIELD Rf plusForSpace Z
+	FIELD Rg safeOctets [Z
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;Z)V
+	METHOD createSafeOctets createSafeOctets (Ljava/lang/String;)[Z
+	METHOD escape escape (I)[C
+	METHOD escape escape (Ljava/lang/String;)Ljava/lang/String;
+	METHOD nextEscapeIndex nextEscapeIndex (Ljava/lang/CharSequence;II)I

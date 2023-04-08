@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/OORCOCHHRRCCOHIOHIHRCICRI com/moonsworth/lunar/client/util/I18nUtil
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD COHHOIRHIHHRHHHHHORRCHORI normalize (Ljava/lang/String;)Ljava/lang/String;

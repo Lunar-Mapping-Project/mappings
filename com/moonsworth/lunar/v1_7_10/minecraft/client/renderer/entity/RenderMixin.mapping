@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_7_10/minecraft/client/renderer/entity/RenderMixin
+	METHOD <init> <init> ()V
+	METHOD impl$doRenderShadowAndFire impl$doRenderShadowAndFire (Lnet/minecraft/client/renderer/entity/Render;Lnet/minecraft/entity/Entity;DDDFF)V

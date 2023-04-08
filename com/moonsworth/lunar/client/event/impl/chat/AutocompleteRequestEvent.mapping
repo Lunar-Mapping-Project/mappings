@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/event/impl/chat/AutocompleteRequestEvent
+	FIELD CROIORRRCOIRCCCHCRIRCCCHI command Ljava/lang/String;
+	FIELD RRRCOHCRHHHIRHRHRIORRICRC autoComplete [Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD OCHICHICOCRORHRICHHOCCROO getAutoComplete ()[Ljava/lang/String;
+	METHOD OIOORRORCRHOOCICORRCHOHRC setAutoComplete ([Ljava/lang/String;)V
+	METHOD OOCOIRCHRHRCICCRCCIHIIIHI getCommand ()Ljava/lang/String;

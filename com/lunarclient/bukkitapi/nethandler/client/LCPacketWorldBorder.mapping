@@ -1,0 +1,33 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorder com/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorder
+	FIELD canShrinkExpand canShrinkExpand Z
+	FIELD cancelsExit cancelsExit Z
+	FIELD color color I
+	FIELD id id Ljava/lang/String;
+	FIELD maxX maxX D
+	FIELD maxZ maxZ D
+	FIELD minX minX D
+	FIELD minZ minZ D
+	FIELD world world Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;ZZIDDDD)V
+		ARG 1 id
+		ARG 2 world
+		ARG 3 cancelsExit
+		ARG 4 canShrinkExpand
+		ARG 5 color
+		ARG 6 minX
+		ARG 8 minZ
+		ARG 10 maxX
+		ARG 12 maxZ
+	METHOD getColor getColor ()I
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getMaxX getMaxX ()D
+	METHOD getMaxZ getMaxZ ()D
+	METHOD getMinX getMinX ()D
+	METHOD getMinZ getMinZ ()D
+	METHOD getWorld getWorld ()Ljava/lang/String;
+	METHOD isCanShrinkExpand isCanShrinkExpand ()Z
+	METHOD isCancelsExit isCancelsExit ()Z
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

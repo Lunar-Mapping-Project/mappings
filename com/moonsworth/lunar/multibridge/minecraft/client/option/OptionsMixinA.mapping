@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/minecraft/client/option/OptionsMixinA
+	FIELD chatScale chatScale Lnet/minecraft/client/OptionInstance;
+	FIELD framerateLimit framerateLimit Lnet/minecraft/client/OptionInstance;
+	FIELD gamma gamma Lnet/minecraft/client/OptionInstance;
+	FIELD graphicsMode graphicsMode Lnet/minecraft/client/OptionInstance;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	FIELD renderDistance renderDistance Lnet/minecraft/client/OptionInstance;
+	FIELD toggleCrouch toggleCrouch Lnet/minecraft/client/OptionInstance;
+	FIELD toggleSprint toggleSprint Lnet/minecraft/client/OptionInstance;
+	METHOD <init> <init> ()V
+	METHOD bridge$getChatScale bridge$getChatScale ()F
+	METHOD bridge$getFrameRateLimit bridge$getFrameRateLimit ()I
+	METHOD bridge$getRenderDistance bridge$getRenderDistance ()I
+	METHOD bridge$getToggleSneak bridge$getToggleSneak ()Z
+	METHOD bridge$getToggleSprint bridge$getToggleSprint ()Z
+	METHOD bridge$isFancyGraphics bridge$isFancyGraphics ()Z
+	METHOD bridge$removeGammaOverride bridge$removeGammaOverride ()V
+	METHOD bridge$setFancyGraphics bridge$setFancyGraphics (Z)V
+	METHOD bridge$setFrameRateLimit bridge$setFrameRateLimit (I)V
+	METHOD bridge$setGamma bridge$setGamma (F)V
+	METHOD bridge$setGammaOverride bridge$setGammaOverride (F)V
+	METHOD bridge$setToggleSneak bridge$setToggleSneak (Z)V
+	METHOD bridge$setToggleSprint bridge$setToggleSprint (Z)V
+	METHOD bridge$tweakValueSet bridge$tweakValueSet (Lnet/minecraft/client/OptionInstance$ValueSet;)Lnet/minecraft/client/OptionInstance$ValueSet;
+	METHOD lunar$onGammaChanged$1_19_0 lunar$onGammaChanged$1_19_0 (Ljava/lang/Double;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onGammaChanged$1_19_2 lunar$onGammaChanged$1_19_2 (Ljava/lang/Double;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

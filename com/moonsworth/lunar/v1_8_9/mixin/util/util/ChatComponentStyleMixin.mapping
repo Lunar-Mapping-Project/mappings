@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/util/ChatComponentStyleMixin
+	FIELD bridge$adventureComponent bridge$adventureComponent Lnet/kyori/adventure/text/Component;
+	METHOD <init> <init> ()V
+	METHOD moonBridge$asAdventureComponent moonBridge$asAdventureComponent ()Lnet/kyori/adventure/text/Component;

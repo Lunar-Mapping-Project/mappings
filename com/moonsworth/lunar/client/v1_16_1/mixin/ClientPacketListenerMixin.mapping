@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCOOOORCHOCROCHHIIHIRHOOI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/v1_16_1/mixin/ClientPacketListenerMixin
+	FIELD level level Lnet/minecraft/client/multiplayer/ClientLevel;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD handleChat handleChat (Lnet/minecraft/network/protocol/game/ClientboundChatPacket;)V
+	METHOD handleSetTime handleSetTime (Lnet/minecraft/network/protocol/game/ClientboundSetTimePacket;)V
+	METHOD impl$handleSpawnObj impl$handleSpawnObj (Lnet/minecraft/network/protocol/game/ClientboundAddEntityPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleUpdateAttributes impl$handleUpdateAttributes (Lnet/minecraft/network/protocol/game/ClientboundUpdateAttributesPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onPlayerInfo impl$onPlayerInfo (Lnet/minecraft/network/protocol/game/ClientboundPlayerInfoPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	CLASS 1
+		METHOD <clinit> <clinit> ()V

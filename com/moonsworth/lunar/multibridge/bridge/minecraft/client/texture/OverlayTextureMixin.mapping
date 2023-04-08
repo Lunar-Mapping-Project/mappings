@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/texture/OverlayTextureMixin
+	FIELD DEFAULT_HIT_COLOR DEFAULT_HIT_COLOR I
+	FIELD lunar$lastHitColor lunar$lastHitColor I
+	FIELD texture texture Lnet/minecraft/client/renderer/texture/DynamicTexture;
+	METHOD <init> <init> ()V
+	METHOD lunar$onSetupOverlayColor lunar$onSetupOverlayColor (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$updateOverlayTextureHitColor lunar$updateOverlayTextureHitColor ()V

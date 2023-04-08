@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/ichor/descriptor/ArrayType
+	FIELD afN type Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	FIELD depth depth I
+	METHOD <init> <init> ()V
+	METHOD equals equals (Ljava/lang/Object;)Z

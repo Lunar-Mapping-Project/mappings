@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/minecraft/client/resources/ResourcePackListEntryMixin
+	FIELD field_148315_b field_148315_b Lnet/minecraft/client/gui/GuiScreenResourcePacks;
+	METHOD <init> <init> ()V
+	METHOD impl$onAddAvailablePack impl$onAddAvailablePack (Ljava/util/List;ILjava/lang/Object;)V
+	METHOD impl$onMousePressed impl$onMousePressed (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

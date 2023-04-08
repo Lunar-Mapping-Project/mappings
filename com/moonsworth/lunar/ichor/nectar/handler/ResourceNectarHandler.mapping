@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/ichor/nectar/handler/ResourceNectarHandler
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO;Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;Ljava/lang/reflect/Method;)V
+		ARG 1 nectar
+		ARG 2 container
+		ARG 3 method
+	METHOD OCIROORRIRIOHIIIRRIORCIHI handleResource (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 resource
+		ARG 2 classLoader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handleResource (Ljava/lang/String;Ljava/lang/String;Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		ARG 1 pattern
+		ARG 2 name
+		ARG 3 resource

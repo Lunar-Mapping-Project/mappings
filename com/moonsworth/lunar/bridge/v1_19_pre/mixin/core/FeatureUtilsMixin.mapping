@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/v1_19_pre/mixin/core/FeatureUtilsMixin
+	METHOD <init> <init> ()V
+	METHOD bootstrap bootstrap (Lnet/minecraft/core/Registry;)Lnet/minecraft/core/Holder;

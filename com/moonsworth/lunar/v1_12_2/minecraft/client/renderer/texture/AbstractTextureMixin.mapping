@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/client/renderer/texture/AbstractTextureMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getGlTextureId bridge$getGlTextureId ()I
+	METHOD getGlTextureId getGlTextureId ()I

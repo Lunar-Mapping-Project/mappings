@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/meta/version/VersionInfo
+	FIELD HROOOOIORHCHIHHHRRRCOHOOI time Ljava/lang/String;
+	FIELD akh akh Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD akk akk Ljava/lang/String;
+	FIELD id id Ljava/lang/String;
+	FIELD type type Ljava/lang/String;
+	FIELD url url Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD CCCRCRRCIRIIIICOHIIIOCRHI setTime (Ljava/lang/String;)V
+	METHOD HRCHIIICCCIOHHORIHRCICHIH getReleaseTime ()Ljava/lang/String;
+	METHOD ICIRHOHIHOCIIRIOCIOHOHRIO getTime ()Ljava/lang/String;
+	METHOD RHCRHHOICOCCHHOOROHCROHIO setReleaseTime (Ljava/lang/String;)V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getType getType ()Ljava/lang/String;
+	METHOD getUrl getUrl ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD setId setId (Ljava/lang/String;)V
+	METHOD setType setType (Ljava/lang/String;)V
+	METHOD setUrl setUrl (Ljava/lang/String;)V
+	METHOD toString toString ()Ljava/lang/String;

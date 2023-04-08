@@ -1,0 +1,15 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketNotification com/lunarclient/bukkitapi/nethandler/client/LCPacketNotification
+	FIELD durationMs durationMs J
+	FIELD level level Ljava/lang/String;
+	FIELD message message Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;JLjava/lang/String;)V
+		ARG 1 message
+		ARG 2 durationMs
+		ARG 4 level
+	METHOD getDurationMs getDurationMs ()J
+	METHOD getLevel getLevel ()Ljava/lang/String;
+	METHOD getMessage getMessage ()Ljava/lang/String;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CICRRIRHIHIRCCCCOHCHCHOCO com/google/common/collect/ForwardingMapEntry
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD CRRICHRHRHOCIOOOHOHRCROHH delegate ()Ljava/util/Map$Entry;
+	METHOD HOCHRCHCIOIIROCOORROHRIHI standardEquals (Ljava/lang/Object;)Z
+	METHOD IRICCOICIIHHCRRRHHRIOCOCH standardToString ()Ljava/lang/String;
+	METHOD IRROCHRORRRCCIRCOOCORIROO standardHashCode ()I
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getKey getKey ()Ljava/lang/Object;
+	METHOD getValue getValue ()Ljava/lang/Object;
+	METHOD hashCode hashCode ()I
+	METHOD setValue setValue (Ljava/lang/Object;)Ljava/lang/Object;

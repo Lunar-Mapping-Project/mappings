@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/v1_12_2/optifine/mixin/RenderGlobalMixin
+	FIELD chunksToResortTransparency chunksToResortTransparency Ljava/util/Set;
+	FIELD chunksToUpdateForced chunksToUpdateForced Ljava/util/Set;
+	FIELD chunksToUpdate chunksToUpdate Ljava/util/Set;
+	FIELD chunksToWait chunksToWait I
+	FIELD displayListEntitiesDirty displayListEntitiesDirty Z
+	FIELD renderDispatcher renderDispatcher Lnet/minecraft/client/renderer/chunk/ChunkRenderDispatcher;
+	METHOD <init> <init> ()V
+	METHOD distanceOverride distanceOverride (Lnet/minecraft/client/renderer/RenderGlobal;)I
+	METHOD fixVBO fixVBO (Lnet/minecraft/client/renderer/RenderGlobal;)Z
+	METHOD updateChunks updateChunks (J)V

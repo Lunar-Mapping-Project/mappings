@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mixin/util/client/renderer/entity/RenderPlayerMixin
+	FIELD lunar$savedPartialTicks lunar$savedPartialTicks F
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/RenderManager;Lnet/minecraft/client/model/ModelBase;F)V
+	METHOD canRenderName canRenderName (Lnet/minecraft/entity/Entity;)Z
+	METHOD lunar$onPreRenderPlayer lunar$onPreRenderPlayer (Lnet/minecraft/client/entity/AbstractClientPlayer;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onRenderLeftArm lunar$onRenderLeftArm (Lnet/minecraft/client/entity/AbstractClientPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD renderModel renderModel (Lnet/minecraft/client/entity/AbstractClientPlayer;FFFFFF)V
+	METHOD renderModel renderModel (Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V
+	METHOD renderName renderName (Lnet/minecraft/entity/Entity;DDD)V

@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/option/OptionsMixin
+	FIELD chatScale chatScale D
+	FIELD framerateLimit framerateLimit I
+	FIELD gamma gamma D
+	FIELD graphicsMode graphicsMode Lnet/minecraft/client/GraphicsStatus;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	FIELD renderDistance renderDistance I
+	FIELD toggleCrouch toggleCrouch Z
+	FIELD toggleSprint toggleSprint Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getChatScale bridge$getChatScale ()F
+	METHOD bridge$getFrameRateLimit bridge$getFrameRateLimit ()I
+	METHOD bridge$getRenderDistance bridge$getRenderDistance ()I
+	METHOD bridge$getToggleSneak bridge$getToggleSneak ()Z
+	METHOD bridge$getToggleSprint bridge$getToggleSprint ()Z
+	METHOD bridge$isFancyGraphics bridge$isFancyGraphics ()Z
+	METHOD bridge$removeGammaOverride bridge$removeGammaOverride ()V
+	METHOD bridge$setFancyGraphics bridge$setFancyGraphics (Z)V
+	METHOD bridge$setFrameRateLimit bridge$setFrameRateLimit (I)V
+	METHOD bridge$setGamma bridge$setGamma (F)V
+	METHOD bridge$setGammaOverride bridge$setGammaOverride (F)V
+	METHOD bridge$setToggleSneak bridge$setToggleSneak (Z)V
+	METHOD bridge$setToggleSprint bridge$setToggleSprint (Z)V

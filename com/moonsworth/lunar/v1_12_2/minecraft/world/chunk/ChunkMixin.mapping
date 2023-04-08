@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OICCIHOCRHCCRRHCRCCCHIIRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/world/chunk/ChunkMixin
+	FIELD isGapLightingUpdated isGapLightingUpdated Z
+	FIELD isLightPopulated isLightPopulated Z
+	FIELD isTerrainPopulated isTerrainPopulated Z
+	FIELD world world Lnet/minecraft/world/World;
+	FIELD x x I
+	FIELD z z I
+	METHOD <init> <init> ()V
+	METHOD bridge$getBiome bridge$getBiome (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RIHOOROIIHIHROCCHIRICHOII;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getX bridge$getX ()I
+	METHOD bridge$getZ bridge$getZ ()I
+	METHOD generateSkylightMap generateSkylightMap ()V
+	METHOD getBiome getBiome (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/biome/BiomeProvider;)Lnet/minecraft/world/biome/Biome;
+	METHOD impl$checkSkylightNeighborHeight impl$checkSkylightNeighborHeight (IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$enqueueRelightChecks impl$enqueueRelightChecks (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$relightBlock$hasSkyLight impl$relightBlock$hasSkyLight (Lnet/minecraft/world/WorldProvider;)Z
+	METHOD impl$setBlockState$lightCheck1 impl$setBlockState$lightCheck1 (Z)Z
+	METHOD impl$setBlockState$lightCheck2 impl$setBlockState$lightCheck2 (Lnet/minecraft/world/chunk/Chunk;)V
+	METHOD impl$updateSkylightNeighborHeight impl$updateSkylightNeighborHeight (IIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$chunkLoadEvent lunar$chunkLoadEvent (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$entityEntersChunkEvent lunar$entityEntersChunkEvent (Lnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$recheckGaps lunar$recheckGaps (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;IZ)Z
+	METHOD lunarl$checkLight lunarl$checkLight (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

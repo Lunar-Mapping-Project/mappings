@@ -1,0 +1,21 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketHologram com/lunarclient/bukkitapi/nethandler/client/LCPacketHologram
+	FIELD lines lines Ljava/util/List;
+	FIELD uuid uuid Ljava/util/UUID;
+	FIELD x x D
+	FIELD y y D
+	FIELD z z D
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/UUID;DDDLjava/util/List;)V
+		ARG 1 uuid
+		ARG 2 x
+		ARG 4 y
+		ARG 6 z
+		ARG 8 lines
+	METHOD getLines getLines ()Ljava/util/List;
+	METHOD getUuid getUuid ()Ljava/util/UUID;
+	METHOD getX getX ()D
+	METHOD getY getY ()D
+	METHOD getZ getZ ()D
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

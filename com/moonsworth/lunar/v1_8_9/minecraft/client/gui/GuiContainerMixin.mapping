@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_8_9/minecraft/client/gui/GuiContainerMixin
+	FIELD guiLeft guiLeft I
+	FIELD guiTop guiTop I
+	FIELD inventorySlots inventorySlots Lnet/minecraft/inventory/Container;
+	METHOD <init> <init> ()V
+	METHOD bridge$getGuiLeft bridge$getGuiLeft ()I
+	METHOD bridge$getGuiTop bridge$getGuiTop ()I
+	METHOD bridge$getSlotAtPosition bridge$getSlotAtPosition (II)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD bridge$inventorySlots bridge$inventorySlots ()Ljava/util/List;
+	METHOD bridge$title bridge$title ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD checkHotbarKeys checkHotbarKeys (I)Z
+	METHOD getSlotAtPosition getSlotAtPosition (II)Lnet/minecraft/inventory/Slot;
+	METHOD impl$handleMouseClick impl$handleMouseClick (Lnet/minecraft/inventory/Slot;IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onMouseClicked impl$onMouseClicked (IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/management/managers/AlertManager
+	METHOD <init> <init> ()V
+	METHOD init init ()V
+	METHOD load load (Lcom/google/gson/JsonObject;)V

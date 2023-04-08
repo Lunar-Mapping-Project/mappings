@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/impl/ClipboardImpl
+	METHOD <init> <init> ()V
+	METHOD bridge$getClipboardString bridge$getClipboardString ()Ljava/lang/String;
+	METHOD bridge$setClipboardContent bridge$setClipboardContent (Ljava/awt/image/BufferedImage;)V
+	METHOD bridge$setClipboardString bridge$setClipboardString (Ljava/lang/String;)V

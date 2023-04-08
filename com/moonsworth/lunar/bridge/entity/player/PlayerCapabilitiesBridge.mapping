@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/entity/player/PlayerCapabilitiesBridge
+	METHOD bridge$getFlySpeed bridge$getFlySpeed ()F
+	METHOD bridge$getWalkSpeed bridge$getWalkSpeed ()F
+	METHOD bridge$isAllowFlying bridge$isAllowFlying ()Z
+	METHOD bridge$isCreativeMode bridge$isCreativeMode ()Z
+	METHOD bridge$isFlying bridge$isFlying ()Z
+	METHOD bridge$setFlySpeed bridge$setFlySpeed (F)V
+		ARG 1 speed
+	METHOD bridge$setFlying bridge$setFlying (Z)V
+		ARG 1 flying

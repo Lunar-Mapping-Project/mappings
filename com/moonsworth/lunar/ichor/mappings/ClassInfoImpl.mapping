@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/ichor/mappings/ClassInfoImpl
+	METHOD <init> <init> (Lorg/cadixdev/bombe/analysis/InheritanceProvider$ClassInfo;Lorg/cadixdev/lorenz/MappingSet;)V
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getFields getFields ()Ljava/util/Map;
+	METHOD getFieldsByName getFieldsByName ()Ljava/util/Map;
+	METHOD getInterfaces getInterfaces ()Ljava/util/List;
+	METHOD getMethods getMethods ()Ljava/util/Map;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getSuperName getSuperName ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD isInterface isInterface ()Z
+	METHOD lambda$provideParents$0 lambda$provideParents$0 (Ljava/util/Collection;Lorg/cadixdev/bombe/analysis/InheritanceProvider;Lorg/cadixdev/bombe/analysis/InheritanceProvider$ClassInfo;)V
+	METHOD lambda$provideParents$1 lambda$provideParents$1 (Ljava/util/Collection;Lorg/cadixdev/bombe/analysis/InheritanceProvider;Lorg/cadixdev/bombe/analysis/InheritanceProvider$ClassInfo;)V
+	METHOD provideParents provideParents (Lorg/cadixdev/bombe/analysis/InheritanceProvider;)Ljava/util/Set;
+	METHOD provideParents provideParents (Lorg/cadixdev/bombe/analysis/InheritanceProvider;Ljava/util/Collection;)V
+	METHOD toString toString ()Ljava/lang/String;

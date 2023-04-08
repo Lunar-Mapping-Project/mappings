@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/tileentity/TileEntitySkullRendererMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderTileEntityAt impl$renderTileEntityAt (Lnet/minecraft/tileentity/TileEntitySkull;DDDFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,27 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIHHROORRHOCRIOHORIOIRRRC com/google/common/collect/ForwardingList
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD CHOCCOROIRORIIOHICRHICICO standardListIterator ()Ljava/util/ListIterator;
+	METHOD CICRRIRHIHIRCCCCOHCHCHOCO standardLastIndexOf (Ljava/lang/Object;)I
+	METHOD HCCHOOOCHIROHRCIIHOOHCROC standardIndexOf (Ljava/lang/Object;)I
+	METHOD HOCHRCHCIOIIROCOORROHRIHI standardEquals (Ljava/lang/Object;)Z
+	METHOD IHCIOIIROCIIOROIIRCOCHRIH standardAdd (Ljava/lang/Object;)Z
+	METHOD IIHCOCOCHIIIHICORRHORIHOO delegate ()Ljava/util/List;
+	METHOD IIRROCIOHHHCRHHRRCIRCIHHC standardSubList (II)Ljava/util/List;
+	METHOD IRRICICICIRCHRROICIOOHIIC standardIterator ()Ljava/util/Iterator;
+	METHOD IRROCHRORRRCCIRCOOCORIROO standardHashCode ()I
+	METHOD OIOCIOCCOHRRIOHIHCORROOOH standardListIterator (I)Ljava/util/ListIterator;
+	METHOD OOHIICRCHHHIHHROOCCCHCOCO delegate ()Ljava/util/Collection;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI standardAddAll (ILjava/lang/Iterable;)Z
+	METHOD add add (ILjava/lang/Object;)V
+	METHOD addAll addAll (ILjava/util/Collection;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD get get (I)Ljava/lang/Object;
+	METHOD hashCode hashCode ()I
+	METHOD indexOf indexOf (Ljava/lang/Object;)I
+	METHOD lastIndexOf lastIndexOf (Ljava/lang/Object;)I
+	METHOD listIterator listIterator ()Ljava/util/ListIterator;
+	METHOD listIterator listIterator (I)Ljava/util/ListIterator;
+	METHOD remove remove (I)Ljava/lang/Object;
+	METHOD set set (ILjava/lang/Object;)Ljava/lang/Object;
+	METHOD subList subList (II)Ljava/util/List;

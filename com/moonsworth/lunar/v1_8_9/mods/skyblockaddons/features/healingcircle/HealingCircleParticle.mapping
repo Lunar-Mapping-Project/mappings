@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/healingcircle/HealingCircleParticle
+	FIELD creation creation J
+	FIELD point point Ljava/awt/geom/Point2D$Double;
+	METHOD <init> <init> (DD)V
+	METHOD getCreation getCreation ()J
+	METHOD getPoint getPoint ()Ljava/awt/geom/Point2D$Double;

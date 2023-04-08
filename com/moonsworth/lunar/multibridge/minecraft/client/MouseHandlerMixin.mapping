@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/minecraft/client/MouseHandlerMixin
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD impl$onPress impl$onPress (JIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onScroll impl$onScroll (JDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onSwapItem impl$onSwapItem (Lnet/minecraft/world/entity/player/Inventory;D)V

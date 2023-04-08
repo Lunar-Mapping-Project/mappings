@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/scores/ScoreMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getPlayerName bridge$getPlayerName ()Ljava/lang/String;
+	METHOD bridge$getScorePoints bridge$getScorePoints ()Ljava/lang/Integer;
+	METHOD bridge$setScorePoints bridge$setScorePoints (I)V
+	METHOD getOwner getOwner ()Ljava/lang/String;
+	METHOD getScore getScore ()I
+	METHOD setScore setScore (I)V

@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/settings/KeyBindingMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$hideExternalModKeybinds lunar$hideExternalModKeybinds (Lnet/minecraft/util/IntHashMap;ILjava/lang/Object;)Z

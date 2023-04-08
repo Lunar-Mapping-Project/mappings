@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/network/OldServerPinger
+	FIELD field_147406_a field_147406_a Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD <init> <init> ()V
+	METHOD impl$onHandleServerInfo impl$onHandleServerInfo (Lnet/minecraft/network/status/server/S00PacketServerInfo;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

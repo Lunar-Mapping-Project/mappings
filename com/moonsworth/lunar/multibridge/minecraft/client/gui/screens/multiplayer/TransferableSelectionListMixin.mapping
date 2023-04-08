@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/multiplayer/TransferableSelectionListMixin
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;IIIII)V
+	METHOD getFocused getFocused ()Lnet/minecraft/client/gui/components/events/GuiEventListener;
+	METHOD getMaxPosition getMaxPosition ()I
+	METHOD lambda$render_v1_17_0$0 lambda$render_v1_17_0$0 (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Optional;
+	METHOD render render (Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V
+	METHOD renderBackground renderBackground (Lcom/mojang/blaze3d/vertex/PoseStack;)V
+	METHOD render_v1_16_1 render_v1_16_1 (Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V
+	METHOD render_v1_17_0 render_v1_17_0 (Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V
+	METHOD shouldRenderBackground shouldRenderBackground ()Z

@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/ichor/cls/ClassWriterImpl
+	FIELD aeA classProvider Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD aey injector Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;
+	FIELD aez classLoader Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <init> <init> (ILcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 flags
+		ARG 2 injector
+		ARG 3 classLoader
+	METHOD getCommonSuperClass getCommonSuperClass (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 classA
+		ARG 2 classB

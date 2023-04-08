@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreenMixin
+	FIELD deleteButton deleteButton Lnet/minecraft/client/gui/components/Button;
+	FIELD selectButton selectButton Lnet/minecraft/client/gui/components/Button;
+	FIELD serverSelectionList serverSelectionList Lnet/minecraft/client/gui/screens/multiplayer/ServerSelectionList;
+	FIELD servers servers Lnet/minecraft/client/multiplayer/ServerList;
+	METHOD <init> <init> (Lnet/minecraft/network/chat/Component;)V
+	METHOD deleteCallback_Modified deleteCallback_Modified (Z)V
+	METHOD impl$init impl$init (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onJoin impl$onJoin (Lnet/minecraft/client/multiplayer/ServerData;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onJoinSelected impl$onJoinSelected (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$selectServer impl$selectServer (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD join join (Lnet/minecraft/client/multiplayer/ServerData;)V
+	METHOD lambda$impl$init$0 lambda$impl$init$0 (Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR;Lnet/minecraft/client/gui/components/Button;)V

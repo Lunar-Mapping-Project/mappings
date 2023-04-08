@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/entity/layers/LayerHeldItemMixin
+	METHOD <init> <init> ()V
+	METHOD impl$onDoRenderLayer impl$onDoRenderLayer (Lnet/minecraft/entity/EntityLivingBase;FFFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

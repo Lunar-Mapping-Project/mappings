@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/EntityLivingBaseMixin
+	METHOD <init> <init> ()V
+	METHOD impl$addPotionEffect impl$addPotionEffect (Lnet/minecraft/potion/PotionEffect;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$removePotionEffectClient impl$removePotionEffectClient (ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$resetHurtTime impl$resetHurtTime (BLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

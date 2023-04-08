@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/optifine/impl/IImageBufferImpl
+	FIELD imageBufferDownload imageBufferDownload Lnet/minecraft/client/renderer/ImageBufferDownload;
+	FIELD playerRef playerRef Ljava/lang/ref/WeakReference;
+	FIELD resourceLocation resourceLocation Lnet/minecraft/util/ResourceLocation;
+	METHOD <init> <init> (Lnet/minecraft/client/entity/AbstractClientPlayer;Lnet/minecraft/util/ResourceLocation;)V
+	METHOD func_152634_a func_152634_a ()V
+	METHOD parseUserSkin parseUserSkin (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;

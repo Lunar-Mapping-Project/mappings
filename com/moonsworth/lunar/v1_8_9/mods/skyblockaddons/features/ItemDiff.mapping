@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/ItemDiff
+	FIELD LIFESPAN LIFESPAN J
+	FIELD amount amount I
+	FIELD displayName displayName Ljava/lang/String;
+	FIELD extraAttributes extraAttributes Lnet/minecraft/nbt/NBTTagCompound;
+	FIELD timestamp timestamp J
+	METHOD <init> <init> (Ljava/lang/String;I)V
+	METHOD <init> <init> (Ljava/lang/String;ILnet/minecraft/nbt/NBTTagCompound;)V
+	METHOD add add (I)V
+	METHOD getAmount getAmount ()I
+	METHOD getDisplayName getDisplayName ()Ljava/lang/String;
+	METHOD getExtraAttributes getExtraAttributes ()Lnet/minecraft/nbt/NBTTagCompound;
+	METHOD getLifetime getLifetime ()J

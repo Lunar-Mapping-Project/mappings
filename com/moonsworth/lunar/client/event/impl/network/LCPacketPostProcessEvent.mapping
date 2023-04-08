@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/client/event/impl/network/LCPacketPostProcessEvent
+	FIELD COIOIHHCIORRRHCHROIHOHOOI lcPacket Lcom/lunarclient/bukkitapi/nethandler/LCPacket;
+	METHOD <init> <init> (Lcom/lunarclient/bukkitapi/nethandler/LCPacket;)V
+	METHOD ROCIICOCICOHHCHCRRRIORHOR getPacket ()Lcom/lunarclient/bukkitapi/nethandler/LCPacket;

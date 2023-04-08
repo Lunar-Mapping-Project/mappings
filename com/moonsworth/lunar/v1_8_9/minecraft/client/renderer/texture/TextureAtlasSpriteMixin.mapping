@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/texture/TextureAtlasSpriteMixin
+	FIELD iconName iconName Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD bridge$getName bridge$getName ()Ljava/lang/String;

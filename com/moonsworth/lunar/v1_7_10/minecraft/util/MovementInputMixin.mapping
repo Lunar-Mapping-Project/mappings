@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_7_10/minecraft/util/MovementInputMixin
+	FIELD jump jump Z
+	FIELD moveForward moveForward F
+	FIELD moveStrafe moveStrafe F
+	FIELD sneak sneak Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getForwardSpeed bridge$getForwardSpeed ()F
+	METHOD bridge$getStrafeSpeed bridge$getStrafeSpeed ()F
+	METHOD bridge$isJumping bridge$isJumping ()Z
+	METHOD bridge$isSneaking bridge$isSneaking ()Z
+	METHOD bridge$setJump bridge$setJump (Z)V
+	METHOD bridge$setMoveForward bridge$setMoveForward (F)V
+	METHOD bridge$setMoveStrafe bridge$setMoveStrafe (F)V
+	METHOD bridge$setSneak bridge$setSneak (Z)V

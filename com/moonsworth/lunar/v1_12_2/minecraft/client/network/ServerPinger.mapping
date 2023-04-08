@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_12_2/minecraft/client/network/ServerPinger
+	METHOD <init> <init> ()V
+	METHOD impl$ping$ping impl$ping$ping (Lnet/minecraft/client/multiplayer/ServerData;J)V

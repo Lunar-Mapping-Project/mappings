@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/client/entity/MovementInputBridge
+	METHOD bridge$down bridge$down ()Z
+	METHOD bridge$getForwardSpeed bridge$getForwardSpeed ()F
+	METHOD bridge$getStrafeSpeed bridge$getStrafeSpeed ()F
+	METHOD bridge$isJumping bridge$isJumping ()Z
+	METHOD bridge$isSneaking bridge$isSneaking ()Z
+	METHOD bridge$left bridge$left ()Z
+	METHOD bridge$right bridge$right ()Z
+	METHOD bridge$setDown bridge$setDown (Z)V
+	METHOD bridge$setJump bridge$setJump (Z)V
+	METHOD bridge$setLeft bridge$setLeft (Z)V
+	METHOD bridge$setMoveForward bridge$setMoveForward (F)V
+	METHOD bridge$setMoveStrafe bridge$setMoveStrafe (F)V
+	METHOD bridge$setRight bridge$setRight (Z)V
+	METHOD bridge$setSneak bridge$setSneak (Z)V
+	METHOD bridge$setUp bridge$setUp (Z)V
+	METHOD bridge$up bridge$up ()Z

@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/RenderEndermanMixin
+	METHOD <init> <init> ()V
+	METHOD impl$getEntityTexture impl$getEntityTexture (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

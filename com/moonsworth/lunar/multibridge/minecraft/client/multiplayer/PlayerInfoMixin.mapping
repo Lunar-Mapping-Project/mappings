@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/PlayerInfoMixin
+	FIELD textureLocations textureLocations Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD bridge$setLocationOfCape bridge$setLocationOfCape (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V

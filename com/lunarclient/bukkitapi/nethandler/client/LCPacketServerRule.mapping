@@ -1,0 +1,27 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketServerRule com/lunarclient/bukkitapi/nethandler/client/LCPacketServerRule
+	FIELD booleanValue booleanValue Z
+	FIELD floatValue floatValue F
+	FIELD intValue intValue I
+	FIELD rule rule Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD stringValue stringValue Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;F)V
+		ARG 1 rule
+		ARG 2 floatValue
+	METHOD <init> <init> (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;I)V
+		ARG 1 rule
+		ARG 2 intValue
+	METHOD <init> <init> (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;Ljava/lang/String;)V
+		ARG 1 rule
+		ARG 2 stringValue
+	METHOD <init> <init> (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;Z)V
+		ARG 1 rule
+		ARG 2 booleanValue
+	METHOD getFloatValue getFloatValue ()F
+	METHOD getIntValue getIntValue ()I
+	METHOD getRule getRule ()Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	METHOD getStringValue getStringValue ()Ljava/lang/String;
+	METHOD isBooleanValue isBooleanValue ()Z
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI com/google/common/reflect/AbstractInvocationHandler
+	FIELD Td NO_ARGS [Ljava/lang/Object;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI isProxyOfSameInterfaces (Ljava/lang/Object;Ljava/lang/Class;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handleInvocation (Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD invoke invoke (Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD toString toString ()Ljava/lang/String;

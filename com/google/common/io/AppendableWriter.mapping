@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI com/google/common/io/AppendableWriter
+	FIELD HD target Ljava/lang/Appendable;
+	FIELD closed closed Z
+	METHOD <init> <init> (Ljava/lang/Appendable;)V
+	METHOD OOHHRCCCHCCHROCHCCHROOHRI checkNotClosed ()V
+	METHOD append append (C)Ljava/io/Writer;
+	METHOD append append (C)Ljava/lang/Appendable;
+	METHOD append append (Ljava/lang/CharSequence;)Ljava/io/Writer;
+	METHOD append append (Ljava/lang/CharSequence;)Ljava/lang/Appendable;
+	METHOD append append (Ljava/lang/CharSequence;II)Ljava/io/Writer;
+	METHOD append append (Ljava/lang/CharSequence;II)Ljava/lang/Appendable;
+	METHOD close close ()V
+	METHOD flush flush ()V
+	METHOD write write (I)V
+	METHOD write write (Ljava/lang/String;)V
+	METHOD write write (Ljava/lang/String;II)V
+	METHOD write write ([CII)V

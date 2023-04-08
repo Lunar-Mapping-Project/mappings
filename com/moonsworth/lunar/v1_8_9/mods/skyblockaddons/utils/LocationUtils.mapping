@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/LocationUtils
+	FIELD dwarvenLocations dwarvenLocations Ljava/util/List;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD isInDwarvenMines isInDwarvenMines (Ljava/lang/String;)Z

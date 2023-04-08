@@ -1,0 +1,38 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/world/WorldBridge
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getBlockAt (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 pos
+	METHOD bridge$getBlockAt bridge$getBlockAt (DDD)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 x
+		ARG 3 y
+		ARG 5 z
+	METHOD bridge$getChunkFromBlockCoords bridge$getChunkFromBlockCoords (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RIHOOROIIHIHROCCHIRICHOII;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 pos
+	METHOD bridge$getCollisionBoxes bridge$getCollisionBoxes (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;)Ljava/util/List;
+		ARG 1 entity
+		ARG 2 aabb
+	METHOD bridge$getDimensionId bridge$getDimensionId ()I
+	METHOD bridge$getDimensionKey bridge$getDimensionKey ()Ljava/lang/String;
+	METHOD bridge$getEntities bridge$getEntities ()Ljava/util/List;
+	METHOD bridge$getMaxBuildHeight bridge$getMaxBuildHeight ()I
+	METHOD bridge$getMinBuildHeight bridge$getMinBuildHeight ()I
+	METHOD bridge$getPackedLight bridge$getPackedLight (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;)I
+		ARG 1 pos
+	METHOD bridge$getPlayerByUniqueId bridge$getPlayerByUniqueId (Ljava/util/UUID;)Ljava/util/Optional;
+		ARG 1 playerId
+	METHOD bridge$getPlayerEntities bridge$getPlayerEntities ()Ljava/util/List;
+	METHOD bridge$getWorldChunkManager bridge$getWorldChunkManager ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC;
+	METHOD bridge$getWorldInfo bridge$getWorldInfo ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$isBlockLoaded bridge$isBlockLoaded (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;)Z
+		ARG 1 pos
+	METHOD bridge$isInWater bridge$isInWater (DDD)Z
+		ARG 1 x
+		ARG 3 y
+		ARG 5 z
+	METHOD bridge$isRemote bridge$isRemote ()Z
+	METHOD bridge$playSound bridge$playSound (DDDLjava/lang/String;FFZ)V
+	METHOD bridge$setWorldTime bridge$setWorldTime (J)V
+		ARG 1 newTime
+	METHOD bridge$spawnParticle bridge$spawnParticle (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;DDDDDD[I)V
+		ARG 1 type
+	METHOD bridge$spawnParticle bridge$spawnParticle (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;ZDDDDDD[I)V
+		ARG 1 type

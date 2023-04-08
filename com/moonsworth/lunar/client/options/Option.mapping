@@ -1,0 +1,61 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/OHICCROHCCHCRCROHHIHCRCIO com/moonsworth/lunar/client/options/Option
+	FIELD CCOCCCCIHCHHIRROHROOIICCC updateHandlers Ljava/util/List;
+	FIELD CICICRORHHHIRHHOCHCIRCCRI brandUpdatePredicate Ljava/util/function/Predicate;
+	FIELD CROCOICHHOHCHHHRCRORICIIH disableType Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/CRORIOCOIOOHROHORIORIHRRI;
+	FIELD HCCHHHOHIHORHRIOHHRIROROR brandValue Ljava/lang/Object;
+	FIELD HHROOOIROHRIORHOCOOCCOIRR shouldDraw Ljava/util/function/BooleanSupplier;
+	FIELD HRCHRROCRIRHRORIOOIHHHCOH valueOverride Ljava/lang/Object;
+	FIELD HROCCHHOHOOICCOHHHCRRHIIO overridePriority I
+	FIELD OCHHCHIHICRRRHOCRHOIHHCRO supplier Ljava/util/function/BooleanSupplier;
+	FIELD OHORHRHRHICIRRHCOOCRRCCOH isBrandValueSet Z
+	FIELD defaultValue defaultValue Ljava/lang/Object;
+	FIELD hasLoaded hasLoaded Z
+	FIELD id id Ljava/lang/String;
+	FIELD value value Ljava/lang/Object;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Object;)V
+		ARG 1 id
+		ARG 2 defaultValue
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Object;Ljava/util/function/BooleanSupplier;)V
+		ARG 1 id
+		ARG 2 defaultValue
+		ARG 3 supplier
+	METHOD CCIOHOIOORCICCROOOIIHCOOO shouldDraw ()Ljava/util/function/BooleanSupplier;
+	METHOD CIIIHOICOHHOOCRIOORHORRIR getOverridePriority ()I
+	METHOD HOCHRCHCIOIIROCOORROHRIHI overridePriority (Z)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/OHICCROHCCHCRCROHHIHCRCIO;
+		ARG 1 priority
+	METHOD IHIIHCICCHCHHHROHOHOOIIRR isValueOverridden ()Ljava/lang/Boolean;
+	METHOD IOCICRCCCOCOHCHCIOHRIICOC getFeatureDisableType ()Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/CRORIOCOIOOHROHORIORIHRRI;
+	METHOD IORCOHCIRHHHCCHOOIIHRCHRI getBrandUpdatePredicate ()Ljava/util/function/Predicate;
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC setValue (Ljava/lang/Object;)V
+		ARG 1 value
+	METHOD OHCRRIHROHRCOHIHRIIOIRCCI clearBrandValue ()V
+	METHOD OHIIROHOIIRRHRIIHCOHHIRHH getDefaultValue ()Ljava/lang/Object;
+	METHOD OIOOCIIHICICRRHCROHOOHOCI onValueUpdate (Ljava/util/function/Consumer;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/OHICCROHCCHCRCROHHIHCRCIO;
+		ARG 1 handler
+	METHOD ORRCHORCCOOOCCORCIHCROOCC getUIComponent (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/HOHOHRIHCIICROCRCRIIOCCHC;
+		ARG 1 parent
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR setSupplier (Ljava/util/function/BooleanSupplier;)V
+		ARG 1 supplier
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setDisableReason (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/CRORIOCOIOOHROHORIORIHRRI;Ljava/lang/Object;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI updateIf (Ljava/lang/Object;Ljava/util/function/Predicate;)V
+		ARG 1 value
+		ARG 2 predicate
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI shouldDraw (Ljava/util/function/BooleanSupplier;)V
+		ARG 1 shouldDraw
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setBrandHandler (Ljava/util/function/Predicate;Ljava/lang/Object;)V
+	METHOD RHRROCIIHHROCROOHICOCHRIR handleBrandUpdate (Ljava/lang/String;)V
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH onUpdateImmediate (Ljava/util/function/Consumer;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/OHICCROHCCHCRCROHHIHCRCIO;
+		ARG 1 handler
+	METHOD ROOHRHIRRRIOCHOOOOOICHHIO onValueUpdateVoid (Ljava/util/function/Consumer;)V
+		ARG 1 handler
+	METHOD get get ()Ljava/lang/Object;
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getValue getValue ()Ljava/lang/Object;
+	METHOD lambda$new$0 lambda$new$0 ()Z
+	METHOD load load (Lcom/google/gson/JsonObject;)V
+	METHOD reset reset ()V
+	METHOD update update (Ljava/lang/String;)V
+		ARG 1 stringValue

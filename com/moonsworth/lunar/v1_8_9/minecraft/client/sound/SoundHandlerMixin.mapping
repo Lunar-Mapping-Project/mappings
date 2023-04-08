@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/client/sound/SoundHandlerMixin
+	FIELD currentLunarSong currentLunarSong Ljava/lang/String;
+	FIELD sndManager sndManager Lnet/minecraft/client/audio/SoundManager;
+	FIELD sndRegistry sndRegistry Lnet/minecraft/client/audio/SoundRegistry;
+	METHOD <init> <init> ()V
+	METHOD bridge$getAllRegisteredSounds bridge$getAllRegisteredSounds ()Ljava/util/Set;
+	METHOD bridge$getSoundEngine bridge$getSoundEngine ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$playLunarMusic bridge$playLunarMusic (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$playSound bridge$playSound (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setLunarMusicVolume bridge$setLunarMusicVolume (F)V
+	METHOD bridge$stopPlayingLunarMusic bridge$stopPlayingLunarMusic ()V
+	METHOD impl$playDelayedSound impl$playDelayedSound (Lnet/minecraft/client/audio/ISound;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$playSound impl$playSound (Lnet/minecraft/client/audio/ISound;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD playSound playSound (Lnet/minecraft/client/audio/ISound;)V

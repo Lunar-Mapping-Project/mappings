@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/impl/client/renderer/RenderItemSpriteBridgeImpl
+	FIELD ail ail Ljava/util/Random;
+	FIELD aim aim Lnet/minecraft/resources/ResourceLocation;
+	FIELD ain ain Lnet/minecraft/resources/ResourceLocation;
+	FIELD aio aio Lnet/minecraft/resources/ResourceLocation;
+	FIELD aip aip Lnet/minecraft/resources/ResourceLocation;
+	FIELD aiq aiq Lnet/minecraft/resources/ResourceLocation;
+	FIELD air air Lnet/minecraft/resources/ResourceLocation;
+	FIELD ais ais Lnet/minecraft/resources/ResourceLocation;
+	FIELD ait ait Ljava/util/List;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;)F
+	METHOD renderStackSize renderStackSize (I)I

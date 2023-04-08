@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/core/Translations
+	FIELD VARIABLE_PATTERN VARIABLE_PATTERN Ljava/util/regex/Pattern;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD bidiReorder bidiReorder (Ljava/lang/String;)Ljava/lang/String;
+	METHOD getMessage getMessage (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

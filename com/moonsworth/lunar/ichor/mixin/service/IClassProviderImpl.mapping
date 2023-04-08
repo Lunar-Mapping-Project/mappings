@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/ichor/mixin/service/IClassProviderImpl
+	METHOD <init> <init> ()V
+	METHOD findAgentClass findAgentClass (Ljava/lang/String;Z)Ljava/lang/Class;
+	METHOD findClass findClass (Ljava/lang/String;)Ljava/lang/Class;
+	METHOD findClass findClass (Ljava/lang/String;Z)Ljava/lang/Class;
+	METHOD getClassPath getClassPath ()[Ljava/net/URL;

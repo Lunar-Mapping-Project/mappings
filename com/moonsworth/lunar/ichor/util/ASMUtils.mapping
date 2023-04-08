@@ -1,0 +1,74 @@
+CLASS com/moonsworth/lunar/ichor/util/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/util/ASMUtils
+	FIELD agh ASM_VERSION I
+	FIELD agi CACHE_CACHE_MAP Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD HCORIHIHIOCROIHHHHRHIRHRI getSubclasses ([B)Ljava/util/Set;
+	METHOD HICHIORIIOIIICHCIRCHCCHCR getClassName ([B)Ljava/util/Optional;
+	METHOD IIIRRCCOOIIIICRHIIIIRCIHR pushLong (J)Lorg/objectweb/asm/tree/AbstractInsnNode;
+		ARG 0 l
+	METHOD IIROHIIHCHOORORIIHORHRORO stripAccessFlags (IZ)I
+	METHOD IIROHIIHCHOORORIIHORHRORO getPushedFloat (Lorg/objectweb/asm/tree/AbstractInsnNode;)Ljava/lang/Float;
+		ARG 0 f
+	METHOD OCIROORRIRIOHIIIRRIORCIHI getAnnotation (Ljava/lang/Object;Ljava/lang/Class;)Lorg/objectweb/asm/tree/AnnotationNode;
+		ARG 0 object
+		ARG 1 annotationClazz
+	METHOD OICCIHOCRHCCRRHCRCCCHIIRC isInterface (Lorg/objectweb/asm/tree/ClassNode;)Z
+		ARG 0 classNode
+	METHOD OIOORRORCRHOOCICORRCHOHRC (Lorg/cadixdev/bombe/provider/ClassProvider;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 0 v
+	METHOD OIOORRORCRHOOCICORRCHOHRC getPushedInt (Lorg/objectweb/asm/tree/AbstractInsnNode;)Ljava/lang/Integer;
+		ARG 0 i
+	METHOD ORCCOCROHHHCRRCROROHRIIII getPrimitiveDesc (Ljava/lang/String;)Ljava/lang/Character;
+	METHOD ORCIRCICHOHCROOHRIHOOHHRC pushInt (I)Lorg/objectweb/asm/tree/AbstractInsnNode;
+		ARG 0 i
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR getPushedLong (Lorg/objectweb/asm/tree/AbstractInsnNode;)Ljava/lang/Long;
+		ARG 0 l
+	METHOD RCRIIRROHHOCHHHCHOCIICRHR getClass ([BI)Lorg/objectweb/asm/tree/ClassNode;
+		ARG 0 classBytes
+		ARG 1 flags
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC getPushedDouble (Lorg/objectweb/asm/tree/AbstractInsnNode;)Ljava/lang/Double;
+		ARG 0 d
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getSubclasses (Ljava/lang/String;Lorg/cadixdev/bombe/provider/ClassProvider;)Ljava/util/Set;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/cadixdev/bombe/type/Type;)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI isVersionWithinRange (Lorg/objectweb/asm/tree/AnnotationNode;Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI hasAnnotation (Lorg/objectweb/asm/tree/ClassNode;Ljava/lang/Class;)Z
+		ARG 0 classNode
+		ARG 1 annotationClazz
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI writeClass (Lorg/objectweb/asm/tree/ClassNode;Ljava/lang/ClassLoader;)[B
+		ARG 0 classNode
+		ARG 1 classLoader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI copy (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 0 dst
+		ARG 1 src
+	METHOD RHRROCIIHHROCROOHICOCHRIR isMixin (Lorg/objectweb/asm/tree/ClassNode;)Z
+	METHOD RIIOCIHIORRCCCICIOIOORHOC getUnboxingMethod (C)Ljava/lang/String;
+	METHOD RIOCIICRCIHRHIOOOOCOOIRIC getSuperName ([B)Ljava/util/Optional;
+	METHOD RRRHIIIIOCOIOROOHRORRRRHC isStatic (I)Z
+		ARG 0 access
+	CLASS 1
+		FIELD agj agj [Ljava/lang/String;
+		METHOD <init> <init> (I[Ljava/lang/String;)V
+		METHOD visit visit (IILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V
+	CLASS 2
+		FIELD agk agk [Ljava/lang/String;
+		METHOD <init> <init> (I[Ljava/lang/String;)V
+		METHOD visit visit (IILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V
+	CLASS 3
+		FIELD agl agl Ljava/util/HashSet;
+		METHOD <init> <init> (ILjava/util/HashSet;)V
+		METHOD visit visit (IILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V
+	CLASS 4
+		FIELD agm agm Ljava/util/HashSet;
+		METHOD <init> <init> (ILjava/util/HashSet;)V
+		METHOD visitInnerClass visitInnerClass (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)V
+	CLASS 5
+		FIELD agn agn Ljava/util/HashSet;
+		METHOD <init> <init> (ILjava/util/HashSet;)V
+		METHOD visitField visitField (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Lorg/objectweb/asm/FieldVisitor;
+		METHOD visitInnerClass visitInnerClass (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)V
+		METHOD visitMethod visitMethod (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Lorg/objectweb/asm/MethodVisitor;
+		CLASS 1
+			FIELD ago ago Lcom/moonsworth/lunar/ichor/util/RHOIOCRHOCHOOHHCOHIOIIRHI$5;
+			METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/util/RHOIOCRHOCHOOHHCOHIOIIRHI$5;I)V
+			METHOD visitMethodInsn visitMethodInsn (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V

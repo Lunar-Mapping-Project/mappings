@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/food/FoodDataMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getFoodLevel bridge$getFoodLevel ()F
+	METHOD bridge$getSaturationLevel bridge$getSaturationLevel ()F
+	METHOD getFoodLevel getFoodLevel ()I
+	METHOD getSaturationLevel getSaturationLevel ()F

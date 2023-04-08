@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ServerSelectionListMixin
+	FIELD screen screen Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;
+	FIELD serverListPinned serverListPinned Ljava/util/List;
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;IIIII)V
+	METHOD getFocused getFocused ()Lnet/minecraft/client/gui/components/events/GuiEventListener;
+	METHOD impl$onAddServer impl$onAddServer (Ljava/util/List;Ljava/lang/Object;Lnet/minecraft/client/multiplayer/ServerList;)Z
+	METHOD impl$onRefreshEntries impl$onRefreshEntries (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onUpdate impl$onUpdate (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

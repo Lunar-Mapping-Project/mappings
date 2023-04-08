@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/CameraMixin
+	FIELD xRot xRot F
+	FIELD yRot yRot F
+	METHOD <init> <init> ()V
+	METHOD bridge$getPitch bridge$getPitch ()F
+	METHOD bridge$getPosX bridge$getPosX ()D
+	METHOD bridge$getPosY bridge$getPosY ()D
+	METHOD bridge$getPosZ bridge$getPosZ ()D
+	METHOD bridge$getYaw bridge$getYaw ()F
+	METHOD getPosition getPosition ()Lnet/minecraft/world/phys/Vec3;
+	METHOD impl$setRotation impl$setRotation (Lnet/minecraft/client/Camera;FF)V

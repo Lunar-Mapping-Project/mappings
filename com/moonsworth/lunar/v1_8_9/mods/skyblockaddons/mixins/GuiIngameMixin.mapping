@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/GuiIngameMixin
+	FIELD cancelCurrentStatRender cancelCurrentStatRender Z
+	METHOD <init> <init> ()V
+	METHOD impl$drawTexturedModalRect impl$drawTexturedModalRect (Lnet/minecraft/client/gui/GuiIngame;IIIIII)V
+	METHOD impl$endStartSection impl$endStartSection (Lnet/minecraft/profiler/Profiler;Ljava/lang/String;)V
+	METHOD impl$startSection impl$startSection (Lnet/minecraft/profiler/Profiler;Ljava/lang/String;)V
+	METHOD shouldRenderStat shouldRenderStat (Ljava/lang/String;)Z

@@ -1,0 +1,9 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketModSettings com/lunarclient/bukkitapi/nethandler/client/LCPacketModSettings
+	FIELD settings settings Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;)V
+		ARG 1 settings
+	METHOD getSettings getSettings ()Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

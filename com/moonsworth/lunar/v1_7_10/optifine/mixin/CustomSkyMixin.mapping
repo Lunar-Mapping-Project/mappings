@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_7_10/optifine/mixin/CustomSkyMixin
+	FIELD worldSkyLayers worldSkyLayers [[Lnet/optifine/CustomSkyLayer;
+	METHOD <init> <init> ()V
+	METHOD renderSky renderSky (Lnet/minecraft/world/World;Lnet/minecraft/client/renderer/texture/TextureManager;F)V

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/client/assets/UUIDNamePair
+	FIELD CRROICRORCRRROORIRRHOIORO uuid Ljava/util/UUID;
+	FIELD username username Ljava/lang/String;
+	METHOD <init> <init> (Ljava/util/UUID;Ljava/lang/String;)V
+	METHOD getUsername getUsername ()Ljava/lang/String;
+	METHOD getUuid getUuid ()Ljava/util/UUID;

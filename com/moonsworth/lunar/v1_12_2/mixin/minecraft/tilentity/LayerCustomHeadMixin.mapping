@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/tilentity/LayerCustomHeadMixin
+	METHOD <init> <init> ()V
+	METHOD impl$doRenderLayer impl$doRenderLayer (Lnet/minecraft/entity/EntityLivingBase;FFFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/Item;Lnet/minecraft/client/Minecraft;ZFLcom/mojang/authlib/GameProfile;)V

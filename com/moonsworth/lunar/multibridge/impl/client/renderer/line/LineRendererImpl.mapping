@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/impl/client/renderer/line/LineRendererImpl
+	FIELD ICHOOOOOCROIHROCRIRCIOORH g F
+	FIELD a a F
+	FIELD aiu TESSELATOR Lcom/mojang/blaze3d/vertex/Tesselator;
+	FIELD aiv builder Lcom/mojang/blaze3d/vertex/BufferBuilder;
+	FIELD aiw x D
+	FIELD aix y D
+	FIELD aiy z D
+	FIELD b b F
+	FIELD r r F
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD IRHOCRCCHCCRIOCOCHCORHIOO end ()V
+	METHOD setTranslation setTranslation (DDD)V
+	METHOD setup setup ()V

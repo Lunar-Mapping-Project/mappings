@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mixin/adventure/serializer/LegacyHoverEventSerializerImpl
+	FIELD ENTITY_ID ENTITY_ID Ljava/lang/String;
+	FIELD ENTITY_NAME ENTITY_NAME Ljava/lang/String;
+	FIELD ENTITY_TYPE ENTITY_TYPE Ljava/lang/String;
+	FIELD INSTANCE INSTANCE Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD ITEM_COUNT ITEM_COUNT Ljava/lang/String;
+	FIELD ITEM_TAG ITEM_TAG Ljava/lang/String;
+	FIELD ITEM_TYPE ITEM_TYPE Ljava/lang/String;
+	FIELD SNBT_CODEC SNBT_CODEC Lnet/kyori/adventure/util/Codec;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD deserializeShowEntity deserializeShowEntity (Lnet/kyori/adventure/text/Component;Lnet/kyori/adventure/util/Codec$Decoder;)Lnet/kyori/adventure/text/event/HoverEvent$ShowEntity;
+	METHOD deserializeShowItem deserializeShowItem (Lnet/kyori/adventure/text/Component;)Lnet/kyori/adventure/text/event/HoverEvent$ShowItem;
+	METHOD serializeShowEntity serializeShowEntity (Lnet/kyori/adventure/text/event/HoverEvent$ShowEntity;Lnet/kyori/adventure/util/Codec$Encoder;)Lnet/kyori/adventure/text/Component;
+	METHOD serializeShowItem serializeShowItem (Lnet/kyori/adventure/text/event/HoverEvent$ShowItem;)Lnet/kyori/adventure/text/Component;

@@ -1,0 +1,33 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderUpdateNew com/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderUpdateNew
+	FIELD cancelsEntry cancelsEntry Z
+	FIELD cancelsExit cancelsExit Z
+	FIELD color color I
+	FIELD durationTicks durationTicks I
+	FIELD id id Ljava/lang/String;
+	FIELD maxX maxX D
+	FIELD maxZ maxZ D
+	FIELD minX minX D
+	FIELD minZ minZ D
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;DDDDIZZI)V
+		ARG 1 id
+		ARG 2 minX
+		ARG 4 minZ
+		ARG 6 maxX
+		ARG 8 maxZ
+		ARG 10 durationTicks
+		ARG 11 cancelsEntry
+		ARG 12 cancelsExit
+		ARG 13 color
+	METHOD getColor getColor ()I
+	METHOD getDurationTicks getDurationTicks ()I
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getMaxX getMaxX ()D
+	METHOD getMaxZ getMaxZ ()D
+	METHOD getMinX getMinX ()D
+	METHOD getMinZ getMinZ ()D
+	METHOD isCancelsEntry isCancelsEntry ()Z
+	METHOD isCancelsExit isCancelsExit ()Z
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

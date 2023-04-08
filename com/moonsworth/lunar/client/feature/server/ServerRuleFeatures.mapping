@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/feature/server/ServerRuleFeatures
+	FIELD rule rule Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	METHOD <init> <init> (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;Z)V
+	METHOD getRule getRule ()Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;

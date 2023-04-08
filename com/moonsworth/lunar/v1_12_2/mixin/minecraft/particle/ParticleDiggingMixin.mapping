@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/particle/ParticleDiggingMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderParticle$head impl$renderParticle$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderParticle$tail impl$renderParticle$tail (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

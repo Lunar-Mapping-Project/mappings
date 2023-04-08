@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/HICCCOROHIIHIHRCOIHHCRHCR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/gui/buttons/ButtonTextNew
+	FIELD centered centered Z
+	FIELD color color I
+	METHOD <init> <init> (IILjava/lang/String;ZI)V
+	METHOD drawButton drawButton (Lnet/minecraft/client/Minecraft;II)V
+	METHOD mousePressed mousePressed (Lnet/minecraft/client/Minecraft;II)Z

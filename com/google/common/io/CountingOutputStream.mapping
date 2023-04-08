@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/RHRROCIIHHROCROOHICOCHRIR com/google/common/io/CountingOutputStream
+	FIELD count count J
+	METHOD <init> <init> (Ljava/io/OutputStream;)V
+	METHOD close close ()V
+	METHOD getCount getCount ()J
+	METHOD write write (I)V
+	METHOD write write ([BII)V

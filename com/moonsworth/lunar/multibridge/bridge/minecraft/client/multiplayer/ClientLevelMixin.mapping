@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/multiplayer/ClientLevelMixin
+	METHOD <init> <init> ()V
+	METHOD impl$sendQuittingDisconnectingPacket impl$sendQuittingDisconnectingPacket (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$postEventEntityJoinWorld$v1_16 lunar$postEventEntityJoinWorld$v1_16 (ILnet/minecraft/world/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$postEventEntityJoinWorld$v1_17 lunar$postEventEntityJoinWorld$v1_17 (ILnet/minecraft/world/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$postEventEntityJoinWorld lunar$postEventEntityJoinWorld (Lnet/minecraft/world/entity/Entity;)V

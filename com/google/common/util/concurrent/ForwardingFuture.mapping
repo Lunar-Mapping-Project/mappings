@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RIHOOROIIHIHROCCHIRICHOII com/google/common/util/concurrent/ForwardingFuture
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD COCCOIIRCRCCHIOORHHCIRIRR delegate ()Ljava/util/concurrent/Future;
+	METHOD cancel cancel (Z)Z
+	METHOD get get ()Ljava/lang/Object;
+	METHOD get get (JLjava/util/concurrent/TimeUnit;)Ljava/lang/Object;
+	METHOD isCancelled isCancelled ()Z
+	METHOD isDone isDone ()Z
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI SimpleForwardingFuture
+		FIELD Yl delegate Ljava/util/concurrent/Future;
+		METHOD <init> <init> (Ljava/util/concurrent/Future;)V
+		METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+		METHOD COCCOIIRCRCCHIOORHHCIRIRR delegate ()Ljava/util/concurrent/Future;

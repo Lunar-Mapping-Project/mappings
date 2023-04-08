@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/event/ClickEventMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getValue bridge$getValue ()Ljava/lang/String;
+	METHOD getValue getValue ()Ljava/lang/String;

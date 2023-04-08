@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/network/ClientPacketListenerMixin
+	FIELD level level Lnet/minecraft/client/multiplayer/ClientLevel;
+	METHOD <init> <init> ()V
+	METHOD handleCloseWindow handleCloseWindow (Lnet/minecraft/network/protocol/game/ClientboundContainerClosePacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleDisconnect impl$handleDisconnect (Lnet/minecraft/network/protocol/game/ClientboundDisconnectPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_12_2/minecraft/client/resources/ResourcePackRepositoryMixin
+	FIELD dirServerResourcepacks dirServerResourcepacks Ljava/io/File;
+	FIELD repositoryEntriesAll repositoryEntriesAll Ljava/util/List;
+	FIELD repositoryEntries repositoryEntries Ljava/util/List;
+	METHOD <init> <init> ()V
+	METHOD getResourcePackFiles getResourcePackFiles ()Ljava/util/List;
+	METHOD impl$deleteOldServerResourcesPacks impl$deleteOldServerResourcesPacks (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onConstruct impl$onConstruct (Ljava/io/File;Ljava/io/File;Lnet/minecraft/client/resources/IResourcePack;Lnet/minecraft/client/resources/data/MetadataSerializer;Lnet/minecraft/client/settings/GameSettings;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onIterateResourcePacks impl$onIterateResourcePacks (Ljava/util/Iterator;)Z
+	METHOD updateRepositoryEntriesAll updateRepositoryEntriesAll ()V

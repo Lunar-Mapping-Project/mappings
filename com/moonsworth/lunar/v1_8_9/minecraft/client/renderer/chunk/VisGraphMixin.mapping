@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/chunk/VisGraphMixin
+	METHOD <init> <init> ()V
+	METHOD impl$func_178606_a impl$func_178606_a (Lnet/minecraft/util/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

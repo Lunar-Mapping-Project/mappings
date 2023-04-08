@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/minecraft/client/renderer/entity/RenderItemMixin
+	FIELD customRender customRender Z
+	FIELD renderBlocksRi renderBlocksRi Lnet/minecraft/client/renderer/RenderBlocks;
+	FIELD renderInFrame renderInFrame Z
+	FIELD zLevel zLevel F
+	METHOD <init> <init> ()V
+	METHOD bridge$getItemModelShaper bridge$getItemModelShaper ()Ljava/util/Optional;
+	METHOD bridge$getZLevel bridge$getZLevel ()F
+	METHOD bridge$renderDroppedItem bridge$renderDroppedItem (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/RIORHCCRCIOORHIHIHIHHRIOH;IFFFF)V
+	METHOD bridge$renderItem bridge$renderItem (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD bridge$renderItemAndEffectIntoGUI bridge$renderItemAndEffectIntoGUI (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;II)V
+	METHOD bridge$renderItemOverlayIntoGUI bridge$renderItemOverlayIntoGUI (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;II)V
+	METHOD bridge$renderModel bridge$renderModel (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;I)V
+	METHOD bridge$setZLevel bridge$setZLevel (F)V
+	METHOD bridge$shouldRenderItemIn3D bridge$shouldRenderItemIn3D (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+	METHOD renderDroppedItem renderDroppedItem (Lnet/minecraft/entity/item/EntityItem;Lnet/minecraft/util/IIcon;IFFFF)V
+	METHOD renderItemAndEffectIntoGUI renderItemAndEffectIntoGUI (Lnet/minecraft/client/gui/FontRenderer;Lnet/minecraft/client/renderer/texture/TextureManager;Lnet/minecraft/item/ItemStack;II)V
+	METHOD renderItemOverlayIntoGUI renderItemOverlayIntoGUI (Lnet/minecraft/client/gui/FontRenderer;Lnet/minecraft/client/renderer/texture/TextureManager;Lnet/minecraft/item/ItemStack;II)V

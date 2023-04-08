@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/client/resources/data/TextureMetadataSectionBridge
+	METHOD bridge$getTextureBlur bridge$getTextureBlur ()Z
+	METHOD bridge$getTextureClamp bridge$getTextureClamp ()Z

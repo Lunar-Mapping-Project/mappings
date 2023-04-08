@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO joptsimple/OptionException
+	FIELD abF serialVersionUID J
+	FIELD abG options Ljava/util/List;
+	METHOD <init> <init> (Ljava/util/Collection;)V
+	METHOD <init> <init> (Ljava/util/Collection;Ljava/lang/Throwable;)V
+	METHOD <init> <init> (Ljava/util/List;)V
+	METHOD HCRICCIRIORIIHICIRIRRCOHC singleOptionString (Ljava/lang/String;)Ljava/lang/String;
+	METHOD HHRCOCCICRRORIHCIHOHCIIII multipleOptionString ()Ljava/lang/String;
+	METHOD HHRICCOIIIIRIHCRROHRROORI singleOptionString ()Ljava/lang/String;
+	METHOD IRCCOICIHORCOHRIRIOOOOHRH unrecognizedOption (Ljava/lang/String;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO;
+	METHOD OCHRHOIHIHCRCCHRIHHCCIOOH messageArguments ()[Ljava/lang/Object;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI formattedMessage (Ljava/util/Locale;)Ljava/lang/String;
+	METHOD OROCHHRICHOHIIRHHIICORRHH specsToStrings (Ljava/util/Collection;)Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI specToString (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC;)Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI localizedMessage (Ljava/util/Locale;)Ljava/lang/String;
+	METHOD ROICRCCCOOOORHHICCIOCRRII options ()Ljava/util/List;
+	METHOD getMessage getMessage ()Ljava/lang/String;

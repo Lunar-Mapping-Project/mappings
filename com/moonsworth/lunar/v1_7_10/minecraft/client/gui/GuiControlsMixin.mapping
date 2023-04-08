@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_7_10/minecraft/client/gui/GuiControlsMixin
+	FIELD keyBindingList keyBindingList Lnet/minecraft/client/gui/GuiKeyBindingList;
+	METHOD <init> <init> ()V
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;
+	METHOD impl$onDrawScreen impl$onDrawScreen (IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD onInit onInit (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

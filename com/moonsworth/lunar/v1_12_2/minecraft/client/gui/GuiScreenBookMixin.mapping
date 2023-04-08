@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/client/gui/GuiScreenBookMixin
+	FIELD bookPages bookPages Lnet/minecraft/nbt/NBTTagList;
+	FIELD bookTotalPages bookTotalPages I
+	FIELD currPage currPage I
+	METHOD <init> <init> ()V
+	METHOD bridge$getCurrentPage bridge$getCurrentPage ()I
+	METHOD bridge$getPageContents bridge$getPageContents (I)Ljava/lang/String;
+	METHOD bridge$getPageCount bridge$getPageCount ()I

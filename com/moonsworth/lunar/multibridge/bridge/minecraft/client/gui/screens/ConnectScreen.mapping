@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/gui/screens/ConnectScreen
+	FIELD ip ip Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD impl$run$getIpString impl$run$getIpString (Ljava/lang/String;)Ljava/net/InetAddress;
+	METHOD lunar$postEventConnect$v1_16 lunar$postEventConnect$v1_16 (Ljava/net/InetAddress;IZ)Lnet/minecraft/network/Connection;
+	METHOD lunar$postEventConnect$v1_17 lunar$postEventConnect$v1_17 (Ljava/net/InetSocketAddress;Z)Lnet/minecraft/network/Connection;
+	METHOD lunar$run$setListener$disableJoinLock lunar$run$setListener$disableJoinLock (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

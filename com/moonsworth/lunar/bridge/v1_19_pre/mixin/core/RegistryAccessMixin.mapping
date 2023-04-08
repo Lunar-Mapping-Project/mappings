@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/bridge/v1_19_pre/mixin/core/RegistryAccessMixin
+	METHOD bridge$v1_19$fromRegistryOfRegistries bridge$v1_19$fromRegistryOfRegistries (Lnet/minecraft/core/Registry;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

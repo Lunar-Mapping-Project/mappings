@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/GuiNewChatHook
+	METHOD <init> <init> ()V
+	METHOD getUnformattedText getUnformattedText (Lnet/minecraft/util/IChatComponent;)Ljava/lang/String;

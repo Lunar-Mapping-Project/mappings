@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/level/entity/TransientEntitySectionManagerMixin
+	FIELD entity entity Lnet/minecraft/world/level/entity/EntityAccess;
+	METHOD <init> <init> ()V
+	METHOD lunar$entityRemoveEvents lunar$entityRemoveEvents (Lnet/minecraft/world/entity/Entity$RemovalReason;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

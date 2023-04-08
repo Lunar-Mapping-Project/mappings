@@ -1,0 +1,34 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI joptsimple/AbstractOptionSpec
+	FIELD abp options Ljava/util/List;
+	FIELD abq description Ljava/lang/String;
+	FIELD forHelp forHelp Z
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 option
+	METHOD <init> <init> (Ljava/util/List;Ljava/lang/String;)V
+		ARG 1 options
+		ARG 2 description
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO arrangeOptions (Ljava/util/List;)V
+		ARG 1 unarranged
+	METHOD OCIROORRIRIOHIIIRRIORCIHI value (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handleOption (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;Ljava/lang/String;)V
+		ARG 1 parser
+		ARG 2 arguments
+		ARG 3 detectedOptions
+		ARG 4 detectedArgument
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI argumentTypeIndicatorFrom (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;)Ljava/lang/String;
+		ARG 1 converter
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI convertWith (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;Ljava/lang/String;)Ljava/lang/Object;
+		ARG 1 converter
+		ARG 2 argument
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI values (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)Ljava/util/List;
+	METHOD ROICRCCCOOOORHHICCIOCRRII options ()Ljava/util/List;
+	METHOD RRRICOCCHHHIRCRROHRHRHRCI forHelp ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD convert convert (Ljava/lang/String;)Ljava/lang/Object;
+		ARG 1 argument
+	METHOD description description ()Ljava/lang/String;
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 that
+	METHOD hashCode hashCode ()I
+	METHOD isForHelp isForHelp ()Z
+	METHOD representsNonOptions representsNonOptions ()Z
+	METHOD toString toString ()Ljava/lang/String;

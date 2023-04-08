@@ -1,0 +1,93 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/enchants/EnchantManager
+	FIELD COMMA COMMA Ljava/lang/String;
+	FIELD ENCHANTMENT_PATTERN ENCHANTMENT_PATTERN Ljava/util/regex/Pattern;
+	FIELD GREY_ENCHANT_PATTERN GREY_ENCHANT_PATTERN Ljava/util/regex/Pattern;
+	FIELD enchants enchants Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OIOORRORCRHOOCICORRCHOHRC;
+	FIELD loreCache loreCache Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD accountForAndRemoveGreyEnchants accountForAndRemoveGreyEnchants (Ljava/util/List;Lnet/minecraft/item/ItemStack;)I
+	METHOD containsEnchantment containsEnchantment (Lnet/minecraft/nbt/NBTTagCompound;Ljava/lang/String;)Z
+	METHOD correctTooltipWidth correctTooltipWidth (I)I
+	METHOD getInputEnchantFormat getInputEnchantFormat (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD insertStackingEnchantProgress insertStackingEnchantProgress (Ljava/util/List;Lnet/minecraft/nbt/NBTTagCompound;I)I
+	METHOD markCacheDirty markCacheDirty ()V
+	METHOD mergeFormats mergeFormats (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD parseEnchants parseEnchants (Ljava/util/List;Lnet/minecraft/item/ItemStack;)V
+	METHOD setEnchants setEnchants (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OIOORRORCRHOOCICORRCHOHRC;)V
+	CLASS OCIROORRIRIOHIIIRRIORCIHI Enchant
+		FIELD goodLevel goodLevel I
+		FIELD loreName loreName Ljava/lang/String;
+		FIELD maxLevel maxLevel I
+		FIELD nbtName nbtName Ljava/lang/String;
+		METHOD <init> <init> ()V
+		METHOD compareTo compareTo (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI;)I
+		METHOD compareTo compareTo (Ljava/lang/Object;)I
+		METHOD getFormat getFormat (I)Ljava/lang/String;
+		METHOD getFormattedName getFormattedName (I)Ljava/lang/String;
+		METHOD getGoodLevel getGoodLevel ()I
+		METHOD getLoreName getLoreName ()Ljava/lang/String;
+		METHOD getMaxLevel getMaxLevel ()I
+		METHOD getNbtName getNbtName ()Ljava/lang/String;
+		METHOD getUnformattedName getUnformattedName ()Ljava/lang/String;
+		METHOD isNormal isNormal ()Z
+		METHOD isStacking isStacking ()Z
+		METHOD isUltimate isUltimate ()Z
+		METHOD setGoodLevel setGoodLevel (I)V
+		METHOD setLoreName setLoreName (Ljava/lang/String;)V
+		METHOD setMaxLevel setMaxLevel (I)V
+		METHOD setNbtName setNbtName (Ljava/lang/String;)V
+		METHOD toString toString ()Ljava/lang/String;
+		CLASS OCIROORRIRIOHIIIRRIORCIHI Normal
+			METHOD <init> <init> ()V
+			METHOD compareTo compareTo (Ljava/lang/Object;)I
+			METHOD of of (Lcom/google/gson/JsonObject;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI;
+		CLASS OIOORRORCRHOOCICORRCHOHRC Stacking
+			FIELD nbtNum nbtNum Ljava/lang/String;
+			FIELD stackLevel stackLevel Ljava/util/TreeSet;
+			FIELD statLabel statLabel Ljava/lang/String;
+			METHOD <init> <init> ()V
+			METHOD compareTo compareTo (Ljava/lang/Object;)I
+			METHOD of of (Lcom/google/gson/JsonObject;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI$OIOORRORCRHOOCICORRCHOHRC;
+			METHOD toString toString ()Ljava/lang/String;
+		CLASS RCHHIHHRCCIHIRCCCRHIOCCHR Ultimate
+			METHOD <init> <init> ()V
+			METHOD compareTo compareTo (Ljava/lang/Object;)I
+			METHOD getFormat getFormat (I)Ljava/lang/String;
+			METHOD of of (Lcom/google/gson/JsonObject;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI$RCHHIHHRCCIHIRCCCRHIOCCHR;
+		CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Dummy
+			METHOD <init> <init> (Ljava/lang/String;)V
+			METHOD compareTo compareTo (Ljava/lang/Object;)I
+			METHOD getFormat getFormat (I)Ljava/lang/String;
+	CLASS OIOORRORCRHOOCICORRCHOHRC Enchants
+		FIELD NORMAL NORMAL Ljava/util/HashMap;
+		FIELD STACKING STACKING Ljava/util/HashMap;
+		FIELD ULTIMATE ULTIMATE Ljava/util/HashMap;
+		METHOD <init> <init> ()V
+		METHOD getFromLore getFromLore (Ljava/lang/String;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD getNORMAL getNORMAL ()Ljava/util/HashMap;
+		METHOD getSTACKING getSTACKING ()Ljava/util/HashMap;
+		METHOD getULTIMATE getULTIMATE ()Ljava/util/HashMap;
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR FormattedEnchant
+		FIELD enchant enchant Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI;
+		FIELD inputFormattedString inputFormattedString Ljava/lang/String;
+		FIELD level level I
+		FIELD loreDescription loreDescription Ljava/util/List;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$OCIROORRIRIOHIIIRRIORCIHI;ILjava/lang/String;)V
+		METHOD addLore addLore (Ljava/lang/String;)V
+		METHOD compareTo compareTo (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI$RCHHIHHRCCIHIRCCCRHIOCCHR;)I
+		METHOD compareTo compareTo (Ljava/lang/Object;)I
+		METHOD getFormattedString getFormattedString ()Ljava/lang/String;
+		METHOD getLore getLore ()Ljava/util/List;
+		METHOD getRenderLength getRenderLength ()I
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Cache
+		FIELD cachedAfter cachedAfter Ljava/util/List;
+		FIELD cachedBefore cachedBefore Ljava/util/List;
+		FIELD configChanged configChanged Z
+		METHOD <init> <init> ()V
+		METHOD getCachedAfter getCachedAfter ()Ljava/util/List;
+		METHOD getCachedBefore getCachedBefore ()Ljava/util/List;
+		METHOD isCached isCached (Ljava/util/List;)Z
+		METHOD updateAfter updateAfter (Ljava/util/List;)V
+		METHOD updateBefore updateBefore (Ljava/util/List;)V

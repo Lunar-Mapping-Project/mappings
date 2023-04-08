@@ -1,0 +1,25 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/ichor/mappings/MixinRemapper
+	FIELD afi MIXIN_PKG Ljava/lang/String;
+	FIELD afj MIXIN_EXTRAS_PKG Ljava/lang/String;
+	FIELD afk MIXIN Ljava/lang/String;
+	FIELD afl SHADOW Ljava/lang/String;
+	FIELD afm OVERWRITE Ljava/lang/String;
+	FIELD afn ACCESSOR Ljava/lang/String;
+	FIELD afo INVOKER Ljava/lang/String;
+	FIELD afp container Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	FIELD afq classLoader Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD afr classNode Lorg/objectweb/asm/tree/ClassNode;
+	FIELD afu remapper Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Lorg/objectweb/asm/tree/ClassNode;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/MappingSet;Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;Ljava/util/List;)V
+		ARG 1 container
+		ARG 2 classLoader
+		ARG 3 classNode
+		ARG 6 remapper
+	METHOD HICHICCCOCIORRHICHHIHOHIR getAllMixinAnnotations (Lorg/objectweb/asm/tree/ClassNode;)Ljava/util/List;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lorg/objectweb/asm/tree/MethodNode;)V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR copyMixinAnnotations (Ljava/util/List;Ljava/util/List;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI remap (Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Lorg/objectweb/asm/tree/ClassNode;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/lorenz/MappingSet;Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;)Lorg/objectweb/asm/tree/ClassNode;
+		ARG 0 container
+		ARG 1 classLoader
+		ARG 2 classNode
+		ARG 5 remapper

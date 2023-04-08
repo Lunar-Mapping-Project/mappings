@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/utils/ReturnValue
+	FIELD cancelled cancelled Z
+	FIELD returnValue returnValue Ljava/lang/Object;
+	METHOD <init> <init> ()V
+	METHOD cancel cancel ()V
+	METHOD cancel cancel (Ljava/lang/Object;)V
+	METHOD getReturnValue getReturnValue ()Ljava/lang/Object;
+	METHOD isCancelled isCancelled ()Z

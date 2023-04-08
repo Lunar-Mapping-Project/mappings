@@ -1,0 +1,38 @@
+CLASS com/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/ichor/IchorContainer
+	FIELD acU patterns Ljava/util/Map;
+	FIELD acV injection Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC;
+	FIELD acW attachment Ljava/lang/Object;
+	FIELD acX handlers Ljava/util/List;
+	FIELD acY resourceHandlers Ljava/util/List;
+	FIELD acZ mappers Ljava/util/List;
+	FIELD ada mappings Ljava/util/List;
+	FIELD adb pipeline Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC;Ljava/lang/Object;Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)V
+		ARG 1 injection
+		ARG 2 attachment
+		ARG 3 pipeline
+	METHOD CCORCRIIIICCCIHHORCOHRCRC getInjection ()Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD CHORCHICIRHHHHOROOIRHCIHI compilePattern (Ljava/lang/String;)Ljava/util/regex/Pattern;
+		ARG 0 pattern
+	METHOD HRCORCOOOICCRORHHHIROORIO getMappings ()Ljava/util/List;
+	METHOD IOORIIOOICHRRHCRROIIRIHOC getHandlers ()Ljava/util/List;
+	METHOD OCHCRIIRRRCHHICHRIRHRIROO getAttachment ()Ljava/lang/Object;
+	METHOD OOIOROIRIHIHCIOROIICIOICR getMappers ()Ljava/util/List;
+	METHOD RHHCIHIHIRHHCOIOIRIROOHOI getPipeline ()Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (JLjava/lang/String;Ljava/lang/Long;)Ljava/lang/Long;
+		ARG 2 k
+		ARG 3 time
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI inject (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO$OIOORRORCRHOOCICORRCHOHRC;)V
+		ARG 1 target
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 resource
+		ARG 2 classLoader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI registerNectarHandler (Ljava/lang/Class;Lcom/moonsworth/lunar/ichor/util/ROOIRIIIRHHIIRRCOCHIOCIHO;)V
+		ARG 1 nectarClass
+		ARG 2 handler
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/lang/String;Ljava/lang/Long;)Ljava/lang/Long;
+		ARG 0 k
+		ARG 1 time
+	METHOD ROOCHIIHOICIRHHOIRRIRHICH getResourceHandlers ()Ljava/util/List;
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/entity/EntityRendererMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$applyViewBobbing lunar$applyViewBobbing (Lnet/minecraft/client/renderer/EntityRenderer;F)Z
+	METHOD lunar$canRain lunar$canRain (Z)Z
+	METHOD lunar$changeRainColor lunar$changeRainColor (Lnet/minecraft/client/renderer/BufferBuilder;FFFF)Lnet/minecraft/client/renderer/BufferBuilder;
+	METHOD lunar$forceRainInAllBiomes lunar$forceRainInAllBiomes (F)F
+	METHOD lunar$modifyRainStrength lunar$modifyRainStrength (F)F
+	METHOD lunar$optifineWeatherControl lunar$optifineWeatherControl (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$preventRainParticles lunar$preventRainParticles (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

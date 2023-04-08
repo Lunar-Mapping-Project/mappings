@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/RenderEndermanHook
+	FIELD BLANK_ENDERMAN_TEXTURE BLANK_ENDERMAN_TEXTURE Lnet/minecraft/util/ResourceLocation;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD getEndermanTexture getEndermanTexture (Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/util/ResourceLocation;

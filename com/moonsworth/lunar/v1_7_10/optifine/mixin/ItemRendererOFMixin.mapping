@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/v1_7_10/optifine/mixin/ItemRendererOFMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderItem$hasEffect impl$renderItem$hasEffect (Lnet/minecraft/item/ItemStack;)Z
+	METHOD lambda$impl$renderItem$hasEffect$0 lambda$impl$renderItem$hasEffect$0 (I)V

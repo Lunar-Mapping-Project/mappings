@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/google/common/math/BigIntegerMath
+	FIELD JS SQRT2_PRECOMPUTE_THRESHOLD I
+	FIELD JU SQRT2_PRECOMPUTED_BITS Ljava/math/BigInteger;
+	FIELD JW LN_10 D
+	FIELD JX LN_2 D
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD CCCRIIOIRIOORICOICIIIRRHC factorial (I)Ljava/math/BigInteger;
+	METHOD ICHICOROOOCHOIIHHCCHROOCO listProduct (Ljava/util/List;)Ljava/math/BigInteger;
+	METHOD IIROHIIHCHOORORIIHORHRORO isPowerOfTwo (Ljava/math/BigInteger;)Z
+	METHOD OCIROORRIRIOHIIIRRIORCIHI log10 (Ljava/math/BigInteger;Ljava/math/RoundingMode;)I
+	METHOD OCIROORRIRIOHIIIRRIORCIHI listProduct (Ljava/util/List;II)Ljava/math/BigInteger;
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC sqrtApproxWithDoubles (Ljava/math/BigInteger;)Ljava/math/BigInteger;
+	METHOD OIOORRORCRHOOCICORRCHOHRC ceilingPowerOfTwo (Ljava/math/BigInteger;)Ljava/math/BigInteger;
+	METHOD OIOORRORCRHOOCICORRCHOHRC sqrt (Ljava/math/BigInteger;Ljava/math/RoundingMode;)Ljava/math/BigInteger;
+	METHOD OROCHHRICHOHIIRHHIICORRHH binomial (II)Ljava/math/BigInteger;
+	METHOD ORRCHORCCOOOCCORCIHCROOCC fitsInLong (Ljava/math/BigInteger;)Z
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR floorPowerOfTwo (Ljava/math/BigInteger;)Ljava/math/BigInteger;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC sqrtFloor (Ljava/math/BigInteger;)Ljava/math/BigInteger;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI divide (Ljava/math/BigInteger;Ljava/math/BigInteger;Ljava/math/RoundingMode;)Ljava/math/BigInteger;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI log2 (Ljava/math/BigInteger;Ljava/math/RoundingMode;)I
+	CLASS 1 1
+		FIELD JY $SwitchMap$java$math$RoundingMode [I
+		METHOD <clinit> <clinit> ()V

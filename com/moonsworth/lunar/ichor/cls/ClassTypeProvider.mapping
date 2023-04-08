@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/cls/ClassTypeProvider
+	METHOD provide provide (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI;
+		ARG 1 className

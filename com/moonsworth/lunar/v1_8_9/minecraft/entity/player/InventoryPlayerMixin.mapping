@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/entity/player/InventoryPlayerMixin
+	FIELD armorInventory armorInventory [Lnet/minecraft/item/ItemStack;
+	FIELD mainInventory mainInventory [Lnet/minecraft/item/ItemStack;
+	METHOD <init> <init> ()V
+	METHOD bridge$getArmorInventory bridge$getArmorInventory ()Ljava/util/List;
+	METHOD bridge$getMainInventory bridge$getMainInventory ()Ljava/util/List;

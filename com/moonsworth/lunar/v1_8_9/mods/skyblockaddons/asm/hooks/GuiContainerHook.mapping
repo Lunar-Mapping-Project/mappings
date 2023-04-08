@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/GuiContainerHook
+	FIELD LOCK LOCK Lnet/minecraft/util/ResourceLocation;
+	FIELD OVERLAY_GREEN OVERLAY_GREEN I
+	FIELD OVERLAY_RED OVERLAY_RED I
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD drawBackpacks drawBackpacks (Lnet/minecraft/client/gui/inventory/GuiContainer;IILnet/minecraft/client/gui/FontRenderer;)V
+	METHOD drawGradientRect drawGradientRect (Lnet/minecraft/client/gui/inventory/GuiContainer;IIIIIILnet/minecraft/inventory/Slot;)V
+	METHOD drawSlot drawSlot (Lnet/minecraft/client/gui/inventory/GuiContainer;Lnet/minecraft/inventory/Slot;)V
+	METHOD keyTyped keyTyped (I)V
+	METHOD keyTyped keyTyped (Lnet/minecraft/client/gui/inventory/GuiContainer;ILnet/minecraft/inventory/Slot;Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+	METHOD onHandleMouseClick onHandleMouseClick (Lnet/minecraft/inventory/Slot;III)Z
+	METHOD setLastSlot setLastSlot ()V

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/events/SkyblockBlockBreakEvent
+	FIELD blockPos blockPos Lnet/minecraft/util/BlockPos;
+	FIELD timeToBreak timeToBreak J
+	METHOD <init> <init> (Lnet/minecraft/util/BlockPos;)V
+	METHOD <init> <init> (Lnet/minecraft/util/BlockPos;J)V

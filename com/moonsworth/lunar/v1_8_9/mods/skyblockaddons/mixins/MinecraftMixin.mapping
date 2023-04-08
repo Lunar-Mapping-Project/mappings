@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/MinecraftMixin
+	FIELD mcResourceManager mcResourceManager Lnet/minecraft/client/resources/IReloadableResourceManager;
+	FIELD playerController playerController Lnet/minecraft/client/multiplayer/PlayerControllerMP;
+	METHOD <init> <init> ()V
+	METHOD impl$rightClickMouse impl$rightClickMouse (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD impl$runTick impl$runTick (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD sba$clickMouse sba$clickMouse (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD sba$sendClickBlockToController sba$sendClickBlockToController (ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 2 ci

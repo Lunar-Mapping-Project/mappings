@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/world/info/WorldInfoBridge
+	METHOD bridge$getDayTime bridge$getDayTime ()J
+	METHOD bridge$getGameTime bridge$getGameTime ()J
+	METHOD bridge$getSpawnX bridge$getSpawnX ()I
+	METHOD bridge$getSpawnY bridge$getSpawnY ()I
+	METHOD bridge$getSpawnZ bridge$getSpawnZ ()I
+	METHOD bridge$isRaining bridge$isRaining ()Z

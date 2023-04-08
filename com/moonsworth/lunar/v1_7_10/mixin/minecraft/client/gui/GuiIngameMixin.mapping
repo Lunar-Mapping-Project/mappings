@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/gui/GuiIngameMixin
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD handlePlayerListRendering handlePlayerListRendering ()V
+	METHOD impl$isTabHeld impl$isTabHeld (Lnet/minecraft/client/settings/KeyBinding;)Z
+	METHOD impl$render3DOverlays impl$render3DOverlays (FZIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderGameOverlay$avoidCrosshair impl$renderGameOverlay$avoidCrosshair (Lnet/minecraft/client/gui/GuiIngame;IIIIII)V
+	METHOD impl$renderGameOverlay impl$renderGameOverlay (FZIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderPlayerHealth impl$renderPlayerHealth (IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$handlePlayerListRendering$0 lambda$handlePlayerListRendering$0 (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/IIOORHHORIRORRHIRCRHHHIHO/RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC;Lnet/kyori/adventure/text/TextComponent$Builder;)Lnet/kyori/adventure/text/ComponentLike;
+	METHOD renderBossHealth renderBossHealth ()V
+	METHOD renderScoreboard renderScoreboard (Lnet/minecraft/scoreboard/ScoreObjective;IILnet/minecraft/client/gui/FontRenderer;)V

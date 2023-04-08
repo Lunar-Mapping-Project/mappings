@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/gui/GuiChatMixin
+	METHOD <init> <init> ()V
+	METHOD handleComponentClick handleComponentClick (Lnet/minecraft/util/text/ITextComponent;)Z
+	METHOD impl$drawScreen impl$drawScreen (IIIII)V

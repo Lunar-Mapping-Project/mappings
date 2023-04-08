@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/gui/components/DebugScreenOverlayMixin
+	METHOD <init> <init> ()V
+	METHOD impl$addAsyncMemUsage impl$addAsyncMemUsage (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

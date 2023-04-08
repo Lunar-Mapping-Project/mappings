@@ -1,0 +1,54 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/ichor/IIROHIIHCHOORORIIHORHRORO
+	FIELD COHOICCICIRORIIHROCRROCHR versionOrdinal I
+	FIELD HRIOOCOHHIIHCOROHRROCCIIR inflightMappings Lorg/cadixdev/lorenz/MappingSet;
+	FIELD RICCCRHRHOIOCRHCCOOHOOOOI mc Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD <init> (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/cadixdev/lorenz/MappingSet;)V
+		ARG 1 mc
+		ARG 2 inflightMappings
+	METHOD <init> (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/cadixdev/lorenz/MappingSet;I)V
+		ARG 1 mc
+		ARG 2 inflightMappings
+		ARG 3 versionOrdinal
+	METHOD HRCRRCOCHRIROHCRHOHCCOOOI inflightMappings ()Lorg/cadixdev/lorenz/MappingSet;
+	METHOD IHRORRIIIIOOCIRIHICIHCICH mc ()Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Lorg/objectweb/asm/tree/MethodNode;)V
+		ARG 2 methodNode
+	METHOD OCIROORRIRIOHIIIRRIORCIHI isWrapper (Lorg/objectweb/asm/tree/ClassNode;)Z
+		ARG 0 classNode
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 classNode
+		ARG 2 classLoader
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lorg/objectweb/asm/tree/MethodNode;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 methodNode
+		ARG 2 classLoader
+	METHOD OHOCHHIOCCHHRHCOORRHHCOHO versionOrdinal ()I
+	METHOD OIOORRORCRHOOCICORRCHOHRC (III)Z
+		ARG 3 opcode
+	METHOD OIOORRORCRHOOCICORRCHOHRC (Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 1 classNode
+	METHOD OIOORRORCRHOOCICORRCHOHRC (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 classNode
+		ARG 2 classLoader
+	METHOD ORRCHORCCOOOCCORCIHCROOCC shouldRemove (Ljava/lang/Object;)Z
+		ARG 1 object
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Ljava/lang/String;)Ljava/lang/Boolean;
+		ARG 1 v
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Ljava/util/Set;Ljava/lang/String;)Z
+		ARG 2 itf
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 1 classLoader
+		ARG 2 classNode
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Lorg/objectweb/asm/tree/InnerClassNode;)Z
+		ARG 1 innerClass
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Lorg/objectweb/asm/tree/LocalVariableNode;)Z
+		ARG 2 local
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Lorg/objectweb/asm/tree/MethodNode;)V
+		ARG 2 methodNode
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/lang/String;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)Z
+		ARG 1 className
+		ARG 2 classLoader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/Type;)Lorg/objectweb/asm/Type;
+		ARG 1 type
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/AbstractInsnNode;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 insn
+		ARG 2 classLoader

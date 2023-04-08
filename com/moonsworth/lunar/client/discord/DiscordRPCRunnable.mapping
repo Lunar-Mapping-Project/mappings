@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/discord/DiscordRPCRunnable
+	FIELD OCOICROOHIORHROCIHHHIICII client Lcom/jagrosh/discordipc/IPCClient;
+	FIELD ROICHOOIORHHCROOOOIOIROCI offset Ljava/time/OffsetDateTime;
+	METHOD <init> <init> ()V
+	METHOD RIOCOHOICIRIRHRCRHCCOROHC updateStatus ()V
+	METHOD run run ()V
+	CLASS 1
+		METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		METHOD onReady onReady (Lcom/jagrosh/discordipc/IPCClient;)V
+			ARG 1 client

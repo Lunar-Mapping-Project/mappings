@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IHOOIHRHOCRCOHHOOOIIIRIOR/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/v1_17_1/mixin/MouseHandlerMixin
+	FIELD accumulatedDX accumulatedDX D
+	FIELD accumulatedDY accumulatedDY D
+	FIELD lastMouseEventTime lastMouseEventTime D
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	FIELD smoothTurnX smoothTurnX Lnet/minecraft/util/SmoothDouble;
+	FIELD smoothTurnY smoothTurnY Lnet/minecraft/util/SmoothDouble;
+	METHOD <init> <init> ()V
+	METHOD isMouseGrabbed isMouseGrabbed ()Z
+	METHOD turnPlayer turnPlayer ()V

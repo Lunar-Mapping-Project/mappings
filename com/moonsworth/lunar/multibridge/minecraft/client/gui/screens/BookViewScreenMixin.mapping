@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/BookViewScreenMixin
+	FIELD bookAccess bookAccess Lnet/minecraft/client/gui/screens/inventory/BookViewScreen$BookAccess;
+	FIELD currentPage currentPage I
+	METHOD <init> <init> ()V
+	METHOD bridge$getCurrentPage bridge$getCurrentPage ()I
+	METHOD bridge$getPageContents bridge$getPageContents (I)Ljava/lang/String;
+	METHOD bridge$getPageCount bridge$getPageCount ()I
+	METHOD getNumPages getNumPages ()I

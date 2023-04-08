@@ -1,0 +1,55 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO joptsimple/BuiltinHelpFormatter
+	FIELD abw nonOptionRows Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR;
+	FIELD abx optionRows Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (II)V
+		ARG 1 desiredOverallWidth
+		ARG 2 desiredOverallWidth
+	METHOD HCRCHICCROOCHICCHORRCIIIR optionLeader (Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 option
+	METHOD HHHOOIOHHCHIOIROIRRROIHCO addOptionRow (Ljava/lang/String;)V
+		ARG 1 single
+	METHOD HICHICCCOCIORRHICHHIHOHIR message (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+	METHOD HIHRRHCOIOOCCRCOIOHRHOOCC nonOptionOutput ()Ljava/lang/String;
+	METHOD ICHOOOOOCROIHROCRIRCIOORH addOptionRow (Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 left
+		ARG 2 right
+	METHOD IIROHIIHCHOORORIIHORHRORO createDescriptionDisplay (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/lang/String;
+	METHOD IROCIHHOHRCCRHHOOHHHCOCHR optionOutput ()Ljava/lang/String;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI createNonOptionArgumentsDisplay (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/lang/String;
+		ARG 1 nonOptionDescriptor
+	METHOD OCIROORRIRIOHIIIRRIORCIHI maybeAppendOptionInfo (Ljava/lang/StringBuilder;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)V
+	METHOD OCRORCRHHIRROHCRRORIHRICI addNonOptionRow (Ljava/lang/String;)V
+	METHOD OIOORRORCRHOOCICORRCHOHRC createOptionDisplay (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/lang/String;
+		ARG 1 descriptor
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR extractTypeIndicator (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI shouldShowNonOptionArgumentDisplay (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)Z
+		ARG 1 nonOptionDescriptor
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI maybeAppendNonOptionsDescription (Ljava/lang/StringBuilder;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)V
+		ARG 1 buffer
+		ARG 2 nonOptions
+	METHOD RORCIIIHIIOIOOCHIHORIRRIR findAndRemoveNonOptionsSpec (Ljava/util/Collection;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;
+		ARG 1 options
+	METHOD addHeaders addHeaders (Ljava/util/Collection;)V
+		ARG 1 options
+	METHOD addNonOptionsDescription addNonOptionsDescription (Ljava/util/Collection;)V
+		ARG 1 options
+	METHOD addOptions addOptions (Ljava/util/Collection;)V
+		ARG 1 options
+	METHOD addRows addRows (Ljava/util/Collection;)V
+		ARG 1 options
+	METHOD appendOptionHelp appendOptionHelp (Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/String;Z)V
+	METHOD appendTypeIndicator appendTypeIndicator (Ljava/lang/StringBuilder;Ljava/lang/String;Ljava/lang/String;CC)V
+	METHOD createDefaultValuesDisplay createDefaultValuesDisplay (Ljava/util/List;)Ljava/lang/String;
+	METHOD fitRowsToWidth fitRowsToWidth ()V
+	METHOD format format (Ljava/util/Map;)Ljava/lang/String;
+	METHOD formattedHelpOutput formattedHelpOutput ()Ljava/lang/String;
+	METHOD hasRequiredOption hasRequiredOption (Ljava/util/Collection;)Z
+		ARG 1 options
+	CLASS 1
+		FIELD aby aby Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI compare (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI;)I
+		METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I
+			ARG 1 first
+			ARG 2 second

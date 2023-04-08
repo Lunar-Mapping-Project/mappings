@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/bridge/generator/provider/ClientBrideViewMethodNode
+	FIELD IHORIIRIRHOCHHCRCCCIOHRIR path Ljava/util/List;
+	FIELD OCOIOHOICRORIHICCCIHCCHHI isVoid Z
+	METHOD <init> <init> (Ljava/util/List;Z)V
+		ARG 1 path
+		ARG 2 isVoid
+	METHOD IRCHORCCRIOCHIIOCIIHCCROH isVoid ()Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI provide (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC;Ljava/util/Queue;Ljava/util/Stack;Lorg/objectweb/asm/tree/InsnList;)V
+	METHOD RIRORRCRCRRHIOCOOIOHHORRC path ()Ljava/util/List;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/bridge/client/renderer/ThreadDownloadImageBridge
+	METHOD bridge$isUploaded bridge$isUploaded ()Z
+	METHOD bridge$requestContent bridge$requestContent ()Ljava/util/concurrent/CompletableFuture;
+	METHOD bridge$setImageFound bridge$setImageFound (Z)V
+		ARG 1 imageFound

@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/management/skin/LunarProfileLookupCallback
+	FIELD ICICCHOHHHOCHORHCHRRRCORH profile Lcom/mojang/authlib/GameProfile;
+	FIELD ICOHCCICIOIRCICOCOOOCOCOC exception Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/ORRCHORCCOOOCCORCIHCROOCC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD <init> <init> ()V
+	METHOD RRHHRRIICROORHCIIIRCHCIRH getProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD onProfileLookupFailed onProfileLookupFailed (Lcom/mojang/authlib/GameProfile;Ljava/lang/Exception;)V
+	METHOD onProfileLookupSucceeded onProfileLookupSucceeded (Lcom/mojang/authlib/GameProfile;)V

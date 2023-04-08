@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/cls/ClassType
+	FIELD aev name Ljava/lang/String;
+	FIELD aew superClass Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD aex aex Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD interfaces interfaces Ljava/util/List;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI;Ljava/util/List;)V
+		ARG 1 name
+		ARG 2 superClass
+		ARG 3 interfaces
+	METHOD IOIIOIIOROCRIHHCIIRHIIRRC interfaces ()Ljava/util/List;
+	METHOD IRRICHIRHICORRIHIOCRIHCIH superClass ()Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD name name ()Ljava/lang/String;
+	METHOD toString toString ()Ljava/lang/String;

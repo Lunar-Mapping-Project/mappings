@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/core/OverlayEffectRenderer
+	FIELD DRAW_PARTICLE DRAW_PARTICLE Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD feature feature Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	FIELD overlayParticles overlayParticles [[Ljava/util/Set;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD addParticle addParticle (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD clearParticles clearParticles ()V
+	METHOD endRenderEffect endRenderEffect (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD endRenderEnvironment endRenderEnvironment ()V
+	METHOD initParticles initParticles ()V
+	METHOD lambda$renderOverlayParticles$0 lambda$renderOverlayParticles$0 (Lnet/minecraft/client/particle/EntityFX;)Z
+	METHOD renderOverlayParticles renderOverlayParticles (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI$RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD setupRenderEffect setupRenderEffect (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD setupRenderEnvironment setupRenderEnvironment ()V
+	METHOD shouldRenderOverlay shouldRenderOverlay ()Z

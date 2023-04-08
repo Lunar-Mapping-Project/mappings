@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/ROIOOOIRHICHRHRHCIROCRCCH com/google/common/io/PatternFilenameFilter
+	FIELD JM pattern Ljava/util/regex/Pattern;
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD <init> <init> (Ljava/util/regex/Pattern;)V
+	METHOD accept accept (Ljava/io/File;Ljava/lang/String;)Z

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/settings/OptionMixin
+	METHOD <init> <init> ()V
+	METHOD changed changed ()V
+	METHOD lunar$onGammaChanged$v1_16_1 lunar$onGammaChanged$v1_16_1 (Lnet/minecraft/client/Options;Ljava/lang/Double;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onGammaChanged$v1_17_0 lunar$onGammaChanged$v1_17_0 (Lnet/minecraft/client/Options;Ljava/lang/Double;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

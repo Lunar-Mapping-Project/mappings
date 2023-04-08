@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRROCIIHHROCROOHICOCHRIR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/minecraft/util/FoodStatsMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getFoodLevel bridge$getFoodLevel ()F
+	METHOD bridge$getSaturationLevel bridge$getSaturationLevel ()F
+	METHOD getFoodLevel getFoodLevel ()I
+	METHOD getSaturationLevel getSaturationLevel ()F

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/entity/RenderMixin
+	METHOD <init> <init> ()V
+	METHOD impl$doRenderShadowAndFire impl$doRenderShadowAndFire (Lnet/minecraft/client/renderer/entity/Render;Lnet/minecraft/entity/Entity;DDDFF)V
+	METHOD impl$shouldRender impl$shouldRender (Lnet/minecraft/entity/Entity;Lnet/minecraft/client/renderer/culling/ICamera;DDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

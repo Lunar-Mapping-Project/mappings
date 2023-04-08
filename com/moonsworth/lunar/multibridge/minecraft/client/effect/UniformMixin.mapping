@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/effect/UniformMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$set bridge$set (F)V
+	METHOD bridge$set bridge$set (FF)V
+	METHOD bridge$set bridge$set (FFF)V
+	METHOD set set (F)V
+	METHOD set set (FF)V
+	METHOD set set (FFF)V

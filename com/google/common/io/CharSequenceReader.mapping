@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/HICHICCCOCIORRHICHHIHOHIR com/google/common/io/CharSequenceReader
+	FIELD mark mark I
+	FIELD pos pos I
+	FIELD seq seq Ljava/lang/CharSequence;
+	METHOD <init> <init> (Ljava/lang/CharSequence;)V
+	METHOD HHIIHOROHIOIOOHRCHCOHIHIR checkOpen ()V
+	METHOD RRIRORRIHIOOCHOOIHHIRROIC hasRemaining ()Z
+	METHOD close close ()V
+	METHOD mark mark (I)V
+	METHOD markSupported markSupported ()Z
+	METHOD read read ()I
+	METHOD read read (Ljava/nio/CharBuffer;)I
+	METHOD read read ([CII)I
+	METHOD ready ready ()Z
+	METHOD remaining remaining ()I
+	METHOD reset reset ()V
+	METHOD skip skip (J)J

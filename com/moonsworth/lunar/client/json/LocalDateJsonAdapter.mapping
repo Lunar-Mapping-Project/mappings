@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ICOICORHIORHRCRIIIOCCCOCO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/json/LocalDateJsonAdapter
+	METHOD <init> <init> ()V
+	METHOD read read (Lcom/google/gson/stream/JsonReader;)Ljava/lang/Object;
+	METHOD write write (Lcom/google/gson/stream/JsonWriter;Ljava/lang/Object;)V

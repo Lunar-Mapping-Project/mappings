@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_12_2/minecraft/client/renderer/GlStateManagerMixin
+	FIELD modelview modelview Z
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD impl$loadIdentity impl$loadIdentity (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$matrixMode impl$matrixMode (ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$multMatrix impl$multMatrix (Ljava/nio/FloatBuffer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$ortho impl$ortho (DDDDDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$popMatrix impl$popMatrix (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$pushMatrix impl$pushMatrix (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$rotate impl$rotate (FFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$scale impl$scale (DDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$scale impl$scale (FFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$translate impl$translate (DDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$translate impl$translate (FFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

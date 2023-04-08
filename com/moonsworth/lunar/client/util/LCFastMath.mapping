@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/client/util/LCFastMath
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD RCIOOOOIHCCOHHRHHROOIROHC testFastSineError ()V
+	METHOD cos cos (D)D
+	METHOD sin sin (D)D

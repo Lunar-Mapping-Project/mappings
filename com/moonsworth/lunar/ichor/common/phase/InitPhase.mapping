@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/ichor/common/phase/InitPhase
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/tree/FieldNode;)V
+		ARG 1 node
+		ARG 2 fieldNode
+	METHOD OIOORRORCRHOOCICORRCHOHRC (Lorg/objectweb/asm/tree/ClassNode;Lorg/objectweb/asm/tree/MethodNode;)V
+		ARG 1 node
+		ARG 2 methodNode
+	METHOD ORRCHORCCOOOCCORCIHCROOCC (Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 1 node

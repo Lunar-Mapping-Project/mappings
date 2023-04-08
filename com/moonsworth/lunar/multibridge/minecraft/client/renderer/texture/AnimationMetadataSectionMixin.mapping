@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/renderer/texture/AnimationMetadataSectionMixin
+	FIELD defaultFrameTime defaultFrameTime I
+	FIELD frameHeight frameHeight I
+	FIELD frameWidth frameWidth I
+	FIELD frames frames Ljava/util/List;
+	FIELD interpolatedFrames interpolatedFrames Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getAnimationFrame bridge$getAnimationFrame (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getFrameCount bridge$getFrameCount ()I
+	METHOD bridge$getFrameHeight bridge$getFrameHeight ()I
+	METHOD bridge$getFrameIndex bridge$getFrameIndex (I)I
+	METHOD bridge$getFrameIndexSet bridge$getFrameIndexSet ()Ljava/util/Set;
+	METHOD bridge$getFrameTime bridge$getFrameTime ()I
+	METHOD bridge$getFrameTimeSingle bridge$getFrameTimeSingle (I)I
+	METHOD bridge$getFrameWidth bridge$getFrameWidth ()I
+	METHOD bridge$hasTime bridge$hasTime (I)Z
+	METHOD bridge$shouldInterpolate bridge$shouldInterpolate ()Z
+	METHOD getFrameTime$v1_16_1 getFrameTime$v1_16_1 (I)I

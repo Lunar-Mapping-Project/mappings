@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/client/resources/IResourceBridge
+	METHOD bridge$getInputStream bridge$getInputStream ()Ljava/io/InputStream;
+	METHOD bridge$getMetadata bridge$getMetadata (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getResourcePackName bridge$getResourcePackName ()Ljava/lang/String;
+	METHOD bridge$hasMetadata bridge$hasMetadata ()Z

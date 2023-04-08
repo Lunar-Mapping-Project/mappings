@@ -1,0 +1,30 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/generator/provider/GroupingUtil
+	FIELD HRHHOCHRHOHOCRHICORRHHIOH targetType Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	FIELD IRCHOORRCOIIRCORRHHHCIIOR groupings Ljava/util/Map;
+	FIELD OIRROOIRCRRCCORIIHRRROIHO classProvider Lorg/cadixdev/bombe/provider/ClassProvider;
+	FIELD RHOOCROHIOCHRRHORORHOCHIC vecUtilsInternalName Ljava/lang/String;
+	FIELD RIRORCCIHOIRHHIHRICIOIIOI valueProviders Ljava/util/List;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Ljava/util/List;Lorg/cadixdev/bombe/provider/ClassProvider;)V
+		ARG 1 targetType
+		ARG 2 valueProviders
+		ARG 3 classProvider
+	METHOD CCIOIOOCCHRHHOHRCROCCIHCO generateGroups ()V
+	METHOD CHIIORRICHHRHRICCROIHHICC targetType ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD HOCCCHHIROCRROCHRIOHOROCC valueProviders ()Ljava/util/List;
+	METHOD IIHCIOICIRCRIIOCIICCOIICC classProvider ()Lorg/cadixdev/bombe/provider/ClassProvider;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI provide (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC;Ljava/util/Queue;Ljava/util/Stack;Lorg/objectweb/asm/tree/InsnList;)V
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Entry
+		FIELD IHRIIOOOCCCRCIRIHHCRIOOOI name Ljava/lang/String;
+		FIELD ORORHHIROHORCHOICICCORHIO methodSig Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;
+		METHOD <init> <init> (Ljava/lang/String;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;)V
+			ARG 1 name
+			ARG 2 methodSig
+		METHOD IRIIOHIIIIRRIIROIRRRCIIRI methodSig ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD name name ()Ljava/lang/String;
+		METHOD toString toString ()Ljava/lang/String;

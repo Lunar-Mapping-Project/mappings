@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/client/util/HttpUtils
+	METHOD <init> <init> ()V
+	METHOD IIROHIIHCHOORORIIHORHRORO encodeBody (Ljava/util/Map;)Ljava/net/http/HttpRequest$BodyPublisher;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC encodeHeader (Ljava/util/Map;)Ljava/net/http/HttpRequest$BodyPublisher;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI send (Ljava/lang/String;Ljava/net/http/HttpRequest$Builder;Ljava/util/function/Consumer;)V

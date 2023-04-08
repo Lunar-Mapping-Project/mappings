@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/impl/client/gui/ChunkLoadingSettingsBridge
+	METHOD bridge$getChunkLoading bridge$getChunkLoading ()I
+	METHOD bridge$setChunkLoading bridge$setChunkLoading (I)V

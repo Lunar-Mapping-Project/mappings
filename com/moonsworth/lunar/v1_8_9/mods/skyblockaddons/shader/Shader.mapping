@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/shader/Shader
+	FIELD fragment fragment Ljava/lang/String;
+	FIELD main main Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD program program I
+	FIELD uniforms uniforms Ljava/util/List;
+	FIELD vertexFormat vertexFormat Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/HICHICCCOCIORRHICHHIHOHIR;
+	FIELD vertex vertex Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/HICHICCCOCIORRHICHHIHOHIR;)V
+	METHOD disable disable ()V
+	METHOD enable enable ()V
+	METHOD getProgram getProgram ()I
+	METHOD init init ()V
+	METHOD isUsingFixedPipeline isUsingFixedPipeline ()Z
+	METHOD registerUniform registerUniform (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC;Ljava/lang/String;Ljava/util/function/Supplier;)V
+	METHOD registerUniforms registerUniforms ()V
+	METHOD updateUniforms updateUniforms ()V

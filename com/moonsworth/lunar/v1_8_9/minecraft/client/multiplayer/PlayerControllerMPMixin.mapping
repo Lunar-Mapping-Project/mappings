@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/client/multiplayer/PlayerControllerMPMixin
+	FIELD blockHitDelay blockHitDelay I
+	METHOD <init> <init> ()V
+	METHOD bridge$destroyDelay bridge$destroyDelay ()I
+	METHOD bridge$isSpectator bridge$isSpectator ()Z
+	METHOD bridge$isSpectatorMode bridge$isSpectatorMode ()Z
+	METHOD impl$windowClick impl$windowClick (IIIILnet/minecraft/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD isSpectator isSpectator ()Z
+	METHOD isSpectatorMode isSpectatorMode ()Z

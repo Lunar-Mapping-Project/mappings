@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/ichor/util/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/ichor/util/BoxPrinter
+	FIELD agp INSTANCE Ljava/lang/ThreadLocal;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD HOOHCHCOHICCCRHOOIIIICRIO getInstance ()Lcom/moonsworth/lunar/ichor/util/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD OOCHHIHCIORIIHOIIIRRCOHHI print (Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 lines

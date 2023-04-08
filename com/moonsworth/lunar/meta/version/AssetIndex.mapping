@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/meta/version/AssetIndex
+	FIELD akg akg Ljava/lang/String;
+	FIELD id id Ljava/lang/String;
+	FIELD url url Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD HHICROCHCHHHHROOCHCOROICH setSha1 (Ljava/lang/String;)V
+	METHOD HIHIHOIROORORHCCHRHIRCCHO getSha1 ()Ljava/lang/String;
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getUrl getUrl ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD setId setId (Ljava/lang/String;)V
+	METHOD setUrl setUrl (Ljava/lang/String;)V
+	METHOD toString toString ()Ljava/lang/String;

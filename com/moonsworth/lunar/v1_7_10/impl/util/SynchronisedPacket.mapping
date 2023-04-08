@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/impl/util/SynchronisedPacket
+	FIELD runnable runnable Ljava/lang/Runnable;
+	METHOD <init> <init> (Ljava/lang/Runnable;)V
+	METHOD processPacket processPacket (Lnet/minecraft/network/INetHandler;)V
+	METHOD readPacketData readPacketData (Lnet/minecraft/network/PacketBuffer;)V
+	METHOD writePacketData writePacketData (Lnet/minecraft/network/PacketBuffer;)V

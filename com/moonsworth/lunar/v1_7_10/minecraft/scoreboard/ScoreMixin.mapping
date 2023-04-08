@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/scoreboard/ScoreMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getPlayerName bridge$getPlayerName ()Ljava/lang/String;
+	METHOD bridge$getScorePoints bridge$getScorePoints ()Ljava/lang/Integer;
+	METHOD bridge$setScorePoints bridge$setScorePoints (I)V
+	METHOD getPlayerName getPlayerName ()Ljava/lang/String;
+	METHOD getScorePoints getScorePoints ()I
+	METHOD setScorePoints setScorePoints (I)V

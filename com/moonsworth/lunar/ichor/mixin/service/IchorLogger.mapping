@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/mixin/service/IchorLogger
+	FIELD acL phase Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+	FIELD afD FORMAT Ljava/text/SimpleDateFormat;
+	FIELD debug debug Ljava/io/PrintStream;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;)V
+		ARG 1 name
+		ARG 2 phase
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI debug (Ljava/io/PrintStream;)Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 debug
+	METHOD catching catching (Lorg/spongepowered/asm/logging/Level;Ljava/lang/Throwable;)V
+		ARG 1 level
+		ARG 2 throwable
+	METHOD getOutputStream getOutputStream (Lorg/spongepowered/asm/logging/Level;)Ljava/io/PrintStream;
+		ARG 1 level
+	METHOD getType getType ()Ljava/lang/String;
+	METHOD log log (Lorg/spongepowered/asm/logging/Level;Ljava/lang/String;Ljava/lang/Throwable;)V
+		ARG 1 level
+		ARG 2 message
+		ARG 3 throwable
+	METHOD log log (Lorg/spongepowered/asm/logging/Level;Ljava/lang/String;[Ljava/lang/Object;)V
+		ARG 1 level
+		ARG 2 mesage
+		ARG 3 args
+	METHOD throwing throwing (Ljava/lang/Throwable;)Ljava/lang/Throwable;
+		ARG 1 throwable

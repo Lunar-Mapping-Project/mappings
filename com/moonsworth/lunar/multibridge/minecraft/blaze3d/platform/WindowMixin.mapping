@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/blaze3d/platform/WindowMixin
+	FIELD currentlyBorderless currentlyBorderless Z
+	FIELD guiScaledHeight guiScaledHeight I
+	FIELD guiScaledWidth guiScaledWidth I
+	FIELD height height I
+	FIELD width width I
+	FIELD window window J
+	FIELD x x I
+	FIELD y y I
+	METHOD <init> <init> ()V
+	METHOD impl$onResize impl$onResize (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onSetModeFullscreen impl$onSetModeFullscreen (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onSetModeWindowed impl$onSetModeWindowed (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

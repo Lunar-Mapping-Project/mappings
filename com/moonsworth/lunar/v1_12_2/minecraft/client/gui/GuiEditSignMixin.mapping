@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/v1_12_2/minecraft/client/gui/GuiEditSignMixin
+	FIELD editLine editLine I
+	FIELD tileSign tileSign Lnet/minecraft/tileentity/TileEntitySign;
+	METHOD <init> <init> ()V
+	METHOD bridge$getEditLine bridge$getEditLine ()I
+	METHOD bridge$getLine bridge$getLine (I)Ljava/lang/String;

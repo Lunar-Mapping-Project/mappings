@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/ItemStackMixin
+	METHOD <init> <init> ()V
+	METHOD isItemDamaged isItemDamaged ()Z
+	METHOD proxy$isItemDamaged proxy$isItemDamaged ()Z

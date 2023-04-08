@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/ichor/util/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/ichor/util/FixedCapacityHashMap
+	FIELD agO capacity I
+	METHOD <init> <init> (I)V
+		ARG 1 capacity
+	METHOD removeEldestEntry removeEldestEntry (Ljava/util/Map$Entry;)Z
+		ARG 1 entry

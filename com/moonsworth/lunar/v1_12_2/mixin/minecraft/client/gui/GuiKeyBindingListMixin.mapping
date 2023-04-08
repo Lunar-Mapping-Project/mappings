@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/gui/GuiKeyBindingListMixin
+	FIELD cachedDisabledMods cachedDisabledMods Ljava/util/List;
+	FIELD cachedListEntries cachedListEntries [Lnet/minecraft/client/gui/GuiListExtended$IGuiListEntry;
+	FIELD listEntries listEntries [Lnet/minecraft/client/gui/GuiListExtended$IGuiListEntry;
+	METHOD <init> <init> ()V
+	METHOD getCachedKeybindList getCachedKeybindList ()[Lnet/minecraft/client/gui/GuiListExtended$IGuiListEntry;
+	METHOD getListEntry getListEntry (I)Lnet/minecraft/client/gui/GuiListExtended$IGuiListEntry;
+	METHOD getSize getSize ()I
+	METHOD lambda$getCachedKeybindList$0 lambda$getCachedKeybindList$0 (Ljava/util/List;Lnet/minecraft/client/gui/GuiListExtended$IGuiListEntry;)Z
+	METHOD lambda$getCachedKeybindList$1 lambda$getCachedKeybindList$1 (I)[Lnet/minecraft/client/gui/GuiListExtended$IGuiListEntry;

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/impl/client/renderer/BlockRendererDispatcherImpl
+	FIELD renderBlocks renderBlocks Lnet/minecraft/client/renderer/RenderBlocks;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD bridge$flush bridge$flush ()V
+	METHOD bridge$renderBlock bridge$renderBlock (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;II)V

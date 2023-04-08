@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/management/development/FeatureFlags
+	FIELD RIRCHHCCCIIHIOHOOHCRHIORO flags Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setFeatureFlag (Ljava/lang/String;Ljava/lang/Boolean;)V
+	METHOD from from (Ljava/lang/String;)Ljava/util/Optional;

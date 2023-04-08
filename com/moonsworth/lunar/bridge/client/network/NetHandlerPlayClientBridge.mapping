@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/client/network/NetHandlerPlayClientBridge
+	METHOD bridge$addToSendQueue bridge$addToSendQueue (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 packet
+	METHOD bridge$getLCChannelName bridge$getLCChannelName ()Ljava/lang/String;
+	METHOD bridge$getNetworkManager bridge$getNetworkManager ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getPlayerInfoMap bridge$getPlayerInfoMap ()Ljava/util/List;
+	METHOD bridge$getRegisterPacketName bridge$getRegisterPacketName ()Ljava/lang/String;
+	METHOD bridge$quit bridge$quit ()V
+	METHOD bridge$transferQuit bridge$transferQuit ()V

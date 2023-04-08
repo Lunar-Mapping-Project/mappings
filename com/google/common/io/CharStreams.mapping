@@ -1,0 +1,34 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/HORRIRRROCHOHCCORHOOCHICO com/google/common/io/CharStreams
+	FIELD IV DEFAULT_BUF_SIZE I
+	METHOD <init> <init> ()V
+	METHOD ICCIHHOOIIIORROCRROOIRHRC nullWriter ()Ljava/io/Writer;
+	METHOD IIROHIIHCHOORORIIHORHRORO exhaust (Ljava/lang/Readable;)J
+	METHOD IORIHOCOIHIRCORCORHROROOI createBuffer ()Ljava/nio/CharBuffer;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI asWriter (Ljava/lang/Appendable;)Ljava/io/Writer;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI toString (Ljava/lang/Readable;)Ljava/lang/String;
+	METHOD OIOORRORCRHOOCICORRCHOHRC toStringBuilder (Ljava/lang/Readable;)Ljava/lang/StringBuilder;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR readLines (Ljava/lang/Readable;)Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI skipFully (Ljava/io/Reader;J)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI copyReaderToWriter (Ljava/io/Reader;Ljava/io/Writer;)J
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI copyReaderToBuilder (Ljava/io/Reader;Ljava/lang/StringBuilder;)J
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI readLines (Ljava/lang/Readable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/HICCCOROHIIHIHRCOIHHCRHCR;)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI copy (Ljava/lang/Readable;Ljava/lang/Appendable;)J
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI NullWriter
+		FIELD IW INSTANCE Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/HORRIRRROCHOHCCORHOOCHICO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> ()V
+		METHOD RRHOHHIIROHOCOOROIRIICIOO access$000 ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/HORRIRRROCHOHCCORHOOCHICO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD append append (C)Ljava/io/Writer;
+		METHOD append append (C)Ljava/lang/Appendable;
+		METHOD append append (Ljava/lang/CharSequence;)Ljava/io/Writer;
+		METHOD append append (Ljava/lang/CharSequence;)Ljava/lang/Appendable;
+		METHOD append append (Ljava/lang/CharSequence;II)Ljava/io/Writer;
+		METHOD append append (Ljava/lang/CharSequence;II)Ljava/lang/Appendable;
+		METHOD close close ()V
+		METHOD flush flush ()V
+		METHOD toString toString ()Ljava/lang/String;
+		METHOD write write (I)V
+		METHOD write write (Ljava/lang/String;)V
+		METHOD write write (Ljava/lang/String;II)V
+		METHOD write write ([C)V
+		METHOD write write ([CII)V

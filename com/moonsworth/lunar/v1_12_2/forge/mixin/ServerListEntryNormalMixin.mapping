@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_12_2/forge/mixin/ServerListEntryNormalMixin
+	METHOD <init> <init> ()V
+	METHOD ichor$drawEntry ichor$drawEntry (Lnet/minecraftforge/fml/client/FMLClientHandler;Ljava/lang/String;)Ljava/lang/String;
+	METHOD ichor$enhanceServerList ichor$enhanceServerList (Lnet/minecraftforge/fml/client/FMLClientHandler;Lnet/minecraft/client/gui/ServerListEntryNormal;Lnet/minecraft/client/multiplayer/ServerData;IIIII)Ljava/lang/String;

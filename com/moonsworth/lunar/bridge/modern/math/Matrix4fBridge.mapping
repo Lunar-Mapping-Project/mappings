@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/modern/math/Matrix4fBridge
+	METHOD bridge$adjugateAndDet bridge$adjugateAndDet ()F
+	METHOD bridge$copy bridge$copy ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getTransformW bridge$getTransformW (FFFF)F
+	METHOD bridge$getTransformX bridge$getTransformX (FFFF)F
+	METHOD bridge$getTransformY bridge$getTransformY (FFFF)F
+	METHOD bridge$getTransformZ bridge$getTransformZ (FFFF)F
+	METHOD bridge$invert bridge$invert ()Z
+	METHOD bridge$isIdentity bridge$isIdentity ()Z
+	METHOD bridge$multiply bridge$multiply (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$multiply bridge$multiply (Ljavax/vecmath/Matrix4f;)V
+	METHOD bridge$setIdentity bridge$setIdentity ()V
+	METHOD bridge$store bridge$store (Ljava/nio/FloatBuffer;)V
+	METHOD bridge$transpose bridge$transpose ()V
+	METHOD toFloatBuffer toFloatBuffer ()Ljava/nio/FloatBuffer;

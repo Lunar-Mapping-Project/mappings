@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHRROCIIHHROCROOHICOCHRIR com/moonsworth/lunar/v1_12_2/optifine/mixin/RenderLivingBaseMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$applyHitColorOverride lunar$applyHitColorOverride (FFFF)V

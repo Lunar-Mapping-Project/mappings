@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC/OHICCROHCCHCRCROHHIHCRCIO com/google/common/graph/GraphConnections
+	METHOD CHCOICIRIIRCHIIIOOOIRHOIO adjacentNodes ()Ljava/util/Set;
+	METHOD HICHIORIIOIIICHCIRCHCCHCR addPredecessor (Ljava/lang/Object;Ljava/lang/Object;)V
+	METHOD ICOHOCICIICOORRHOOCCROCCR removeSuccessor (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD IHORIIRIRHOCHHCRCCCIOHRIR incidentEdgeIterator (Ljava/lang/Object;)Ljava/util/Iterator;
+	METHOD OCOIOHOICRORIHICCCIHCCHHI removePredecessor (Ljava/lang/Object;)V
+	METHOD OHHCOHOIIOOROOIIIRRRORRCI predecessors ()Ljava/util/Set;
+	METHOD RIOCIICRCIHRHIOOOOCOOIRIC addSuccessor (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RRHHCHRHICRHCCHCHRRCRRCHO successors ()Ljava/util/Set;
+	METHOD value value (Ljava/lang/Object;)Ljava/lang/Object;

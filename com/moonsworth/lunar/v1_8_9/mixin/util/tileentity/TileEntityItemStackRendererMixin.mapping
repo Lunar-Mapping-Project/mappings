@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/mixin/util/tileentity/TileEntityItemStackRendererMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderByItem impl$renderByItem (Lnet/minecraft/item/ItemStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lcom/mojang/authlib/GameProfile;)V

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/util/ChatStyleMixin
+	FIELD bridge$adventure bridge$adventure Lnet/kyori/adventure/text/format/Style;
+	METHOD <init> <init> ()V
+	METHOD moonBridge$asAdventureStyle moonBridge$asAdventureStyle ()Lnet/kyori/adventure/text/format/Style;

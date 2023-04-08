@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/minecraft/block/ModelBakeryMixin
+	METHOD <init> <init> ()V
+	METHOD getVariantsTextureLocations getVariantsTextureLocations (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

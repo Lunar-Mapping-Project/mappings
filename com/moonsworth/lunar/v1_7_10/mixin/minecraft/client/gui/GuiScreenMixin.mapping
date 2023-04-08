@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/gui/GuiScreenMixin
+	FIELD currentItemStack currentItemStack Lnet/minecraft/item/ItemStack;
+	FIELD didUpdateItemStack didUpdateItemStack Z
+	METHOD <init> <init> ()V
+	METHOD impl$onRenderTooltip impl$onRenderTooltip (Lnet/minecraft/item/ItemStack;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljava/util/List;I)V
+	METHOD impl$renderTooltipPost impl$renderTooltipPost (Ljava/util/List;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$onRenderTooltip$0 lambda$impl$onRenderTooltip$0 (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;

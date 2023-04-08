@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/client/event/EventConsumer
+	FIELD CCROCIOHIIICRIHICHHRIRCIO object Ljava/lang/Object;
+	FIELD IOHHIIIOOHIROCORROIHCRHOC methoda Ljava/lang/reflect/Method;
+	METHOD <init> <init> (Ljava/lang/Object;Ljava/lang/reflect/Method;)V
+	METHOD CCCCIIIOOCRHHRCROCHIIHHOR getObject ()Ljava/lang/Object;
+	METHOD accept accept (Ljava/lang/Object;)V

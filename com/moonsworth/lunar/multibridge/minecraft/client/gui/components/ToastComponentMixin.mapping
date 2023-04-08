@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/gui/components/ToastComponentMixin
+	METHOD <init> <init> ()V
+	METHOD impl$onAddToast impl$onAddToast (Lnet/minecraft/client/gui/components/toasts/Toast;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

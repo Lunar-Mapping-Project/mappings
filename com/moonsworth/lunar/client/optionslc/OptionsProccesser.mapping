@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICCORHHICCROCCRIHOIIRHC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/optionslc/OptionsProccesser
+	METHOD <init> <init> ()V
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC process (Ljava/lang/String;D)D
+	METHOD process process (Ljava/lang/String;F)F
+	METHOD process process (Ljava/lang/String;I)I
+	METHOD process process (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD process process (Ljava/lang/String;Z)Z

@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/optifine/mixin/ConfigMixin
+	FIELD desktopDisplayMode desktopDisplayMode Lorg/lwjgl/opengl/DisplayMode;
+	FIELD desktopModeChecked desktopModeChecked Z
+	FIELD fullscreenModeChecked fullscreenModeChecked Z
+	FIELD gameSettings gameSettings Lnet/minecraft/client/settings/GameSettings;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD checkDisplayMode checkDisplayMode ()V
+	METHOD checkDisplaySettings checkDisplaySettings ()V
+	METHOD startVersionCheckThread startVersionCheckThread ()V
+	METHOD updateAvailableProcessors updateAvailableProcessors ()V

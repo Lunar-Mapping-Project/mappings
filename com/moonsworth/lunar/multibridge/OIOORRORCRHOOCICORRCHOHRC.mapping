@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/OIOORRORCRHOOCICORRCHOHRC
+	METHOD codec$v1_19_pre codec$v1_19_pre ()Lcom/mojang/serialization/Codec;
+	METHOD codecVanilla$v1_19_0 codecVanilla$v1_19_0 ()Lcom/mojang/serialization/Codec;
+	METHOD createButton createButton (Lnet/minecraft/client/OptionInstance$TooltipSupplier;Lnet/minecraft/client/Options;III)Ljava/util/function/Function;
+	METHOD fromSliderValue fromSliderValue (D)Ljava/lang/Object;
+	METHOD toSliderValue toSliderValue (Ljava/lang/Object;)D
+	METHOD validateValue validateValue (Ljava/lang/Object;)Ljava/util/Optional;

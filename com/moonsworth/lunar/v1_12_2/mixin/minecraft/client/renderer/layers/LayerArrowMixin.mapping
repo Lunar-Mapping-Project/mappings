@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/renderer/layers/LayerArrowMixin
+	METHOD <init> <init> ()V
+	METHOD impl$onLayerRender impl$onLayerRender (Lnet/minecraft/entity/EntityLivingBase;FFFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

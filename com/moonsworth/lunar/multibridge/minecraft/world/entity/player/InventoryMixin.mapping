@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/entity/player/InventoryMixin
+	FIELD armor armor Lnet/minecraft/core/NonNullList;
+	FIELD items items Lnet/minecraft/core/NonNullList;
+	METHOD <init> <init> ()V
+	METHOD bridge$getArmorInventory bridge$getArmorInventory ()Ljava/util/List;
+	METHOD bridge$getMainInventory bridge$getMainInventory ()Ljava/util/List;

@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RCRIIRROHHOCHHHCHOCIICRHR com/moonsworth/lunar/bridge/client/gui/GuiSelectWorldBridge
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;

@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OICCIHOCRHCCRRHCRCCCHIIRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/world/storage/WorldInfoMixin
+	FIELD spawnX spawnX I
+	FIELD spawnY spawnY I
+	FIELD spawnZ spawnZ I
+	FIELD totalTime totalTime J
+	FIELD worldTime worldTime J
+	METHOD <init> <init> ()V
+	METHOD bridge$getDayTime bridge$getDayTime ()J
+	METHOD bridge$getGameTime bridge$getGameTime ()J
+	METHOD bridge$getSpawnX bridge$getSpawnX ()I
+	METHOD bridge$getSpawnY bridge$getSpawnY ()I
+	METHOD bridge$getSpawnZ bridge$getSpawnZ ()I
+	METHOD bridge$isRaining bridge$isRaining ()Z
+	METHOD isRaining isRaining ()Z

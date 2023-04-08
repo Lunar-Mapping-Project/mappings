@@ -1,0 +1,14 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketVoiceMute com/lunarclient/bukkitapi/nethandler/client/LCPacketVoiceMute
+	FIELD muting muting Ljava/util/UUID;
+	FIELD volume volume I
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/UUID;)V
+		ARG 1 muting
+	METHOD <init> <init> (Ljava/util/UUID;I)V
+		ARG 1 muting
+		ARG 2 volume
+	METHOD getMuting getMuting ()Ljava/util/UUID;
+	METHOD getVolume getVolume ()I
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

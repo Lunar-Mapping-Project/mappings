@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/inventory/InventoryScreenMixin
+	FIELD widthTooNarrow widthTooNarrow Z
+	METHOD <init> <init> (Lnet/minecraft/world/inventory/InventoryMenu;Lnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/network/chat/Component;)V
+	METHOD lunar$onUpdateScreenPos$v1_16 lunar$onUpdateScreenPos$v1_16 (Lnet/minecraft/client/gui/screens/recipebook/RecipeBookComponent;ZII)I
+	METHOD lunar$onUpdateScreenPos$v1_17 lunar$onUpdateScreenPos$v1_17 (Lnet/minecraft/client/gui/screens/recipebook/RecipeBookComponent;II)I
+	METHOD lunar$onUpdateScreenPos lunar$onUpdateScreenPos (Lnet/minecraft/client/gui/screens/recipebook/RecipeBookComponent;II)I

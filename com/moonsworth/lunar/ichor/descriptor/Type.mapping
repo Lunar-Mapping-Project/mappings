@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/ichor/descriptor/Type
+	FIELD agf VOID Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	FIELD agg typeDesc Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR;
+	FIELD params params Ljava/util/List;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR;)V
+		ARG 1 typeDesc
+	METHOD IIHCIIOOHORIHCIIOOCCROIIC getTypeDesc ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI addParameter (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;)V
+		ARG 1 type
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setTypeDesc (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR;)V
+		ARG 1 typeDesc
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD getParams getParams ()Ljava/util/List;
+	METHOD hashCode hashCode ()I
+	METHOD setParams setParams (Ljava/util/List;)V
+		ARG 1 params
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/LanguageSelectScreen
+	FIELD language language Lnet/minecraft/client/resources/language/LanguageInfo;
+	METHOD <init> <init> ()V
+	METHOD impl$drawSlot impl$drawSlot (Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIIIZFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$drawSlot$0 lambda$impl$drawSlot$0 (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Optional;

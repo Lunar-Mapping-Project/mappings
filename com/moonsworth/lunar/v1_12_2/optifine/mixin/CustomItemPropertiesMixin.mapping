@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_12_2/optifine/mixin/CustomItemPropertiesMixin
+	METHOD <init> <init> ()V
+	METHOD makeBakedModel makeBakedModel (Lnet/minecraft/client/renderer/texture/TextureMap;Lnet/minecraft/client/renderer/block/model/ItemModelGenerator;[Ljava/lang/String;Z)Lnet/minecraft/client/renderer/block/model/IBakedModel;
+	METHOD makeModelBlock makeModelBlock ([Ljava/lang/String;)Lnet/minecraft/client/renderer/block/model/ModelBlock;

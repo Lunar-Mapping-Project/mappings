@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/mappings/ClassNameMapper
+	METHOD remap remap (Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 className
+	METHOD unmap unmap (Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 className

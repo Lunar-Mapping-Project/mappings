@@ -1,0 +1,14 @@
+CLASS com/lunarclient/bukkitapi/nethandler/ByteBufWrapper com/lunarclient/bukkitapi/nethandler/ByteBufWrapper
+	FIELD buf buf Lio/netty/buffer/ByteBuf;
+	METHOD <init> <init> (Lio/netty/buffer/ByteBuf;)V
+		ARG 1 buf
+	METHOD buf buf ()Lio/netty/buffer/ByteBuf;
+	METHOD readString readString ()Ljava/lang/String;
+	METHOD readUUID readUUID ()Ljava/util/UUID;
+	METHOD readVarInt readVarInt ()I
+	METHOD writeString writeString (Ljava/lang/String;)V
+		ARG 1 string
+	METHOD writeUUID writeUUID (Ljava/util/UUID;)V
+		ARG 1 uuid
+	METHOD writeVarInt writeVarInt (I)V
+		ARG 1 i

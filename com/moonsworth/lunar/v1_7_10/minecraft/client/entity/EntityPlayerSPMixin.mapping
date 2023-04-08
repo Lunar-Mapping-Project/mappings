@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/minecraft/client/entity/EntityPlayerSPMixin
+	FIELD sprintToggleTimer sprintToggleTimer I
+	METHOD <init> <init> (Lnet/minecraft/world/World;Lcom/mojang/authlib/GameProfile;)V
+	METHOD event$criticalStrike event$criticalStrike (Lnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD event$enchantCriticalStrike event$enchantCriticalStrike (Lnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD event$livingUpdate event$livingUpdate (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD getHorseJumpPower getHorseJumpPower ()F
+	METHOD getHorseJumpPowerCounter getHorseJumpPowerCounter ()I
+	METHOD impl$onSprinting impl$onSprinting (Lnet/minecraft/client/entity/EntityPlayerSP;Z)V
+	METHOD lambda$event$livingUpdate$0 lambda$event$livingUpdate$0 ()V

@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/entity/EntityPlayerSPMixin
+	FIELD horseJumpPowerCounter horseJumpPowerCounter I
+	FIELD horseJumpPower horseJumpPower F
+	FIELD sprintToggleTimer sprintToggleTimer I
+	METHOD <init> <init> (Lnet/minecraft/world/World;Lcom/mojang/authlib/GameProfile;)V
+	METHOD lambda$lunar$livingUpdateEvent$0 lambda$lunar$livingUpdateEvent$0 ()V
+	METHOD lunar$chatMessageEvents lunar$chatMessageEvents (Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 message
+		ARG 2 ci
+	METHOD lunar$criticalStrikeEvent lunar$criticalStrikeEvent (Lnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$enchantCriticalStrikeEvent lunar$enchantCriticalStrikeEvent (Lnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$entityLivingHurtEvent lunar$entityLivingHurtEvent (Lnet/minecraft/util/DamageSource;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$livingUpdateEvent lunar$livingUpdateEvent (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onSprinting lunar$onSprinting (Lnet/minecraft/client/entity/EntityPlayerSP;Z)V
+	METHOD lunar$stopAnimatingOnDamage lunar$stopAnimatingOnDamage (Lnet/minecraft/util/DamageSource;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

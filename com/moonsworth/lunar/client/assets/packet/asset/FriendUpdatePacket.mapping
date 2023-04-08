@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/client/assets/packet/asset/FriendUpdatePacket
+	FIELD HIIOCCIIORORIRCOICRCIOIIO online Z
+	FIELD IOCOIHOIIIHROCICRICCRRRHC status J
+	FIELD name name Ljava/lang/String;
+	FIELD uuid uuid Ljava/lang/String;
+	FIELD version version Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;JZLjava/lang/String;)V
+	METHOD COOCHIHHCHHRCRHIRRHOCCICI getStatus ()J
+	METHOD OIOORRORCRHOOCICORRCHOHRC read (Ljava/lang/Object;)V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR write (Ljava/lang/Object;)V
+	METHOD RHHIORCHHOHOCIRHHRRHHCHCC isOnline ()Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handle (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getUuid getUuid ()Ljava/lang/String;
+	METHOD getVersion getVersion ()Ljava/lang/String;

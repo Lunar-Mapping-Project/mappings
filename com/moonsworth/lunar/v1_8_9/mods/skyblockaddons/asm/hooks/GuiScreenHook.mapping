@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/GuiScreenHook
+	FIELD MADDOX_BATPHONE_COOLDOWN MADDOX_BATPHONE_COOLDOWN I
+	METHOD <init> <init> ()V
+	METHOD handleComponentClick handleComponentClick (Lnet/minecraft/util/IChatComponent;)V
+	METHOD onRenderTooltip onRenderTooltip (Lnet/minecraft/item/ItemStack;II)Z

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/SignEditScreenMixin
+	FIELD line line I
+	FIELD sign sign Lnet/minecraft/world/level/block/entity/SignBlockEntity;
+	METHOD <init> <init> ()V
+	METHOD bridge$getEditLine bridge$getEditLine ()I
+	METHOD bridge$getLine bridge$getLine (I)Ljava/lang/String;

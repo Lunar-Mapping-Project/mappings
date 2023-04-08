@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RHRROCIIHHROCROOHICOCHRIR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/MouseHelperMixin
+	METHOD <init> <init> ()V
+	METHOD impl$ungrabMouseCursor impl$ungrabMouseCursor (II)V

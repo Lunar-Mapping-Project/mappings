@@ -1,40 +1,27 @@
-
 # Mappings
 
 🌌 The mappings repository for the lunar mapping project.
 
+## Updates
+
+For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to keep posted with the latest news and updates.
 
 ## Contents
 
-- Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/v1.0)
-
+- (Pretty much) complete mappings for [93d4dd4/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/93d4dd4%2Fmaster)
+- Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/a397868)
 
 ## FAQ
 
-#### Where are the mappings?
+#### Where are the latest mappings?
 
-The mappings are still incomplete and have not yet been converted into an intermediate format to be matched with the latest version of lunar client.
+The mappings are slowly being migrated to newer versions of lunar client.
 
-However, you can find 'dirty' mappings in the [releases](https://github.com/Lunar-Mapping-Project/mappings/releases) for specific versions of lunar.
+You can find 'dirty' or old mappings in the [releases](https://github.com/Lunar-Mapping-Project/mappings/releases) for specific versions of lunar.
 
 #### How can I contribute?
 
-Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#0001` for further information.
-
-
-## Roadmap
-
-- Migrate current mappings into intermediate format.
-
-- Updated mappings.
-
-- Javadoc.
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+Join the [Discord](https://discord.gg/wbQv3sRenF) for further information on how to contribute to the project (anonymous contributions are also welcome!)
 
 ## Authors
 
@@ -50,3 +37,19 @@ Join the [Discord](https://discord.gg/wbQv3sRenF), or contact me via `Decencies#
 - [@milse113](https://www.github.com/milse113)
 - [@Noxiuam](https://www.github.com/Noxiuam)
 
+And other anonymous contributors <3
+
+## Honorable Mentions
+
+- [@Relief](https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx) for their amazing ambience
+
+## Roadmap
+
+- Migrate current mappings into intermediate format.
+- Updated mappings (currently migrating from a397868/master -> 93d4dd4/master)
+- Javadoc.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)

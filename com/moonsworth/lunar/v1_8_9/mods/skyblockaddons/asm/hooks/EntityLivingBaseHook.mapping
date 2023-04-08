@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/EntityLivingBaseHook
+	FIELD nightVisionEffectsToRemove nightVisionEffectsToRemove Ljava/util/Set;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD onAddPotionEffect onAddPotionEffect (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/potion/PotionEffect;)V
+	METHOD onRemovePotionEffect onRemovePotionEffect (Lnet/minecraft/entity/EntityLivingBase;I)Z
+	METHOD onResetHurtTime onResetHurtTime (Lnet/minecraft/entity/EntityLivingBase;)V
+	CLASS 1
+		FIELD val$entityLivingBase val$entityLivingBase Lnet/minecraft/entity/EntityLivingBase;
+		FIELD val$now val$now J
+		FIELD val$potionID val$potionID I
+		METHOD <init> <init> (JLnet/minecraft/entity/EntityLivingBase;I)V
+		METHOD run run ()V

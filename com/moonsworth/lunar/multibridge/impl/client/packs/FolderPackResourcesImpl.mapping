@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/impl/client/packs/FolderPackResourcesImpl
+	METHOD <init> <init> (Ljava/io/File;)V
+	METHOD IIROHIIHCHOORORIIHORHRORO (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;)I
+		ARG 0 version
+	METHOD getMetadataSection getMetadataSection (Lnet/minecraft/server/packs/metadata/MetadataSectionSerializer;)Ljava/lang/Object;
+		ARG 1 serializer

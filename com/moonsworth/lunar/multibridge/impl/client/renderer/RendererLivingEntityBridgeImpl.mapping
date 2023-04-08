@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/multibridge/impl/client/renderer/RendererLivingEntityBridgeImpl
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;Lnet/minecraft/client/model/PlayerModel;F)V
+	METHOD bridge$canRenderName bridge$canRenderName (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;)Z
+	METHOD bridge$create bridge$create ()V
+	METHOD bridge$setBrightness bridge$setBrightness (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;F)Z
+	METHOD bridge$unsetBrightness bridge$unsetBrightness ()V
+	METHOD getTextureLocation getTextureLocation (Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;

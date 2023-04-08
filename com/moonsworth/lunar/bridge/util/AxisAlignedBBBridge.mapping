@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/util/AxisAlignedBBBridge
+	METHOD bridge$expand bridge$expand (DDD)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getMaxX bridge$getMaxX ()D
+	METHOD bridge$getMaxY bridge$getMaxY ()D
+	METHOD bridge$getMaxZ bridge$getMaxZ ()D
+	METHOD bridge$getMinX bridge$getMinX ()D
+	METHOD bridge$getMinY bridge$getMinY ()D
+	METHOD bridge$getMinZ bridge$getMinZ ()D
+	METHOD bridge$intersectsWith bridge$intersectsWith (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+	METHOD bridge$offset bridge$offset (DDD)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;

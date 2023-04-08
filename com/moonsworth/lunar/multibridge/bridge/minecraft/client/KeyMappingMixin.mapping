@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/KeyMappingMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$hideExternalModKeybinds lunar$hideExternalModKeybinds (Ljava/util/Map;Ljava/lang/Object;Ljava/lang/Object;)Z

@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/client/resources/data/AnimationFrameMixin
+	FIELD frameIndex frameIndex I
+	FIELD frameTime frameTime I
+	METHOD <init> <init> ()V
+	METHOD bridge$getFrameIndex bridge$getFrameIndex ()I
+	METHOD bridge$getFrameTime bridge$getFrameTime ()I
+	METHOD bridge$hasNoTime bridge$hasNoTime ()Z
+	METHOD hasNoTime hasNoTime ()Z

@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/effect/PostChainMixin
+	FIELD passes passes Ljava/util/List;
+	METHOD <init> <init> ()V
+	METHOD bridge$close bridge$close ()V
+	METHOD bridge$getShaderGroupName bridge$getShaderGroupName ()Ljava/lang/String;
+	METHOD bridge$listShaders bridge$listShaders ()Ljava/util/List;
+	METHOD bridge$process bridge$process (F)V
+	METHOD close close ()V
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD lambda$bridge$listShaders$0 lambda$bridge$listShaders$0 (Lnet/minecraft/client/renderer/PostPass;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD process process (F)V

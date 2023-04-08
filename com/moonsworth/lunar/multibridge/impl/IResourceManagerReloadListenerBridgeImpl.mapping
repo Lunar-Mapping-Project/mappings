@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/multibridge/impl/IResourceManagerReloadListenerBridgeImpl
+	METHOD <init> <init> (Ljava/util/function/Consumer;)V
+	METHOD onResourceManagerReload onResourceManagerReload (Lnet/minecraft/server/packs/resources/ResourceManager;)V

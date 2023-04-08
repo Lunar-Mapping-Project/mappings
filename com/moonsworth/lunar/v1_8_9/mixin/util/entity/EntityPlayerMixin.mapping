@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mixin/util/entity/EntityPlayerMixin
+	FIELD itemInUse itemInUse Lnet/minecraft/item/ItemStack;
+	METHOD <init> <init> (Lnet/minecraft/world/World;)V
+	METHOD lunar$finishUsingItemEvent lunar$finishUsingItemEvent (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

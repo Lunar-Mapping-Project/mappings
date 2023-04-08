@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/optifine/mixin/OptionsMixin
+	FIELD ofKeyBindZoom ofKeyBindZoom Lnet/minecraft/client/KeyMapping;
+	METHOD <init> <init> ()V
+	METHOD bridge$getZoomKey bridge$getZoomKey ()Ljava/util/Optional;
+	METHOD bridge$updateVSync bridge$updateVSync ()V
+	METHOD impl$setOptionValueOF$head$v1_16 impl$setOptionValueOF$head$v1_16 (Lnet/minecraft/client/Option;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 3 ci
+	METHOD impl$setOptionValueOF$head$v1_19 impl$setOptionValueOF$head$v1_19 (Lnet/minecraft/client/OptionInstance;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 3 ci
+	METHOD impl$setOptionValueOF$tail$v1_16 impl$setOptionValueOF$tail$v1_16 (Lnet/minecraft/client/Option;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 3 ci
+	METHOD impl$setOptionValueOF$tail$v1_19 impl$setOptionValueOF$tail$v1_19 (Lnet/minecraft/client/OptionInstance;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 3 ci
+	METHOD updateVSync updateVSync ()V

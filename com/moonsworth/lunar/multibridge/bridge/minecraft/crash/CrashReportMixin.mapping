@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/crash/CrashReportMixin
+	FIELD exception exception Ljava/lang/Throwable;
+	METHOD <init> <init> ()V
+	METHOD fixCause fixCause (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

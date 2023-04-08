@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/world/biome/WorldBorderBridge
+	METHOD bridge$getClosestDistance bridge$getClosestDistance (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)D
+	METHOD bridge$maxX bridge$maxX ()D
+	METHOD bridge$maxZ bridge$maxZ ()D
+	METHOD bridge$minX bridge$minX ()D
+	METHOD bridge$minZ bridge$minZ ()D

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/RenderItemHook
+	FIELD BLANK BLANK Lnet/minecraft/util/ResourceLocation;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD renderToxicArrowPoisonEffect renderToxicArrowPoisonEffect (Lnet/minecraft/client/resources/model/IBakedModel;Lnet/minecraft/item/ItemStack;)V

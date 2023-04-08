@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/client/renderer/HttpTextureMixin
+	FIELD actuallyUploadedToOpenGl actuallyUploadedToOpenGl Z
+	FIELD file file Ljava/io/File;
+	FIELD future future Ljava/util/concurrent/CompletableFuture;
+	FIELD processLegacySkin processLegacySkin Z
+	FIELD requestFuture requestFuture Ljava/util/concurrent/CompletableFuture;
+	FIELD uploaded uploaded Z
+	FIELD urlString urlString Ljava/lang/String;
+	METHOD <init> <init> (Lnet/minecraft/resources/ResourceLocation;)V
+	METHOD backgroundExecutor backgroundExecutor ()Ljava/util/concurrent/Executor;
+	METHOD bridge$isUploaded bridge$isUploaded ()Z
+	METHOD bridge$requestContent bridge$requestContent ()Ljava/util/concurrent/CompletableFuture;
+	METHOD impl$load impl$load (Ljava/io/InputStream;Ljava/io/File;)Lcom/mojang/blaze3d/platform/NativeImage;
+	METHOD impl$onGlUpload impl$onGlUpload (Lcom/mojang/blaze3d/platform/NativeImage;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$bridge$requestContent$3 lambda$bridge$requestContent$3 ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC;
+	METHOD lambda$load$0 lambda$load$0 (Lnet/minecraft/server/packs/resources/ResourceManager;)V
+	METHOD lambda$load$1 lambda$load$1 (Ljava/io/InputStream;)V
+	METHOD lambda$load$2 lambda$load$2 ()V
+	METHOD load load (Ljava/io/InputStream;)Lcom/mojang/blaze3d/platform/NativeImage;
+	METHOD load load (Lnet/minecraft/server/packs/resources/ResourceManager;)V
+	METHOD loadCallback loadCallback (Lcom/mojang/blaze3d/platform/NativeImage;)V
+	METHOD processLegacySkin$v1_16_1 processLegacySkin$v1_16_1 (Lcom/mojang/blaze3d/platform/NativeImage;)Lcom/mojang/blaze3d/platform/NativeImage;
+	METHOD processLegacySkin$v1_17_0 processLegacySkin$v1_17_0 (Lcom/mojang/blaze3d/platform/NativeImage;)Lcom/mojang/blaze3d/platform/NativeImage;

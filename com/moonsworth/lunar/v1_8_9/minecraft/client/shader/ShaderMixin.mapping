@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/minecraft/client/shader/ShaderMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getShaderManager bridge$getShaderManager ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD getShaderManager getShaderManager ()Lnet/minecraft/client/shader/ShaderManager;

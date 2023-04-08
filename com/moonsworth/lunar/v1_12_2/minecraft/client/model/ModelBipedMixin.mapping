@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/client/model/ModelBipedMixin
+	FIELD bipedBody bipedBody Lnet/minecraft/client/model/ModelRenderer;
+	FIELD bipedHead bipedHead Lnet/minecraft/client/model/ModelRenderer;
+	FIELD bipedHeadwear bipedHeadwear Lnet/minecraft/client/model/ModelRenderer;
+	FIELD bipedLeftArm bipedLeftArm Lnet/minecraft/client/model/ModelRenderer;
+	FIELD bipedLeftLeg bipedLeftLeg Lnet/minecraft/client/model/ModelRenderer;
+	FIELD bipedRightArm bipedRightArm Lnet/minecraft/client/model/ModelRenderer;
+	FIELD bipedRightLeg bipedRightLeg Lnet/minecraft/client/model/ModelRenderer;
+	FIELD isSneak isSneak Z
+	METHOD <init> <init> ()V
+	METHOD bridge$bipedBody bridge$bipedBody ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedHead bridge$bipedHead ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedHeadwear bridge$bipedHeadwear ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedLeftArm bridge$bipedLeftArm ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedLeftLeg bridge$bipedLeftLeg ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedRightArm bridge$bipedRightArm ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedRightLeg bridge$bipedRightLeg ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$setRotationAngles bridge$setRotationAngles (FFFFFFLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+	METHOD bridge$setSneak bridge$setSneak (Z)V
+	METHOD impl$onModelBipedRender impl$onModelBipedRender (Lnet/minecraft/entity/Entity;FFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$setRotationAngles impl$setRotationAngles (FFFFFFLnet/minecraft/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

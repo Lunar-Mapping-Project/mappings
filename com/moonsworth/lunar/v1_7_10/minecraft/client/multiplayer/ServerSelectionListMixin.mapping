@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/minecraft/client/multiplayer/ServerSelectionListMixin
+	FIELD field_148198_l field_148198_l Ljava/util/List;
+	FIELD lanScanEntry lanScanEntry Lnet/minecraft/client/gui/GuiListExtended_IGuiListEntry;
+	FIELD owner owner Lnet/minecraft/client/gui/GuiMultiplayer;
+	FIELD serverListPinned serverListPinned Ljava/util/List;
+	METHOD <init> <init> ()V
+	METHOD func_148195_a func_148195_a (Lnet/minecraft/client/multiplayer/ServerList;)V
+	METHOD getListEntry getListEntry (I)Lnet/minecraft/client/gui/GuiListExtended_IGuiListEntry;
+	METHOD getSize getSize ()I
+	METHOD proxy$getSize proxy$getSize ()I

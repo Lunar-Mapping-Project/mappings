@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICOHOCICIICOORRHOOCCROCCR com/google/common/collect/ReverseNaturalOrdering
+	FIELD vA INSTANCE Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICOHOCICIICOORRHOOCCROCCR;
+	FIELD vB serialVersionUID J
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD HHICCOOHIHIRCOCOHHRRIHHRC reverse ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HRHHOCHRHOHOCRHICORRHHIOH;
+	METHOD ICCHIICHCRCIOOIIRCOHIORIR min (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI max (Ljava/lang/Comparable;Ljava/lang/Comparable;Ljava/lang/Comparable;[Ljava/lang/Comparable;)Ljava/lang/Comparable;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI max (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD OIOOCIIHICICRRHCROHOOHOCI max (Ljava/lang/Comparable;Ljava/lang/Comparable;)Ljava/lang/Comparable;
+	METHOD RCCHHOROOCOIHRORCROCIHHRO max (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI min (Ljava/lang/Comparable;Ljava/lang/Comparable;Ljava/lang/Comparable;[Ljava/lang/Comparable;)Ljava/lang/Comparable;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI min (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH min (Ljava/lang/Comparable;Ljava/lang/Comparable;)Ljava/lang/Comparable;
+	METHOD compare compare (Ljava/lang/Comparable;Ljava/lang/Comparable;)I
+	METHOD compare compare (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD readResolve readResolve ()Ljava/lang/Object;
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,30 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/network/MixinNetHandlerPlayClient
+	FIELD clientWorldController clientWorldController Lnet/minecraft/client/multiplayer/WorldClient;
+	FIELD gameController gameController Lnet/minecraft/client/Minecraft;
+	FIELD playerInfoMap playerInfoMap Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD addToSendQueue addToSendQueue (Lnet/minecraft/network/Packet;)V
+	METHOD bridge$addToSendQueue bridge$addToSendQueue (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$getLCChannelName bridge$getLCChannelName ()Ljava/lang/String;
+	METHOD bridge$getNetworkManager bridge$getNetworkManager ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getPlayerInfoMap bridge$getPlayerInfoMap ()Ljava/util/List;
+	METHOD bridge$getRegisterPacketName bridge$getRegisterPacketName ()Ljava/lang/String;
+	METHOD bridge$quit bridge$quit ()V
+	METHOD bridge$transferQuit bridge$transferQuit ()V
+	METHOD getNetworkManager getNetworkManager ()Lnet/minecraft/network/NetworkManager;
+	METHOD getPlayerInfoMap getPlayerInfoMap ()Ljava/util/Collection;
+	METHOD handleChat handleChat (Lnet/minecraft/network/play/server/S02PacketChat;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD handleTimeUpdate handleTimeUpdate (Lnet/minecraft/network/play/server/S03PacketTimeUpdate;)V
+	METHOD impl$handleCustomPayload impl$handleCustomPayload (Lnet/minecraft/network/play/server/S3FPacketCustomPayload;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleEntityMetadata impl$handleEntityMetadata (Lnet/minecraft/network/play/server/S1CPacketEntityMetadata;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleEntityStatus impl$handleEntityStatus (Lnet/minecraft/network/play/server/S19PacketEntityStatus;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/entity/Entity;)V
+	METHOD impl$handleJoinGame impl$handleJoinGame (Lnet/minecraft/network/play/server/S01PacketJoinGame;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleKeepAlive impl$handleKeepAlive (Lnet/minecraft/network/play/server/S00PacketKeepAlive;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleResourcePack impl$handleResourcePack (Lnet/minecraft/network/play/server/S48PacketResourcePackSend;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleSpawnMob impl$handleSpawnMob (Lnet/minecraft/network/play/server/S0FPacketSpawnMob;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleSpawnPlayer impl$handleSpawnPlayer (Lnet/minecraft/network/play/server/S0CPacketSpawnPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onDisconnect impl$onDisconnect (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onHandlePlayerListItem impl$onHandlePlayerListItem (Lnet/minecraft/network/play/server/S38PacketPlayerListItem;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	CLASS 1
+		FIELD $SwitchMap$net$minecraft$network$play$server$S38PacketPlayerListItem$Action $SwitchMap$net$minecraft$network$play$server$S38PacketPlayerListItem$Action [I
+		METHOD <clinit> <clinit> ()V

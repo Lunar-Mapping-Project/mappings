@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/events/SkyblockPlayerDeathEvent
+	FIELD cause cause Ljava/lang/String;
+	FIELD username username Ljava/lang/String;
+	METHOD <init> <init> (Lnet/minecraft/entity/player/EntityPlayer;Ljava/lang/String;Ljava/lang/String;)V

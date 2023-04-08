@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ServerDataMixin
+	FIELD callback callback Ljava/util/function/LongConsumer;
+	FIELD iconB64 iconB64 Ljava/lang/String;
+	FIELD ip ip Ljava/lang/String;
+	FIELD lunarServer lunarServer Ljava/lang/String;
+	FIELD name name Ljava/lang/String;
+	FIELD ping ping J
+	METHOD <init> <init> ()V
+	METHOD bridge$getBase64Icon bridge$getBase64Icon ()Ljava/lang/String;
+	METHOD bridge$getPingCallback bridge$getPingCallback ()Ljava/util/function/LongConsumer;
+	METHOD bridge$getPingToServer bridge$getPingToServer ()J
+	METHOD bridge$getServerName bridge$getServerName ()Ljava/lang/String;
+	METHOD bridge$serverIP bridge$serverIP ()Ljava/lang/String;
+	METHOD bridge$setPingCallback bridge$setPingCallback (Ljava/util/function/LongConsumer;)V
+	METHOD getLunarServer getLunarServer ()Ljava/lang/String;
+	METHOD setLunarServer setLunarServer (Ljava/lang/String;)V

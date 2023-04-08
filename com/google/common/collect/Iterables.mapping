@@ -1,0 +1,123 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRHOHIOOORCIROCOORCROHII com/google/common/collect/Iterables
+	METHOD <init> <init> ()V
+	METHOD CCRHOHCCOIICHCCHIOIICHHOO cycle ([Ljava/lang/Object;)Ljava/lang/Iterable;
+	METHOD CHCCIIHCRRRHRHOHRCIRCICOH toArray (Ljava/lang/Iterable;)[Ljava/lang/Object;
+	METHOD CRCIIIRRIIICHIRIHCHOCHICI castOrCopyToCollection (Ljava/lang/Iterable;)Ljava/util/Collection;
+	METHOD CRIRROIIRCCHHRRHHHOOOHRHI toIterator ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO unmodifiableIterable (Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD ICCHIICHCRCIOOIIRCOHIORIR toString (Ljava/lang/Iterable;)Ljava/lang/String;
+	METHOD IIOORHHORIRORRHIRCRHHHIHO isEmpty (Ljava/lang/Iterable;)Z
+	METHOD IIROHIIHCHOORORIIHORHRORO limit (Ljava/lang/Iterable;I)Ljava/lang/Iterable;
+	METHOD IIROHIIHCHOORORIIHORHRORO all (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)Z
+	METHOD IIROHIIHCHOORORIIHORHRORO elementsEqual (Ljava/lang/Iterable;Ljava/lang/Iterable;)Z
+	METHOD IIROHIIHCHOORORIIHORHRORO getLast (Ljava/lang/Iterable;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD IIROHIIHCHOORORIIHORHRORO mergeSorted (Ljava/lang/Iterable;Ljava/util/Comparator;)Ljava/lang/Iterable;
+	METHOD IIRROCIOHHHCRHHRRCIRCIHHC cycle (Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD IRIIHHHROCCOIRIIOHROORRCI concat (Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI removeFirstMatching (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)Ljava/lang/Object;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI toArray (Ljava/lang/Iterable;Ljava/lang/Class;)[Ljava/lang/Object;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI concat (Ljava/lang/Iterable;Ljava/lang/Iterable;Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI concat (Ljava/lang/Iterable;Ljava/lang/Iterable;Ljava/lang/Iterable;Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI getOnlyElement (Ljava/lang/Iterable;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI retainAll (Ljava/lang/Iterable;Ljava/util/Collection;)Z
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC tryFind (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/CCRHOHCCOIICHCCHIOIICHHOO;
+	METHOD OIOORRORCRHOOCICORRCHOHRC get (Ljava/lang/Iterable;I)Ljava/lang/Object;
+	METHOD OIOORRORCRHOOCICORRCHOHRC filter (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)Ljava/lang/Iterable;
+	METHOD OIOORRORCRHOOCICORRCHOHRC filter (Ljava/lang/Iterable;Ljava/lang/Class;)Ljava/lang/Iterable;
+	METHOD OIOORRORCRHOOCICORRCHOHRC frequency (Ljava/lang/Iterable;Ljava/lang/Object;)I
+	METHOD OIOORRORCRHOOCICORRCHOHRC concat ([Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD OOIIIOIRCHROICRRRIRIRRICR getLast (Ljava/lang/Iterable;)Ljava/lang/Object;
+	METHOD ORRCHORCCOOOCCORCIHCROOCC indexOf (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)I
+	METHOD RCCHHOROOCOIHRORCROCIHHRO getOnlyElement (Ljava/lang/Iterable;)Ljava/lang/Object;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR skip (Ljava/lang/Iterable;I)Ljava/lang/Iterable;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR any (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)Z
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR getFirst (Ljava/lang/Iterable;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RCHIORORROCHORIHCOHHOOHRR getLastInNonemptyList (Ljava/util/List;)Ljava/lang/Object;
+	METHOD RCICCOIHOCOHOHIIRCRHHCOOI consumingIterable (Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC find (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)Ljava/lang/Object;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC concat (Ljava/lang/Iterable;Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI unmodifiableIterable (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CCOOIOICCHROCIHOHICORICRC;)Ljava/lang/Iterable;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI get (Ljava/lang/Iterable;ILjava/lang/Object;)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI removeIf (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI find (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI transform (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)Ljava/lang/Iterable;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI contains (Ljava/lang/Iterable;Ljava/lang/Object;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI removeAll (Ljava/lang/Iterable;Ljava/util/Collection;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI toArray (Ljava/lang/Iterable;[Ljava/lang/Object;)[Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI addAll (Ljava/util/Collection;Ljava/lang/Iterable;)Z
+	METHOD size size (Ljava/lang/Iterable;)I
+	CLASS 1 1
+		FIELD mA val$iterable Ljava/lang/Iterable;
+		METHOD <init> <init> (Ljava/lang/Iterable;)V
+		METHOD RIHIOOIHCHIRIRHHIRIRCCRCO lambda$spliterator$0 (Ljava/lang/Iterable;)Ljava/lang/Iterable;
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD spliterator spliterator ()Ljava/util/Spliterator;
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS 2 10
+		METHOD <init> <init> ()V
+		METHOD CHHOOIOICICOIHCHHOHORIIRI apply (Ljava/lang/Iterable;)Ljava/util/Iterator;
+		METHOD apply apply (Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS 3
+		FIELD mB mB Ljava/lang/Iterable;
+		FIELD mC mC I
+		METHOD <init> <init> (Ljava/lang/Iterable;I)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+	CLASS 4
+		FIELD mD mD Ljava/lang/Iterable;
+		FIELD mE mE I
+		METHOD <init> <init> (Ljava/lang/Iterable;I)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+	CLASS 5 4
+		FIELD mF val$unfiltered Ljava/lang/Iterable;
+		FIELD mG val$retainIfTrue Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;
+		METHOD <init> <init> (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEach$0 (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC;Ljava/util/function/Consumer;Ljava/lang/Object;)V
+		METHOD forEach forEach (Ljava/util/function/Consumer;)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD spliterator spliterator ()Ljava/util/Spliterator;
+	CLASS 6 5
+		FIELD mH val$fromIterable Ljava/lang/Iterable;
+		FIELD mI val$function Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;
+		METHOD <init> <init> (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEach$0 (Ljava/util/function/Consumer;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;Ljava/lang/Object;)V
+		METHOD forEach forEach (Ljava/util/function/Consumer;)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD spliterator spliterator ()Ljava/util/Spliterator;
+	CLASS 7 6
+		FIELD mJ val$iterable Ljava/lang/Iterable;
+		FIELD mK val$numberToSkip I
+		METHOD <init> <init> (Ljava/lang/Iterable;I)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD spliterator spliterator ()Ljava/util/Spliterator;
+		CLASS 1 1
+			FIELD CCRIHIIHHRHORHOIHRROHIOCH atStart Z
+			FIELD mL val$iterator Ljava/util/Iterator;
+			FIELD mM this$0 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRHOHIOOORCIROCOORCROHII$7;
+			METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRHOHIOOORCIROCOORCROHII$7;Ljava/util/Iterator;)V
+			METHOD hasNext hasNext ()Z
+			METHOD next next ()Ljava/lang/Object;
+			METHOD remove remove ()V
+	CLASS 8 7
+		FIELD mN val$iterable Ljava/lang/Iterable;
+		FIELD mO val$limitSize I
+		METHOD <init> <init> (Ljava/lang/Iterable;I)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD spliterator spliterator ()Ljava/util/Spliterator;
+	CLASS 9 8
+		FIELD mP val$iterable Ljava/lang/Iterable;
+		METHOD <init> <init> (Ljava/lang/Iterable;)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS 10 9
+		FIELD mQ val$iterables Ljava/lang/Iterable;
+		FIELD mR val$comparator Ljava/util/Comparator;
+		METHOD <init> <init> (Ljava/lang/Iterable;Ljava/util/Comparator;)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI UnmodifiableIterable
+		FIELD mS iterable Ljava/lang/Iterable;
+		METHOD <init> <init> (Ljava/lang/Iterable;)V
+		METHOD <init> <init> (Ljava/lang/Iterable;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRHOHIOOORCIROCOORCROHII$1;)V
+		METHOD forEach forEach (Ljava/util/function/Consumer;)V
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD spliterator spliterator ()Ljava/util/Spliterator;
+		METHOD toString toString ()Ljava/lang/String;

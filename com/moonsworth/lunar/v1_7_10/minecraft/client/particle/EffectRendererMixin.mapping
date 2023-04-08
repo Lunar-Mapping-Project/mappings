@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/client/particle/EffectRendererMixin
+	FIELD worldObj worldObj Lnet/minecraft/world/World;
+	METHOD <init> <init> ()V
+	METHOD addEffect addEffect (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD bridge$addEffect bridge$addEffect (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+	METHOD bridge$emitParticleAtEntity bridge$emitParticleAtEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD impl$addBlockDestroyEffects$head impl$addBlockDestroyEffects$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$addBlockHitEffects$head impl$addBlockHitEffects$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$init impl$init (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderParticle impl$renderParticle (Lnet/minecraft/client/particle/EntityFX;Lnet/minecraft/client/renderer/Tessellator;FFFFFF)V

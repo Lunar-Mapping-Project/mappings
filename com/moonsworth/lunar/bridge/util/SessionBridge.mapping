@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/bridge/util/SessionBridge
+	METHOD bridge$getPlayerID bridge$getPlayerID ()Ljava/lang/String;
+	METHOD bridge$getProfile bridge$getProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD bridge$getToken bridge$getToken ()Ljava/lang/String;
+	METHOD bridge$getUsername bridge$getUsername ()Ljava/lang/String;

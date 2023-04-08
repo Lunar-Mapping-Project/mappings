@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/GuiScreenMixin
+	METHOD <init> <init> ()V
+	METHOD impl$handleComponentClick impl$handleComponentClick (Lnet/minecraft/util/IChatComponent;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$renderToolTip impl$renderToolTip (Lnet/minecraft/item/ItemStack;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

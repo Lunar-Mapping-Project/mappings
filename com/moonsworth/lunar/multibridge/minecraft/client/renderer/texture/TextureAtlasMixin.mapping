@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/IIROHIIHCHOORORIIHORHRORO/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/minecraft/client/renderer/texture/TextureAtlasMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getAtlasSprite bridge$getAtlasSprite (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/RIORHCCRCIOORHIHIHIHHRIOH;
+	METHOD bridge$getBlockTextures bridge$getBlockTextures ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD bridge$getItemTextures bridge$getItemTextures ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD getResourceLocation getResourceLocation (Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/resources/ResourceLocation;
+	METHOD getSprite getSprite (Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;
+	METHOD lambda$proxy$getResourceLocation$0 lambda$proxy$getResourceLocation$0 (Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/server/packs/repository/Pack;)Z
+	METHOD proxy$getResourceLocation proxy$getResourceLocation (Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/resources/ResourceLocation;

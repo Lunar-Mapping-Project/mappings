@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR com/google/common/collect/AbstractListMultimap
+	FIELD cB serialVersionUID J
+	METHOD <init> <init> (Ljava/util/Map;)V
+	METHOD COCCOHRRRIHIRHHHIICHCCHRI createCollection ()Ljava/util/Collection;
+	METHOD COIRRROCRROIOHIIIHICIIOCO removeAll (Ljava/lang/Object;)Ljava/util/List;
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO removeAll (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD HHRIHCIHOOROOIRIHIRRHIOIR get (Ljava/lang/Object;)Ljava/util/List;
+	METHOD HHRIIRCORHHOIRCICOOHIIOOO createUnmodifiableEmptyCollection ()Ljava/util/List;
+	METHOD HRHHHHCICOHORHHIORCCHROCO createUnmodifiableEmptyCollection ()Ljava/util/Collection;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/Collection;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC unmodifiableCollectionSubclass (Ljava/util/Collection;)Ljava/util/Collection;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI wrapCollection (Ljava/lang/Object;Ljava/util/Collection;)Ljava/util/Collection;
+	METHOD RIHOOHRIOOCHHCRHICCHIROOO createCollection ()Ljava/util/List;
+	METHOD ROIOOCOOIHCRHCIORROHIIRII get (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD ROOHRHIRRRIOCHOOOOOICHHIO put (Ljava/lang/Object;Ljava/lang/Object;)Z
+	METHOD asMap asMap ()Ljava/util/Map;
+	METHOD equals equals (Ljava/lang/Object;)Z

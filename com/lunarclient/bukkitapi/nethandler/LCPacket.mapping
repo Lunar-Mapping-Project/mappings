@@ -1,0 +1,32 @@
+CLASS com/lunarclient/bukkitapi/nethandler/LCPacket com/lunarclient/bukkitapi/nethandler/LCPacket
+	FIELD attachment attachment Ljava/lang/Object;
+	FIELD classToId classToId Ljava/util/Map;
+	FIELD idToClass idToClass Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD addPacket addPacket (ILjava/lang/Class;)V
+		ARG 0 id
+		ARG 1 clazz
+	METHOD attach attach (Ljava/lang/Object;)V
+		ARG 1 attachment
+	METHOD getAttachment getAttachment ()Ljava/lang/Object;
+	METHOD getPacketBuf getPacketBuf (Lcom/lunarclient/bukkitapi/nethandler/LCPacket;)Lio/netty/buffer/ByteBuf;
+		ARG 0 packet
+	METHOD getPacketData getPacketData (Lcom/lunarclient/bukkitapi/nethandler/LCPacket;)[B
+		ARG 0 packet
+	METHOD handle handle ([B)Lcom/lunarclient/bukkitapi/nethandler/LCPacket;
+		ARG 0 bytes
+	METHOD handle handle ([BLjava/lang/Object;)Lcom/lunarclient/bukkitapi/nethandler/LCPacket;
+		ARG 0 bytes
+		ARG 1 attachment
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+		ARG 1 handler
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+		ARG 1 buf
+	METHOD readBlob readBlob (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)[B
+		ARG 1 buf
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+		ARG 1 buf
+	METHOD writeBlob writeBlob (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;[B)V
+		ARG 1 buf
+		ARG 2 blob

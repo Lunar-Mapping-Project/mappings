@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/client/renderer/entity/EntityRendererBridge
+	METHOD bridge$disableLightmap bridge$disableLightmap ()V
+	METHOD bridge$enableLightmap bridge$enableLightmap ()V
+	METHOD bridge$getShaderGroup bridge$getShaderGroup ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$isShaderActive bridge$isShaderActive ()Z
+	METHOD bridge$loadShader bridge$loadShader (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+		ARG 1 location
+	METHOD bridge$stopUseShader bridge$stopUseShader ()V

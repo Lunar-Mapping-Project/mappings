@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/ichor/mixin/ExceptionHandlerRegistry
+	FIELD afB handlers Ljava/util/List;
+	FIELD afC pendingExceptions Ljava/util/List;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI register (Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO;)V
+		ARG 0 handler
+	METHOD handle handle (Ljava/lang/Throwable;)V
+		ARG 0 throwable

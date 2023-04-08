@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ServerSelectionList
+	METHOD <init> <init> ()V
+	METHOD getServerData getServerData ()Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD impl$render impl$render (Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIIIZFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$render$0 lambda$impl$render$0 (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Optional;

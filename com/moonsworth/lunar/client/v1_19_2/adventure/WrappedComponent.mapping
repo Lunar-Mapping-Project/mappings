@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHIRORCCROIIRCIHCOCIRORHH/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/v1_19_2/adventure/WrappedComponent
+	METHOD getContents getContents ()Lnet/minecraft/network/chat/ComponentContents;
+	METHOD getVisualOrderText getVisualOrderText ()Lnet/minecraft/util/FormattedCharSequence;

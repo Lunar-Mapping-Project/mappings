@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/client/renderer/texture/AbstractTextureBridge
+	METHOD bridge$deleteGlTexture bridge$deleteGlTexture ()V
+	METHOD bridge$getGlTextureId bridge$getGlTextureId ()I
+	METHOD bridge$loadTexture bridge$loadTexture (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;)V
+		ARG 1 resourceManager
+	METHOD bridge$setBlurMipmap bridge$setBlurMipmap (ZZ)V
+		ARG 1 blur
+		ARG 2 mipmap

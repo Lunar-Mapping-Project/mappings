@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_8_9/minecraft/client/resources/SimpleResourceMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getInputStream bridge$getInputStream ()Ljava/io/InputStream;
+	METHOD bridge$getMetadata bridge$getMetadata (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getResourcePackName bridge$getResourcePackName ()Ljava/lang/String;
+	METHOD bridge$hasMetadata bridge$hasMetadata ()Z
+	METHOD getInputStream getInputStream ()Ljava/io/InputStream;
+	METHOD getMetadata getMetadata (Ljava/lang/String;)Lnet/minecraft/client/resources/data/IMetadataSection;
+	METHOD getResourceLocation getResourceLocation ()Lnet/minecraft/util/ResourceLocation;
+	METHOD getResourcePackName getResourcePackName ()Ljava/lang/String;
+	METHOD hasMetadata hasMetadata ()Z

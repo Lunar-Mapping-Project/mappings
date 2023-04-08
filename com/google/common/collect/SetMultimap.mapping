@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IOHCCCIOOIRHOIOOOHROIRIOC com/google/common/collect/SetMultimap
+	METHOD CIRIHCIIIHIHOIHHRHHCORCOH entries ()Ljava/util/Collection;
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO removeAll (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/Collection;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/Set;
+	METHOD ROIOOCOOIHCRHCIORROHIIRII get (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD asMap asMap ()Ljava/util/Map;
+	METHOD entries entries ()Ljava/util/Set;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD get get (Ljava/lang/Object;)Ljava/util/Set;
+	METHOD removeAll removeAll (Ljava/lang/Object;)Ljava/util/Set;

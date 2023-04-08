@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_12_2/minecraft/client/renderer/ThreadDownloadImageDataMixin
+	FIELD bufferedImage bufferedImage Ljava/awt/image/BufferedImage;
+	FIELD cacheFile cacheFile Ljava/io/File;
+	FIELD imageBuffer imageBuffer Lnet/minecraft/client/renderer/IImageBuffer;
+	FIELD imageUrl imageUrl Ljava/lang/String;
+	FIELD requestFuture requestFuture Ljava/util/concurrent/CompletableFuture;
+	FIELD textureThreadFactory textureThreadFactory Ljava/util/concurrent/ThreadFactory;
+	FIELD textureThreadPool textureThreadPool Ljava/util/concurrent/ExecutorService;
+	FIELD textureUploaded textureUploaded Z
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD bridge$isUploaded bridge$isUploaded ()Z
+	METHOD bridge$requestContent bridge$requestContent ()Ljava/util/concurrent/CompletableFuture;
+	METHOD impl$ImageIOread impl$ImageIOread (Ljava/io/File;)Ljava/awt/image/BufferedImage;
+	METHOD impl$setBufferedImage impl$setBufferedImage (Ljava/awt/image/BufferedImage;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$loadTextureFromServer$0 lambda$loadTextureFromServer$0 ()V
+	METHOD loadTextureFromServer loadTextureFromServer ()V
+	METHOD setBufferedImage setBufferedImage (Ljava/awt/image/BufferedImage;)V

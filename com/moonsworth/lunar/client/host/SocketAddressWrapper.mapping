@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/host/SocketAddressWrapper
+	METHOD CIHORRRORRHHCOICHICOHHOHH getSocketAddress ()Ljava/net/InetSocketAddress;
+	METHOD IIOHROHCCOOCIROCIOOOCCIRR getHostAddress ()Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI fromAddress (Ljava/net/InetSocketAddress;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OCIROORRIRIOHIIIRRIORCIHI;
+		ARG 0 socketAddress
+	METHOD getHostName getHostName ()Ljava/lang/String;
+	METHOD getPort getPort ()I
+	CLASS 1
+		METHOD <init> <init> (Ljava/net/InetSocketAddress;)V
+		METHOD CIHORRRORRHHCOICHICOHHOHH getAddress ()Ljava/net/InetSocketAddress;
+		METHOD IIOHROHCCOOCIROCIOOOCCIRR getHostAddress ()Ljava/lang/String;
+		METHOD getHostName getHostName ()Ljava/lang/String;
+		METHOD getPort getPort ()I

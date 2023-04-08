@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/misc/SkyblockKeyBinding
+	FIELD defaultKeyCode defaultKeyCode I
+	FIELD isFirstRegistration isFirstRegistration Z
+	FIELD keyBinding keyBinding Lnet/minecraft/client/settings/KeyBinding;
+	FIELD message message Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI;
+	FIELD name name Ljava/lang/String;
+	FIELD previousKeyCode previousKeyCode I
+	FIELD registered registered Z
+	METHOD <init> <init> (Ljava/lang/String;ILcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI;)V
+	METHOD deRegister deRegister ()V
+	METHOD getDefaultKeyCode getDefaultKeyCode ()I
+	METHOD getKeyBinding getKeyBinding ()Lnet/minecraft/client/settings/KeyBinding;
+	METHOD getKeyCode getKeyCode ()I
+	METHOD getMessage getMessage ()Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getPreviousKeyCode getPreviousKeyCode ()I
+	METHOD isFirstRegistration isFirstRegistration ()Z
+	METHOD isKeyDown isKeyDown ()Z
+	METHOD isPressed isPressed ()Z
+	METHOD isRegistered isRegistered ()Z
+	METHOD register register ()V

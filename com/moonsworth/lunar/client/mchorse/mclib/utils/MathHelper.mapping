@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RCRIIRROHHOCHHHCHOCIICRHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/client/mchorse/mclib/utils/MathHelper
+	METHOD <init> <init> ()V
+	METHOD wrapDegrees wrapDegrees (D)D
+	METHOD wrapDegrees wrapDegrees (F)F
+	METHOD wrapDegrees wrapDegrees (I)I

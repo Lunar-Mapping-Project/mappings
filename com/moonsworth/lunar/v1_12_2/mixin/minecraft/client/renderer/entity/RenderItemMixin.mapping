@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/renderer/entity/RenderItemMixin
+	METHOD <init> <init> ()V
+	METHOD renderQuad_putColor4 renderQuad_putColor4 (Lnet/minecraft/client/renderer/BufferBuilder;I)V

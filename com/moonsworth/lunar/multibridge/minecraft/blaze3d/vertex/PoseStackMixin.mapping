@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/blaze3d/vertex/PoseStackMixin
+	FIELD poseStack poseStack Ljava/util/Deque;
+	METHOD <init> <init> ()V
+	METHOD bridge$clear bridge$clear ()Z
+	METHOD bridge$copy bridge$copy ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$last bridge$last ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$loadIdentity bridge$loadIdentity ()V
+	METHOD bridge$mulPose bridge$mulPose (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RCRIIRROHHOCHHHCHOCIICRHR;)V
+	METHOD bridge$mulPose bridge$mulPose (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$popPose bridge$popPose ()V
+	METHOD bridge$pushPose bridge$pushPose ()V
+	METHOD bridge$rotate bridge$rotate (FFF)V
+	METHOD bridge$rotateDegrees bridge$rotateDegrees (FFF)V
+	METHOD bridge$scale bridge$scale (FFF)V
+	METHOD bridge$translate bridge$translate (DDD)V
+	METHOD clear clear ()Z
+	METHOD last last ()Lcom/mojang/blaze3d/vertex/PoseStack$Pose;
+	METHOD mulPose mulPose (Lcom/mojang/math/Quaternion;)V
+	METHOD mulPoseMatrix$v1_17_0 mulPoseMatrix$v1_17_0 (Lcom/mojang/math/Matrix4f;)V
+	METHOD popPose popPose ()V
+	METHOD pushPose pushPose ()V
+	METHOD scale scale (FFF)V
+	METHOD setIdentity$v1_17_0 setIdentity$v1_17_0 ()V
+	METHOD translate translate (DDD)V

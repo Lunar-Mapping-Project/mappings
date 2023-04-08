@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/client/model/ModelHumanoidHeadMixin
+	FIELD head head Lnet/minecraft/client/model/ModelRenderer;
+	METHOD <init> <init> ()V
+	METHOD bridge$showHat bridge$showHat (Z)V

@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/renderer/entity/EntityRendererMixin
+	FIELD entityRenderDispatcher entityRenderDispatcher Lnet/minecraft/client/renderer/entity/EntityRenderDispatcher;
+	FIELD lcAddRenderType lcAddRenderType Lnet/minecraft/client/renderer/RenderType;
+	FIELD lcLogoRenderType lcLogoRenderType Lnet/minecraft/client/renderer/RenderType;
+	METHOD <init> <init> ()V
+	METHOD drawInBatch$Component drawInBatch$Component (Lnet/minecraft/client/gui/Font;ZZZLnet/minecraft/util/FormattedCharSequence;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)V
+	METHOD drawInBatch$ComponentDiscrete drawInBatch$ComponentDiscrete (Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IZLcom/mojang/math/Matrix4f;ILnet/minecraft/client/gui/Font;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;ZFLnet/minecraft/util/FormattedCharSequence;)V
+	METHOD drawInternal$Component drawInternal$Component (Lnet/minecraft/client/gui/Font;ZZZLnet/minecraft/util/FormattedCharSequence;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)V
+	METHOD drawLogo drawLogo (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC$RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/mojang/blaze3d/vertex/PoseStack;FFI)V
+	METHOD drawPlus drawPlus (Lcom/mojang/blaze3d/vertex/PoseStack;FFII)V
+	METHOD getFont getFont ()Lnet/minecraft/client/gui/Font;
+	METHOD impl$renderNametag$Component impl$renderNametag$Component (Lnet/minecraft/world/entity/Entity;Lnet/minecraft/network/chat/Component;DLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)I
+	METHOD impl$renderNametag impl$renderNametag (Lnet/minecraft/world/entity/Entity;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC;DLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD impl$shouldRender impl$shouldRender (Lnet/minecraft/world/entity/Entity;Lnet/minecraft/client/renderer/culling/Frustum;DDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lambda$impl$renderNametag$0 lambda$impl$renderNametag$0 (Lnet/minecraft/client/gui/Font;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC$OIOORRORCRHOOCICORRCHOHRC;)I
+	METHOD lunar$drawInBatch$String lunar$drawInBatch$String (Lnet/minecraft/client/gui/Font;ZZLjava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I
+	METHOD lunar$renderText$String lunar$renderText$String (Lnet/minecraft/client/gui/Font;ZZZLjava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)F
+	METHOD proxy$render proxy$render (Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD render render (Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V
+	METHOD renderText$Component renderText$Component (Lnet/minecraft/client/gui/Font;ZZZLnet/minecraft/util/FormattedCharSequence;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)V
+	METHOD shouldShowName shouldShowName (Lnet/minecraft/world/entity/Entity;)Z

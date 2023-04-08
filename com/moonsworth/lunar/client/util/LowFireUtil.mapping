@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/RICOIRCRRHCICRRIOCRHCIRCO com/moonsworth/lunar/client/util/LowFireUtil
+	FIELD CROIHOHHHRCRICHRIIIIIRIRI REGISTRY Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD IICOHCHCCIRORIRIOOCIRCHHH remove (Ljava/lang/String;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI register (Ljava/lang/String;Ljava/lang/String;Z)V

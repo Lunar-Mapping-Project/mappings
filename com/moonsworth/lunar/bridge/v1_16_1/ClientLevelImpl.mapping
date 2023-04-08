@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/IOICCHIHCCHCOCROIRRHIHORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/v1_16_1/ClientLevelImpl
+	METHOD <init> <init> (Lnet/minecraft/client/multiplayer/ClientPacketListener;)V
+	METHOD getChunk getChunk (II)Lnet/minecraft/world/level/chunk/ChunkAccess;
+	METHOD getChunkSource getChunkSource ()Lnet/minecraft/world/level/chunk/ChunkSource;
+	METHOD getLevelData getLevelData ()Lnet/minecraft/world/level/storage/LevelData;
+	CLASS 1
+		METHOD <init> <init> ()V
+		METHOD endTick endTick ()V
+		METHOD incrementCounter incrementCounter (Ljava/lang/String;)V
+		METHOD incrementCounter incrementCounter (Ljava/util/function/Supplier;)V
+		METHOD pop pop ()V
+		METHOD popPush popPush (Ljava/lang/String;)V
+		METHOD popPush popPush (Ljava/util/function/Supplier;)V
+		METHOD push push (Ljava/lang/String;)V
+		METHOD push push (Ljava/util/function/Supplier;)V
+		METHOD startTick startTick ()V

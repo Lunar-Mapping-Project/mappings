@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/math/Vec3iMixin
+	FIELD x x I
+	FIELD y y I
+	FIELD z z I
+	METHOD <init> <init> ()V
+	METHOD bridge$getX bridge$getX ()I
+	METHOD bridge$getY bridge$getY ()I
+	METHOD bridge$getZ bridge$getZ ()I
+	METHOD bridge$setPos bridge$setPos (III)V

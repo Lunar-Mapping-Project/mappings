@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/backpacks/ContainerPreviewManager
+	FIELD BACKPACK_STORAGE_PATTERN BACKPACK_STORAGE_PATTERN Ljava/util/regex/Pattern;
+	FIELD CHEST_GUI_TEXTURE CHEST_GUI_TEXTURE Lnet/minecraft/util/ResourceLocation;
+	FIELD ENDERCHEST_STORAGE_PATTERN ENDERCHEST_STORAGE_PATTERN Ljava/util/regex/Pattern;
+	FIELD currentContainerPreview currentContainerPreview Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	FIELD drawingFrozenItemTooltip drawingFrozenItemTooltip Z
+	FIELD frozen frozen Z
+	FIELD lastToggleFreezeTime lastToggleFreezeTime J
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD decompressItems decompressItems ([B)Ljava/util/List;
+	METHOD drawContainerPreviews drawContainerPreviews (Lnet/minecraft/client/gui/inventory/GuiContainer;II)V
+	METHOD getCompressedInventoryContents getCompressedInventoryContents (Lnet/minecraft/inventory/IInventory;)Lnet/minecraft/nbt/NBTTagByteArray;
+	METHOD getFromItem getFromItem (Lnet/minecraft/item/ItemStack;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD getFromStorageBackpack getFromStorageBackpack (Lnet/minecraft/item/ItemStack;Ljava/util/List;)Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD isFreezeKeyDown isFreezeKeyDown ()Z
+	METHOD isFrozen isFrozen ()Z
+	METHOD onContainerKeyTyped onContainerKeyTyped (I)V
+	METHOD onRenderTooltip onRenderTooltip (Lnet/minecraft/item/ItemStack;II)Z
+	METHOD saveStorageContainerInventory saveStorageContainerInventory (Ljava/lang/String;)V

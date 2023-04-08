@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/ichor/mixin/service/IchorMixinService
+	FIELD afF classProvider Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD afG bytecodeProvider Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <init> <init> ()V
+	METHOD createLogger createLogger (Ljava/lang/String;)Lorg/spongepowered/asm/logging/ILogger;
+	METHOD getAuditTrail getAuditTrail ()Lorg/spongepowered/asm/service/IMixinAuditTrail;
+	METHOD getBytecodeProvider getBytecodeProvider ()Lorg/spongepowered/asm/service/IClassBytecodeProvider;
+	METHOD getClassProvider getClassProvider ()Lorg/spongepowered/asm/service/IClassProvider;
+	METHOD getClassTracker getClassTracker ()Lorg/spongepowered/asm/service/IClassTracker;
+	METHOD getInitialPhase getInitialPhase ()Lorg/spongepowered/asm/mixin/MixinEnvironment$Phase;
+	METHOD getMaxCompatibilityLevel getMaxCompatibilityLevel ()Lorg/spongepowered/asm/mixin/MixinEnvironment$CompatibilityLevel;
+	METHOD getMinCompatibilityLevel getMinCompatibilityLevel ()Lorg/spongepowered/asm/mixin/MixinEnvironment$CompatibilityLevel;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getPlatformAgents getPlatformAgents ()Ljava/util/Collection;
+	METHOD getPrimaryContainer getPrimaryContainer ()Lorg/spongepowered/asm/launch/platform/container/IContainerHandle;
+	METHOD getResourceAsStream getResourceAsStream (Ljava/lang/String;)Ljava/io/InputStream;
+	METHOD getTransformerProvider getTransformerProvider ()Lorg/spongepowered/asm/service/ITransformerProvider;
+	METHOD init init ()V
+	METHOD isValid isValid ()Z
+	METHOD prepare prepare ()V

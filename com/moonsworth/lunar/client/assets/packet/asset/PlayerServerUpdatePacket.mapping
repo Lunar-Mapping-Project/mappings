@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ICOICORHIORHRCRIIIOCCCOCO com/moonsworth/lunar/client/assets/packet/asset/PlayerServerUpdatePacket
+	FIELD server server Ljava/lang/String;
+	FIELD uuid uuid Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD OIOORRORCRHOOCICORRCHOHRC read (Ljava/lang/Object;)V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR write (Ljava/lang/Object;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handle (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD getServer getServer ()Ljava/lang/String;
+	METHOD getUuid getUuid ()Ljava/lang/String;

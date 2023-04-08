@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/entity/projectile/EntityArrowMixin
+	FIELD inGround inGround Z
+	METHOD <init> <init> (Lnet/minecraft/world/World;)V
+	METHOD lunar$projectileDestinationEvent lunar$projectileDestinationEvent (Lnet/minecraft/block/Block;Lnet/minecraft/block/state/IBlockState;)I
+	METHOD lunar$projectileDestinationEvent lunar$projectileDestinationEvent (Lnet/minecraft/entity/projectile/EntityArrow;Lnet/minecraft/util/math/RayTraceResult;)V

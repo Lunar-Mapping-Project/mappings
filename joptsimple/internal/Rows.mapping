@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR joptsimple/internal/Rows
+	FIELD act act I
+	FIELD acu acu I
+	FIELD acv acv Ljava/util/List;
+	FIELD widthOfWidestDescription widthOfWidestDescription I
+	FIELD widthOfWidestOption widthOfWidestOption I
+	METHOD <init> <init> (II)V
+	METHOD OCIROORRIRIOHIIIRRIORCIHI add (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI;)V
+	METHOD add add (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD descriptionWidth descriptionWidth ()I
+	METHOD fitToWidth fitToWidth ()V
+	METHOD optionWidth optionWidth ()I
+	METHOD pad pad (Ljava/lang/StringBuilder;Ljava/lang/String;I)Ljava/lang/StringBuilder;
+	METHOD render render ()Ljava/lang/String;
+	METHOD reset reset ()V

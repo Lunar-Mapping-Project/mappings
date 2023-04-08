@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/fishParticles/FishParticleOverlay
+	FIELD biggerWakeCache biggerWakeCache Z
+	METHOD <init> <init> ()V
+	METHOD endRenderEffect endRenderEffect (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD endRenderEnvironment endRenderEnvironment ()V
+	METHOD setupRenderEffect setupRenderEffect (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD setupRenderEnvironment setupRenderEnvironment ()V
+	METHOD shouldRenderOverlay shouldRenderOverlay ()Z

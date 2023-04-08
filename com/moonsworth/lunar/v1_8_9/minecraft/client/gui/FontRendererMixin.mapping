@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/client/gui/FontRendererMixin
+	FIELD colorCode colorCode [I
+	FIELD italicStyle italicStyle Z
+	FIELD posX posX F
+	FIELD posY posY F
+	FIELD textColor textColor I
+	FIELD unicodeFlag unicodeFlag Z
+	METHOD <init> <init> ()V
+	METHOD bridge$drawString bridge$drawString (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;FFIZ)F
+	METHOD bridge$drawString bridge$drawString (Ljava/lang/String;FFIZ)F
+	METHOD bridge$drawStringElements bridge$drawStringElements (Ljava/lang/String;FFFZ)V
+	METHOD bridge$getStringWidth bridge$getStringWidth (Ljava/lang/String;)F
+	METHOD bridge$getStringWidth bridge$getStringWidth (Lnet/kyori/adventure/text/Component;)F
+	METHOD drawString drawString (Ljava/lang/String;FFIZ)I
+	METHOD getStringWidth getStringWidth (Ljava/lang/String;)I
+	METHOD proxy$getStringWidth proxy$getStringWidth (Ljava/lang/String;)I
+	METHOD proxy$renderString proxy$renderString (Ljava/lang/String;FFIZ)I
+	METHOD renderDefaultChar renderDefaultChar (IZ)F
+	METHOD renderString renderString (Ljava/lang/String;FFIZ)I
+	METHOD renderUnicodeChar renderUnicodeChar (CZ)F

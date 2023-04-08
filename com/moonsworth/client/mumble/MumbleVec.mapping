@@ -1,0 +1,6 @@
+CLASS com/moonsworth/client/mumble/MumbleVec com/moonsworth/client/mumble/MumbleVec
+	FIELD xCoord xCoord D
+	FIELD yCoord yCoord D
+	FIELD zCoord zCoord D
+	METHOD <init> <init> (DDD)V
+	METHOD toString toString ()Ljava/lang/String;

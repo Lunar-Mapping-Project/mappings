@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/bridge/util/EnumFacingBridge
+	METHOD bridge$horizontalIndex bridge$horizontalIndex ()I
+	METHOD bridge$index bridge$index ()I

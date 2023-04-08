@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/minecraft/client/renderer/entity/LivingEntityRendererMixin
+	FIELD layers layers Ljava/util/List;
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;)V
+	METHOD addLayer addLayer (Lnet/minecraft/client/renderer/entity/layers/RenderLayer;)Z
+	METHOD bridge$addLayer bridge$addLayer (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Z)V
+	METHOD bridge$getLayerCape bridge$getLayerCape ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD impl$onShouldShowName impl$onShouldShowName (Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

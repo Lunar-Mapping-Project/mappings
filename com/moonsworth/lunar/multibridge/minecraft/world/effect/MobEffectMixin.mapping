@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/world/effect/MobEffectMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getID bridge$getID ()I
+	METHOD bridge$getStatusIconIndex bridge$getStatusIconIndex ()I
+	METHOD bridge$hasStatusIcon bridge$hasStatusIcon ()Z
+	METHOD bridge$isBadEffect bridge$isBadEffect ()Z
+	METHOD isBeneficial isBeneficial ()Z

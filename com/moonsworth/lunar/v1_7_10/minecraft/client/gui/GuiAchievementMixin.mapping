@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/minecraft/client/gui/GuiAchievementMixin
+	METHOD <init> <init> ()V
+	METHOD displayUnformattedAchievement displayUnformattedAchievement (Lnet/minecraft/stats/Achievement;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$displayAchievement impl$displayAchievement (Lnet/minecraft/stats/Achievement;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

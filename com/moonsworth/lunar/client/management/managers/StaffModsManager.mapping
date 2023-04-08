@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/ICOICORHIORHRCRIIIOCCCOCO com/moonsworth/lunar/client/management/managers/StaffModsManager
+	METHOD <init> <init> ()V
+	METHOD HOIIIIRICRCRCOHCRCHROCROR getFilePath ()Ljava/io/File;
+	METHOD IOCRCCOICOOCCRRROOIHHCIRH populateItems ()Ljava/util/Set;
+	METHOD OORHRCOHOORHOIHROIOOOCIOI getConfigFile ()Ljava/lang/String;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD close close ()V
+	METHOD init init ()V
+	METHOD load load (Lcom/google/gson/JsonObject;)V

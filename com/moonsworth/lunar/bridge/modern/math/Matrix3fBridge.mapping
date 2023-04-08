@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/modern/math/Matrix3fBridge
+	METHOD bridge$getTransformX bridge$getTransformX (FFF)F
+	METHOD bridge$getTransformY bridge$getTransformY (FFF)F
+	METHOD bridge$getTransformZ bridge$getTransformZ (FFF)F
+	METHOD toFloatBuffer toFloatBuffer ()Ljava/nio/FloatBuffer;

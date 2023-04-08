@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/client/entity/EntityOtherPlayerMPMixin
+	METHOD <init> <init> (Lnet/minecraft/world/World;Lcom/mojang/authlib/GameProfile;)V
+	METHOD attackEntityFrom attackEntityFrom (Lnet/minecraft/util/DamageSource;F)Z

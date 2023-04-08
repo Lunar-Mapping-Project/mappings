@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR joptsimple/NonOptionArgumentSpec
+	FIELD abC NAME Ljava/lang/String;
+	FIELD abu converter Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;
+	FIELD argumentDescription argumentDescription Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD CCCORIHHICOHIIOIOHROORCCH describedAs (Ljava/lang/String;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR;
+		ARG 1 description
+	METHOD HOCHRCHCIOIIROCOORROHRIHI ofType (Ljava/lang/Class;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR;
+		ARG 1 argumentType
+	METHOD OIOORRORCRHOOCICORRCHOHRC withValuesConvertedBy (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR;
+		ARG 1 aConverter
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handleOption (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;Ljava/lang/String;)V
+	METHOD acceptsArguments acceptsArguments ()Z
+	METHOD argumentDescription argumentDescription ()Ljava/lang/String;
+	METHOD argumentTypeIndicator argumentTypeIndicator ()Ljava/lang/String;
+	METHOD convert convert (Ljava/lang/String;)Ljava/lang/Object;
+	METHOD defaultValues defaultValues ()Ljava/util/List;
+	METHOD isRequired isRequired ()Z
+	METHOD representsNonOptions representsNonOptions ()Z
+	METHOD requiresArgument requiresArgument ()Z

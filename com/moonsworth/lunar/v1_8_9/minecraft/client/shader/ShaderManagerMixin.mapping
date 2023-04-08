@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/client/shader/ShaderManagerMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getShaderUniform bridge$getShaderUniform (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD getShaderUniform getShaderUniform (Ljava/lang/String;)Lnet/minecraft/client/shader/ShaderUniform;

@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/optifine/CustomColorsBridge
+	METHOD getDurabilityColor getDurabilityColor (I)I
+	METHOD getTextColor getTextColor (II)I

@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RCRIIRROHHOCHHHCHOCIICRHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/SoundManagerMixin
+	METHOD <init> <init> ()V
+	METHOD impl$getNormalizedVolume impl$getNormalizedVolume (Lnet/minecraft/client/audio/SoundManager;Lnet/minecraft/client/audio/ISound;Lnet/minecraft/client/audio/SoundPoolEntry;Lnet/minecraft/client/audio/SoundCategory;)F

@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/SlayerArmorProgress
+	FIELD defence defence Ljava/lang/String;
+	FIELD itemStack itemStack Lnet/minecraft/item/ItemStack;
+	FIELD percent percent Ljava/lang/String;
+	METHOD <init> <init> (Lnet/minecraft/item/ItemStack;)V
+	METHOD <init> <init> (Lnet/minecraft/item/ItemStack;Ljava/lang/String;Ljava/lang/String;)V
+	METHOD getDefence getDefence ()Ljava/lang/String;
+	METHOD getItemStack getItemStack ()Lnet/minecraft/item/ItemStack;
+	METHOD getPercent getPercent ()Ljava/lang/String;
+	METHOD setDefence setDefence (Ljava/lang/String;)V
+	METHOD setHelmetColor setHelmetColor ()V
+	METHOD setPercent setPercent (Ljava/lang/String;)V

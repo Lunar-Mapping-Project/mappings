@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/ImageBufferDownloadMixin
+	FIELD imageData imageData [I
+	FIELD imageHeight imageHeight I
+	FIELD imageWidth imageWidth I
+	METHOD <init> <init> ()V
+	METHOD hasTransparency hasTransparency (IIII)Z
+	METHOD parseUserSkin parseUserSkin (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;
+	METHOD setAreaOpaque setAreaOpaque (IIII)V
+	METHOD setAreaTransparent setAreaTransparent (IIII)V

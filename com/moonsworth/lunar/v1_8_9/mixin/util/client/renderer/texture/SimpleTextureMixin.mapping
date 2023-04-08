@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/client/renderer/texture/SimpleTextureMixin
+	FIELD textureLocation textureLocation Lnet/minecraft/util/ResourceLocation;
+	METHOD <init> <init> ()V
+	METHOD impl$sliceCloakTexture impl$sliceCloakTexture (Ljava/io/InputStream;)Ljava/awt/image/BufferedImage;

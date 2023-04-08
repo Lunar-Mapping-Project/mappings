@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC/ORHHOORIHIRHCICRORRCCIIOR com/google/common/graph/NetworkConnections
+	METHOD CHCOICIRIIRCHIIIOOOIRHOIO adjacentNodes ()Ljava/util/Set;
+	METHOD HHIORRIHICRHCICCHIOIRCOIO edgesConnecting (Ljava/lang/Object;)Ljava/util/Set;
+	METHOD HICHICCCOCIORRHICHHIHOHIR removeInEdge (Ljava/lang/Object;Z)Ljava/lang/Object;
+	METHOD IHHHIICCOCCOROHHORHOIHIRR removeOutEdge (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD IICOHCHCCIRORIRIOOCIRCHHH adjacentNode (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD IOIRCHOOHOROHHHCIOICICHHR inEdges ()Ljava/util/Set;
+	METHOD IRIIHHHROCCOIRIIOHROORRCI addOutEdge (Ljava/lang/Object;Ljava/lang/Object;)V
+	METHOD IROIHRICIIHHHCRCHCOOICICI incidentEdges ()Ljava/util/Set;
+	METHOD OHHCOHOIIOOROOIIIRRRORRCI predecessors ()Ljava/util/Set;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR addInEdge (Ljava/lang/Object;Ljava/lang/Object;Z)V
+	METHOD RRHHCHRHICRHCCHCHRRCRRCHO successors ()Ljava/util/Set;
+	METHOD RRRCOIIRHOIHCICOIORCIIHOR outEdges ()Ljava/util/Set;

@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/meta/version/VersionManifest
+	FIELD akm akm Ljava/lang/String;
+	FIELD akn akn Ljava/lang/String;
+	FIELD ako ako Lcom/google/gson/JsonObject;
+	FIELD akp akp [Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD IOIHIOCRIRIRHCHRRHCCOOHOC getLatest ()Lcom/google/gson/JsonObject;
+	METHOD IOORRICOHHHRIRRRCOHCCCHOH getVersions ()[Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD OICCIHOCRHCCRRHCRCCCHIIRC setLatest (Lcom/google/gson/JsonObject;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setVersions ([Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

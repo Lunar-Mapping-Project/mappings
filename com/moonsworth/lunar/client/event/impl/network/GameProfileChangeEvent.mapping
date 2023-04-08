@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/client/event/impl/network/GameProfileChangeEvent
+	FIELD RRIIHROHCHRCOICOHHHHROIOH profile Lcom/mojang/authlib/GameProfile;
+	METHOD <init> <init> (Lcom/mojang/authlib/GameProfile;)V
+	METHOD getGameProfile getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI Remove
+		METHOD <init> <init> (Lcom/mojang/authlib/GameProfile;)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Add
+		METHOD <init> <init> (Lcom/mojang/authlib/GameProfile;)V

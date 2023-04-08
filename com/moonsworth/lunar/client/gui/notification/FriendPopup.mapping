@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/gui/notification/FriendPopup
+	FIELD ROCIIRRHOIHCCIOROCCCIHOIH uuid Ljava/util/UUID;
+	FIELD user user Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/util/UUID;Ljava/lang/String;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/util/UUID;Ljava/lang/String;Ljava/lang/String;)V
+	METHOD HICCOHRHIHIHROCIHIICOHRCH updateHeight ()V
+	METHOD ORROCHHHCOCCOCRIOOCOIICHH hasIcon ()Z
+	METHOD getIcon getIcon ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;

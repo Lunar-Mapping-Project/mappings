@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCCHHOROOCOIHRORCROCIHHRO com/google/common/collect/EnumHashBiMap
+	FIELD RIOCHHHOICOIROCHROICOCHIH keyType Ljava/lang/Class;
+	FIELD ha serialVersionUID J
+	METHOD <init> <init> (Ljava/lang/Class;)V
+	METHOD HIOCOOHORIHOOCRCHICCOICIH keyType ()Ljava/lang/Class;
+	METHOD IIOORHHORIRORRHIRCRHHHIHO create (Ljava/lang/Class;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCCHHOROOCOIHRORCROCIHHRO;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI forcePut (Ljava/lang/Enum;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD OIOOCIIHICICRRHCROHOOHOCI forcePut (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RCCHHOROOCOIHRORCROCIHHRO create (Ljava/util/Map;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCCHHOROOCOIHRORCROCIHHRO;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR checkKey (Ljava/lang/Enum;)Ljava/lang/Enum;
+	METHOD RHHRIHOHOCHCIRROCCICHHIOH inverse ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI put (Ljava/lang/Enum;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD RIIOCIHIORRCCCICIOIOORHOC checkKey (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD clear clear ()V
+	METHOD containsValue containsValue (Ljava/lang/Object;)Z
+	METHOD entrySet entrySet ()Ljava/util/Set;
+	METHOD keySet keySet ()Ljava/util/Set;
+	METHOD put put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD putAll putAll (Ljava/util/Map;)V
+	METHOD readObject readObject (Ljava/io/ObjectInputStream;)V
+	METHOD remove remove (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD replaceAll replaceAll (Ljava/util/function/BiFunction;)V
+	METHOD values values ()Ljava/util/Set;
+	METHOD writeObject writeObject (Ljava/io/ObjectOutputStream;)V

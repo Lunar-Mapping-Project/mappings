@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/ichor/common/phase/InitialRemapPhase
+	METHOD <init> <init> ()V
+	METHOD HICHICCCOCIORRHICHHIHOHIR (Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)Lorg/cadixdev/lorenz/MappingSet;
+		ARG 1 classLoader

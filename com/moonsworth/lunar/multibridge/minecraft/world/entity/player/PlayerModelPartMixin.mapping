@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/minecraft/world/entity/player/PlayerModelPartMixin
+	FIELD id id Ljava/lang/String;
+	FIELD mask mask I
+	METHOD <init> <init> ()V
+	METHOD bridge$getId bridge$getId ()Ljava/lang/String;
+	METHOD bridge$getMask bridge$getMask ()I

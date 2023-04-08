@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/minecraft/item/ItemBucketMixin
+	METHOD <init> <init> ()V
+	METHOD impl$onItemRightClick impl$onItemRightClick (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

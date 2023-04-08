@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI
+	METHOD HOCCCHCOIIRHRRIIHHRHCOOIH getPhase ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+	METHOD remapClassName remapClassName (Ljava/lang/String;)Ljava/lang/String;
+	METHOD transform transform (Ljava/lang/String;Ljava/lang/String;[B)[B
+		ARG 3 bytes
+	METHOD unmapClassName unmapClassName (Ljava/lang/String;)Ljava/lang/String;

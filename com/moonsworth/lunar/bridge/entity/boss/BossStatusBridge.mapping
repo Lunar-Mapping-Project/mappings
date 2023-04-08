@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/entity/boss/BossStatusBridge
+	METHOD bridge$drawBar bridge$drawBar (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;FF)V
+		ARG 1 context
+		ARG 2 x
+		ARG 3 y
+	METHOD bridge$getBossName bridge$getBossName ()Ljava/util/Optional;
+	METHOD bridge$getHealthScale bridge$getHealthScale ()F
+	METHOD bridge$getStatusBarTime bridge$getStatusBarTime ()I
+	METHOD bridge$hasColorModifier bridge$hasColorModifier ()Z
+	METHOD bridge$setBossName bridge$setBossName (Ljava/lang/String;)V
+		ARG 1 bossName
+	METHOD bridge$setHealthScale bridge$setHealthScale (F)V
+		ARG 1 percent
+	METHOD bridge$setStatusBarTime bridge$setStatusBarTime (I)V
+		ARG 1 time

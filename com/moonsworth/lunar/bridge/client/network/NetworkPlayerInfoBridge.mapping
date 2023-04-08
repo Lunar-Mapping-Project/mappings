@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/client/network/NetworkPlayerInfoBridge
+	METHOD bridge$getGameProfile bridge$getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD bridge$getProfileTextureId bridge$getProfileTextureId ()Ljava/util/UUID;

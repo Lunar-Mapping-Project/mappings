@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/bridge/minecraft/entity/LivingEntityRendererMixin
+	METHOD <init> <init> ()V
+	METHOD getRenderType getRenderType (Lnet/minecraft/world/entity/LivingEntity;ZZZ)Lnet/minecraft/client/renderer/RenderType;
+	METHOD lunar$captureModelMatrix lunar$captureModelMatrix (Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$render lunar$render (Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;Lnet/minecraft/world/entity/LivingEntity;ZZZ)Lnet/minecraft/client/renderer/RenderType;

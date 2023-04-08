@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/impl/client/gui/ResourcePackListEntryFolderImpl
+	FIELD folderEntries folderEntries Ljava/util/List;
+	FIELD folder folder Ljava/io/File;
+	FIELD resourcePack resourcePack Lnet/minecraft/client/resources/ResourcePackRepository$Entry;
+	FIELD totalFolderCount totalFolderCount I
+	FIELD totalPackCount totalPackCount I
+	METHOD <init> <init> (Lnet/minecraft/client/gui/GuiScreenResourcePacks;Ljava/io/File;Ljava/io/File;Lnet/minecraft/client/resources/ResourcePackRepository$Entry;Ljava/util/List;Ljava/util/Map;)V
+	METHOD bindResourcePackIcon bindResourcePackIcon ()V
+	METHOD countFolders countFolders (Lcom/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;)I
+	METHOD countPacks countPacks (Lcom/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;)I
+	METHOD getFolderEntries getFolderEntries ()Ljava/util/List;
+	METHOD getResourcePackDescription getResourcePackDescription ()Ljava/lang/String;
+	METHOD getResourcePackFormat getResourcePackFormat ()I
+	METHOD getResourcePackName getResourcePackName ()Ljava/lang/String;
+	METHOD mousePressed mousePressed (IIIIII)Z
+	METHOD updateDescription updateDescription ()V

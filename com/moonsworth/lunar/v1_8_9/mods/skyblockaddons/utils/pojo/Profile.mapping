@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/pojo/Profile
+	FIELD cute_name cute_name Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD getCute_name getCute_name ()Ljava/lang/String;

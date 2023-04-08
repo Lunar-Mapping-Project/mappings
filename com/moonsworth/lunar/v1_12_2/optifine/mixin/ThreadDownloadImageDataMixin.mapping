@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/v1_12_2/optifine/mixin/ThreadDownloadImageDataMixin
+	FIELD imageFound imageFound Ljava/lang/Boolean;
+	METHOD <init> <init> ()V
+	METHOD bridge$setImageFound bridge$setImageFound (Z)V

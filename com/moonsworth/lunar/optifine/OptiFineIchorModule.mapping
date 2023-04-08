@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/optifine/OptiFineIchorModule
+	FIELD akJ ID Ljava/lang/String;
+	FIELD akK LOGGER Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC;
+	FIELD akL loader Lcom/moonsworth/lunar/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD RIIIHRCRIROHHCOCCCORIRRIH isTransformedClassName (Ljava/lang/String;)Z
+		ARG 0 className

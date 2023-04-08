@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/client/management/managers/ProfanityFilterManager
+	FIELD HHHHCIOHHIRRRRCICCROOOHHO wordsNormalPattern Ljava/util/regex/Pattern;
+	FIELD IIRIIHHICCRORHORROOCHHIHO normalRegexPatterns Ljava/util/List;
+	FIELD OCOHOHOCIIICOIRRHROHCIROC FILTER_LOCATION Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	FIELD RCCCCCIRCRCRRIIOOHHOHCOHC highRegexPatterns Ljava/util/List;
+	FIELD RHRHICHIICHIOHHRCOHCOHHCI wordsHighPattern Ljava/util/regex/Pattern;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD CCRHOOCRRIIRHCRHORIOHHOHR getWordsNormalPattern ()Ljava/util/regex/Pattern;
+	METHOD COHCRCHROCRIRRROHHIORCHRR (Ljava/lang/String;)Ljava/util/regex/Pattern;
+		ARG 0 regex
+	METHOD CORCOCOOCCOROCRCIHIIIOORH getHighRegexPatterns ()Ljava/util/List;
+	METHOD CRCIIOROOOCHRHHIRIOOIRIIO getWordsHighPattern ()Ljava/util/regex/Pattern;
+	METHOD IIRICHCCCOCOHRHHIHOCHCIOO getNormalRegexPatterns ()Ljava/util/List;
+	METHOD IOORIICIHCIHIOCRHIOROOOIO (Ljava/lang/String;)Ljava/util/regex/Pattern;
+		ARG 0 regex
+	METHOD close close ()V
+	METHOD init init ()V

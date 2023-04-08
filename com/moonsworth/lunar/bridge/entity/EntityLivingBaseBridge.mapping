@@ -1,0 +1,42 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/bridge/entity/EntityLivingBaseBridge
+	METHOD HCHIICRHCHCCHOCRRIROROIOO getAbsorptionAmount ()F
+	METHOD RRCORICORHHCHHOIOOROOIICH getMaxHealth ()F
+	METHOD bridge$getActivePotionEffect bridge$getActivePotionEffect (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC/OCIROORRIRIOHIIIRRIORCIHI;
+		ARG 1 potion
+	METHOD bridge$getActivePotionEffects bridge$getActivePotionEffects ()Ljava/util/List;
+	METHOD bridge$getArmSwingAnimationEnd bridge$getArmSwingAnimationEnd ()I
+	METHOD bridge$getDeathTime bridge$getDeathTime ()I
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Ljava/lang/String;
+	METHOD bridge$getEquipmentInSlot bridge$getEquipmentInSlot (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+		ARG 1 slot
+	METHOD bridge$getHealth bridge$getHealth ()F
+	METHOD bridge$getHeldItem bridge$getHeldItem ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getHurtTime bridge$getHurtTime ()I
+	METHOD bridge$getLastAttackedMillis bridge$getLastAttackedMillis ()J
+	METHOD bridge$getLastAttacker bridge$getLastAttacker ()Ljava/util/Optional;
+	METHOD bridge$getLastAttackerTime bridge$getLastAttackerTime ()I
+	METHOD bridge$getLastHurtMillis bridge$getLastHurtMillis ()J
+	METHOD bridge$getMoveForward bridge$getMoveForward ()F
+	METHOD bridge$getPrevRenderYawOffset bridge$getPrevRenderYawOffset ()F
+	METHOD bridge$getPrevRotationYawHead bridge$getPrevRotationYawHead ()F
+	METHOD bridge$getPreviousRotationYawOffset bridge$getPreviousRotationYawOffset ()F
+	METHOD bridge$getRenderYawOffset bridge$getRenderYawOffset ()F
+	METHOD bridge$getRotationYawHead bridge$getRotationYawHead ()F
+	METHOD bridge$isElytraFlying bridge$isElytraFlying ()Z
+	METHOD bridge$isInWater bridge$isInWater ()Z
+	METHOD bridge$isOnLadder bridge$isOnLadder ()Z
+	METHOD bridge$isPlayerSleeping bridge$isPlayerSleeping ()Z
+	METHOD bridge$isPotionActive bridge$isPotionActive (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OICCIHOCRHCCRRHCRCCCHIIRC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+		ARG 1 potion
+	METHOD bridge$isSwimming bridge$isSwimming ()Z
+	METHOD bridge$setAlwaysRenderNameTag bridge$setAlwaysRenderNameTag (Z)V
+		ARG 1 state
+	METHOD bridge$setPrevRenderYawOffset bridge$setPrevRenderYawOffset (F)V
+		ARG 1 yawOffset
+	METHOD bridge$setPrevRotationYawHead bridge$setPrevRotationYawHead (F)V
+		ARG 1 yawHead
+	METHOD bridge$setRenderYawOffset bridge$setRenderYawOffset (F)V
+		ARG 1 yawOffset
+	METHOD bridge$setRotationYawHead bridge$setRotationYawHead (F)V
+		ARG 1 yawHead
+	METHOD bridge$shouldAlwaysRenderNametag bridge$shouldAlwaysRenderNametag ()Z

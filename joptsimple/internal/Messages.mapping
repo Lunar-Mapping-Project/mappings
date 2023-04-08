@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO joptsimple/internal/Messages
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI message (Ljava/util/Locale;Ljava/lang/String;Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+		ARG 0 locale
+		ARG 1 bundleName
+		ARG 2 type
+		ARG 3 key
+		ARG 4 args

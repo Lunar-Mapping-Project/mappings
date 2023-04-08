@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/client/resources/data/AnimationFrameBridge
+	METHOD bridge$getFrameIndex bridge$getFrameIndex ()I
+	METHOD bridge$getFrameTime bridge$getFrameTime ()I
+	METHOD bridge$hasNoTime bridge$hasNoTime ()Z

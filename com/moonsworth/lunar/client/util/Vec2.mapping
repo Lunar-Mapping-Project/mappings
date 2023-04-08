@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/ICHICOROOOCHOIIHHCCHROOCO com/moonsworth/lunar/client/util/Vec2
+	FIELD x x F
+	FIELD y y F
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (FF)V
+	METHOD set set (FF)V

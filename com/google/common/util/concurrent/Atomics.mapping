@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHRROCIIHHROCROOHICOCHRIR com/google/common/util/concurrent/Atomics
+	METHOD <init> <init> ()V
+	METHOD HCHOOHCICCRRRCOCROHOOICCI newReference ()Ljava/util/concurrent/atomic/AtomicReference;
+	METHOD IIIHIHRCCRRIRIICIHICIIHCC newReference (Ljava/lang/Object;)Ljava/util/concurrent/atomic/AtomicReference;
+	METHOD OCOIRIIOCIHORIHIHRCORHICC newReferenceArray (I)Ljava/util/concurrent/atomic/AtomicReferenceArray;
+	METHOD RIHOOROIIHIHROCCHIRICHOII newReferenceArray ([Ljava/lang/Object;)Ljava/util/concurrent/atomic/AtomicReferenceArray;

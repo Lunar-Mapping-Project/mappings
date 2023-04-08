@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/entity/RenderPlayerMixin
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/RenderManager;Lnet/minecraft/client/model/ModelBase;F)V
+	METHOD bridge$getMainModel bridge$getMainModel ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$setPlayerModelType bridge$setPlayerModelType (Z)V
+	METHOD canRenderName canRenderName (Lnet/minecraft/entity/Entity;)Z
+	METHOD getMainModel getMainModel ()Lnet/minecraft/client/model/ModelBase;
+	METHOD getMainModel getMainModel ()Lnet/minecraft/client/model/ModelPlayer;
+	METHOD impl$onSetModelVisibilities impl$onSetModelVisibilities (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD renderName renderName (Lnet/minecraft/entity/Entity;DDD)V

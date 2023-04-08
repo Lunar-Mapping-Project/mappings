@@ -1,0 +1,87 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ROIOOOIRHICHRHRHCIROCRCCH com/google/common/collect/CollectSpliterators
+	METHOD <init> <init> ()V
+	METHOD OCIROORRIRIOHIIIRRIORCIHI flatMapToInt (Ljava/util/Spliterator;Ljava/util/function/Function;IJ)Ljava/util/Spliterator$OfInt;
+	METHOD OIOORRORCRHOOCICORRCHOHRC flatMapToLong (Ljava/util/Spliterator;Ljava/util/function/Function;IJ)Ljava/util/Spliterator$OfLong;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR flatMapToDouble (Ljava/util/Spliterator;Ljava/util/function/Function;IJ)Ljava/util/Spliterator$OfDouble;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI indexed (IILjava/util/function/IntFunction;)Ljava/util/Spliterator;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI indexed (IILjava/util/function/IntFunction;Ljava/util/Comparator;)Ljava/util/Spliterator;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI map (Ljava/util/Spliterator;Ljava/util/function/Function;)Ljava/util/Spliterator;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI flatMap (Ljava/util/Spliterator;Ljava/util/function/Function;IJ)Ljava/util/Spliterator;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI filter (Ljava/util/Spliterator;Ljava/util/function/Predicate;)Ljava/util/Spliterator;
+	CLASS 1 1
+		FIELD eC val$fromSpliterator Ljava/util/Spliterator;
+		FIELD eD val$function Ljava/util/function/Function;
+		METHOD <init> <init> (Ljava/util/Spliterator;Ljava/util/function/Function;)V
+		METHOD OCIROORRIRIOHIIIRRIORCIHI lambda$tryAdvance$0 (Ljava/util/function/Consumer;Ljava/util/function/Function;Ljava/lang/Object;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEachRemaining$1 (Ljava/util/function/Consumer;Ljava/util/function/Function;Ljava/lang/Object;)V
+		METHOD characteristics characteristics ()I
+		METHOD estimateSize estimateSize ()J
+		METHOD forEachRemaining forEachRemaining (Ljava/util/function/Consumer;)V
+		METHOD tryAdvance tryAdvance (Ljava/util/function/Consumer;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator;
+	CLASS IIROHIIHCHOORORIIHORHRORO FlatMapSpliteratorOfInt
+		METHOD <init> <init> (Ljava/util/Spliterator$OfInt;Ljava/util/Spliterator;Ljava/util/function/Function;IJ)V
+		METHOD forEachRemaining forEachRemaining (Ljava/util/function/IntConsumer;)V
+		METHOD tryAdvance tryAdvance (Ljava/util/function/IntConsumer;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator$OfInt;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI 1WithCharacteristics
+		FIELD eG delegate Ljava/util/Spliterator$OfInt;
+		FIELD eH val$function Ljava/util/function/IntFunction;
+		FIELD eI val$extraCharacteristics I
+		FIELD eJ val$comparator Ljava/util/Comparator;
+		METHOD <init> <init> (Ljava/util/Spliterator$OfInt;Ljava/util/function/IntFunction;ILjava/util/Comparator;)V
+		METHOD OCIROORRIRIOHIIIRRIORCIHI lambda$tryAdvance$0 (Ljava/util/function/Consumer;Ljava/util/function/IntFunction;I)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEachRemaining$1 (Ljava/util/function/Consumer;Ljava/util/function/IntFunction;I)V
+		METHOD characteristics characteristics ()I
+		METHOD estimateSize estimateSize ()J
+		METHOD forEachRemaining forEachRemaining (Ljava/util/function/Consumer;)V
+		METHOD getComparator getComparator ()Ljava/util/Comparator;
+		METHOD tryAdvance tryAdvance (Ljava/util/function/Consumer;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator;
+	CLASS OCRHRIOCIICCRHCHHHOHHCROC FlatMapSpliteratorOfObject
+		METHOD <init> <init> (Ljava/util/Spliterator;Ljava/util/Spliterator;Ljava/util/function/Function;IJ)V
+	CLASS OIOORRORCRHOOCICORRCHOHRC FlatMapSpliterator
+		FIELD CCHIIIOROOCCICIORIOOICROH prefix Ljava/util/Spliterator;
+		FIELD IOOROOIOCIIHOORIHOCRROOOH estimatedSize J
+		FIELD OOCOIIOHHCICCORCIOOIIIOIH characteristics I
+		FIELD eK from Ljava/util/Spliterator;
+		FIELD eL function Ljava/util/function/Function;
+		FIELD eM factory Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ROIOOOIRHICHRHRHCIROCRCCH$OIOORRORCRHOOCICORRCHOHRC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD <init> <init> (Ljava/util/Spliterator;Ljava/util/Spliterator;Ljava/util/function/Function;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ROIOOOIRHICHRHRHCIROCRCCH$OIOORRORCRHOOCICORRCHOHRC$RHOIOCRHOCHOOHHCOHIOIIRHI;IJ)V
+		METHOD ORHCHOHOOCHROOCRORROCHORH lambda$tryAdvance$0 (Ljava/lang/Object;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEachRemaining$1 (Ljava/util/function/Consumer;Ljava/lang/Object;)V
+		METHOD characteristics characteristics ()I
+		METHOD estimateSize estimateSize ()J
+		METHOD forEachRemaining forEachRemaining (Ljava/util/function/Consumer;)V
+		METHOD tryAdvance tryAdvance (Ljava/util/function/Consumer;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator;
+		CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Factory
+			METHOD newFlatMapSpliterator newFlatMapSpliterator (Ljava/util/Spliterator;Ljava/util/Spliterator;Ljava/util/function/Function;IJ)Ljava/util/Spliterator;
+	CLASS ORRCHORCCOOOCCORCIHCROOCC FlatMapSpliteratorOfPrimitive
+		METHOD <init> <init> (Ljava/util/Spliterator$OfPrimitive;Ljava/util/Spliterator;Ljava/util/function/Function;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ROIOOOIRHICHRHRHCIROCRCCH$OIOORRORCRHOOCICORRCHOHRC$RHOIOCRHOCHOOHHCOHIOIIRHI;IJ)V
+		METHOD CCRHOHCCOIICHCCHIOIICHHOO lambda$forEachRemaining$1 (Ljava/lang/Object;Ljava/lang/Object;)V
+		METHOD ORHCHOHOOCHROOCRORROCHORH lambda$tryAdvance$0 (Ljava/lang/Object;)V
+		METHOD forEachRemaining forEachRemaining (Ljava/lang/Object;)V
+		METHOD tryAdvance tryAdvance (Ljava/lang/Object;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator$OfPrimitive;
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR FlatMapSpliteratorOfDouble
+		METHOD <init> <init> (Ljava/util/Spliterator$OfDouble;Ljava/util/Spliterator;Ljava/util/function/Function;IJ)V
+		METHOD forEachRemaining forEachRemaining (Ljava/util/function/DoubleConsumer;)V
+		METHOD tryAdvance tryAdvance (Ljava/util/function/DoubleConsumer;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator$OfDouble;
+	CLASS RHOHHRHHRCHRRIOCIIRHICCIC FlatMapSpliteratorOfLong
+		METHOD <init> <init> (Ljava/util/Spliterator$OfLong;Ljava/util/Spliterator;Ljava/util/function/Function;IJ)V
+		METHOD forEachRemaining forEachRemaining (Ljava/util/function/LongConsumer;)V
+		METHOD tryAdvance tryAdvance (Ljava/util/function/LongConsumer;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator$OfLong;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI 1Splitr
+		FIELD RIHIOHHHRCRCIOCOOOOOOORRC holder Ljava/lang/Object;
+		FIELD eE val$fromSpliterator Ljava/util/Spliterator;
+		FIELD eF val$predicate Ljava/util/function/Predicate;
+		METHOD <init> <init> (Ljava/util/Spliterator;Ljava/util/function/Predicate;)V
+		METHOD accept accept (Ljava/lang/Object;)V
+		METHOD characteristics characteristics ()I
+		METHOD estimateSize estimateSize ()J
+		METHOD getComparator getComparator ()Ljava/util/Comparator;
+		METHOD tryAdvance tryAdvance (Ljava/util/function/Consumer;)Z
+		METHOD trySplit trySplit ()Ljava/util/Spliterator;

@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/network/NetworkManagerBridge
+	METHOD bridge$closeChannel bridge$closeChannel (Ljava/lang/String;)V
+		ARG 1 channelName
+	METHOD bridge$getChannel bridge$getChannel ()Lio/netty/channel/Channel;
+	METHOD bridge$getNetHandler bridge$getNetHandler ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$isLocalChannel bridge$isLocalChannel ()Z
+	METHOD bridge$synchronizeRunnable bridge$synchronizeRunnable (Ljava/lang/Runnable;)V
+		ARG 1 runnable

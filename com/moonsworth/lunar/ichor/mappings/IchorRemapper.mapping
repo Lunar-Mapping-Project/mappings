@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/ichor/mappings/IchorRemapper
+	FIELD aeZ container Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/bombe/analysis/InheritanceProvider;Z)V
+		ARG 1 container
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lorg/cadixdev/lorenz/model/ClassMapping;)V
+	METHOD getCompletedClassMapping getCompletedClassMapping (Ljava/lang/String;)Lorg/cadixdev/lorenz/model/ClassMapping;
+	METHOD mapFieldName mapFieldName (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

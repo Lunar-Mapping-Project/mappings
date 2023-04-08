@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_12_2/optifine/mixin/CustomColorsMixinA
+	METHOD <init> <init> ()V
+	METHOD impl$updateLightMap impl$updateLightMap (Lnet/minecraft/world/World;F[IZFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+		ARG 5 cir

@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/item/RenderItemMixin
+	FIELD clumpSpread clumpSpread F
+	FIELD isRenderPotion isRenderPotion Z
+	FIELD renderInFrame renderInFrame Z
+	FIELD zLevel zLevel F
+	METHOD <init> <init> ()V
+	METHOD impl$customTransform impl$customTransform (ILnet/minecraft/entity/item/EntityItem;DDDFF)V
+	METHOD impl$get2DItemYOffset impl$get2DItemYOffset (F)F
+	METHOD impl$modifyGlint impl$modifyGlint (I)I
+	METHOD impl$onInitialTranslate impl$onInitialTranslate (FFFLnet/minecraft/entity/item/EntityItem;DDDFF)V
+	METHOD impl$onRotateFor2D impl$onRotateFor2D (FFFFLnet/minecraft/entity/item/EntityItem;Lnet/minecraft/util/IIcon;IFFFF)V
+	METHOD impl$onRotateFor3D impl$onRotateFor3D (FFFFLnet/minecraft/entity/item/EntityItem;DDDFF)V
+	METHOD impl$onSetSeed impl$onSetSeed (Ljava/util/Random;JLnet/minecraft/entity/item/EntityItem;DDDFF)V
+	METHOD impl$renderDroppedItem$fancyGraphics impl$renderDroppedItem$fancyGraphics (Lnet/minecraft/client/settings/GameSettings;)Z
+	METHOD impl$renderDroppedItem$hasEffect impl$renderDroppedItem$hasEffect (Lnet/minecraft/item/ItemStack;)Z
+	METHOD impl$renderGlint impl$renderGlint (IIIIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderGlint impl$renderGlint (Lnet/minecraft/client/renderer/entity/RenderItem;IIIII)V
+	METHOD impl$renderItemAndEffectIntoGUI impl$renderItemAndEffectIntoGUI (FFFFLnet/minecraft/client/gui/FontRenderer;Lnet/minecraft/client/renderer/texture/TextureManager;Lnet/minecraft/item/ItemStack;II)V
+	METHOD impl$tweakClumping impl$tweakClumping (F)F
+	METHOD lambda$impl$renderGlint$0 lambda$impl$renderGlint$0 (IIIII)V
+	METHOD onRender onRender (Lnet/minecraft/entity/item/EntityItem;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

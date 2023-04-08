@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/IOICCORHHICCROCCRIHOIIRHC com/moonsworth/lunar/client/management/managers/StoreItemManager
+	METHOD <init> <init> ()V
+	METHOD IOCRCCOICOOCCRRROOIHHCIRH populateItems ()Ljava/util/Set;

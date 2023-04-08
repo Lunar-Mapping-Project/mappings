@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/cls/provider/ClassTypeProviderImpl
+	FIELD aeB cache Ljava/util/Map;
+	FIELD aeC ichorClassLoader Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD aeD injector Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 injector
+		ARG 2 ichorClassLoader
+	METHOD IIROHIIHCHOORORIIHORHRORO (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/String;)Ljava/lang/String;
+		ARG 2 itf
+	METHOD provide provide (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI;

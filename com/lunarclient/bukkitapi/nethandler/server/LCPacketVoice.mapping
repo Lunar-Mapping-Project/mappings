@@ -1,0 +1,13 @@
+CLASS com/lunarclient/bukkitapi/nethandler/server/LCPacketVoice com/lunarclient/bukkitapi/nethandler/server/LCPacketVoice
+	FIELD data data [B
+	FIELD uuids uuids Ljava/util/Set;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/Set;[B)V
+		ARG 1 uuids
+		ARG 2 data
+	METHOD getData getData ()[B
+	METHOD getUuid getUuid ()Ljava/util/UUID;
+	METHOD getUuids getUuids ()Ljava/util/Set;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

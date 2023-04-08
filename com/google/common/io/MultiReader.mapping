@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/ICOICORHIORHRCRIIIOCCCOCO com/google/common/io/MultiReader
+	FIELD JK it Ljava/util/Iterator;
+	FIELD RCHCOOOCCIHOHHCROCHROIORC current Ljava/io/Reader;
+	METHOD <init> <init> (Ljava/util/Iterator;)V
+	METHOD advance advance ()V
+	METHOD close close ()V
+	METHOD read read ([CII)I
+	METHOD ready ready ()Z
+	METHOD skip skip (J)J

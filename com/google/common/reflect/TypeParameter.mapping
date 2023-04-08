@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/CRORIOCOIOOHROHORIORIHRRI com/google/common/reflect/TypeParameter
+	FIELD TC typeVariable Ljava/lang/reflect/TypeVariable;
+	METHOD <init> <init> ()V
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

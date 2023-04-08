@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOOCROHIOCHRRHORORHOCHIC com/google/common/collect/Queues
+	METHOD <init> <init> ()V
+	METHOD CCCOIHOROCIHCHHRHIHIIRRCC newPriorityQueue (Ljava/lang/Iterable;)Ljava/util/PriorityQueue;
+	METHOD CCCORIHHICOHIIOIOHROORCCH newLinkedBlockingDeque (I)Ljava/util/concurrent/LinkedBlockingDeque;
+	METHOD CCICIOHIORRHHICCOHCOOHICI newPriorityBlockingQueue (Ljava/lang/Iterable;)Ljava/util/concurrent/PriorityBlockingQueue;
+	METHOD CCOCORIOHHORRICIIOOORRORC newConcurrentLinkedQueue ()Ljava/util/concurrent/ConcurrentLinkedQueue;
+	METHOD CICRRIRHIHIRCCCCOHCHCHOCO newLinkedBlockingDeque (Ljava/lang/Iterable;)Ljava/util/concurrent/LinkedBlockingDeque;
+	METHOD CRRIOCOIRHCOCCHORCORCRHRI newPriorityQueue ()Ljava/util/PriorityQueue;
+	METHOD HCCHOOOCHIROHRCIIHOOHCROC newConcurrentLinkedQueue (Ljava/lang/Iterable;)Ljava/util/concurrent/ConcurrentLinkedQueue;
+	METHOD HCHRROHIIRROCHOIHICICRHRR newSynchronousQueue ()Ljava/util/concurrent/SynchronousQueue;
+	METHOD HCRCHICCROOCHICCHORRCIIIR newArrayBlockingQueue (I)Ljava/util/concurrent/ArrayBlockingQueue;
+	METHOD HOCHRCHCIOIIROCOORROHRIHI newLinkedBlockingQueue (Ljava/lang/Iterable;)Ljava/util/concurrent/LinkedBlockingQueue;
+	METHOD IHCIOIIROCIIOROIIRCOCHRIH newArrayDeque (Ljava/lang/Iterable;)Ljava/util/ArrayDeque;
+	METHOD IHORCROHIOIROOCHIOHOCIROR newArrayDeque ()Ljava/util/ArrayDeque;
+	METHOD OCHHCRHCRHRCIRCHIROHRCOCR newLinkedBlockingDeque ()Ljava/util/concurrent/LinkedBlockingDeque;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI drainUninterruptibly (Ljava/util/concurrent/BlockingQueue;Ljava/util/Collection;IJLjava/util/concurrent/TimeUnit;)I
+	METHOD OCIROORRIRIOHIIIRRIORCIHI drainUninterruptibly (Ljava/util/concurrent/BlockingQueue;Ljava/util/Collection;ILjava/time/Duration;)I
+	METHOD OOIROIRIICORCHOHHHRRRCRCR newLinkedBlockingQueue ()Ljava/util/concurrent/LinkedBlockingQueue;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI synchronizedDeque (Ljava/util/Deque;)Ljava/util/Deque;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI synchronizedQueue (Ljava/util/Queue;)Ljava/util/Queue;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI drain (Ljava/util/concurrent/BlockingQueue;Ljava/util/Collection;IJLjava/util/concurrent/TimeUnit;)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI drain (Ljava/util/concurrent/BlockingQueue;Ljava/util/Collection;ILjava/time/Duration;)I
+	METHOD RIIRCHCCIHOOIOICCCIIOCHCI newPriorityBlockingQueue ()Ljava/util/concurrent/PriorityBlockingQueue;
+	METHOD RRCHRCIHHRICIRCRCHOHHOIHH newLinkedBlockingQueue (I)Ljava/util/concurrent/LinkedBlockingQueue;

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/BlockModelRendererMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderModelAmbientOcclusion impl$renderModelAmbientOcclusion (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/resources/model/IBakedModel;Lnet/minecraft/block/Block;Lnet/minecraft/util/BlockPos;Lnet/minecraft/client/renderer/WorldRenderer;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$renderModelAmbientOcclusionQuads$hasTintIndex impl$renderModelAmbientOcclusionQuads$hasTintIndex (Lnet/minecraft/client/renderer/block/model/BakedQuad;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/block/Block;)Z
+	METHOD impl$renderModelStandard impl$renderModelStandard (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/resources/model/IBakedModel;Lnet/minecraft/block/Block;Lnet/minecraft/util/BlockPos;Lnet/minecraft/client/renderer/WorldRenderer;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$renderModelStandardQuads$hasTintIndex impl$renderModelStandardQuads$hasTintIndex (Lnet/minecraft/client/renderer/block/model/BakedQuad;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/block/Block;)Z

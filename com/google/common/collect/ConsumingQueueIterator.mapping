@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RICOIRCRRHCICRRIOCRHCIRCO com/google/common/collect/ConsumingQueueIterator
+	FIELD ge queue Ljava/util/Queue;
+	METHOD <init> <init> (Ljava/util/Queue;)V
+	METHOD <init> <init> ([Ljava/lang/Object;)V
+	METHOD COOHHRHORHICCHHCIIIICCHHI computeNext ()Ljava/lang/Object;

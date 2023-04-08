@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/renderer/GameRendererMixin
+	FIELD effectActive effectActive Z
+	FIELD lightTexture lightTexture Lnet/minecraft/client/renderer/LightTexture;
+	FIELD postEffect postEffect Lnet/minecraft/client/renderer/PostChain;
+	METHOD <init> <init> ()V
+	METHOD bridge$disableLightmap bridge$disableLightmap ()V
+	METHOD bridge$enableLightmap bridge$enableLightmap ()V
+	METHOD bridge$getShaderGroup bridge$getShaderGroup ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$isShaderActive bridge$isShaderActive ()Z
+	METHOD bridge$loadShader bridge$loadShader (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$stopUseShader bridge$stopUseShader ()V
+	METHOD loadEffect loadEffect (Lnet/minecraft/resources/ResourceLocation;)V
+	METHOD shutdownEffect shutdownEffect ()V

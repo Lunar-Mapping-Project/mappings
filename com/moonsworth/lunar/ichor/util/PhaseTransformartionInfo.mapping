@@ -1,0 +1,31 @@
+CLASS com/moonsworth/lunar/ichor/util/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/ichor/util/PhaseTransformartionInfo
+	FIELD agA infoList Ljava/util/ArrayList;
+	FIELD agB lock Ljava/lang/Object;
+	FIELD agC fields Ljava/util/Set;
+	FIELD agD methods Ljava/util/Set;
+	FIELD agz info [Lcom/moonsworth/lunar/ichor/util/HICHICCCOCIORRHICHHIHOHIR$RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)V
+		ARG 1 pipeline
+	METHOD CRROICRORCRRROORIRRHOIORO getPhaseInfoFromMethod (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/util/HICHICCCOCIORRHICHHIHOHIR$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 method
+	METHOD IROHCRIHCIHIRHRHORHIRCCRR getPhaseInfoFromField (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/util/HICHICCCOCIORRHICHHIHOHIR$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 field
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Lorg/objectweb/asm/tree/ClassNode;)V
+		ARG 1 pipeline
+		ARG 2 phase
+		ARG 3 classNode
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI PhaseInfo
+		FIELD agE phase Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+		FIELD agF fields [Ljava/lang/String;
+		FIELD agG methods [Ljava/lang/String;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;[Ljava/lang/String;[Ljava/lang/String;)V
+			ARG 1 phase
+			ARG 2 fields
+			ARG 3 methods
+		METHOD CRIIIRHOORCHOHIICHRCHIRCI fields ()[Ljava/lang/String;
+		METHOD OHIRIIICRRORCRCCRICOCHCRH phase ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+		METHOD OOCCIRHIICHCOORCORHCCOCCC methods ()[Ljava/lang/String;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;

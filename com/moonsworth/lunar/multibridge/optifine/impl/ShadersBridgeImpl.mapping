@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/optifine/impl/ShadersBridgeImpl
+	METHOD <init> <init> ()V
+	METHOD getPackDefault getPackDefault ()Ljava/lang/String;
+	METHOD getPackNone getPackNone ()Ljava/lang/String;
+	METHOD getProgramBasic getProgramBasic ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD getShaderPack getShaderPack ()Ljava/lang/String;
+	METHOD hasShadowPass hasShadowPass ()Z
+	METHOD popProgram popProgram ()V
+	METHOD pushUseProgram pushUseProgram (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/IIROHIIHCHOORORIIHORHRORO;)V
+	METHOD setShaderPack setShaderPack (Ljava/lang/String;)V

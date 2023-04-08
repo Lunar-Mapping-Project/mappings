@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/client/inventory/ContainerChestMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getLowerInventory bridge$getLowerInventory ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD getLowerChestInventory getLowerChestInventory ()Lnet/minecraft/inventory/IInventory;

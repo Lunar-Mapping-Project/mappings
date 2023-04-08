@@ -1,0 +1,25 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC joptsimple/internal/Columns
+	FIELD ack INDENT_WIDTH I
+	FIELD acl optionWidth I
+	FIELD acm descriptionWidth I
+	METHOD <init> <init> (II)V
+		ARG 1 optionWidth
+		ARG 2 descriptionWidth
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI fit (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI;)Ljava/util/List;
+		ARG 1 row
+	METHOD itemOrEmpty itemOrEmpty (Ljava/util/List;I)Ljava/lang/String;
+		ARG 0 items
+		ARG 1 index
+	METHOD piecesOf piecesOf (Ljava/lang/String;I)Ljava/util/List;
+		ARG 1 raw
+		ARG 2 width
+	METHOD piecesOfEmbeddedLine piecesOfEmbeddedLine (Ljava/lang/String;I)Ljava/util/List;
+		ARG 1 line
+		ARG 2 width
+	METHOD processNextWord processNextWord (Ljava/lang/String;Ljava/lang/StringBuilder;IIILjava/util/List;)Ljava/lang/StringBuilder;
+		ARG 1 source
+		ARG 2 nextPiece
+		ARG 3 start
+		ARG 4 end
+		ARG 5 width
+		ARG 6 pieces

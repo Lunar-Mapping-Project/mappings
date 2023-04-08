@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO com/moonsworth/lunar/bridge/util/Vec3IBridge
+	METHOD bridge$getX bridge$getX ()I
+	METHOD bridge$getY bridge$getY ()I
+	METHOD bridge$getZ bridge$getZ ()I
+	METHOD bridge$setPos bridge$setPos (III)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z

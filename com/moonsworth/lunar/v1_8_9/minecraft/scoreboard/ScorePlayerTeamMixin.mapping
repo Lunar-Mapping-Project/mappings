@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/scoreboard/ScorePlayerTeamMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$formatString bridge$formatString (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getChatFormat bridge$getChatFormat ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD formatString formatString (Ljava/lang/String;)Ljava/lang/String;
+	METHOD getChatFormat getChatFormat ()Lnet/minecraft/util/EnumChatFormatting;

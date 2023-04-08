@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/item/TileEntitySkullRendererMixin
+	FIELD field_147538_h field_147538_h Lnet/minecraft/client/model/ModelSkeletonHead;
+	METHOD <init> <init> ()V
+	METHOD impl$onTileEntitySkullRender impl$onTileEntitySkullRender (FFFIFILcom/mojang/authlib/GameProfile;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

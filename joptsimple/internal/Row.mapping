@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI joptsimple/internal/Row
+	FIELD acr option Ljava/lang/String;
+	FIELD acs description Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 option
+		ARG 2 description
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 that
+	METHOD hashCode hashCode ()I

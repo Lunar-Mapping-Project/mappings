@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/version/Namespace
+	FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD NONE NONE Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD NOTCH NOTCH Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD SRG SRG Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	FIELD fileFilter fileFilter Ljava/util/function/Function;
+	FIELD name name Ljava/lang/String;
+	METHOD $values $values ()[Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;ILjava/lang/String;Ljava/util/function/Function;)V
+		ARG 3 name
+		ARG 4 fileFilter
+	METHOD from from (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Z)Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 0 version
+		ARG 1 isSrg
+	METHOD getFileFilter getFileFilter ()Ljava/util/function/Function;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD lambda$static$0 lambda$static$0 (Ljava/lang/String;)Ljava/util/Optional;
+		ARG 0 fileName
+	METHOD lambda$static$1 lambda$static$1 (Ljava/lang/String;)Ljava/util/Optional;
+		ARG 0 fileName
+	METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD values values ()[Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;

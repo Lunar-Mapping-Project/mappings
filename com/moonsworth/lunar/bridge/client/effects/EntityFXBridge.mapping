@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/client/effects/EntityFXBridge
+	METHOD bridge$applySettings bridge$applySettings ()V
+	METHOD bridge$getParticleType bridge$getParticleType ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$resetSettings bridge$resetSettings ()V
+	METHOD bridge$setColor bridge$setColor (FFF)V
+	METHOD bridge$setId bridge$setId (I)V
+	METHOD bridge$setScale bridge$setScale (F)V

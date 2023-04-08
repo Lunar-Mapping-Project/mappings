@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/bridge/client/resources/IReloadableResourceManagerBridge
+	METHOD bridge$putDomainResourceManager bridge$putDomainResourceManager (Ljava/lang/String;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;)V
+	METHOD bridge$registerReloadListener bridge$registerReloadListener (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+	METHOD bridge$reloadResources bridge$reloadResources (Ljava/util/List;)V

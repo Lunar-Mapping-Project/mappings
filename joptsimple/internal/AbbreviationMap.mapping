@@ -1,0 +1,27 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI joptsimple/internal/AbbreviationMap
+	FIELD aci children Ljava/util/Map;
+	FIELD key key Ljava/lang/String;
+	FIELD keysBeyond keysBeyond I
+	FIELD value value Ljava/lang/Object;
+	METHOD <init> <init> ()V
+	METHOD add add ([CLjava/lang/Object;II)Z
+		ARG 1 chars
+		ARG 2 newValue
+		ARG 3 offset
+		ARG 4 length
+	METHOD addToMappings addToMappings (Ljava/util/Map;)V
+		ARG 1 mappings
+	METHOD charsOf charsOf (Ljava/lang/String;)[C
+		ARG 0 aKey
+	METHOD contains contains (Ljava/lang/String;)Z
+	METHOD get get (Ljava/lang/String;)Ljava/lang/Object;
+	METHOD put put (Ljava/lang/String;Ljava/lang/Object;)V
+	METHOD putAll putAll (Ljava/lang/Iterable;Ljava/lang/Object;)V
+	METHOD remove remove (Ljava/lang/String;)V
+	METHOD remove remove ([CII)Z
+		ARG 1 aKey
+		ARG 2 offset
+		ARG 3 length
+	METHOD removeAtEndOfKey removeAtEndOfKey ()Z
+	METHOD setValueToThatOfOnlyChild setValueToThatOfOnlyChild ()V
+	METHOD toJavaUtilMap toJavaUtilMap ()Ljava/util/Map;

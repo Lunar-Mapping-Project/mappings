@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/nectar/handler/AnnotationNectarHandler
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;Ljava/lang/reflect/Method;)V
+		ARG 1 nectar
+		ARG 2 container
+		ARG 3 method

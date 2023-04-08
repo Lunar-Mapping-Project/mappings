@@ -1,0 +1,85 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/client/settings/GameSettingsMixin
+	FIELD chatScale chatScale F
+	FIELD enableVsync enableVsync Z
+	FIELD fancyGraphics fancyGraphics Z
+	FIELD gammaOverridden gammaOverridden Z
+	FIELD gammaSetting gammaSetting F
+	FIELD hideGUI hideGUI Z
+	FIELD keyBindAttack keyBindAttack Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindBack keyBindBack Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindForward keyBindForward Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindJump keyBindJump Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindLeft keyBindLeft Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindRight keyBindRight Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindScreenshot keyBindScreenshot Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindSneak keyBindSneak Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindSprint keyBindSprint Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindTogglePerspective keyBindTogglePerspective Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindUseItem keyBindUseItem Lnet/minecraft/client/settings/KeyBinding;
+	FIELD keyBindings keyBindings [Lnet/minecraft/client/settings/KeyBinding;
+	FIELD limitFramerate limitFramerate I
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	FIELD optionsFile optionsFile Ljava/io/File;
+	FIELD renderDistanceChunks renderDistanceChunks I
+	FIELD resourcePacks resourcePacks Ljava/util/List;
+	FIELD savedGamma savedGamma F
+	FIELD showDebugInfo showDebugInfo Z
+	FIELD smoothCamera smoothCamera Z
+	FIELD thirdPersonView thirdPersonView I
+	FIELD useVbo useVbo Z
+	METHOD <init> <init> ()V
+	METHOD bridge$getChatScale bridge$getChatScale ()F
+	METHOD bridge$getFrameRateLimit bridge$getFrameRateLimit ()I
+	METHOD bridge$getKeyBindings bridge$getKeyBindings ()[Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getModelParts bridge$getModelParts ()Ljava/util/Set;
+	METHOD bridge$getRenderDistance bridge$getRenderDistance ()I
+	METHOD bridge$getScreenshotKey bridge$getScreenshotKey ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getSmoothCamera bridge$getSmoothCamera ()Z
+	METHOD bridge$getThirdPersonView bridge$getThirdPersonView ()I
+	METHOD bridge$isFancyGraphics bridge$isFancyGraphics ()Z
+	METHOD bridge$isHideGui bridge$isHideGui ()Z
+	METHOD bridge$keyBindAttack bridge$keyBindAttack ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindBack bridge$keyBindBack ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindForward bridge$keyBindForward ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindJump bridge$keyBindJump ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindLeft bridge$keyBindLeft ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindRight bridge$keyBindRight ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindSneak bridge$keyBindSneak ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindSprint bridge$keyBindSprint ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindTogglePerspective bridge$keyBindTogglePerspective ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$keyBindUseItem bridge$keyBindUseItem ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$removeGammaOverride bridge$removeGammaOverride ()V
+	METHOD bridge$setFancyGraphics bridge$setFancyGraphics (Z)V
+	METHOD bridge$setFrameRateLimit bridge$setFrameRateLimit (I)V
+	METHOD bridge$setGamma bridge$setGamma (F)V
+	METHOD bridge$setGammaOverride bridge$setGammaOverride (F)V
+	METHOD bridge$setKeyBindState bridge$setKeyBindState (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;Z)V
+	METHOD bridge$setKeyBinds bridge$setKeyBinds ([Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$setOptionFloatValue bridge$setOptionFloatValue (IF)V
+	METHOD bridge$setSmoothCamera bridge$setSmoothCamera (Z)V
+	METHOD bridge$setThirdPersonView bridge$setThirdPersonView (I)V
+	METHOD bridge$setVBO bridge$setVBO (Z)V
+	METHOD bridge$showDebugInfo bridge$showDebugInfo ()Z
+	METHOD bridge$unpressAllKeys bridge$unpressAllKeys ()V
+	METHOD getModelParts getModelParts ()Ljava/util/Set;
+	METHOD getResourcePacks getResourcePacks ()Ljava/util/List;
+	METHOD impl$afterLoadOptions impl$afterLoadOptions (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD impl$beforeLoadOptions impl$beforeLoadOptions (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD impl$getString impl$getString (Lnet/minecraft/nbt/NBTTagCompound;Ljava/lang/String;)Ljava/lang/String;
+	METHOD impl$loadOptions$split impl$loadOptions$split (Lnet/minecraft/client/settings/GameSettings;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;
+	METHOD impl$redirectGammaSet impl$redirectGammaSet (Lnet/minecraft/client/settings/GameSettings;F)V
+	METHOD impl$saveOptionsOverwrite impl$saveOptionsOverwrite (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD impl$saveSetting impl$saveSetting (Ljava/io/PrintWriter;Ljava/lang/String;)V
+		ARG 1 writer
+		ARG 2 data
+	METHOD impl$setOption impl$setOption (Lnet/minecraft/client/settings/GameSettings$Options;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 option
+		ARG 2 value
+		ARG 3 i
+	METHOD impl$swapSavedGamma impl$swapSavedGamma ()V
+	METHOD saveOptions saveOptions (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD setOptionFloatValue setOptionFloatValue (Lnet/minecraft/client/settings/GameSettings$Options;F)V

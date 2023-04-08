@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/renderer/SkullBlockRendererMixin
+	FIELD MODEL_BY_TYPE$v1_16_1 MODEL_BY_TYPE$v1_16_1 Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD lunar$captureGameProfile lunar$captureGameProfile (Lnet/minecraft/world/level/block/SkullBlock$Type;Lcom/mojang/authlib/GameProfile;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$prepareSkullRendering lunar$prepareSkullRendering (Lnet/minecraft/world/level/block/entity/SkullBlockEntity;)Lnet/minecraft/world/level/block/entity/SkullBlockEntity;
+	METHOD lunar$wrapPlayerSkullModel lunar$wrapPlayerSkullModel (Ljava/lang/Object;)Ljava/lang/Object;

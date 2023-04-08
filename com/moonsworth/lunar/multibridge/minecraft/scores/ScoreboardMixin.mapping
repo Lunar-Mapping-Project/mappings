@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/minecraft/scores/ScoreboardMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getObjectiveInDisplaySlot bridge$getObjectiveInDisplaySlot (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getPlayersTeam bridge$getPlayersTeam (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getSortedScores bridge$getSortedScores (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OCIROORRIRIOHIIIRRIORCIHI;)Ljava/util/Collection;
+	METHOD bridge$getValueFromObjective bridge$getValueFromObjective (Ljava/lang/String;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OCIROORRIRIOHIIIRRIORCIHI;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD getDisplayObjective getDisplayObjective (I)Lnet/minecraft/world/scores/Objective;
+	METHOD getOrCreatePlayerScore getOrCreatePlayerScore (Ljava/lang/String;Lnet/minecraft/world/scores/Objective;)Lnet/minecraft/world/scores/Score;
+	METHOD getPlayerScores getPlayerScores (Lnet/minecraft/world/scores/Objective;)Ljava/util/Collection;
+	METHOD getPlayersTeam getPlayersTeam (Ljava/lang/String;)Lnet/minecraft/world/scores/PlayerTeam;
+	METHOD impl$removeObjective impl$removeObjective (Lnet/minecraft/world/scores/Objective;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$removeTeam impl$removeTeam (Lnet/minecraft/world/scores/PlayerTeam;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$bridge$getSortedScores$0 lambda$bridge$getSortedScores$0 (Lnet/minecraft/world/scores/Score;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RHOIOCRHOCHOOHHCOHIOIIRHI;

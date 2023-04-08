@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RCRIIRROHHOCHHHCHOCIICRHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/mchorse/mclib/utils/MathUtils
+	METHOD <init> <init> ()V
+	METHOD clamp clamp (DDD)D
+	METHOD clamp clamp (FFF)F
+	METHOD clamp clamp (III)I
+	METHOD cycler cycler (DDD)D
+	METHOD cycler cycler (FFF)F
+	METHOD cycler cycler (III)I

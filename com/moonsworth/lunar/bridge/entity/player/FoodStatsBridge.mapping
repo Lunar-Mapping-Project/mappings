@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/entity/player/FoodStatsBridge
+	METHOD bridge$getFoodLevel bridge$getFoodLevel ()F
+	METHOD bridge$getSaturationLevel bridge$getSaturationLevel ()F

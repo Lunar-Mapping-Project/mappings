@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/world/biome/BiomeGenBaseBridge
+	METHOD bridge$getBiomeID bridge$getBiomeID ()Ljava/util/Optional;
+	METHOD bridge$getBiomeName bridge$getBiomeName ()Ljava/lang/String;

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/block/BlockMixin
+	FIELD lightValue lightValue I
+	METHOD <init> <init> ()V
+	METHOD getLightValue getLightValue ()I
+	METHOD getRenderBlockPass getRenderBlockPass ()I

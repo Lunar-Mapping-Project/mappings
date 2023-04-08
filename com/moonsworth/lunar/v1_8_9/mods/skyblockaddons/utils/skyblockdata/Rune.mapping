@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/skyblockdata/Rune
+	FIELD level level I
+	FIELD type type Ljava/lang/String;
+	METHOD <init> <init> (Lnet/minecraft/nbt/NBTTagCompound;)V
+	METHOD getLevel getLevel ()I
+	METHOD getType getType ()Ljava/lang/String;

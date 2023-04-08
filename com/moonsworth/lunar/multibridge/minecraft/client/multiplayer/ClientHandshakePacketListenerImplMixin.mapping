@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ClientHandshakePacketListenerImplMixin
+	FIELD connection connection Lnet/minecraft/network/Connection;
+	METHOD <init> <init> ()V
+	METHOD impl$getSecretKey impl$getSecretKey (ILjava/security/Key;)Ljavax/crypto/Cipher;

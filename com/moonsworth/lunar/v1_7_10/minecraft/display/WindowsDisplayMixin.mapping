@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/display/WindowsDisplayMixin
+	FIELD WM_XBUTTONDOWN WM_XBUTTONDOWN I
+	FIELD XBUTTON1 XBUTTON1 I
+	METHOD <init> <init> ()V
+	METHOD handleMouseButton handleMouseButton (IIJ)V
+	METHOD impl$doHandleMessage impl$doHandleMessage (JIJJJLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+		ARG 10 cir

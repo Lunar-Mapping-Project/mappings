@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/InventoryPlayerMixin
+	METHOD <init> <init> ()V
+	METHOD impl$changeCurrentItem impl$changeCurrentItem (ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

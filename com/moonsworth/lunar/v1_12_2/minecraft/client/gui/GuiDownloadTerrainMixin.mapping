@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_12_2/minecraft/client/gui/GuiDownloadTerrainMixin
+	FIELD screenCreatedAt screenCreatedAt J
+	METHOD <init> <init> ()V
+	METHOD actionPerformed actionPerformed (Lnet/minecraft/client/gui/GuiButton;)V
+	METHOD impl$initGui impl$initGui (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

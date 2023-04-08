@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/adventure/AbstractComponentMixin
+	FIELD bridge$vanillaComponent bridge$vanillaComponent Lnet/minecraft/network/chat/MutableComponent;
+	METHOD <init> <init> ()V
+	METHOD convert convert ()Lnet/minecraft/network/chat/MutableComponent;
+	METHOD keybind keybind (Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+	METHOD literal literal (Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+	METHOD moonBridge$asBridgeComponent moonBridge$asBridgeComponent ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD nbt nbt (Lnet/kyori/adventure/text/NBTComponent;)Lnet/minecraft/network/chat/MutableComponent;
+	METHOD score score (Ljava/lang/String;Ljava/lang/String;)Lnet/minecraft/network/chat/MutableComponent;
+	METHOD selector selector (Ljava/lang/String;Lnet/minecraft/network/chat/Component;)Lnet/minecraft/network/chat/MutableComponent;
+	METHOD translatable translatable (Ljava/lang/String;Ljava/util/List;)Lnet/minecraft/network/chat/MutableComponent;

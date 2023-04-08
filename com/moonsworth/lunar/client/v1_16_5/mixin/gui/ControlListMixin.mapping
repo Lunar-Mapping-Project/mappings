@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CIHCIOHCCICCICHOHHCCOCOHC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/v1_16_5/mixin/gui/ControlListMixin
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;IIIII)V
+	METHOD getFocused getFocused ()Lnet/minecraft/client/gui/components/events/GuiEventListener;
+	METHOD impl$init impl$init (Lnet/minecraft/client/gui/screens/controls/ControlsScreen;Lnet/minecraft/client/Minecraft;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

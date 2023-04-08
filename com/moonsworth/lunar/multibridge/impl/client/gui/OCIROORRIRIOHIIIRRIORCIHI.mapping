@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/impl/client/gui/OCIROORRIRIOHIIIRRIORCIHI
+	FIELD parent parent Ljava/lang/String;
+	METHOD <init> (Lnet/minecraft/client/Minecraft;Lnet/minecraft/client/gui/screens/packs/TransferableSelectionList;Lnet/minecraft/client/gui/screens/Screen;Ljava/lang/String;Ljava/util/List;)V
+		ARG 4 parent
+	METHOD render render (Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIIIZF)V
+	METHOD showHoverOverlay showHoverOverlay ()Z
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		METHOD bindIcon$v1_16_1 bindIcon$v1_16_1 (Lnet/minecraft/client/renderer/texture/TextureManager;)V
+		METHOD canMoveDown canMoveDown ()Z
+		METHOD canMoveUp canMoveUp ()Z
+		METHOD canSelect canSelect ()Z
+		METHOD canUnselect canUnselect ()Z
+		METHOD getCompatibility getCompatibility ()Lnet/minecraft/server/packs/repository/PackCompatibility;
+		METHOD getDescription getDescription ()Lnet/minecraft/network/chat/Component;
+		METHOD getExtendedDescription$v1_16_1 getExtendedDescription$v1_16_1 ()Lnet/minecraft/network/chat/FormattedText;
+		METHOD getExtendedDescription$v1_16_5 getExtendedDescription$v1_16_5 ()Lnet/minecraft/network/chat/Component;
+		METHOD getIconTexture$v1_16_5 getIconTexture$v1_16_5 ()Lnet/minecraft/resources/ResourceLocation;
+		METHOD getPackSource getPackSource ()Lnet/minecraft/server/packs/repository/PackSource;
+		METHOD getTitle getTitle ()Lnet/minecraft/network/chat/Component;
+		METHOD isFixedPosition isFixedPosition ()Z
+		METHOD isRequired isRequired ()Z
+		METHOD isSelected isSelected ()Z
+		METHOD moveDown moveDown ()V
+		METHOD moveUp moveUp ()V
+		METHOD select select ()V
+		METHOD unselect unselect ()V

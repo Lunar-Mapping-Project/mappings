@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/world/block/type/BlockDoublePlantMixin
+	FIELD INVISIBLE INVISIBLE I
+	METHOD <init> <init> (Lnet/minecraft/block/material/Material;Lnet/minecraft/block/material/MapColor;)V
+	METHOD getRenderType getRenderType ()I

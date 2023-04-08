@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/world/phys/HitResultMixin
+	FIELD location location Lnet/minecraft/world/phys/Vec3;
+	METHOD <init> <init> ()V
+	METHOD bridge$getBlockPosition bridge$getBlockPosition ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;
+	METHOD bridge$getEntityHit bridge$getEntityHit ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$isTypeOfHit bridge$isTypeOfHit (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OIOOCIIHICICRRHCROHOOHOCI;)Z
+	METHOD getType getType ()Lnet/minecraft/world/phys/HitResult$Type;

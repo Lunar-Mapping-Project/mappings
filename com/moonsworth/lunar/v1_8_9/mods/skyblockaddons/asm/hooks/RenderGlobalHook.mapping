@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOIRIIIRHHIIRRCOCHIOCIHO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/RenderGlobalHook
+	FIELD isAntialiasing isAntialiasing Ljava/lang/reflect/Method;
+	FIELD isFastRender isFastRender Ljava/lang/reflect/Method;
+	FIELD isShaders isShaders Ljava/lang/reflect/Method;
+	FIELD logger logger Lorg/apache/logging/log4j/Logger;
+	FIELD stopLookingForOptifine stopLookingForOptifine Z
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD afterFramebufferDraw afterFramebufferDraw ()V
+	METHOD blockRenderingSkyblockItemOutlines blockRenderingSkyblockItemOutlines (Lnet/minecraft/client/renderer/culling/ICamera;FDDD)Z
+	METHOD onAddBlockBreakParticle onAddBlockBreakParticle (ILnet/minecraft/util/BlockPos;I)V
+	METHOD shouldRenderSkyblockItemOutlines shouldRenderSkyblockItemOutlines ()Z

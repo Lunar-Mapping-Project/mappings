@@ -1,0 +1,12 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketGhost com/lunarclient/bukkitapi/nethandler/client/LCPacketGhost
+	FIELD addGhostList addGhostList Ljava/util/List;
+	FIELD removeGhostList removeGhostList Ljava/util/List;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/List;Ljava/util/List;)V
+		ARG 1 addGhostList
+		ARG 2 removeGhostList
+	METHOD getAddGhostList getAddGhostList ()Ljava/util/List;
+	METHOD getRemoveGhostList getRemoveGhostList ()Ljava/util/List;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

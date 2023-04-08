@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/bridge/minecraft/entity/PlayerRendererMixin
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;Lnet/minecraft/client/model/PlayerModel;F)V
+	METHOD impl$renderHand impl$renderHand (Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILnet/minecraft/client/player/AbstractClientPlayer;Lnet/minecraft/client/model/geom/ModelPart;Lnet/minecraft/client/model/geom/ModelPart;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$setModelProperties impl$setModelProperties (Lnet/minecraft/client/player/AbstractClientPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

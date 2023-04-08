@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/minecraft/client/model/SkullModelMixin
+	FIELD head head Lnet/minecraft/client/model/geom/ModelPart;
+	METHOD <init> <init> ()V
+	METHOD bridge$showHat bridge$showHat (Z)V
+	METHOD lambda$bridge$showHat$0 lambda$bridge$showHat$0 (ZLnet/minecraft/client/model/geom/ModelPart;)V

@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/options/BooleanOption
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;Ljava/lang/Boolean;)V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;Ljava/lang/Boolean;Ljava/util/function/BooleanSupplier;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Boolean;)V
+		ARG 1 query
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Boolean;Ljava/util/function/BooleanSupplier;)V
+	METHOD IHCCCOCRORIRHOCROIROHORII isEnabled ()Z
+	METHOD IOICICOOIRRHCCHORRHOOOICR getValue (Ljava/lang/String;)Ljava/util/Optional;
+	METHOD ORRCHORCCOOOCCORCIHCROOCC getUIComponent (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/HOHOHRIHCIICROCRCRIIOCCHC;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD lambda$new$0 lambda$new$0 ()Z
+	METHOD load load (Lcom/google/gson/JsonObject;)V
+	METHOD update update (Ljava/lang/String;)V

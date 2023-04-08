@@ -1,0 +1,28 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/generator/conversion/MethodConversionHelper
+	FIELD IHIRORORCIICIOCOICOOOIOHC returnFunctors Ljava/util/List;
+	FIELD RIROIOIOIOIORHRICCIHHHIIC paramFunctors Ljava/util/List;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Lorg/cadixdev/bombe/provider/ClassProvider;)V
+		ARG 1 manager
+		ARG 2 version
+		ARG 3 classProvider
+	METHOD <init> <init> (Ljava/util/List;)V
+		ARG 1 functors
+	METHOD <init> <init> (Ljava/util/List;Ljava/util/List;)V
+		ARG 1 paramFunctors
+		ARG 2 returnFunctors
+	METHOD IIROHIIHCHOORORIIHORHRORO tryCoereceParamType (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lorg/objectweb/asm/tree/InsnList;)Z
+		ARG 1 src
+		ARG 2 dst
+		ARG 3 insns
+	METHOD OIOORRORCRHOOCICORRCHOHRC coereceParamType (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lorg/objectweb/asm/tree/InsnList;)V
+		ARG 1 src
+		ARG 2 dst
+		ARG 3 insns
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR coereceReturnType (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lorg/objectweb/asm/tree/InsnList;)V
+		ARG 1 src
+		ARG 2 dst
+		ARG 3 insns
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC tryCoerceReturnType (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Lorg/objectweb/asm/tree/InsnList;)Z
+		ARG 1 src
+		ARG 2 dst
+		ARG 3 insns

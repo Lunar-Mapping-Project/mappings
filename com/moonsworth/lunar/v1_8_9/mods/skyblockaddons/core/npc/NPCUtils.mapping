@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/core/npc/NPCUtils
+	FIELD HIDE_RADIUS_SQUARED HIDE_RADIUS_SQUARED I
+	FIELD npcLocations npcLocations Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD getNpcLocations getNpcLocations ()Ljava/util/Map;
+	METHOD isNPC isNPC (Lnet/minecraft/entity/Entity;)Z
+	METHOD isNearNPC isNearNPC (Lnet/minecraft/entity/Entity;)Z
+	METHOD isSellMerchant isSellMerchant (Lnet/minecraft/inventory/IInventory;)Z

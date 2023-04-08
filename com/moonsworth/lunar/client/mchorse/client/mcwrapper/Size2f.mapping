@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RCRIIRROHHOCHHHCHOCIICRHR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/client/mchorse/client/mcwrapper/Size2f
+	FIELD RROORCOCIHHCIROOHHRCICIIR object Ljava/lang/Object;
+	FIELD height height F
+	FIELD width width F
+	METHOD <init> <init> (FFLjava/lang/Object;)V

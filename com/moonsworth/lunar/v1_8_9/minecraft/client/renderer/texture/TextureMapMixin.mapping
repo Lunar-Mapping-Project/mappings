@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/texture/TextureMapMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getAtlasSprite bridge$getAtlasSprite (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/RIORHCCRCIOORHIHIHIHHRIOH;
+	METHOD bridge$getBlockTextures bridge$getBlockTextures ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD bridge$getItemTextures bridge$getItemTextures ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD completeResourceLocation completeResourceLocation (Lnet/minecraft/util/ResourceLocation;I)Lnet/minecraft/util/ResourceLocation;
+	METHOD getAtlasSprite getAtlasSprite (Ljava/lang/String;)Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;
+	METHOD lambda$proxy$completeResourceLocation$0 lambda$proxy$completeResourceLocation$0 (Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/client/resources/ResourcePackRepository$Entry;)Z
+	METHOD onLoadTextureAtlas onLoadTextureAtlas (Lnet/minecraft/client/resources/IResourceManager;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/client/renderer/texture/Stitcher;IILjava/util/Iterator;Ljava/util/Map$Entry;Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/client/resources/IResource;[Ljava/awt/image/BufferedImage;)V
+	METHOD proxy$completeResourceLocation proxy$completeResourceLocation (Lnet/minecraft/util/ResourceLocation;I)Lnet/minecraft/util/ResourceLocation;

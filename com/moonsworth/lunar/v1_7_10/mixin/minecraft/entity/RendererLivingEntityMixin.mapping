@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/mixin/minecraft/entity/RendererLivingEntityMixin
+	METHOD <init> <init> ()V
+	METHOD impl$postHurtRender impl$postHurtRender (Lnet/minecraft/entity/EntityLivingBase;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$preHurtRender impl$preHurtRender (Lnet/minecraft/entity/EntityLivingBase;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$doRenderModel lunar$doRenderModel (Lnet/minecraft/client/renderer/entity/RendererLivingEntity;Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V

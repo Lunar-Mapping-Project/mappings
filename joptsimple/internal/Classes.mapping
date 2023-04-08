@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI joptsimple/internal/Classes
+	FIELD acj WRAPPERS Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD shortNameOf shortNameOf (Ljava/lang/String;)Ljava/lang/String;
+		ARG 0 className
+	METHOD wrapperOf wrapperOf (Ljava/lang/Class;)Ljava/lang/Class;
+		ARG 0 clazz

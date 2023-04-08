@@ -1,0 +1,25 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHIRORCCROIIRCIHCOCIRORHH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/v1_19_2/mixin/ClientPacketListenerMixin
+	FIELD level level Lnet/minecraft/client/multiplayer/ClientLevel;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD handleSetTime handleSetTime (Lnet/minecraft/network/protocol/game/ClientboundSetTimePacket;)V
+		ARG 1 packet
+	METHOD impl$handleSpawnObj impl$handleSpawnObj (Lnet/minecraft/network/protocol/game/ClientboundAddEntityPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 packet
+		ARG 2 ci
+	METHOD impl$handleUpdateAttributes impl$handleUpdateAttributes (Lnet/minecraft/network/protocol/game/ClientboundUpdateAttributesPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 packet
+		ARG 2 ci
+	METHOD impl$onPlayerInfo impl$onPlayerInfo (Lnet/minecraft/network/protocol/game/ClientboundPlayerInfoPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 packet
+		ARG 2 ci
+	METHOD lunar$cantHandleComponent lunar$cantHandleComponent (Lnet/minecraft/network/chat/Component;)Z
+		ARG 1 component
+	METHOD lunar$triggerChatEvent lunar$triggerChatEvent (Lnet/minecraft/network/protocol/game/ClientboundPlayerChatPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 packet
+		ARG 2 ci
+	METHOD lunar$triggerSystemChatEvent lunar$triggerSystemChatEvent (Lnet/minecraft/network/protocol/game/ClientboundSystemChatPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 packet
+		ARG 2 ci
+	CLASS 1
+		METHOD <clinit> <clinit> ()V

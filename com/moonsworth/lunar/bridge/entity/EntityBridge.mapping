@@ -1,0 +1,84 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/entity/EntityBridge
+	METHOD CCOOIOICCHROCIHOHICORICRC bridge$getPreviousPosZ ()D
+	METHOD CIIIROICHHOHORCIHIICHHCIH bridge$getPreviousPosX ()D
+	METHOD CIRCCHIIROHICHORRHRIROOOI bridge$getWorld ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD CRCORIHCHICOHOHOIRRHCIOCI bridge$getPreviousPosY ()D
+	METHOD IHIOOHOOIHROIHICIHIHIOIIH bridge$isRiding ()Z
+	METHOD IRIRIRIRRCHRIHCCOCHIICRHH bridge$GetTIcksExisted ()I
+	METHOD OCCRIOOIOHCCRCHORRHCIHCRR getMoveDistanceSq ()D
+	METHOD OCIROORRIRIOHIIIRRIORCIHI bridge$setMotionZ (D)V
+		ARG 1 motionZ
+	METHOD OCIROORRIRIOHIIIRRIORCIHI getDistanceToEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)D
+		ARG 1 entity
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC getDistance (DDD)D
+		ARG 1 x
+		ARG 3 y
+		ARG 5 z
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC getDistanceSq (DDD)D
+		ARG 1 x
+		ARG 3 y
+		ARG 5 z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI bridge$setMotionX (D)V
+		ARG 1 motionX
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getDistanceSqToEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)D
+		ARG 1 entity
+	METHOD bridge$getBoundingBox bridge$getBoundingBox ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getDataWatcher bridge$getDataWatcher ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getDimension bridge$getDimension ()I
+	METHOD bridge$getDimensionName bridge$getDimensionName ()Ljava/lang/String;
+	METHOD bridge$getEntityId bridge$getEntityId ()I
+	METHOD bridge$getEyeHeight bridge$getEyeHeight ()F
+	METHOD bridge$getFallDistance bridge$getFallDistance ()F
+	METHOD bridge$getFrustumBoundingBox bridge$getFrustumBoundingBox ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getLookAngle bridge$getLookAngle ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ROOICOIICOIOORHCHIHCOICII;
+	METHOD bridge$getMotionX bridge$getMotionX ()D
+	METHOD bridge$getMotionY bridge$getMotionY ()D
+	METHOD bridge$getMotionZ bridge$getMotionZ ()D
+	METHOD bridge$getPosX bridge$getPosX ()D
+	METHOD bridge$getPosY bridge$getPosY ()D
+	METHOD bridge$getPosZ bridge$getPosZ ()D
+	METHOD bridge$getPreviousRotationPitch bridge$getPreviousRotationPitch ()D
+	METHOD bridge$getPreviousRotationYaw bridge$getPreviousRotationYaw ()D
+	METHOD bridge$getRidingEntity bridge$getRidingEntity ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getRotationPitch bridge$getRotationPitch ()D
+	METHOD bridge$getRotationYaw bridge$getRotationYaw ()D
+	METHOD bridge$getUniqueID bridge$getUniqueID ()Ljava/util/UUID;
+	METHOD bridge$getWidth bridge$getWidth ()F
+	METHOD bridge$hitByEntity bridge$hitByEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)Z
+		ARG 1 entity
+	METHOD bridge$isCollidedHorizontally bridge$isCollidedHorizontally ()Z
+	METHOD bridge$isDead bridge$isDead ()Z
+	METHOD bridge$isInvisible bridge$isInvisible ()Z
+	METHOD bridge$isInvisibleTo bridge$isInvisibleTo (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR;)Z
+		ARG 1 player
+	METHOD bridge$isOnFire bridge$isOnFire ()Z
+	METHOD bridge$isOnGround bridge$isOnGround ()Z
+	METHOD bridge$isSneaking bridge$isSneaking ()Z
+	METHOD bridge$isVisiblyCrouching bridge$isVisiblyCrouching ()Z
+	METHOD bridge$lastTickX bridge$lastTickX ()D
+	METHOD bridge$lastTickY bridge$lastTickY ()D
+	METHOD bridge$lastTickZ bridge$lastTickZ ()D
+	METHOD bridge$setDimension bridge$setDimension (I)V
+		ARG 1 dimension
+	METHOD bridge$setMotionY bridge$setMotionY (D)V
+		ARG 1 motionY
+	METHOD bridge$setPosX bridge$setPosX (D)V
+		ARG 1 posX
+	METHOD bridge$setPosY bridge$setPosY (D)V
+		ARG 1 posY
+	METHOD bridge$setPosZ bridge$setPosZ (D)V
+		ARG 1 posZ
+	METHOD bridge$setPreviousPosX bridge$setPreviousPosX (D)V
+		ARG 1 prevPosX
+	METHOD bridge$setPreviousPosY bridge$setPreviousPosY (D)V
+		ARG 1 prevPosY
+	METHOD bridge$setPreviousPosZ bridge$setPreviousPosZ (D)V
+		ARG 1 prevPosZ
+	METHOD bridge$setPreviousRotationPitch bridge$setPreviousRotationPitch (D)V
+		ARG 1 prevRotationPitch
+	METHOD bridge$setPreviousRotationYaw bridge$setPreviousRotationYaw (D)V
+		ARG 1 prevRotationYaw
+	METHOD bridge$setRotationPitch bridge$setRotationPitch (D)V
+		ARG 1 rotationPitck
+	METHOD bridge$setRotationYaw bridge$setRotationYaw (D)V
+		ARG 1 rotationYaw

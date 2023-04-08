@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/level/chunk/LevelChunkMixin
+	FIELD chunkPos$v1_16_1 chunkPos$v1_16_1 Lnet/minecraft/world/level/ChunkPos;
+	METHOD <init> <init> (Lnet/minecraft/world/level/ChunkPos;Lnet/minecraft/world/level/chunk/UpgradeData;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/core/Registry;J[Lnet/minecraft/world/level/chunk/LevelChunkSection;Lnet/minecraft/world/level/levelgen/blending/BlendingData;)V
+	METHOD bridge$getBiome bridge$getBiome (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RIHOOROIIHIHROCCHIRICHOII;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getX bridge$getX ()I
+	METHOD bridge$getZ bridge$getZ ()I
+	METHOD getBiomes$v1_16_1 getBiomes$v1_16_1 ()Lnet/minecraft/world/level/chunk/ChunkBiomeContainer;
+	METHOD getChunkPos getChunkPos ()Lnet/minecraft/world/level/ChunkPos;

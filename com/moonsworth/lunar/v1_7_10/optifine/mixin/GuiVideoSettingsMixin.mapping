@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/v1_7_10/optifine/mixin/GuiVideoSettingsMixin
+	FIELD fontRendererObj fontRendererObj Lnet/minecraft/client/gui/FontRenderer;
+	METHOD <init> <init> ()V
+	METHOD impl$fixFontRendererCrash impl$fixFontRendererCrash (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$noShadersFullbright lunar$noShadersFullbright (Lnet/minecraft/client/gui/GuiButton;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOHHRHHRCHRRIOCIIRHICCIC/ROOHRHIRRRIOCHOOOOOICHHIO com/moonsworth/lunar/client/management/managers/KnownServers
+	FIELD COHOCCICIHOOOROOOICOOROIH fileHash Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD CHOHORIOOOIRCCCHOORORHIOI populateItems ()Ljava/util/Map;
+	METHOD CIRHCRORCOHRHOHOCORORRCHR getCachedItem (Ljava/lang/String;)Ljava/lang/String;
+	METHOD CRHICRIRCRHHCIOHRRROHOHOI getFileHash ()Ljava/lang/String;
+	METHOD HICHICCCOCIORRHICHHIHOHIR addCacheItem (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD OCIROORRIRIOHIIIRRIORCIHI loadFromArray (Lcom/google/gson/JsonArray;)V
+		ARG 1 json
+	METHOD OOOCHOCCHHHOCHOROHROCHIRC setFileHash (Ljava/lang/String;)V
+		ARG 1 fileHash
+	METHOD OORHRCOHOORHOIHROIOOOCIOI getConfigFile ()Ljava/lang/String;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/google/gson/JsonArray;Ljava/lang/String;Ljava/util/List;)V
+		ARG 1 name
+		ARG 2 addresses
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/net/http/HttpResponse;)V
+		ARG 1 response
+	METHOD RHOIROHIRIRIOIRIIHOROORRC setKnownServersHash (Ljava/lang/String;)V
+		ARG 1 fileHash
+	METHOD init init ()V
+	METHOD load load (Lcom/google/gson/JsonObject;)V

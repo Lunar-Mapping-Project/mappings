@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/bridge/client/resources/IResourcePackBridge
+	METHOD bridge$getInputStream bridge$getInputStream (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)Ljava/io/InputStream;
+	METHOD bridge$getPackImage bridge$getPackImage ()Ljava/util/Optional;
+	METHOD bridge$getPackName bridge$getPackName ()Ljava/lang/String;

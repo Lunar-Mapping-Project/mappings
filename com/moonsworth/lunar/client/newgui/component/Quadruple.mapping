@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CHRIOOHCCORHIICHHRORCCRCR/RHOHHRHHRCHRRIOCIIRHICCIC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/client/newgui/component/Quadruple
+	FIELD COIIRCOOHRCOIRRHROCOIIOOH three Ljava/lang/Object;
+	FIELD HRHOOOHRHOOHCOCCCICRRRICC one Ljava/lang/Object;
+	FIELD IOOCICOCOORIICOIOOCOCRHCO four Ljava/lang/Object;
+	FIELD RICRHHIICCOIOHHRHCRIOOOCR two Ljava/lang/Object;
+	METHOD <init> <init> (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V
+	METHOD HORRIRRROCHOHCCORHOOCHICO setOne (Ljava/lang/Object;)V
+	METHOD IRRRRCHIIOOIOROHIRRORCORO getTwo ()Ljava/lang/Object;
+	METHOD OIHIHIOHIHCHRIRCICOORCRIC getOne ()Ljava/lang/Object;
+	METHOD OIOOCIIHICICRRHCROHOOHOCI setThree (Ljava/lang/Object;)V
+	METHOD OOIHIOCCRIHCIIIIOHIHIOHHR getFour ()Ljava/lang/Object;
+	METHOD RHIRRHCROCIORIHCRIHIOHCCH getThree ()Ljava/lang/Object;
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH setTwo (Ljava/lang/Object;)V
+	METHOD ROOHRHIRRRIOCHOOOOOICHHIO setFour (Ljava/lang/Object;)V
+	METHOD toString toString ()Ljava/lang/String;

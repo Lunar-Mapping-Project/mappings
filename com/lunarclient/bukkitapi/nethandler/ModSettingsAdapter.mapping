@@ -1,0 +1,16 @@
+CLASS com/lunarclient/bukkitapi/nethandler/ModSettingsAdapter com/lunarclient/bukkitapi/nethandler/ModSettingsAdapter
+	METHOD <init> <init> ()V
+	METHOD deserialize deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;
+	METHOD deserialize deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;
+		ARG 1 jsonElement
+		ARG 2 type
+		ARG 3 jsonDeserializationContext
+	METHOD deserializeModSetting deserializeModSetting (Lcom/google/gson/JsonObject;)Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings$ModSetting;
+		ARG 1 object
+	METHOD serialize serialize (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;
+	METHOD serialize serialize (Ljava/lang/Object;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;
+		ARG 1 jsonElement
+		ARG 2 type
+		ARG 3 jsonSerializationContext
+	METHOD serializeModSetting serializeModSetting (Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings$ModSetting;)Lcom/google/gson/JsonObject;
+		ARG 1 setting

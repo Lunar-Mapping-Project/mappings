@@ -1,0 +1,9 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketVoiceChannelSwitch com/lunarclient/bukkitapi/nethandler/client/LCPacketVoiceChannelSwitch
+	FIELD switchingTo switchingTo Ljava/util/UUID;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/UUID;)V
+		ARG 1 switchingTo
+	METHOD getSwitchingTo getSwitchingTo ()Ljava/util/UUID;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

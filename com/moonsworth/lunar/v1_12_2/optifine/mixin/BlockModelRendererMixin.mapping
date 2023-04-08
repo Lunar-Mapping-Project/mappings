@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/optifine/mixin/BlockModelRendererMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderModelAmbientOcclusionQuadsOF$hasTintIndex impl$renderModelAmbientOcclusionQuadsOF$hasTintIndex (Lnet/minecraft/client/renderer/block/model/BakedQuad;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/block/state/IBlockState;)Z
+	METHOD impl$renderModelStandardQuadsOF$hasTintIndex impl$renderModelStandardQuadsOF$hasTintIndex (Lnet/minecraft/client/renderer/block/model/BakedQuad;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/block/state/IBlockState;)Z
+	METHOD impl$renderQuadsFlat$isEmissive impl$renderQuadsFlat$isEmissive (Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;)Z
+	METHOD impl$renderQuadsSmooth$isEmissive impl$renderQuadsSmooth$isEmissive (Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;)Z

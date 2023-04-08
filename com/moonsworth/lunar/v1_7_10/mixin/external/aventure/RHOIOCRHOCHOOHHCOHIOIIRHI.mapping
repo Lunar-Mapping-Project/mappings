@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/external/aventure/RHOIOCRHOCHOOHHCOHIOIIRHI
+	FIELD GSON GSON Lnet/kyori/adventure/text/serializer/gson/GsonComponentSerializer;
+	FIELD NBT_CODEC NBT_CODEC Lnet/kyori/adventure/util/Codec;
+	METHOD asAdventure asAdventure (Lnet/minecraft/event/ClickEvent_Action;)Lnet/kyori/adventure/text/event/ClickEvent$Action;
+	METHOD asAdventure asAdventure (Lnet/minecraft/event/HoverEvent;)Lnet/kyori/adventure/text/event/HoverEvent;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/EnumChatFormatting;)Lnet/kyori/adventure/text/format/NamedTextColor;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/IChatComponent;)Lnet/kyori/adventure/text/Component;
+	METHOD asBinaryTagHolder asBinaryTagHolder (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/kyori/adventure/nbt/api/BinaryTagHolder;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/Component;)Lnet/minecraft/util/IChatComponent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/ClickEvent$Action;)Lnet/minecraft/event/ClickEvent_Action;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/ClickEvent;)Lnet/minecraft/event/ClickEvent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/HoverEvent$Action;)Lnet/minecraft/event/HoverEvent_Action;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/HoverEvent;)Lnet/minecraft/event/HoverEvent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/format/NamedTextColor;)Lnet/minecraft/util/EnumChatFormatting;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/format/TextColor;)Lnet/minecraft/util/EnumChatFormatting;
+	METHOD asVanillaCompound asVanillaCompound (Lnet/kyori/adventure/nbt/api/BinaryTagHolder;)Lnet/minecraft/nbt/NBTTagCompound;
+	CLASS 1
+		METHOD decode decode (Ljava/lang/Object;)Ljava/lang/Object;
+		METHOD encode encode (Ljava/lang/Object;)Ljava/lang/Object;

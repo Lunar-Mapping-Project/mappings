@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OICCIHOCRHCCRRHCRCCCHIIRC com/moonsworth/lunar/bridge/util/ModelCloakBridge
+	METHOD render render (IF)V
+	METHOD updateUVPosition updateUVPosition (II)V

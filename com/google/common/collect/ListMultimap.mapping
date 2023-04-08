@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RORHCIIHOIORCOOORHROIHCRO com/google/common/collect/ListMultimap
+	METHOD COIRRROCRROIOHIIIHICIIOCO removeAll (Ljava/lang/Object;)Ljava/util/List;
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO removeAll (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD HHRIHCIHOOROOIRIHIRRHIOIR get (Ljava/lang/Object;)Ljava/util/List;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/Collection;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/List;
+	METHOD ROIOOCOOIHCRHCIORROHIIRII get (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD asMap asMap ()Ljava/util/Map;
+	METHOD equals equals (Ljava/lang/Object;)Z

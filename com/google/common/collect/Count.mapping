@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OOCCOHCOOIRCIOOROORRHIHRR com/google/common/collect/Count
+	FIELD value value I
+	METHOD <init> <init> (I)V
+	METHOD RCRRCCCIRCHCOOHIOIICHRHCO getAndSet (I)I
+	METHOD add add (I)V
+	METHOD addAndGet addAndGet (I)I
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD get get ()I
+	METHOD hashCode hashCode ()I
+	METHOD set set (I)V
+	METHOD toString toString ()Ljava/lang/String;

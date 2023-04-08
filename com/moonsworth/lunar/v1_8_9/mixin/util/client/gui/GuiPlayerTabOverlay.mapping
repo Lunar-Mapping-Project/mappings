@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/mixin/util/client/gui/GuiPlayerTabOverlay
+	METHOD <init> <init> ()V
+	METHOD compare compare (Lnet/minecraft/client/network/NetworkPlayerInfo;Lnet/minecraft/client/network/NetworkPlayerInfo;)I

@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/client/util/ClipboardUtils
+	METHOD <init> <init> ()V
+	METHOD HRRIIHROCHCIRICIICCOICOIH getClipboardText ()Ljava/lang/String;
+	METHOD IRCIOCROHICHOHOCORCOOORIC copyText (Ljava/lang/String;)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI ImageTransferable
+		FIELD CHCHICCIIIRCICROCOCIHRORC image Ljava/awt/Image;
+		METHOD <init> <init> (Ljava/awt/Image;)V
+		METHOD getTransferData getTransferData (Ljava/awt/datatransfer/DataFlavor;)Ljava/lang/Object;
+		METHOD getTransferDataFlavors getTransferDataFlavors ()[Ljava/awt/datatransfer/DataFlavor;
+		METHOD isDataFlavorSupported isDataFlavorSupported (Ljava/awt/datatransfer/DataFlavor;)Z

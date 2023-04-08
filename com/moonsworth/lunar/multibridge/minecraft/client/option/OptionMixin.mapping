@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/option/OptionMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$postGammaChanged$v1_16 lunar$postGammaChanged$v1_16 (Lnet/minecraft/client/Options;Ljava/lang/Double;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$postGammaChanged$v1_17 lunar$postGammaChanged$v1_17 (Lnet/minecraft/client/Options;Ljava/lang/Double;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

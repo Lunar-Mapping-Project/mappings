@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CCRHOHCCOIICHCCHIOIICHHOO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/crash/ReportInfo
+	FIELD HROHOCOOHHHCOCOHOHRCCRRHR connectedServer Ljava/lang/String;
+	FIELD OIHHHHIHICCOHCCCHCIRCICII totalMemoryMB I
+	FIELD OIOICICCIRICIRRCOCOIIRHCH reportContext Ljava/lang/String;
+	FIELD OIRHCCCIHHHIHCRIOOOCCOHHR maxMemoryMB I
+	FIELD RCRIOCIICCHHOIOIIRHRRIOIR freeMemoryMB I
+	FIELD RHRHICICIOOCHOCIRIOIIRCHH reportLocation Ljava/lang/String;
+	FIELD fps fps I
+	METHOD <init> <init> (Ljava/lang/String;IIIILjava/lang/String;Ljava/lang/String;)V
+		ARG 1 connectedServer
+		ARG 2 totalMemoryMB
+		ARG 3 freeMemoryMB
+		ARG 4 maxMemoryMB
+		ARG 5 fps
+		ARG 6 reportContext
+		ARG 7 reportLocation
+	METHOD CHOCCIIOOOCOIRHIIIHCRIHHC getTotalMemoryMB ()I
+	METHOD HIRRCIHCRRIOHOOIHIOHIRICH getConnectedServer ()Ljava/lang/String;
+	METHOD HRHOOOORHICOHOICCOIHHRRRH getReportLocation ()Ljava/lang/String;
+	METHOD IHCIHOHOCRHCHOIOIHHRIOICH getFps ()I
+	METHOD OCICCICOROHCCCHORHORIRORH getMaxMemoryMB ()I
+	METHOD ROHCOHIOHIICRIHIIROCORHOI getReportContext ()Ljava/lang/String;
+	METHOD RRCIHRIROCOIHHHHIICHHCRCO getFreeMemoryMB ()I
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

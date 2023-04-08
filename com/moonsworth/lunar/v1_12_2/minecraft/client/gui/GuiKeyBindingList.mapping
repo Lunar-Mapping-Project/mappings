@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/v1_12_2/minecraft/client/gui/GuiKeyBindingList
+	FIELD btnChangeKeyBinding btnChangeKeyBinding Lnet/minecraft/client/gui/GuiButton;
+	FIELD keybinding keybinding Lnet/minecraft/client/settings/KeyBinding;
+	METHOD <init> <init> ()V
+	METHOD impl$onDrawEntry impl$onDrawEntry (IIIIIIIZFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

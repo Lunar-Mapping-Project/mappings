@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/NarratorMixin
+	METHOD getNarrator getNarrator ()Lcom/mojang/text2speech/Narrator;

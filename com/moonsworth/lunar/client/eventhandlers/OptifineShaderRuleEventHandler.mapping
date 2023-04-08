@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHRROCIIHHROCROOHICOCHRIR/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/client/eventhandlers/OptifineShaderRuleEventHandler
+	METHOD <init> <init> ()V
+	METHOD CRIOIOHCCIOICICOIIRCHCRIH areShadersEnabled ()Z

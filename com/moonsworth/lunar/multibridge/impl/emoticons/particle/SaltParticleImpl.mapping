@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/impl/emoticons/particle/SaltParticleImpl
+	FIELD aiN PARTICLES Lnet/minecraft/resources/ResourceLocation;
+	FIELD aiO model Lnet/minecraft/client/model/Model;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lnet/minecraft/client/multiplayer/ClientLevel;DDDD)V
+	METHOD bridge$renderParticle bridge$renderParticle (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/HCOCIICCICRIRCCROHHCHIIIC;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;FFFFFF)V
+	METHOD getRenderType getRenderType ()Lnet/minecraft/client/particle/ParticleRenderType;
+	METHOD render render (Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/client/Camera;F)V
+		ARG 2 camera
+	METHOD tick tick ()V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI ModelImpl
+		FIELD aiP modelPart Lnet/minecraft/client/model/geom/ModelPart;
+		METHOD <init> <init> (Ljava/util/function/Function;)V
+		METHOD accept accept (Ljava/lang/Object;)V
+			ARG 1 modelPart
+		METHOD accept accept (Lnet/minecraft/client/model/geom/ModelPart;)V
+		METHOD renderToBuffer renderToBuffer (Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V
+			ARG 1 pose

@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/mixin/service/IClassBytecodeProviderImpl
+	FIELD afE TARGET Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD CRCCHRCHCRCIHROCRHOHIROCR (Lorg/objectweb/asm/tree/ClassNode;)Lorg/objectweb/asm/tree/ClassNode;
+		ARG 1 classNode
+	METHOD OOHOOIHOHOIICIOOHCOICIIOH getTargetNode ()Lorg/objectweb/asm/tree/ClassNode;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)Z
+		ARG 2 pipeline
+	METHOD getClassNode getClassNode (Ljava/lang/String;)Lorg/objectweb/asm/tree/ClassNode;
+		ARG 1 className
+	METHOD getClassNode getClassNode (Ljava/lang/String;Z)Lorg/objectweb/asm/tree/ClassNode;
+		ARG 1 className

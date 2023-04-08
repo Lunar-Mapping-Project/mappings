@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/itemdrops/ItemDropChecker
+	FIELD DROP_CONFIRMATION_TIMEOUT DROP_CONFIRMATION_TIMEOUT J
+	FIELD attemptsRequiredToConfirm attemptsRequiredToConfirm I
+	FIELD itemOfLastDropAttempt itemOfLastDropAttempt Lnet/minecraft/item/ItemStack;
+	FIELD main main Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD timeOfLastDropAttempt timeOfLastDropAttempt J
+	METHOD <init> <init> ()V
+	METHOD canDropItem canDropItem (Lnet/minecraft/inventory/Slot;)Z
+	METHOD canDropItem canDropItem (Lnet/minecraft/item/ItemStack;)Z
+	METHOD canDropItem canDropItem (Lnet/minecraft/item/ItemStack;Z)Z
+	METHOD canDropItem canDropItem (Lnet/minecraft/item/ItemStack;ZZ)Z
+	METHOD dropConfirmed dropConfirmed (Lnet/minecraft/item/ItemStack;IZ)Z
+	METHOD isItemInList isItemInList (Ljava/lang/String;Ljava/util/List;)Z
+	METHOD onDropConfirmationFail onDropConfirmationFail ()V
+	METHOD playAlert playAlert ()V
+	METHOD resetDropConfirmation resetDropConfirmation ()V

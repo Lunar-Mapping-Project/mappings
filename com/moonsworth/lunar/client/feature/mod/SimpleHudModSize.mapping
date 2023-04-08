@@ -1,0 +1,24 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/client/feature/mod/SimpleHudModSize
+	FIELD IHHROHHHICHRIHRRIIROHIRRC minHeight I
+	FIELD OHIHCHRROOCORIIHCICIORIRC maxHeight I
+	FIELD height height I
+	FIELD maxWidth maxWidth I
+	FIELD minWidth minWidth I
+	FIELD width width I
+	METHOD <init> <init> (IIIIII)V
+	METHOD CCCRHHCIOCICRRIRHROOCIRRC getMinHeight ()I
+	METHOD HCCOOHORORHOCOOROOHRHHCII getMaxHeight ()I
+	METHOD HORRIRRROCHOHCCORHOOCHICO setMinHeight (I)V
+	METHOD OIOOCIIHICICRRHCROHOOHOCI setMaxHeight (I)V
+	METHOD RCIORRRHRHOCCOHHCCRHRCRRI getMinWidth ()I
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH setHeight (I)V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getHeight getHeight ()I
+	METHOD getMaxWidth getMaxWidth ()I
+	METHOD getWidth getWidth ()I
+	METHOD hashCode hashCode ()I
+	METHOD setMaxWidth setMaxWidth (I)V
+	METHOD setMinWidth setMinWidth (I)V
+	METHOD setWidth setWidth (I)V
+	METHOD toString toString ()Ljava/lang/String;

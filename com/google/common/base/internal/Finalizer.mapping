@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/google/common/base/internal/Finalizer
+	FIELD CHCOICICHRRCIHHRRORHOHOCI frqReference Ljava/lang/ref/PhantomReference;
+	FIELD COIIOHICHCRORRRIIHCCRRHRI queue Ljava/lang/ref/ReferenceQueue;
+	FIELD HHHCIHRCHIOHIRIHOCOHCIOHI finalizableReferenceClassReference Ljava/lang/ref/WeakReference;
+	FIELD IROCORIICIIOIRORICCIRHHOI inheritableThreadLocals Ljava/lang/reflect/Field;
+	FIELD RHCCHOOHROHRRHORHHHROCCHO logger Ljava/util/logging/Logger;
+	FIELD RHOOHICCCHIRHRRIHCOHIOCHH bigThreadConstructor Ljava/lang/reflect/Constructor;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/Class;Ljava/lang/ref/ReferenceQueue;Ljava/lang/ref/PhantomReference;)V
+	METHOD CIRCCCHRHOHHOOHOIIIHHHIOR getInheritableThreadLocalsField ()Ljava/lang/reflect/Field;
+	METHOD CIROCRROCOROHRHCROHHRIRRO getBigThreadConstructor ()Ljava/lang/reflect/Constructor;
+	METHOD OIRHORHOHROICIIHHRIROIHOO getFinalizeReferentMethod ()Ljava/lang/reflect/Method;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI startFinalizer (Ljava/lang/Class;Ljava/lang/ref/ReferenceQueue;Ljava/lang/ref/PhantomReference;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI cleanUp (Ljava/lang/ref/Reference;)Z
+	METHOD run run ()V

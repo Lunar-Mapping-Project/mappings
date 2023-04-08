@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CIIHIIHRIOHROCRCRRCHROHRO com/google/common/collect/ForwardingQueue
+	METHOD <init> <init> ()V
+	METHOD CCOCCCCIHCHHIRROHROOIICCC standardPeek ()Ljava/lang/Object;
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD HROCCHHOHOOICCOHHHCRRHIIO standardPoll ()Ljava/lang/Object;
+	METHOD IICOHOCRHCOCRHIROCCCIHCCH delegate ()Ljava/util/Queue;
+	METHOD IRIRIRIRRCHRIHCCOCHIICRHH standardOffer (Ljava/lang/Object;)Z
+	METHOD OOHIICRCHHHIHHROOCCCHCOCO delegate ()Ljava/util/Collection;
+	METHOD element element ()Ljava/lang/Object;
+	METHOD offer offer (Ljava/lang/Object;)Z
+	METHOD peek peek ()Ljava/lang/Object;
+	METHOD poll poll ()Ljava/lang/Object;
+	METHOD remove remove ()Ljava/lang/Object;

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/server/LoggedPrintStreamMixin
+	FIELD OLD_LOGGER OLD_LOGGER Lorg/apache/logging/log4j/Logger;
+	FIELD name name Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD logLine logLine (Ljava/lang/String;)V

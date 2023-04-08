@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRHCOOHHCCIHHCCRIIIHHOOII/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/transfer/TransferSRVHandler
+	FIELD CRRRCRIOROORORHHHOCIHIICI SRV_RECORD Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD IIHCIOICIRCRIIOCIICCOIICC reverseString (Ljava/lang/String;)Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getTXTRecords (Ljava/lang/String;Ljava/util/Set;Ljavax/naming/directory/InitialDirContext;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getAllowedFrom (Ljava/lang/String;Ljava/util/function/Consumer;)V
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH canTransfer (Ljava/lang/String;Ljava/lang/String;)Z

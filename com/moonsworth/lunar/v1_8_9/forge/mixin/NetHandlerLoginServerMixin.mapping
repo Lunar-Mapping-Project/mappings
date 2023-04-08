@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/forge/mixin/NetHandlerLoginServerMixin
+	FIELD server server Lnet/minecraft/server/MinecraftServer;
+	METHOD <init> <init> ()V
+	METHOD ichor$fmlClientHandshake ichor$fmlClientHandshake (Lnet/minecraft/server/management/ServerConfigurationManager;Lnet/minecraft/network/NetworkManager;Lnet/minecraft/entity/player/EntityPlayerMP;)V
+	METHOD ichor$update ichor$update (Lnet/minecraft/server/management/ServerConfigurationManager;Lnet/minecraft/network/NetworkManager;Lnet/minecraft/entity/player/EntityPlayerMP;)V

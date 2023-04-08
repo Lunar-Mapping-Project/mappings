@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/minecraft/entity/item/EntityTNTPrimedMixin
+	FIELD fuse fuse I
+	METHOD <init> <init> ()V
+	METHOD bridge$getFuse bridge$getFuse ()I

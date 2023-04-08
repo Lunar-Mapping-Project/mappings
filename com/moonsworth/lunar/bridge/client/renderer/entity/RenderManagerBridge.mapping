@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/client/renderer/entity/RenderManagerBridge
+	METHOD bridge$defaultPlayerRenderer bridge$defaultPlayerRenderer ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getCamera bridge$getCamera ()Ljava/util/Optional;
+	METHOD bridge$getSkinMap bridge$getSkinMap ()Ljava/util/Map;
+	METHOD bridge$onPlayerRenderersReloaded bridge$onPlayerRenderersReloaded (Ljava/lang/Runnable;)V
+	METHOD bridge$prepare bridge$prepare (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRHCOOHHCCIHHCCRIIIHHOOII/RCHHIHHRCCIHIRCCCRHIOCCHR;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$renderEntityWithPosYaw bridge$renderEntityWithPosYaw (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;DDDFF)V
+	METHOD bridge$setDebugBoundingBox bridge$setDebugBoundingBox (Z)V
+	METHOD bridge$setLivingEntity bridge$setLivingEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+	METHOD bridge$setOptions bridge$setOptions (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD bridge$setPlayerViewY bridge$setPlayerViewY (F)V
+	METHOD bridge$setRenderShadow bridge$setRenderShadow (Z)V
+	METHOD bridge$setTextureManager bridge$setTextureManager (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/RHRROCIIHHROCROOHICOCHRIR;)V
+	METHOD bridge$showDebugBoundingBox bridge$showDebugBoundingBox ()Z
+	METHOD bridge$viewerPosX bridge$viewerPosX ()D
+	METHOD bridge$viewerPosY bridge$viewerPosY ()D
+	METHOD bridge$viewerPosZ bridge$viewerPosZ ()D
+	METHOD getPlayerViewX getPlayerViewX ()D
+	METHOD getPlayerViewY getPlayerViewY ()D
+	METHOD getRenderPosX getRenderPosX ()D
+	METHOD getRenderPosY getRenderPosY ()D
+	METHOD getRenderPosZ getRenderPosZ ()D

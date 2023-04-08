@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/client/settings/KeybindingBridge
+	METHOD bridge$getCategory bridge$getCategory ()Ljava/lang/String;
+	METHOD bridge$getClashesWith bridge$getClashesWith ()Ljava/util/List;
+	METHOD bridge$getKey bridge$getKey ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getKeyDescription bridge$getKeyDescription ()Ljava/lang/String;
+	METHOD bridge$getKeyName bridge$getKeyName ()Ljava/lang/String;
+	METHOD bridge$isKeyDown bridge$isKeyDown ()Z
+	METHOD bridge$setKey bridge$setKey (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 key
+	METHOD bridge$setKeyBindState bridge$setKeyBindState (Z)V

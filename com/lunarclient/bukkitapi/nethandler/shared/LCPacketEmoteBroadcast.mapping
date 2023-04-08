@@ -1,0 +1,12 @@
+CLASS com/lunarclient/bukkitapi/nethandler/shared/LCPacketEmoteBroadcast com/lunarclient/bukkitapi/nethandler/shared/LCPacketEmoteBroadcast
+	FIELD emoteId emoteId I
+	FIELD uuid uuid Ljava/util/UUID;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/UUID;I)V
+		ARG 1 uuid
+		ARG 2 emoteId
+	METHOD getEmoteId getEmoteId ()I
+	METHOD getUuid getUuid ()Ljava/util/UUID;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

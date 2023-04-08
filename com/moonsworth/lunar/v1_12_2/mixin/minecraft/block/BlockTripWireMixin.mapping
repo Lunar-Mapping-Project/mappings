@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/block/BlockTripWireMixin
+	METHOD <init> <init> (Lnet/minecraft/block/material/Material;)V

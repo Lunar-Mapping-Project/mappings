@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/player/AbstractClientPlayerMixin
+	METHOD <init> <init> ()V
+	METHOD impl$createPlayer$v1_18 impl$createPlayer$v1_18 (Lnet/minecraft/client/multiplayer/ClientLevel;Lcom/mojang/authlib/GameProfile;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$createPlayer$v1_19 impl$createPlayer$v1_19 (Lnet/minecraft/client/multiplayer/ClientLevel;Lcom/mojang/authlib/GameProfile;Lnet/minecraft/world/entity/player/ProfilePublicKey;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$getFovModifier impl$getFovModifier (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

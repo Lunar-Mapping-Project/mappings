@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/management/account/MinecraftProfile
+	FIELD id id Ljava/lang/String;
+	FIELD name name Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+		ARG 1 id
+		ARG 2 name
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD load load (Lcom/google/gson/JsonObject;)V
+	METHOD setId setId (Ljava/lang/String;)V
+		ARG 1 id
+	METHOD setName setName (Ljava/lang/String;)V
+		ARG 1 name
+	METHOD toString toString ()Ljava/lang/String;

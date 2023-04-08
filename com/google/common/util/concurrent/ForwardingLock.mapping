@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/CHCRCCRHHHHOCOOCIOCOOROHH com/google/common/util/concurrent/ForwardingLock
+	METHOD <init> <init> ()V
+	METHOD HHCOCRRHRRICIHCHIHCCIHRRR delegate ()Ljava/util/concurrent/locks/Lock;
+	METHOD lock lock ()V
+	METHOD lockInterruptibly lockInterruptibly ()V
+	METHOD newCondition newCondition ()Ljava/util/concurrent/locks/Condition;
+	METHOD tryLock tryLock ()Z
+	METHOD tryLock tryLock (JLjava/util/concurrent/TimeUnit;)Z
+	METHOD unlock unlock ()V

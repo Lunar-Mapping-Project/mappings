@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ROHHICCOOROCOOCRHOIHRICCI com/google/common/collect/ForwardingIterator
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD RCCCHCRRROHOHCOHHCRROHIHI delegate ()Ljava/util/Iterator;
+	METHOD hasNext hasNext ()Z
+	METHOD next next ()Ljava/lang/Object;
+	METHOD remove remove ()V

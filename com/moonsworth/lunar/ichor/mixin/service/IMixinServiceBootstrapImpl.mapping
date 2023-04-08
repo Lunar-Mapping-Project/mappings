@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/ichor/mixin/service/IMixinServiceBootstrapImpl
+	METHOD <init> <init> ()V
+	METHOD bootstrap bootstrap ()V
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getServiceClassName getServiceClassName ()Ljava/lang/String;

@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/v1_7_10/optifine/mixin/TextureMapMixin
+	METHOD <init> <init> ()V
+	METHOD postReadImage postReadImage (Lnet/minecraft/client/resources/IResourceManager;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/client/renderer/texture/Stitcher;ILjava/util/Iterator;Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;Ljava/util/Map$Entry;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/client/resources/IResource;[Ljava/awt/image/BufferedImage;)V

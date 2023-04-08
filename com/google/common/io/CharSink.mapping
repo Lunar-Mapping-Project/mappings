@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/CRORIOCOIOOHROHORIORIHRRI com/google/common/io/CharSink
+	METHOD <init> <init> ()V
+	METHOD IOICCORHHICCROCCRIHOIIRHC write (Ljava/lang/CharSequence;)V
+	METHOD OCCRIOOIOHCCRCHORRHCIHCRR writeLines (Ljava/lang/Iterable;)V
+	METHOD OCIROORRIRIOHIIIRRIORCIHI writeLines (Ljava/util/stream/Stream;)V
+	METHOD OHIHIHRORICIOOROCHCIIIIRR openBufferedStream ()Ljava/io/Writer;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI writeLines (Ljava/lang/Iterable;Ljava/lang/String;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI writeFrom (Ljava/lang/Readable;)J
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI writeLines (Ljava/util/Iterator;Ljava/lang/String;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI writeLines (Ljava/util/stream/Stream;Ljava/lang/String;)V
+	METHOD RHRIOHHRHRCCROCIHOHHHHRII openStream ()Ljava/io/Writer;

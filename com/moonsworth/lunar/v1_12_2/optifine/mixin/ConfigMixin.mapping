@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_12_2/optifine/mixin/ConfigMixin
+	METHOD <init> <init> ()V
+	METHOD startVersionCheckThread startVersionCheckThread ()V

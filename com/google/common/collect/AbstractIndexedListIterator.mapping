@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/google/common/collect/AbstractIndexedListIterator
+	FIELD cu size I
+	FIELD position position I
+	METHOD <init> <init> (I)V
+	METHOD <init> <init> (II)V
+	METHOD get get (I)Ljava/lang/Object;
+	METHOD hasNext hasNext ()Z
+	METHOD hasPrevious hasPrevious ()Z
+	METHOD next next ()Ljava/lang/Object;
+	METHOD nextIndex nextIndex ()I
+	METHOD previous previous ()Ljava/lang/Object;
+	METHOD previousIndex previousIndex ()I

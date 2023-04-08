@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/client/shader/ShaderUniformBridge
+	METHOD bridge$set bridge$set (F)V
+	METHOD bridge$set bridge$set (FF)V
+	METHOD bridge$set bridge$set (FFF)V

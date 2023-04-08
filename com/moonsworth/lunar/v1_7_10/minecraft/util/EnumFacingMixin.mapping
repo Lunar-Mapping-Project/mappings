@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/minecraft/util/EnumFacingMixin
+	FIELD order_a order_a I
+	METHOD <init> <init> ()V
+	METHOD bridge$horizontalIndex bridge$horizontalIndex ()I
+	METHOD bridge$index bridge$index ()I

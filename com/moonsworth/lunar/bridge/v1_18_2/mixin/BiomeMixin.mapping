@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ICOICORHIORHRCRIIIOCCCOCO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/v1_18_2/mixin/BiomeMixin
+	FIELD biomeCategory biomeCategory Lnet/minecraft/world/level/biome/Biome$BiomeCategory;
+	METHOD <init> <init> ()V
+	METHOD bridge$getBiomeName bridge$getBiomeName ()Ljava/lang/String;

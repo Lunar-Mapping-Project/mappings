@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/server/packs/VanillaPackResourcesMixin
+	METHOD <init> <init> ()V
+	METHOD createPath createPath (Lnet/minecraft/server/packs/PackType;Lnet/minecraft/resources/ResourceLocation;)Ljava/lang/String;
+	METHOD impl$getResourceAsStream impl$getResourceAsStream (Lnet/minecraft/server/packs/PackType;Lnet/minecraft/resources/ResourceLocation;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$hasResource impl$hasResource (Lnet/minecraft/server/packs/PackType;Lnet/minecraft/resources/ResourceLocation;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

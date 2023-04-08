@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OHICCROHCCHCRCROHHIHCRCIO com/moonsworth/lunar/bridge/client/gui/GuiResourcePacksBridge
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;
+	METHOD bridge$handlePackSwapList bridge$handlePackSwapList ()V

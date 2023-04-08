@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/multibridge/minecraft/client/UserMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getPlayerID bridge$getPlayerID ()Ljava/lang/String;
+	METHOD bridge$getProfile bridge$getProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD bridge$getToken bridge$getToken ()Ljava/lang/String;
+	METHOD bridge$getUsername bridge$getUsername ()Ljava/lang/String;
+	METHOD getAccessToken getAccessToken ()Ljava/lang/String;
+	METHOD getGameProfile getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD getName getName ()Ljava/lang/String;

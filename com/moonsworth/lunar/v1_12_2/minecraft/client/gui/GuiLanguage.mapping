@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/v1_12_2/minecraft/client/gui/GuiLanguage
+	FIELD langCodeList langCodeList Ljava/util/List;
+	FIELD languageMap languageMap Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD impl$drawSlot impl$drawSlot (IIIIIIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

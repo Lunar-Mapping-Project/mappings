@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO com/google/common/collect/AbstractSequentialIterator
+	FIELD IRIHCOOORRORIIOHCRRIIHOCI nextOrNull Ljava/lang/Object;
+	METHOD <init> <init> (Ljava/lang/Object;)V
+	METHOD OOCCOHCOOIRCIOOROORRHIHRR computeNext (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD hasNext hasNext ()Z
+	METHOD next next ()Ljava/lang/Object;

@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/util/AxisAlignedBBMixin
+	FIELD maxX maxX D
+	FIELD maxY maxY D
+	FIELD maxZ maxZ D
+	FIELD minX minX D
+	FIELD minY minY D
+	FIELD minZ minZ D
+	METHOD <init> <init> ()V
+	METHOD bridge$expand bridge$expand (DDD)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getMaxX bridge$getMaxX ()D
+	METHOD bridge$getMaxY bridge$getMaxY ()D
+	METHOD bridge$getMaxZ bridge$getMaxZ ()D
+	METHOD bridge$getMinX bridge$getMinX ()D
+	METHOD bridge$getMinY bridge$getMinY ()D
+	METHOD bridge$getMinZ bridge$getMinZ ()D
+	METHOD bridge$intersectsWith bridge$intersectsWith (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+	METHOD bridge$offset bridge$offset (DDD)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;

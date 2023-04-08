@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreenMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderTooltipPost impl$renderTooltipPost (Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/world/item/ItemStack;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderTooltipPre impl$renderTooltipPre (Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/world/item/ItemStack;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

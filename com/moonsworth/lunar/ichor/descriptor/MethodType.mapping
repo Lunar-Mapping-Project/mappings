@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/ichor/descriptor/MethodType
+	FIELD afO returnType Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	FIELD params params Ljava/util/List;
+	METHOD <init> <init> (Ljava/util/List;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;)V
+		ARG 1 params
+		ARG 2 returnType
+	METHOD ORIHOOHCOOIIORCHROCOICICR params ()Ljava/util/List;
+	METHOD RHRHOHIOOORCIROCOORCROHII returnType ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD getDescriptor getDescriptor ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

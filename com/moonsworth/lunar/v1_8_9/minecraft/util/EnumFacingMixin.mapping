@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRROCIIHHROCROOHICOCHRIR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/minecraft/util/EnumFacingMixin
+	FIELD horizontalIndex horizontalIndex I
+	FIELD index index I
+	METHOD <init> <init> ()V
+	METHOD bridge$horizontalIndex bridge$horizontalIndex ()I
+	METHOD bridge$index bridge$index ()I

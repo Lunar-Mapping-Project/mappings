@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/ichor/mixin/IMixinErrorHandlerImpl
+	METHOD <init> <init> ()V
+	METHOD onApplyError onApplyError (Ljava/lang/String;Ljava/lang/Throwable;Lorg/spongepowered/asm/mixin/extensibility/IMixinInfo;Lorg/spongepowered/asm/mixin/extensibility/IMixinErrorHandler$ErrorAction;)Lorg/spongepowered/asm/mixin/extensibility/IMixinErrorHandler$ErrorAction;
+	METHOD onPrepareError onPrepareError (Lorg/spongepowered/asm/mixin/extensibility/IMixinConfig;Ljava/lang/Throwable;Lorg/spongepowered/asm/mixin/extensibility/IMixinInfo;Lorg/spongepowered/asm/mixin/extensibility/IMixinErrorHandler$ErrorAction;)Lorg/spongepowered/asm/mixin/extensibility/IMixinErrorHandler$ErrorAction;

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/minecraft/client/resources/data/TextureMetadataSectionMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getTextureBlur bridge$getTextureBlur ()Z
+	METHOD bridge$getTextureClamp bridge$getTextureClamp ()Z
+	METHOD getTextureBlur getTextureBlur ()Z
+	METHOD getTextureClamp getTextureClamp ()Z

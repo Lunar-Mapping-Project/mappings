@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/block/bed/BlockBed
+	FIELD FOOT FOOT Lnet/minecraft/block/BlockBed$EnumPartType;
+	METHOD <init> <init> ()V
+	METHOD bridge$isFoot bridge$isFoot ()Z

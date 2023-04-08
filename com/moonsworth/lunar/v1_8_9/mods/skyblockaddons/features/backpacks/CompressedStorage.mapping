@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/backpacks/CompressedStorage
+	FIELD storage storage Ljava/lang/String;
+	FIELD transientStorage transientStorage [B
+	METHOD <init> <init> ()V
+	METHOD <init> <init> ([B)V
+	METHOD convertByteArrayToString convertByteArrayToString ([B)Ljava/lang/String;
+	METHOD convertStringToByteArray convertStringToByteArray (Ljava/lang/String;)[B
+	METHOD getStorage getStorage ()[B
+	METHOD gsonInit gsonInit ()V
+	METHOD setStorage setStorage ([B)V

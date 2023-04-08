@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HICCCOROHIIHIHRCOIHHCRHCR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/SoundManagerHook
+	METHOD <init> <init> ()V
+	METHOD getNormalizedVolume getNormalizedVolume (Lnet/minecraft/client/audio/SoundManager;Lnet/minecraft/client/audio/ISound;Lnet/minecraft/client/audio/SoundPoolEntry;Lnet/minecraft/client/audio/SoundCategory;)F

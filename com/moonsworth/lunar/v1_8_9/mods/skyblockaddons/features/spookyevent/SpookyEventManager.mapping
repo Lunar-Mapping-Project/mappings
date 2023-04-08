@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/spookyevent/SpookyEventManager
+	FIELD CANDY_PATTERN CANDY_PATTERN Ljava/util/regex/Pattern;
+	FIELD candyCounts candyCounts Ljava/util/Map;
+	FIELD dummyCandyCounts dummyCandyCounts Ljava/util/Map;
+	FIELD points points I
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD getCandyCounts getCandyCounts ()Ljava/util/Map;
+	METHOD getDummyCandyCounts getDummyCandyCounts ()Ljava/util/Map;
+	METHOD getPoints getPoints ()I
+	METHOD isActive isActive ()Z
+	METHOD reset reset ()V
+	METHOD update update (III)V
+	METHOD update update (Ljava/lang/String;)V

@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/OHRCRICIRHCHIOHRCIRRCRRHH com/google/common/util/concurrent/UncaughtExceptionHandlers
+	METHOD <init> <init> ()V
+	METHOD IIOCIRCHCICIIOOCRIRRCOCRO systemExit ()Ljava/lang/Thread$UncaughtExceptionHandler;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Exiter
+		FIELD abc logger Ljava/util/logging/Logger;
+		FIELD abd runtime Ljava/lang/Runtime;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Ljava/lang/Runtime;)V
+		METHOD uncaughtException uncaughtException (Ljava/lang/Thread;Ljava/lang/Throwable;)V

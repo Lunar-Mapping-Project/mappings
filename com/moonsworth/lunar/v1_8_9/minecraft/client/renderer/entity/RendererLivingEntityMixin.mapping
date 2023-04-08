@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/entity/RendererLivingEntityMixin
+	FIELD layerCape layerCape Lnet/minecraft/client/renderer/entity/layers/LayerRenderer;
+	FIELD layerRenderers layerRenderers Ljava/util/List;
+	METHOD <init> <init> (Lnet/minecraft/client/renderer/entity/RenderManager;)V
+	METHOD addLayer addLayer (Lnet/minecraft/client/renderer/entity/layers/LayerRenderer;)Z
+	METHOD bridge$addLayer bridge$addLayer (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Z)V
+	METHOD bridge$getLayerCape bridge$getLayerCape ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD impl$drawLabel impl$drawLabel (Lnet/minecraft/entity/EntityLivingBase;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC;DDDZ)D
+	METHOD impl$getSwingProgress impl$getSwingProgress (Lnet/minecraft/entity/EntityLivingBase;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$onShouldShowName impl$onShouldShowName (Lnet/minecraft/entity/EntityLivingBase;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$renderLabelSneaking impl$renderLabelSneaking (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC;DDD)V
+	METHOD impl$renderLivingLabel impl$renderLivingLabel (Lnet/minecraft/entity/EntityLivingBase;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC;DDDI)D
+	METHOD impl$setupLabelTransform impl$setupLabelTransform (DDD)V
+	METHOD lambda$impl$drawLabel$2 lambda$impl$drawLabel$2 (Lnet/minecraft/entity/EntityLivingBase;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)Ljava/lang/Boolean;
+	METHOD lambda$impl$drawLabel$3 lambda$impl$drawLabel$3 (Lnet/minecraft/client/gui/FontRenderer;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC$OIOORRORCRHOOCICORRCHOHRC;)I
+	METHOD lambda$impl$renderLabelSneaking$0 lambda$impl$renderLabelSneaking$0 (Lnet/minecraft/client/gui/FontRenderer;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC$OIOORRORCRHOOCICORRCHOHRC;)I
+	METHOD lambda$impl$renderLivingLabel$1 lambda$impl$renderLivingLabel$1 (Lnet/minecraft/entity/EntityLivingBase;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/HCOCIICCICRIRCCROHHCHIIIC$OIOORRORCRHOOCICORRCHOHRC;)Z
+	METHOD proxy$renderName proxy$renderName (Lnet/minecraft/entity/EntityLivingBase;DDD)V
+	METHOD renderName renderName (Lnet/minecraft/entity/Entity;DDD)V
+	METHOD renderName renderName (Lnet/minecraft/entity/EntityLivingBase;DDD)V

@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/lang/ExampleReplacements
+	FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD CPS_LMB CPS_LMB Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD CPS_RMB CPS_RMB Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD SBA_VERSION SBA_VERSION Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD id id Ljava/lang/String;
+	FIELD replacement replacement Ljava/util/function/Supplier;
+	METHOD $values $values ()[Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;ILjava/lang/String;)V
+		ARG 3 id
+	METHOD <init> <init> (Ljava/lang/String;ILjava/lang/String;Ljava/util/function/Supplier;)V
+		ARG 3 id
+		ARG 4 replacement
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getReplacement getReplacement ()Ljava/util/function/Supplier;
+	METHOD getReplacement getReplacement (Ljava/lang/String;)Ljava/lang/String;
+	METHOD lambda$static$0 lambda$static$0 ()Ljava/lang/Object;
+	METHOD lambda$static$1 lambda$static$1 ()Ljava/lang/Object;
+	METHOD lambda$static$2 lambda$static$2 ()Ljava/lang/Object;
+	METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD values values ()[Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI;

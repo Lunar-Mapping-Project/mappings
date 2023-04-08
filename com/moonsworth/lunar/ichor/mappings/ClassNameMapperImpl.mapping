@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/ichor/mappings/ClassNameMapperImpl
+	FIELD afd mapped Lorg/cadixdev/lorenz/MappingSet;
+	FIELD afe unmapped Lorg/cadixdev/lorenz/MappingSet;
+	METHOD <init> <init> (Lorg/cadixdev/lorenz/MappingSet;)V
+		ARG 1 mappingSet
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI map (Ljava/lang/String;Lorg/cadixdev/lorenz/MappingSet;)Ljava/lang/String;
+		ARG 1 classsName
+		ARG 2 mappingSet
+	METHOD remap remap (Ljava/lang/String;)Ljava/lang/String;
+	METHOD unmap unmap (Ljava/lang/String;)Ljava/lang/String;

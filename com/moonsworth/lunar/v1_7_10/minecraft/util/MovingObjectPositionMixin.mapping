@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RIORHCCRCIOORHIHIHIHHRIOH/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_7_10/minecraft/util/MovingObjectPositionMixin
+	FIELD blockX blockX I
+	FIELD blockY blockY I
+	FIELD blockZ blockZ I
+	FIELD border border Z
+	FIELD entityHit entityHit Lnet/minecraft/entity/Entity;
+	FIELD hitVec hitVec Lnet/minecraft/util/Vec3;
+	FIELD typeOfHit typeOfHit Lnet/minecraft/util/MovingObjectPosition_MovingObjectType;
+	METHOD <init> <init> ()V
+	METHOD bridge$border bridge$border ()V
+	METHOD bridge$getBlockPosition bridge$getBlockPosition ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;
+	METHOD bridge$getEntityHit bridge$getEntityHit ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$isBorder bridge$isBorder ()Z
+	METHOD bridge$isTypeOfHit bridge$isTypeOfHit (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OIOOCIIHICICRRHCROHOOHOCI;)Z

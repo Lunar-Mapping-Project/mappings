@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_7_10/minecraft/client/renderer/texture/TextureUtilMixin
+	METHOD <init> <init> ()V
+	METHOD readImageData readImageData (Lnet/minecraft/client/resources/IResourceManager;Lnet/minecraft/util/ResourceLocation;)[I

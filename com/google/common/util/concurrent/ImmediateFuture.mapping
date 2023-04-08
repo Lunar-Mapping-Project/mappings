@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/OORCOCHHRRCCOHIOHIHRCICRI com/google/common/util/concurrent/ImmediateFuture
+	FIELD YF NULL Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHIHIHCORIOHHICCCCOHOHOOR;
+	FIELD YG log Ljava/util/logging/Logger;
+	FIELD YH value Ljava/lang/Object;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/Object;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI addListener (Ljava/lang/Runnable;Ljava/util/concurrent/Executor;)V
+	METHOD cancel cancel (Z)Z
+	METHOD get get ()Ljava/lang/Object;
+	METHOD get get (JLjava/util/concurrent/TimeUnit;)Ljava/lang/Object;
+	METHOD isCancelled isCancelled ()Z
+	METHOD isDone isDone ()Z
+	METHOD toString toString ()Ljava/lang/String;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI ImmediateFailedFuture
+		METHOD <init> <init> (Ljava/lang/Throwable;)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI ImmediateCancelledFuture
+		METHOD <init> <init> ()V

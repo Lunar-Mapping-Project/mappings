@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/scores/ObjectiveMixin
+	FIELD displayName displayName Lnet/minecraft/network/chat/Component;
+	METHOD <init> <init> ()V
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getScoreboard bridge$getScoreboard ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$setDisplayName bridge$setDisplayName (Ljava/lang/String;)V
+	METHOD getDisplayName getDisplayName ()Lnet/minecraft/network/chat/Component;
+	METHOD getScoreboard getScoreboard ()Lnet/minecraft/world/scores/Scoreboard;
+	METHOD setDisplayName setDisplayName (Lnet/minecraft/network/chat/Component;)V

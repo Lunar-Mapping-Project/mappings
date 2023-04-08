@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/impl/client/gui/ResourcePackListEntryFolderImpl
+	FIELD folderEntries folderEntries Ljava/util/List;
+	FIELD folder folder Ljava/io/File;
+	FIELD resourcePack resourcePack Lnet/minecraft/client/resources/ResourcePackRepository_Entry;
+	FIELD totalFolderCount totalFolderCount I
+	FIELD totalPackCount totalPackCount I
+	METHOD <init> <init> (Lnet/minecraft/client/gui/GuiScreenResourcePacks;Ljava/io/File;Ljava/io/File;Lnet/minecraft/client/resources/ResourcePackRepository_Entry;Ljava/util/List;Ljava/util/Map;)V
+	METHOD countFolders countFolders (Lcom/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)I
+	METHOD countPacks countPacks (Lcom/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)I
+	METHOD func_148311_a func_148311_a ()Ljava/lang/String;
+	METHOD func_148312_b func_148312_b ()Ljava/lang/String;
+	METHOD func_148313_c func_148313_c ()V
+	METHOD getFolderEntries getFolderEntries ()Ljava/util/List;
+	METHOD mousePressed mousePressed (IIIIII)Z
+	METHOD updateDescription updateDescription ()V

@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/client/network/GuiPlayerInfoMixin
+	FIELD name name Ljava/lang/String;
+	FIELD profile profile Lcom/mojang/authlib/GameProfile;
+	METHOD <init> <init> ()V
+	METHOD bridge$getGameProfile bridge$getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD bridge$getProfileTextureId bridge$getProfileTextureId ()Ljava/util/UUID;
+	METHOD impl$onConstruct impl$onConstruct (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

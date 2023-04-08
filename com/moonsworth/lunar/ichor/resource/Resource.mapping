@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/resource/Resource
+	FIELD afI name Ljava/lang/String;
+	FIELD afJ bytes [B
+	METHOD <init> <init> (Ljava/lang/String;[B)V
+		ARG 1 name
+		ARG 2 bytes
+	METHOD CHHOOIOICICOIHCHHOHORIIRI setBytes ([B)V
+		ARG 1 bytes
+	METHOD HROHOHCCRIOCIRIROICHCCRRH setName (Ljava/lang/String;)V
+		ARG 1 name
+	METHOD IHHROORIOCHRRHHROIICOCOII getBytes ()[B
+	METHOD IIIOHRRIHHRROCIHICHIHOIRC getName ()Ljava/lang/String;

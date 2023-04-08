@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR joptsimple/ArgumentList
+	FIELD abv abv [Ljava/lang/String;
+	FIELD currentIndex currentIndex I
+	METHOD <init> <init> ([Ljava/lang/String;)V
+	METHOD hasMore hasMore ()Z
+	METHOD next next ()Ljava/lang/String;
+	METHOD peek peek ()Ljava/lang/String;
+	METHOD treatNextAsLongOption treatNextAsLongOption ()V

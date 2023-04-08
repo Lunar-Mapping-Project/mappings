@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/v1_19_0/mixin/resource/ResourceMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getInputStream bridge$getInputStream ()Ljava/io/InputStream;
+	METHOD bridge$getMetadata bridge$getMetadata (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getResourcePackName bridge$getResourcePackName ()Ljava/lang/String;
+	METHOD bridge$hasMetadata bridge$hasMetadata ()Z
+	METHOD metadata metadata ()Lnet/minecraft/server/packs/resources/ResourceMetadata;
+	METHOD open open ()Ljava/io/InputStream;
+	METHOD sourcePackId sourcePackId ()Ljava/lang/String;

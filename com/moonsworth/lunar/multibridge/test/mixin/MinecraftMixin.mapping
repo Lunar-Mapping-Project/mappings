@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/test/mixin/MinecraftMixin
+	METHOD <init> <init> ()V
+	METHOD stop stop ()V
+	METHOD test$start test$start (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci

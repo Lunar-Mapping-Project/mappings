@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/host/ServerAddress
+	FIELD OHHCRHOHIIHORICOCOHRIIRRR hostAndPort Lcom/google/common/net/HostAndPort;
+	FIELD RRHRHRIIRIHHIRCHHCOIORCHC INVALID_SERVER Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/google/common/net/HostAndPort;)V
+		ARG 1 hostAndPort
+	METHOD <init> <init> (Ljava/lang/String;I)V
+		ARG 1 host
+		ARG 2 port
+	METHOD CRCIRICRCIICIRROIRRHHHROC parsePort (Ljava/lang/String;)I
+		ARG 0 port
+	METHOD IHRRCRCRIIIHCRRRHORORHIRC isValid (Ljava/lang/String;)Z
+		ARG 0 address
+	METHOD OHCCCHROHHRHOCCRORIOOROHC getAddress (Ljava/lang/String;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HCOCIICCICRIRCCROHHCHIIIC/OIOORRORCRHOOCICORRCHOHRC;
+		ARG 0 address
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD getHost getHost ()Ljava/lang/String;
+	METHOD getPort getPort ()I
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

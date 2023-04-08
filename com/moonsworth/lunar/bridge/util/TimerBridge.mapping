@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HCOCIICCICRIRCCROHHCHIIIC com/moonsworth/lunar/bridge/util/TimerBridge
+	METHOD bridge$advanceTime bridge$advanceTime (J)V
+	METHOD bridge$partialTick bridge$partialTick ()F
+	METHOD bridge$timer bridge$timer ()F

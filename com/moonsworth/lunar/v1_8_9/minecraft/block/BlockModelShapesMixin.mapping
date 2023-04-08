@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/block/BlockModelShapesMixin
+	METHOD <init> <init> ()V
+	METHOD getTexture getTexture (Lnet/minecraft/block/state/IBlockState;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD reloadModels reloadModels (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

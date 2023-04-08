@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/v1_8_9/optifine/mixin/GuiVideoSettingsMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$noShadersFullbright lunar$noShadersFullbright (Lnet/minecraft/client/gui/GuiButton;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

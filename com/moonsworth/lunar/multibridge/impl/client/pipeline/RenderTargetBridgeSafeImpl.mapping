@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/impl/client/pipeline/RenderTargetBridgeSafeImpl
+	METHOD <init> <init> (III)V
+		ARG 1 width
+		ARG 2 height
+		ARG 3 colorTextureId
+	METHOD resize resize (IIZ)V
+		ARG 1 width
+		ARG 2 height
+		ARG 3 osx

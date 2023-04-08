@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/particle/ParticleEngineMixin
+	FIELD level level Lnet/minecraft/client/multiplayer/ClientLevel;
+	FIELD particles particles Ljava/util/Map;
+	FIELD random random Ljava/util/Random;
+	FIELD trackingEmitters trackingEmitters Ljava/util/Queue;
+	METHOD <init> <init> ()V
+	METHOD add add (Lnet/minecraft/client/particle/Particle;)V
+	METHOD applySettings applySettings (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO;)V
+	METHOD bridge$addEffect bridge$addEffect (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+	METHOD bridge$emitParticleAtEntity bridge$emitParticleAtEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD createTrackingEmitter createTrackingEmitter (Lnet/minecraft/world/entity/Entity;Lnet/minecraft/core/particles/ParticleOptions;)V
+	METHOD impl$crack$head impl$crack$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$destroy$head impl$destroy$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$registerProviders impl$registerProviders (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$spawnEffectParticle impl$spawnEffectParticle (Lnet/minecraft/core/particles/ParticleOptions;DDDDDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$postEventRenderParticle$v1_16 lunar$postEventRenderParticle$v1_16 (Lnet/minecraft/client/particle/Particle;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/client/Camera;F)V
+	METHOD lunar$postEventRenderParticle$v1_17 lunar$postEventRenderParticle$v1_17 (Lnet/minecraft/client/particle/Particle;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/client/Camera;F)V
+	METHOD lunar$postEventRenderParticle lunar$postEventRenderParticle (Lnet/minecraft/client/particle/Particle;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/client/Camera;F)V
+	METHOD makeParticle makeParticle (Lnet/minecraft/core/particles/ParticleOptions;DDDDDD)Lnet/minecraft/client/particle/Particle;

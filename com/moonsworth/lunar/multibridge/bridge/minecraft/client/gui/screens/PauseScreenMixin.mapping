@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/bridge/minecraft/client/gui/screens/PauseScreenMixin
+	METHOD <init> <init> (Lnet/minecraft/network/chat/Component;)V
+	METHOD impl$onCreatePauseMenu impl$onCreatePauseMenu (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$onCreatePauseMenu$0 lambda$impl$onCreatePauseMenu$0 (Lnet/minecraft/client/gui/components/Button$OnPress;Lnet/minecraft/client/gui/components/Button;)V
+	METHOD lambda$impl$onCreatePauseMenu$1 lambda$impl$onCreatePauseMenu$1 (Lnet/minecraft/client/gui/components/Button;)V
+	METHOD lambda$impl$onCreatePauseMenu$2 lambda$impl$onCreatePauseMenu$2 (Lnet/minecraft/client/gui/components/Button;)V
+	METHOD lambda$impl$onCreatePauseMenu$3 lambda$impl$onCreatePauseMenu$3 (Lnet/minecraft/client/gui/components/Button;)V
+	METHOD lunar$addButtonWidget lunar$addButtonWidget (Lnet/minecraft/client/gui/components/Button;)V
+	METHOD removeButton removeButton (I)V

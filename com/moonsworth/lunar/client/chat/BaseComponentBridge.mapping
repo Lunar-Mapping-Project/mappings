@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/chat/BaseComponentBridge
+	METHOD moonBridge$asAdventureComponent moonBridge$asAdventureComponent ()Lnet/kyori/adventure/text/Component;

@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCHIHHOORROICRHIICHCCRRHI com/google/common/collect/Multimap
+	METHOD CIRIHCIIIHIHOIHHRHHCORCOH entries ()Ljava/util/Collection;
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO removeAll (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD IROOCCCICIORROHOIHOROCRCI keys ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IRCIOCROHICHOHOCORCOOORIC;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI replaceValues (Ljava/lang/Object;Ljava/lang/Iterable;)Ljava/util/Collection;
+	METHOD OHICCROHCCHCRCROHHIHCRCIO containsEntry (Ljava/lang/Object;Ljava/lang/Object;)Z
+	METHOD OIOORRORCRHOOCICORRCHOHRC putAll (Ljava/lang/Object;Ljava/lang/Iterable;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI putAll (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCHIHHOORROICRHIICHCCRRHI;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEach$0 (Ljava/util/function/BiConsumer;Ljava/util/Map$Entry;)V
+	METHOD ROIOOCOOIHCRHCIORROHIIRII get (Ljava/lang/Object;)Ljava/util/Collection;
+	METHOD ROOHRHIRRRIOCHOOOOOICHHIO put (Ljava/lang/Object;Ljava/lang/Object;)Z
+	METHOD asMap asMap ()Ljava/util/Map;
+	METHOD clear clear ()V
+	METHOD containsKey containsKey (Ljava/lang/Object;)Z
+	METHOD containsValue containsValue (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD forEach forEach (Ljava/util/function/BiConsumer;)V
+	METHOD hashCode hashCode ()I
+	METHOD isEmpty isEmpty ()Z
+	METHOD keySet keySet ()Ljava/util/Set;
+	METHOD remove remove (Ljava/lang/Object;Ljava/lang/Object;)Z
+	METHOD size size ()I
+	METHOD values values ()Ljava/util/Collection;

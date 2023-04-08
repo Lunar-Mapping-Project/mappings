@@ -1,0 +1,88 @@
+CLASS com/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/ichor/IchorPipeline
+	FIELD adA injectors Ljava/util/Map;
+	FIELD adB phases Ljava/util/List;
+	FIELD adE externalFiles Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIIIOIHCHIIROROROHCCHOHIR;
+	FIELD adG ichorLoaders Ljava/util/List;
+	FIELD adH entrypoints Ljava/util/Map;
+	FIELD adI exclusions Ljava/util/Set;
+	FIELD adK nectarTimings Ljava/util/Map;
+	FIELD adL nectarMatches Ljava/util/Map;
+	FIELD adM classesTimings Ljava/util/Map;
+	FIELD adO packagesTimings Ljava/util/Map;
+	FIELD adQ transformClassTiming Ljava/util/concurrent/atomic/AtomicLong;
+	FIELD adR initAt J
+	FIELD adw LOGGER Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC;
+	FIELD ady injector Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;
+	FIELD adz modules Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC;)V
+		ARG 1 stage
+		ARG 2 phase
+		ARG 3 next
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/CRORIOCOIOOHROHORIORIHRRI;Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC;)V
+		ARG 1 stage
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD <init> <init> (Ljava/util/List;Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD CCRRRHHORRRHRRRHIICOHHOHC getModuleKeys ()Ljava/util/Collection;
+	METHOD CHCHICRRHICIHCORIOIHROCRR getExternalFiles ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIIIOIHCHIIROROROHCCHOHIR;
+	METHOD CHCRHOOOCHCHRRRHRCROHIIOC getPathFromExternalFile (Ljava/lang/String;)Ljava/util/Optional;
+		ARG 1 key
+	METHOD COCICICHROCICRRHIHRCORCCH getInjectors ()Ljava/util/Map;
+	METHOD COHHIIRHCORIIHCRIRHHHCIIH debug ()V
+	METHOD COIORHCOCOIOORHHIIHRCHHHH getClassesTimings ()Ljava/util/Map;
+	METHOD CRCCHRCHCRCIHROCRHOHIROCR getNotchClassNames (Ljava/lang/ClassLoader;)Ljava/util/Set;
+		ARG 1 classLoader
+	METHOD HHOCCCRIROOOHOIOCOOOROOII getNectarTimings ()Ljava/util/Map;
+	METHOD HIHIHHIOCIRCHIIRORRIHIORO getTransformClassTiming ()Ljava/util/concurrent/atomic/AtomicLong;
+	METHOD HRHHHCIIROIHRRHHRHRCICRHC getContainer (Ljava/lang/Object;)Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD HRHRICHHHROIOOIOCRRROIOHC getModContainers ()Ljava/util/stream/Stream;
+	METHOD ICHIRRHRICIOCIRIHOIICCHIC getModules ()Ljava/util/Map;
+	METHOD IIIORCCIHCCRCHCOOHHOORHIO getModule (Ljava/lang/String;)Ljava/util/Optional;
+		ARG 1 key
+	METHOD IIOOICRRIIOHCOHRHRCRRICRR getInitAt ()J
+	METHOD IOHHORORCIRRCCHCOHCIOCOCH getEntrypoint (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 id
+	METHOD IOHRRHCRCCHHHIOIIICORIIOI getPackagesTimings ()Ljava/util/Map;
+	METHOD IRCIOOIICIROICRCRRCHRCRRI getEntrypoints ()Ljava/util/Map;
+	METHOD IRRIIOHHCHORIIRIHRRROCHIC getInjector ()Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;
+	METHOD OCCOOHHHCHRIROCRRIRHIICRH getExternalMods ()Ljava/util/stream/Stream;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC;)Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;
+		ARG 0 mod
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Ljava/lang/String;[BLjava/lang/ClassLoader;)Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 entryName
+	METHOD OCORHRHIOIICRCCOCOHRCCIIH hasModule (Ljava/lang/String;)Z
+		ARG 1 key
+	METHOD OHCROHCOIOHRIHRRCICHHCRRI getPhases ()Ljava/util/List;
+	METHOD OHHIRRIHRRHORRCRHROIHCOII getExclusions ()Ljava/util/Set;
+	METHOD OICORCHRRROHCCOCIRCRCIHHO getNectarMatches ()Ljava/util/Map;
+	METHOD OIOORRORCRHOOCICORRCHOHRC (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC;)Z
+		ARG 0 loader
+	METHOD ORHOOOCCHRCOHROIHHHCIHRCR getLoaderByClass (Ljava/lang/Class;)Ljava/util/Optional;
+		ARG 1 clazz
+	METHOD RCOIIROCOIRRCOCHHCIHCHHRR getModuleFromKey (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC;
+		ARG 1 key
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI parseMappings (Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR;Ljava/util/function/Function;)Ljava/util/Optional;
+		ARG 1 source
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC;Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC;)V
+		ARG 2 module
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC;Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+		ARG 2 loader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC;)Ljava/util/Optional;
+		ARG 1 loader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI remap (Ljava/lang/Class;Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/bombe/provider/ClassProvider;)V
+		ARG 1 clazz
+		ARG 2 mappings
+		ARG 3 classProvider
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI loadEntrypoint (Ljava/lang/String;Ljava/lang/ClassLoader;Ljava/lang/Class;Ljava/util/function/Consumer;)V
+		ARG 1 id
+		ARG 2 classLoader
+		ARG 3 clazz
+		ARG 4 action
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/lang/String;[BLjava/lang/ClassLoader;)Lcom/moonsworth/lunar/ichor/util/RIORHCCRCIOORHIHIHIHHRIOH;
+		ARG 2 data
+		ARG 3 classLoader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/bombe/provider/ClassProvider;Lcom/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+		ARG 2 loader
+	METHOD RIROOCOOHRRHOROCHCCCIHRRO getLoaders ()Ljava/util/List;
+	METHOD close close ()V
+	METHOD forEach forEach (Ljava/util/function/BiConsumer;)V

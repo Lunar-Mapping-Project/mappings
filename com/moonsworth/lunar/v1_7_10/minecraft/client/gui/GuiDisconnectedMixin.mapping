@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/v1_7_10/minecraft/client/gui/GuiDisconnectedMixin
+	FIELD parentScreen parentScreen Lnet/minecraft/client/gui/GuiScreen;
+	METHOD <init> <init> ()V
+	METHOD impl$actionPerformed impl$actionPerformed (Lnet/minecraft/client/gui/GuiButton;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$initGui impl$initGui (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

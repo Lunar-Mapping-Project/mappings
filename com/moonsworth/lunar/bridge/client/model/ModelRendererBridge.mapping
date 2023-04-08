@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/client/model/ModelRendererBridge
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI rotateMatrixStack (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD bridge$getRotateAngleX bridge$getRotateAngleX ()F
+	METHOD bridge$getRotateAngleY bridge$getRotateAngleY ()F
+	METHOD bridge$getRotateAngleZ bridge$getRotateAngleZ ()F
+	METHOD bridge$getRotatePointX bridge$getRotatePointX ()F
+	METHOD bridge$getRotatePointY bridge$getRotatePointY ()F
+	METHOD bridge$getRotatePointZ bridge$getRotatePointZ ()F
+	METHOD bridge$isVisible bridge$isVisible ()Z
+	METHOD bridge$postRender bridge$postRender (F)V
+	METHOD bridge$render bridge$render (FLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$render bridge$render (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;FLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setRotateAngleX bridge$setRotateAngleX (F)V
+	METHOD bridge$setRotateAngleY bridge$setRotateAngleY (F)V
+	METHOD bridge$setRotateAngleZ bridge$setRotateAngleZ (F)V
+	METHOD bridge$setRotatePointX bridge$setRotatePointX (F)V
+	METHOD bridge$setRotatePointY bridge$setRotatePointY (F)V
+	METHOD bridge$setRotatePointZ bridge$setRotatePointZ (F)V
+	METHOD bridge$setTextureOffsetX bridge$setTextureOffsetX (I)V
+	METHOD bridge$setTextureOffsetY bridge$setTextureOffsetY (I)V
+	METHOD bridge$setVisible bridge$setVisible (Z)V
+	METHOD bridge$translateAndRotate bridge$translateAndRotate (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;)V

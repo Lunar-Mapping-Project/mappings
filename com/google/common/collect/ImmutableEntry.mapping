@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCCRIOOIOHCCRCHORRHCIHCRR com/google/common/collect/ImmutableEntry
+	FIELD jf key Ljava/lang/Object;
+	FIELD jg value Ljava/lang/Object;
+	FIELD jh serialVersionUID J
+	METHOD <init> <init> (Ljava/lang/Object;Ljava/lang/Object;)V
+	METHOD getKey getKey ()Ljava/lang/Object;
+	METHOD getValue getValue ()Ljava/lang/Object;
+	METHOD setValue setValue (Ljava/lang/Object;)Ljava/lang/Object;

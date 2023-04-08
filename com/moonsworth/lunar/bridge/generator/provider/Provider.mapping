@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/generator/provider/Provider
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI provide (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OIOORRORCRHOOCICORRCHOHRC;Ljava/util/Queue;Ljava/util/Stack;Lorg/objectweb/asm/tree/InsnList;)V
+		ARG 1 generator
+		ARG 2 annotations
+		ARG 3 stack
+		ARG 4 insns

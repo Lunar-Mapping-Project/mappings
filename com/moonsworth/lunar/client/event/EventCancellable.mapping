@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/client/event/EventCancellable
+	FIELD cancelled cancelled Z
+	METHOD <init> <init> ()V
+	METHOD cancel cancel ()V
+	METHOD isCancelled isCancelled ()Z
+	METHOD setCancelled setCancelled (Z)V

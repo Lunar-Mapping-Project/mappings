@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/client/multiplayer/PlayerControllerBridge
+	METHOD bridge$destroyDelay bridge$destroyDelay ()I
+	METHOD bridge$isSpectator bridge$isSpectator ()Z
+	METHOD bridge$isSpectatorMode bridge$isSpectatorMode ()Z

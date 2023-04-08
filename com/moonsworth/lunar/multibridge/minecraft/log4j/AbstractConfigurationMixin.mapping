@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/log4j/AbstractConfigurationMixin
+	FIELD pluginManager pluginManager Lorg/apache/logging/log4j/core/config/plugins/util/PluginManager;
+	FIELD pluginPackages pluginPackages Ljava/util/List;
+	FIELD scriptManager scriptManager Lorg/apache/logging/log4j/core/script/ScriptManager;
+	FIELD subst subst Lorg/apache/logging/log4j/core/lookup/StrSubstitutor;
+	FIELD watchManager watchManager Lorg/apache/logging/log4j/core/util/WatchManager;
+	METHOD <init> <init> ()V
+	METHOD doConfigure doConfigure ()V
+	METHOD initialize initialize ()V
+	METHOD java11$config java11$config (Lorg/apache/logging/log4j/core/script/ScriptManager;Lorg/apache/logging/log4j/core/script/AbstractScript;)V
+	METHOD setup setup ()V
+	METHOD setupAdvertisement setupAdvertisement ()V

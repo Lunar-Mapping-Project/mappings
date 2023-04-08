@@ -1,0 +1,12 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketNametagsUpdate com/lunarclient/bukkitapi/nethandler/client/LCPacketNametagsUpdate
+	FIELD playersMap playersMap Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/Map;)V
+		ARG 1 playersMap
+	METHOD getPlayersMap getPlayersMap ()Ljava/util/Map;
+	METHOD lambda$write$0 lambda$write$0 (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;Ljava/util/UUID;Ljava/util/List;)V
+		ARG 1 uuid
+		ARG 2 tags
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

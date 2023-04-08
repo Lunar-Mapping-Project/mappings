@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/bridge/client/renderer/RendererLivingEntityBridge
+	METHOD bridge$canRenderName bridge$canRenderName (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;)Z
+	METHOD bridge$create bridge$create ()V
+	METHOD bridge$setBrightness bridge$setBrightness (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;F)Z
+	METHOD bridge$unsetBrightness bridge$unsetBrightness ()V

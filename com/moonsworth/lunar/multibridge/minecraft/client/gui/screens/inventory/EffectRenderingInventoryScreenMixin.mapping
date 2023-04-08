@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/gui/screens/inventory/EffectRenderingInventoryScreenMixin
+	FIELD doRenderEffects$v1_16_1 doRenderEffects$v1_16_1 Z
+	METHOD <init> <init> (Lnet/minecraft/world/inventory/AbstractContainerMenu;Lnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/network/chat/Component;)V
+	METHOD impl$checkEffectRendering impl$checkEffectRendering (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$checkEffectRendering impl$checkEffectRendering (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$renderEffects impl$renderEffects (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

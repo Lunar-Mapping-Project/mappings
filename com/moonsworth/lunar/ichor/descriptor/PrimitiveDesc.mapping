@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/descriptor/PrimitiveDesc
+	FIELD afL baseType Lorg/cadixdev/bombe/type/BaseType;
+	METHOD <init> <init> (C)V
+	METHOD <init> <init> (Lorg/cadixdev/bombe/type/BaseType;)V
+	METHOD HORHCORROHCROHOIHCCHHHHCI baseType ()Lorg/cadixdev/bombe/type/BaseType;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getDescriptor getDescriptor ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/ichor/mappings/IIROHIIHCHOORORIIHORHRORO
+	METHOD CHOHRRRHCIRHRHRORIOROHIHI getInheritanceMap ()Ljava/util/Map;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI readInheritanceMap ([BLjava/lang/String;)V
+		ARG 1 butes
+		ARG 2 className
+	METHOD RICOIRCRRHCICRRIOCRHCIRCO (Ljava/lang/String;Ljava/lang/String;)V
+		ARG 2 superName

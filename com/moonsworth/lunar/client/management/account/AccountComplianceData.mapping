@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/IOICICOOIRRHCCHORRHOOOICR/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/management/account/AccountComplianceData
+	FIELD CCIRHHOIIRCCRHCOOCOCRHIOR userProperites Lcom/google/gson/JsonArray;
+	FIELD HIORHORHCCROOIIOCRICCHHCI persistent Z
+	FIELD IRHHHRRCRIIIIORRCOCIOOCOI legacy Z
+	FIELD OHRIROHHIRIRORCIIOOHHCCHR hasMultipleProfiles Z
+	FIELD OIIOCCCHCROOOOROOORCIIHRO eligibleForMigration Z
+	FIELD avatar avatar Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR save (Lcom/google/gson/JsonObject;)V
+	METHOD load load (Lcom/google/gson/JsonObject;)V

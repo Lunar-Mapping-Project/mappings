@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR joptsimple/internal/ConstructorInvokingValueConverter
+	FIELD acn ctor Ljava/lang/reflect/Constructor;
+	METHOD <init> <init> (Ljava/lang/reflect/Constructor;)V
+		ARG 1 ctor
+	METHOD convert convert (Ljava/lang/String;)Ljava/lang/Object;
+	METHOD valuePattern valuePattern ()Ljava/lang/String;
+	METHOD valueType valueType ()Ljava/lang/Class;

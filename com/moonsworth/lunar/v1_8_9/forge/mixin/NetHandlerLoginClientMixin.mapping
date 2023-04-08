@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_8_9/forge/mixin/NetHandlerLoginClientMixin
+	METHOD <init> <init> ()V
+	METHOD ichor$fmlClientHandshake ichor$fmlClientHandshake (Lnet/minecraft/network/NetworkManager;)V

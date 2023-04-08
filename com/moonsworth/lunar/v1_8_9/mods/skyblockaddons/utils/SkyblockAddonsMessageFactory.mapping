@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/OICCIHOCRHCCRRHCRCCCHIIRC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/SkyblockAddonsMessageFactory
+	FIELD loggerName loggerName Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD getMessageWithLoggerName getMessageWithLoggerName (Ljava/lang/String;)Ljava/lang/String;
+	METHOD newMessage newMessage (Ljava/lang/Object;)Lorg/apache/logging/log4j/message/Message;
+	METHOD newMessage newMessage (Ljava/lang/String;)Lorg/apache/logging/log4j/message/Message;
+	METHOD newMessage newMessage (Ljava/lang/String;[Ljava/lang/Object;)Lorg/apache/logging/log4j/message/Message;

@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/minecraft/client/model/SimpleBakedModel
+	METHOD <init> <init> ()V
+	METHOD addFaceBreakingFours addFaceBreakingFours (Lnet/minecraft/client/resources/model/IBakedModel;Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;Lnet/minecraft/util/EnumFacing;)V
+	METHOD addFaceQuad addFaceQuad (Lnet/minecraft/util/EnumFacing;Lnet/minecraft/client/renderer/block/model/BakedQuad;)Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;
+	METHOD addGeneralQuad addGeneralQuad (Lnet/minecraft/client/renderer/block/model/BakedQuad;)Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;
+	METHOD bridge$addFaceQuad bridge$addFaceQuad (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RIORHCCRCIOORHIHIHIHHRIOH;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$addGeneralQuad bridge$addGeneralQuad (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$makeBakedModel bridge$makeBakedModel ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$setParticleTexture bridge$setParticleTexture (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/RIORHCCRCIOORHIHIHIHHRIOH;)V
+	METHOD impl$addFaceBreakingFours impl$addFaceBreakingFours (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/RIORHCCRCIOORHIHIHIHHRIOH;)V
+	METHOD makeBakedModel makeBakedModel ()Lnet/minecraft/client/resources/model/IBakedModel;
+	METHOD setTexture setTexture (Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;)Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;

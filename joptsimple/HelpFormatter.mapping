@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC joptsimple/HelpFormatter
+	METHOD format format (Ljava/util/Map;)Ljava/lang/String;
+		ARG 1 options

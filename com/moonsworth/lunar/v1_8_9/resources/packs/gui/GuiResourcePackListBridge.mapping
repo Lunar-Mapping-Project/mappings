@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/resources/packs/gui/GuiResourcePackListBridge
+	METHOD setUnderlyingList setUnderlyingList (Ljava/util/List;)V

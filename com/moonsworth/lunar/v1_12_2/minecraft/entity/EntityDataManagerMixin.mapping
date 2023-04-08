@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/entity/EntityDataManagerMixin
+	FIELD entries entries Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD bridge$updateObject bridge$updateObject (ILjava/lang/Object;)V
+	METHOD register register (Lnet/minecraft/network/datasync/DataParameter;Ljava/lang/Object;)V
+	METHOD set set (Lnet/minecraft/network/datasync/DataParameter;Ljava/lang/Object;)V

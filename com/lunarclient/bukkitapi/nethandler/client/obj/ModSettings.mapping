@@ -1,0 +1,24 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/obj/ModSettings com/lunarclient/bukkitapi/nethandler/client/obj/ModSettings
+	FIELD GSON GSON Lcom/google/gson/Gson;
+	FIELD modSettings modSettings Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD addModSetting addModSetting (Ljava/lang/String;Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings$ModSetting;)Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings;
+		ARG 1 modId
+		ARG 2 sertings
+	METHOD getModSetting getModSetting (Ljava/lang/String;)Lcom/lunarclient/bukkitapi/nethandler/client/obj/ModSettings$ModSetting;
+		ARG 1 modId
+	METHOD getModSettings getModSettings ()Ljava/util/Map;
+	CLASS ModSetting ModSetting
+		FIELD enabled enabled Z
+		FIELD properties properties Ljava/util/Map;
+		METHOD <init> <init> ()V
+		METHOD <init> <init> (ZLjava/util/Map;)V
+			ARG 1 enabled
+			ARG 2 properties
+		METHOD equals equals (Ljava/lang/Object;)Z
+			ARG 1 other
+		METHOD getProperties getProperties ()Ljava/util/Map;
+		METHOD hashCode hashCode ()I
+		METHOD isEnabled isEnabled ()Z
+		METHOD toString toString ()Ljava/lang/String;

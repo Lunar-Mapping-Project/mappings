@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OICCIHOCRHCCRRHCRCCCHIIRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/tabtimers/TabEffect
+	FIELD duration duration Ljava/lang/String;
+	FIELD durationSeconds durationSeconds I
+	FIELD effect effect Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD compareTo compareTo (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OICCIHOCRHCCRRHCRCCCHIIRC/RHOIOCRHOCHOOHHCOHIOIIRHI;)I
+	METHOD compareTo compareTo (Ljava/lang/Object;)I
+	METHOD getDurationForDisplay getDurationForDisplay ()Ljava/lang/String;
+	METHOD getDurationSeconds getDurationSeconds ()I
+	METHOD getEffect getEffect ()Ljava/lang/String;
+	METHOD setEffect setEffect (Ljava/lang/String;)V

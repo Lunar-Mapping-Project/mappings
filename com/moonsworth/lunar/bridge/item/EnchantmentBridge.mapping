@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/item/EnchantmentBridge
+	METHOD bridge$canApply bridge$canApply (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+		ARG 1 stack
+	METHOD bridge$canApplyTogether bridge$canApplyTogether (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+		ARG 1 enchantment
+	METHOD bridge$getMaxLevel bridge$getMaxLevel ()I
+	METHOD bridge$getWeight bridge$getWeight ()I

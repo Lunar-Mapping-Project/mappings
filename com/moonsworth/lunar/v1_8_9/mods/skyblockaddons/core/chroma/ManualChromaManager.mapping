@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/core/chroma/ManualChromaManager
+	FIELD coloringTextChroma coloringTextChroma Z
+	FIELD defaultColorHSB defaultColorHSB [F
+	FIELD featureScale featureScale F
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD doneRenderingText doneRenderingText ()V
+	METHOD getChromaColor getChromaColor (FFFI)I
+	METHOD getChromaColor getChromaColor (FFI)I
+	METHOD getChromaColor getChromaColor (FF[FI)I
+	METHOD getFeatureScale getFeatureScale ()F
+	METHOD isColoringTextChroma isColoringTextChroma ()Z
+	METHOD renderingText renderingText (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+	METHOD setColoringTextChroma setColoringTextChroma (Z)V

@@ -1,0 +1,34 @@
+CLASS com/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/ichor/nectar/handler/RemapNectarHandler
+	FIELD aee cache Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI;
+	FIELD disabled disabled Z
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR;Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;Ljava/lang/reflect/Method;)V
+		ARG 1 nectar
+		ARG 2 ontainer
+		ARG 3 method
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 pipeline
+		ARG 2 classLoader
+	CLASS 1
+		FIELD aej aej Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+		METHOD load load (Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI ThreadEntry
+		FIELD aem thread Ljava/lang/Thread;
+		FIELD aen classLoader Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD <init> <init> (Ljava/lang/Thread;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+			ARG 1 thread
+			ARG 2 classLoader
+		METHOD IHIROIICIHORCCHRIRCHCOIHR thread ()Ljava/lang/Thread;
+		METHOD OHRRIOIHIROHRCIIICHHRIRIR classLoader ()Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		FIELD aek mappingSet Lorg/cadixdev/lorenz/MappingSet;
+		FIELD ael test Ljava/util/function/Function;
+		METHOD <init> <init> (Lorg/cadixdev/lorenz/MappingSet;Ljava/util/function/Function;)V
+		METHOD HIOIORROIIHIROCIOCRHOCCOC mappingSet ()Lorg/cadixdev/lorenz/MappingSet;
+		METHOD HOOHHOHIOOOHCCIHCRCOOOOCR test ()Ljava/util/function/Function;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;

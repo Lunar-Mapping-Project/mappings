@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/ichor/util/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/ichor/util/InheritanceProviderImpl
+	FIELD agu parent Lorg/cadixdev/bombe/analysis/InheritanceProvider;
+	FIELD agv cache Ljava/util/Map;
+	METHOD <init> <init> (Lorg/cadixdev/bombe/analysis/InheritanceProvider;)V
+		ARG 1 parent
+	METHOD lambda$provide$0 lambda$provide$0 (Ljava/lang/Object;Ljava/lang/String;)Ljava/util/Optional;
+		ARG 2 v
+	METHOD provide provide (Ljava/lang/String;)Ljava/util/Optional;
+		ARG 1 key
+	METHOD provide provide (Ljava/lang/String;Ljava/lang/Object;)Ljava/util/Optional;
+		ARG 1 key

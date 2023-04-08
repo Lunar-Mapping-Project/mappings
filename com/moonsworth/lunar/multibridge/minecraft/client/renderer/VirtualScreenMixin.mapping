@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/multibridge/minecraft/client/renderer/VirtualScreenMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$initMessage lunar$initMessage (Lcom/mojang/blaze3d/platform/DisplayData;Ljava/lang/String;Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

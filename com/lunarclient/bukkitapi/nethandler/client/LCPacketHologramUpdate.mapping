@@ -1,0 +1,12 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketHologramUpdate com/lunarclient/bukkitapi/nethandler/client/LCPacketHologramUpdate
+	FIELD lines lines Ljava/util/List;
+	FIELD uuid uuid Ljava/util/UUID;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/util/UUID;Ljava/util/List;)V
+		ARG 1 uuid
+		ARG 2 lines
+	METHOD getLines getLines ()Ljava/util/List;
+	METHOD getUuid getUuid ()Ljava/util/UUID;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

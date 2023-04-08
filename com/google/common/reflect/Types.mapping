@@ -1,0 +1,152 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO com/google/common/reflect/Types
+	FIELD Uu TYPE_NAME Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;
+	FIELD Uv COMMA_JOINER Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD HCIOICCIRCOIIHHRRIIRROHRO access$300 (Ljava/util/Collection;)[Ljava/lang/reflect/Type;
+	METHOD HHRIHCIHOOROOIRIHIRRHIOIR getArrayClass (Ljava/lang/Class;)Ljava/lang/Class;
+	METHOD HICHICCCOCIORRHICHHIHOHIR access$100 ([Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+	METHOD IOICICOOIRRHCCHORRHOOOICR getComponentType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI newTypeVariableImpl (Ljava/lang/reflect/GenericDeclaration;Ljava/lang/String;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/TypeVariable;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI access$200 ([Ljava/lang/reflect/Type;Ljava/lang/String;)V
+	METHOD OHOOHRHCHHIHHHHIRROOCOHHO access$400 ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;
+	METHOD OIOORRORCRHOOCICORRCHOHRC newParameterizedType (Ljava/lang/Class;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/ParameterizedType;
+	METHOD ORCHIHHCIIOHHHRCOICCRRCHO filterUpperBounds (Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD ORICCRORCIHCRRROCCHHCCRIH access$700 (Ljava/lang/Iterable;)Ljava/lang/Iterable;
+	METHOD ORRCHORCCOOOCCORCIHCROOCC subtypeOfComponentType ([Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI newArtificialTypeVariable (Ljava/lang/reflect/GenericDeclaration;Ljava/lang/String;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/TypeVariable;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI newParameterizedTypeWithOwner (Ljava/lang/reflect/Type;Ljava/lang/Class;[Ljava/lang/reflect/Type;)Ljava/lang/reflect/ParameterizedType;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI disallowPrimitiveType ([Ljava/lang/reflect/Type;Ljava/lang/String;)V
+	METHOD ROHRIHOOHIOCRHORCRRCHRCOC access$500 ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD ROIOOCOOIHCRHCIORROHIIRII toArray (Ljava/util/Collection;)[Ljava/lang/reflect/Type;
+	METHOD newArrayType newArrayType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+	METHOD subtypeOf subtypeOf (Ljava/lang/reflect/Type;)Ljava/lang/reflect/WildcardType;
+	METHOD supertypeOf supertypeOf (Ljava/lang/reflect/Type;)Ljava/lang/reflect/WildcardType;
+	METHOD toString toString (Ljava/lang/reflect/Type;)Ljava/lang/String;
+	CLASS 1 1
+		METHOD <init> <init> ()V
+		METHOD ROOIRIIIRHHIIRRCOCHIOCIHO apply (Ljava/lang/reflect/Type;)Ljava/lang/String;
+		METHOD apply apply (Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS 2 2
+		FIELD Uw val$result Ljava/util/concurrent/atomic/AtomicReference;
+		METHOD <init> <init> (Ljava/util/concurrent/atomic/AtomicReference;)V
+		METHOD ICHOOOOOCROIHROCRIRCIOORH visitClass (Ljava/lang/Class;)V
+		METHOD OCIROORRIRIOHIIIRRIORCIHI visitGenericArrayType (Ljava/lang/reflect/GenericArrayType;)V
+		METHOD OCIROORRIRIOHIIIRRIORCIHI visitWildcardType (Ljava/lang/reflect/WildcardType;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI visitTypeVariable (Ljava/lang/reflect/TypeVariable;)V
+	CLASS IIROHIIHCHOORORIIHORHRORO ParameterizedTypeImpl
+		FIELD UA ownerType Ljava/lang/reflect/Type;
+		FIELD UB argumentsList Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICCORIORRCOIIORCRHIRRRCHO;
+		FIELD UC rawType Ljava/lang/Class;
+		FIELD UD serialVersionUID J
+		METHOD <init> <init> (Ljava/lang/reflect/Type;Ljava/lang/Class;[Ljava/lang/reflect/Type;)V
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getActualTypeArguments getActualTypeArguments ()[Ljava/lang/reflect/Type;
+		METHOD getOwnerType getOwnerType ()Ljava/lang/reflect/Type;
+		METHOD getRawType getRawType ()Ljava/lang/reflect/Type;
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS OCIROORRIRIOHIIIRRIORCIHI GenericArrayTypeImpl
+		FIELD Ux componentType Ljava/lang/reflect/Type;
+		FIELD Uy serialVersionUID J
+		METHOD <init> <init> (Ljava/lang/reflect/Type;)V
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getGenericComponentType getGenericComponentType ()Ljava/lang/reflect/Type;
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS OCRHRIOCIICCRHCHHHOHHCROC TypeVariableInvocationHandler
+		FIELD UH typeVariableMethods Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRIIICRORIOCCHCROOHRORRI;
+		FIELD UI typeVariableImpl Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOHHRHHRCHRRIOCIIRHICCIC;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOHHRHHRCHRRIOCIIRHICCIC;)V
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI access$600 (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OCRHRIOCIICCRHCHHHOHHCROC;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOHHRHHRCHRRIOCIIRHICCIC;
+		METHOD invoke invoke (Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS OIOORRORCRHOOCICORRCHOHRC JavaVersion
+		FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		FIELD CURRENT CURRENT Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		FIELD JAVA6 JAVA6 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		FIELD JAVA7 JAVA7 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		FIELD JAVA8 JAVA8 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		FIELD JAVA9 JAVA9 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Ljava/lang/String;I)V
+		METHOD <init> <init> (Ljava/lang/String;ILcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$1;)V
+		METHOD jdkTypeDuplicatesOwnerName jdkTypeDuplicatesOwnerName ()Z
+		METHOD newArrayType newArrayType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+		METHOD typeName typeName (Ljava/lang/reflect/Type;)Ljava/lang/String;
+		METHOD usedInGenericType usedInGenericType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+		METHOD usedInGenericType usedInGenericType ([Ljava/lang/reflect/Type;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICCORIORRCOIIORCRHIRRRCHO;
+		METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		METHOD values values ()[Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$OIOORRORCRHOOCICORRCHOHRC;
+		CLASS 1 1
+			METHOD <init> <init> (Ljava/lang/String;I)V
+			METHOD newArrayType newArrayType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/GenericArrayType;
+			METHOD newArrayType newArrayType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+			METHOD usedInGenericType usedInGenericType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+		CLASS 2 2
+			METHOD <init> <init> (Ljava/lang/String;I)V
+			METHOD newArrayType newArrayType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+			METHOD usedInGenericType usedInGenericType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+		CLASS 3 3
+			METHOD <init> <init> (Ljava/lang/String;I)V
+			METHOD newArrayType newArrayType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+			METHOD typeName typeName (Ljava/lang/reflect/Type;)Ljava/lang/String;
+			METHOD usedInGenericType usedInGenericType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+		CLASS 4 4
+			METHOD <init> <init> (Ljava/lang/String;I)V
+			METHOD jdkTypeDuplicatesOwnerName jdkTypeDuplicatesOwnerName ()Z
+			METHOD newArrayType newArrayType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+			METHOD typeName typeName (Ljava/lang/reflect/Type;)Ljava/lang/String;
+			METHOD usedInGenericType usedInGenericType (Ljava/lang/reflect/Type;)Ljava/lang/reflect/Type;
+		CLASS 5 5
+			METHOD <init> <init> ()V
+		CLASS 6 6
+			METHOD <init> <init> ()V
+	CLASS ORRCHORCCOOOCCORCIHCROOCC WildcardTypeImpl
+		FIELD UJ lowerBounds Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICCORIORRCOIIORCRHIRRRCHO;
+		FIELD UL upperBounds Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICCORIORRCOIIORCRHIRRRCHO;
+		FIELD UM serialVersionUID J
+		METHOD <init> <init> ([Ljava/lang/reflect/Type;[Ljava/lang/reflect/Type;)V
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getLowerBounds getLowerBounds ()[Ljava/lang/reflect/Type;
+		METHOD getUpperBounds getUpperBounds ()[Ljava/lang/reflect/Type;
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR NativeTypeVariableEquals
+		FIELD Uz NATIVE_TYPE_VARIABLE_ONLY Z
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> ()V
+	CLASS RHOHHRHHRCHRRIOCIIRHICCIC TypeVariableImpl
+		FIELD UE genericDeclaration Ljava/lang/reflect/GenericDeclaration;
+		FIELD UF name Ljava/lang/String;
+		FIELD UG bounds Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICCORIORRCOIIORCRHIRRRCHO;
+		METHOD <init> <init> (Ljava/lang/reflect/GenericDeclaration;Ljava/lang/String;[Ljava/lang/reflect/Type;)V
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getBounds getBounds ()[Ljava/lang/reflect/Type;
+		METHOD getGenericDeclaration getGenericDeclaration ()Ljava/lang/reflect/GenericDeclaration;
+		METHOD getName getName ()Ljava/lang/String;
+		METHOD getTypeName getTypeName ()Ljava/lang/String;
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI ClassOwnership
+		FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD JVM_BEHAVIOR JVM_BEHAVIOR Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD LOCAL_CLASS_HAS_NO_OWNER LOCAL_CLASS_HAS_NO_OWNER Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD OWNED_BY_ENCLOSING_CLASS OWNED_BY_ENCLOSING_CLASS Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Ljava/lang/String;I)V
+		METHOD <init> <init> (Ljava/lang/String;ILcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$1;)V
+		METHOD detectJvmBehavior detectJvmBehavior ()Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD getOwnerType getOwnerType (Ljava/lang/Class;)Ljava/lang/Class;
+		METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD values values ()[Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ROOHRHIRRRIOCHOOOOOICHHIO$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		CLASS 1 1
+			METHOD <init> <init> (Ljava/lang/String;I)V
+			METHOD getOwnerType getOwnerType (Ljava/lang/Class;)Ljava/lang/Class;
+		CLASS 2 2
+			METHOD <init> <init> (Ljava/lang/String;I)V
+			METHOD getOwnerType getOwnerType (Ljava/lang/Class;)Ljava/lang/Class;
+		CLASS 3 3
+			METHOD <init> <init> ()V
+		CLASS RHOIOCRHOCHOOHHCOHIOIIRHI 1LocalClass
+			METHOD <init> <init> ()V

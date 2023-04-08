@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/optifine/mixin/reflector/FieldLocatorNameMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$optifine$silentReflectorLog lunar$optifine$silentReflectorLog (Ljava/lang/String;)V

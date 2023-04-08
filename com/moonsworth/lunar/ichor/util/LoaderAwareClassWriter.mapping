@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/ichor/util/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/ichor/util/LoaderAwareClassWriter
+	FIELD classLoader classLoader Ljava/lang/ClassLoader;
+	METHOD <init> <init> (Ljava/lang/ClassLoader;I)V
+	METHOD HROHCRRRCIIHHOOHHCOHIRRCH (Ljava/lang/String;)Z
+	METHOD getClassLoader getClassLoader ()Ljava/lang/ClassLoader;
+	METHOD getCommonSuperClass getCommonSuperClass (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

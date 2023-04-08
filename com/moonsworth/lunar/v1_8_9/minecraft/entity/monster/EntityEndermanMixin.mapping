@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/entity/monster/EntityEndermanMixin
+	METHOD <init> <init> (Lnet/minecraft/world/World;)V
+	METHOD lunar$endermanTeleportEvent lunar$endermanTeleportEvent (DDDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$endermanTeleportEvent lunar$endermanTeleportEvent (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

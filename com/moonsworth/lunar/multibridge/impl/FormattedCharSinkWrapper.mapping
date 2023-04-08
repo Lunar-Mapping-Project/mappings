@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/multibridge/impl/FormattedCharSinkWrapper
+	METHOD accept$common accept$common (ILnet/minecraft/network/chat/Style;I)Z
+		ARG 1 pos
+		ARG 2 style
+		ARG 3 charInt
+	METHOD accept$v1_16_5 accept$v1_16_5 (ILnet/minecraft/network/chat/Style;I)Z
+	METHOD onChar$v1_16_1 onChar$v1_16_1 (ILnet/minecraft/network/chat/Style;I)Z
+	METHOD wrap wrap (Lnet/minecraft/util/FormattedCharSink;)Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		FIELD ahB sink Lnet/minecraft/util/FormattedCharSink;
+		METHOD <init> <init> (Lnet/minecraft/util/FormattedCharSink;)V
+			ARG 1 sink
+		METHOD RCIHHIHIOIIHOCCHRRCRIHOCC sink ()Lnet/minecraft/util/FormattedCharSink;
+		METHOD accept$common accept$common (ILnet/minecraft/network/chat/Style;I)Z
+		METHOD accept$v1_16_5 accept$v1_16_5 (ILnet/minecraft/network/chat/Style;I)Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD onChar$v1_16_1 onChar$v1_16_1 (ILnet/minecraft/network/chat/Style;I)Z
+		METHOD toString toString ()Ljava/lang/String;

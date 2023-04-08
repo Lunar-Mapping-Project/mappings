@@ -1,0 +1,30 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IRCIOCROHICHOHOCORCOOORIC com/google/common/collect/Multiset
+	METHOD IIROHIIHCHOORORIIHORHRORO remove (Ljava/lang/Object;I)I
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR add (Ljava/lang/Object;I)I
+	METHOD RHHROOIHRCHCCHORRHIRIHHIC elementSet ()Ljava/util/Set;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC setCount (Ljava/lang/Object;I)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setCount (Ljava/lang/Object;II)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEach$1 (Ljava/util/function/Consumer;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IRCIOCROHICHOHOCORCOOORIC$RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI forEachEntry (Ljava/util/function/ObjIntConsumer;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI lambda$forEachEntry$0 (Ljava/util/function/ObjIntConsumer;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IRCIOCROHICHOHOCORCOOORIC$RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD add add (Ljava/lang/Object;)Z
+	METHOD contains contains (Ljava/lang/Object;)Z
+	METHOD containsAll containsAll (Ljava/util/Collection;)Z
+	METHOD count count (Ljava/lang/Object;)I
+	METHOD entrySet entrySet ()Ljava/util/Set;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD forEach forEach (Ljava/util/function/Consumer;)V
+	METHOD hashCode hashCode ()I
+	METHOD iterator iterator ()Ljava/util/Iterator;
+	METHOD remove remove (Ljava/lang/Object;)Z
+	METHOD removeAll removeAll (Ljava/util/Collection;)Z
+	METHOD retainAll retainAll (Ljava/util/Collection;)Z
+	METHOD size size ()I
+	METHOD spliterator spliterator ()Ljava/util/Spliterator;
+	METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Entry
+		METHOD IHRHICHORHHIOOHIORCOCCIRI getElement ()Ljava/lang/Object;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD getCount getCount ()I
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;

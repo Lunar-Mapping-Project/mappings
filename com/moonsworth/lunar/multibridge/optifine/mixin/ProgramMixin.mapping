@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/multibridge/optifine/mixin/ProgramMixin
+	FIELD id id I
+	METHOD <init> <init> ()V
+	METHOD getId getId ()I

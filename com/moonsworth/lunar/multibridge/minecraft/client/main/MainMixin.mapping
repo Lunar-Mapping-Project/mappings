@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/main/MainMixin
+	FIELD hwid hwid Ljoptsimple/OptionSpec;
+	FIELD launcherVersion launcherVersion Ljoptsimple/OptionSpec;
+	FIELD texturesDir texturesDir Ljoptsimple/OptionSpec;
+	METHOD <init> <init> ()V
+	METHOD impl$main$minecraft impl$main$minecraft (Lnet/minecraft/client/main/GameConfig;)Lnet/minecraft/client/Minecraft;
+	METHOD impl$main$parse impl$main$parse (Ljoptsimple/OptionParser;[Ljava/lang/String;)Ljoptsimple/OptionSet;
+	METHOD impl$main impl$main ([Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$main$options$v1_16 lunar$main$options$v1_16 ([Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljoptsimple/OptionParser;)V
+	METHOD lunar$main$options$v1_19_2 lunar$main$options$v1_19_2 ([Ljava/lang/String;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljoptsimple/OptionParser;)V
+	METHOD lunar$main$properties$v1_19_2 lunar$main$properties$v1_19_2 ([Ljava/lang/String;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$main$properties lunar$main$properties ()V

@@ -1,0 +1,42 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/feature/FeatureDetails
+	FIELD CCCOOHHHORIRHIIHIHHIICIOC enabledOnCurrentVersion Z
+	FIELD IOORHHRIRRIHOCROOIIOIHRHI hidden Z
+	FIELD OIOORCRRROCOHRCCRCCHCHHHO aliases Ljava/util/List;
+	FIELD RRCIRIOIHHCOCRIHRRCOIOHRR authors Ljava/util/List;
+	FIELD categories categories Ljava/util/List;
+	FIELD id id Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 id
+	METHOD <init> <init> (Ljava/lang/String;Ljava/util/List;Ljava/util/List;[Ljava/lang/String;)V
+		ARG 1 id
+		ARG 2 categories
+		ARG 3 versions
+		ARG 4 authors
+	METHOD <init> <init> (Ljava/lang/String;Ljava/util/List;ZLjava/util/List;[Ljava/lang/String;)V
+		ARG 1 id
+		ARG 2 categories
+		ARG 3 versionAgnostic
+		ARG 4 versions
+		ARG 5 authors
+	METHOD <init> <init> (Ljava/lang/String;Ljava/util/List;[Ljava/lang/String;)V
+		ARG 1 id
+		ARG 2 categories
+		ARG 3 authors
+	METHOD HRRCCOIORIHRCIRROHCHCICOH isEnabledOnCurrentVersion ()Z
+	METHOD IIROHIIHCHOORORIIHORHRORO setAuthors (Ljava/util/List;)V
+		ARG 1 authors
+	METHOD IOCOHRHIHOOOCIOCHRIHCHHRO getCategories ()Ljava/util/List;
+	METHOD OIOORRORCRHOOCICORRCHOHRC setAliases (Ljava/util/List;)Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+		ARG 1 aliases
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR setCategories (Ljava/util/List;)V
+		ARG 1 categories
+	METHOD RCIHHIIOCRROOOCCHRRIROCOR getAuthors ()Ljava/util/List;
+	METHOD getAliases getAliases ()Ljava/util/List;
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;
+	METHOD isHidden isHidden ()Z
+	METHOD setHidden setHidden (Z)V
+		ARG 1 hidden
+	METHOD setId setId (Ljava/lang/String;)V
+		ARG 1 id
+	METHOD toString toString ()Ljava/lang/String;

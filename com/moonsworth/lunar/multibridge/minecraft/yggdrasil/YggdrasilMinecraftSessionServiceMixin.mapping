@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/yggdrasil/YggdrasilMinecraftSessionServiceMixin
+	FIELD insecureProfiles insecureProfiles Lcom/google/common/cache/LoadingCache;
+	METHOD <init> <init> ()V
+	METHOD bridge$refresh bridge$refresh (Lcom/mojang/authlib/GameProfile;)V

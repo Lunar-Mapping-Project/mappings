@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/ichor/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/ichor/nectar/handler/NectarHandler
+	FIELD aeb nectar Ljava/lang/annotation/Annotation;
+	FIELD aec container Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	FIELD aed method Ljava/lang/reflect/Method;
+	METHOD <init> <init> (Ljava/lang/annotation/Annotation;Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;Ljava/lang/reflect/Method;)V
+		ARG 1 nectar
+		ARG 2 container
+		ARG 3 method
+	METHOD OCIROORRIRIOHIIIRRIORCIHI apply (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO$OIOORRORCRHOOCICORRCHOHRC;)Z
+		ARG 1 resource
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI apply (Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)Z
+		ARG 1 pattern
+		ARG 2 target
+		ARG 3 params
+	METHOD toString toString ()Ljava/lang/String;

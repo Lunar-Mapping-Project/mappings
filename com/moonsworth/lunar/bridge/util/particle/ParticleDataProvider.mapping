@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/util/particle/ParticleDataProvider
+	METHOD getId getId ()I
+	METHOD getName getName ()Ljava/lang/String;

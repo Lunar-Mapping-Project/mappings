@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HORRIRRROCHOHCCORHOOCHICO/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/gui/framework/transition/Transition
+	FIELD active active Z
+	FIELD durationMs durationMs J
+	FIELD startTime startTime J
+	METHOD <init> <init> (JF)V
+	METHOD HCRHHRIIOROHHCRCIHIRCRRRR hasBegun ()Z
+	METHOD HOIIICHIHOHRRHROOCOHOHHRO getEndTimeDifference ()J
+	METHOD IOHORIOIIIHHIOORHRRCIROIH hasEnded ()Z
+	METHOD IOICRCCIIOCHRCRCHRIRCHRRR getInterpolation ()F
+	METHOD OCRHRIOCIICCRHCHHHOHHCROC start (J)V
+	METHOD OOIHCIRCHROOOCHHRICICHCHO isTransitioning ()Z
+	METHOD getDurationMs getDurationMs ()J
+	METHOD getStartTime getStartTime ()J
+	METHOD isActive isActive ()Z
+	METHOD start start ()V
+	METHOD stop stop ()V

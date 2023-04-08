@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/generator/bridge/ClientBridgeViewTarget
+	FIELD CRHHOCCCCROCRIIRROIOOORCC path [Ljava/lang/String;
+	METHOD <init> <init> ([Ljava/lang/String;)V
+		ARG 1 path
+	METHOD ORHIOOCCHRHORHIHCCOCHCCRI path ()[Ljava/lang/String;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getMemberNode (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI;
+		ARG 1 classNode
+		ARG 2 ownerType
+		ARG 3 descriptor
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getMemberNodes (Lorg/objectweb/asm/tree/ClassNode;Lorg/cadixdev/bombe/provider/ClassProvider;)Ljava/util/List;
+		ARG 1 classNode
+		ARG 2 classProvider
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I
+	METHOD toString toString ()Ljava/lang/String;

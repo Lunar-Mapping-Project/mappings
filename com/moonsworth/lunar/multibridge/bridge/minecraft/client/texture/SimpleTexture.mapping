@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/texture/SimpleTexture
+	METHOD <init> <init> ()V
+	METHOD impl$read impl$read (Ljava/io/InputStream;Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/resources/ResourceLocation;)Lcom/mojang/blaze3d/platform/NativeImage;

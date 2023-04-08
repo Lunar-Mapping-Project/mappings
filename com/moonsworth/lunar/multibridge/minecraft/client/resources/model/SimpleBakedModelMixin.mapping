@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/resources/model/SimpleBakedModelMixin
+	FIELD isGui3d isGui3d Z
+	FIELD particleIcon particleIcon Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;
+	METHOD <init> <init> ()V
+	METHOD bridge$getItemCameraTransforms bridge$getItemCameraTransforms ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getParticleTexture bridge$getParticleTexture ()Ljava/util/Optional;
+	METHOD bridge$isGui3D bridge$isGui3D ()Z
+	METHOD getTransforms getTransforms ()Lnet/minecraft/client/renderer/block/model/ItemTransforms;

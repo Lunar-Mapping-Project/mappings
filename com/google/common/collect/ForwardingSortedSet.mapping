@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/IRCHIIOORIHHRCIROOHORORIR com/google/common/collect/ForwardingSortedSet
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD HRCROROCHCHRRCOIORCCCIRIH delegate ()Ljava/util/Set;
+	METHOD IICCCIHICOCOOHCOORHRCHRCC standardRemove (Ljava/lang/Object;)Z
+	METHOD IOICCORHHICCROCCRIHOIIRHC unsafeCompare (Ljava/lang/Object;Ljava/lang/Object;)I
+	METHOD OCHHCHIHICRRRHOCRHOIHHCRO delegate ()Ljava/util/SortedSet;
+	METHOD OIHHROORRHOCRIOHORIOIRRRC standardContains (Ljava/lang/Object;)Z
+	METHOD OOHIICRCHHHIHHROOCCCHCOCO delegate ()Ljava/util/Collection;
+	METHOD ROIOOOIRHICHRHRHCIROCRCCH standardSubSet (Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/SortedSet;
+	METHOD comparator comparator ()Ljava/util/Comparator;
+	METHOD first first ()Ljava/lang/Object;
+	METHOD headSet headSet (Ljava/lang/Object;)Ljava/util/SortedSet;
+	METHOD last last ()Ljava/lang/Object;
+	METHOD subSet subSet (Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/SortedSet;
+	METHOD tailSet tailSet (Ljava/lang/Object;)Ljava/util/SortedSet;

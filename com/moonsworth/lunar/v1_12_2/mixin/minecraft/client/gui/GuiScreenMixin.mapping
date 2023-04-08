@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/gui/GuiScreenMixin
+	FIELD currentItemStack currentItemStack Lnet/minecraft/item/ItemStack;
+	FIELD didUpdateItemStack didUpdateItemStack Z
+	FIELD renderedTooltip renderedTooltip Z
+	METHOD <init> <init> ()V
+	METHOD drawHoveringText drawHoveringText (Ljava/util/List;II)V
+	METHOD impl$renderTooltipPost impl$renderTooltipPost (Ljava/util/List;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$sendChatMessage impl$sendChatMessage (Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$lunar$onDrawItemTooltip$0 lambda$lunar$onDrawItemTooltip$0 (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD lunar$onDrawItemTooltip$forge lunar$onDrawItemTooltip$forge (Lnet/minecraft/client/gui/GuiScreen;Ljava/util/List;IILnet/minecraft/client/gui/FontRenderer;Lnet/minecraft/item/ItemStack;)V
+	METHOD lunar$onDrawItemTooltip$vanilla lunar$onDrawItemTooltip$vanilla (Lnet/minecraft/client/gui/GuiScreen;Ljava/util/List;IILnet/minecraft/item/ItemStack;)V
+	METHOD lunar$onDrawItemTooltip lunar$onDrawItemTooltip (Lnet/minecraft/client/gui/GuiScreen;Ljava/util/List;IILnet/minecraft/client/gui/FontRenderer;Lnet/minecraft/item/ItemStack;)V

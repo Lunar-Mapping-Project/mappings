@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/client/renderer/entity/layers/LayerArmorBaseMixin
+	FIELD ARMOR_RESOURCE ARMOR_RESOURCE [Lnet/minecraft/util/ResourceLocation;
+	FIELD ENCHANTED_ITEM_GLINT_RES ENCHANTED_ITEM_GLINT_RES Lnet/minecraft/util/ResourceLocation;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD getArmorResource getArmorResource (Lnet/minecraft/item/ItemArmor;Z)Lnet/minecraft/util/ResourceLocation;
+	METHOD getArmorResource getArmorResource (Lnet/minecraft/item/ItemArmor;ZLjava/lang/String;)Lnet/minecraft/util/ResourceLocation;
+	METHOD impl$eventRenderGlint impl$eventRenderGlint (Lnet/minecraft/client/renderer/entity/RenderLivingBase;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/client/model/ModelBase;FFFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$eventRenderGlint$0 lambda$impl$eventRenderGlint$0 (Lnet/minecraft/client/model/ModelBase;Lnet/minecraft/entity/EntityLivingBase;FFFFFFI)V

@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/sounds/SoundEngineMixin
+	FIELD instanceToChannel instanceToChannel Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD bridge$setPlayingSoundVolume bridge$setPlayingSoundVolume (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;F)V
+	METHOD lambda$bridge$setPlayingSoundVolume$0 lambda$bridge$setPlayingSoundVolume$0 (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;Ljava/util/Map$Entry;)Z
+	METHOD lambda$bridge$setPlayingSoundVolume$1 lambda$bridge$setPlayingSoundVolume$1 (FLcom/mojang/blaze3d/audio/Channel;)V
+	METHOD lambda$bridge$setPlayingSoundVolume$2 lambda$bridge$setPlayingSoundVolume$2 (FLjava/util/Map$Entry;)V

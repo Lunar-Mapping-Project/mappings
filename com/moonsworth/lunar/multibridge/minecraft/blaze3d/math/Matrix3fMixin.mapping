@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/blaze3d/math/Matrix3fMixin
+	FIELD m00 m00 F
+	FIELD m01 m01 F
+	FIELD m02 m02 F
+	FIELD m10 m10 F
+	FIELD m11 m11 F
+	FIELD m12 m12 F
+	FIELD m20 m20 F
+	FIELD m21 m21 F
+	FIELD m22 m22 F
+	METHOD <init> <init> ()V
+	METHOD bridge$getTransformX bridge$getTransformX (FFF)F
+	METHOD bridge$getTransformY bridge$getTransformY (FFF)F
+	METHOD bridge$getTransformZ bridge$getTransformZ (FFF)F
+	METHOD bufferIndex bufferIndex (II)I
+	METHOD toFloatBuffer toFloatBuffer ()Ljava/nio/FloatBuffer;

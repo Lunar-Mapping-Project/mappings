@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CCRHOHCCOIICHCCHIOIICHHOO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/bridge/v1_17_0/mixin/SimpleReloadableResourceManagerMixin
+	FIELD namespacedPacks namespacedPacks Ljava/util/Map;
+	FIELD namespaces namespaces Ljava/util/Set;
+	METHOD <init> <init> ()V
+	METHOD bridge$getAllResources bridge$getAllResources (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)Ljava/util/List;
+	METHOD bridge$getResource bridge$getResource (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$getResource bridge$getResource (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;Z)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$getResourceDomains bridge$getResourceDomains ()Ljava/util/Set;
+	METHOD bridge$putDomainResourceManager bridge$putDomainResourceManager (Ljava/lang/String;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/IIROHIIHCHOORORIIHORHRORO;)V
+	METHOD bridge$registerReloadListener bridge$registerReloadListener (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+	METHOD bridge$reloadResources bridge$reloadResources (Ljava/util/List;)V
+	METHOD createReload createReload (Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;Ljava/util/concurrent/CompletableFuture;Ljava/util/List;)Lnet/minecraft/server/packs/resources/ReloadInstance;
+	METHOD getResource getResource (Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/server/packs/resources/Resource;
+	METHOD getResources getResources (Lnet/minecraft/resources/ResourceLocation;)Ljava/util/List;
+	METHOD registerReloadListener registerReloadListener (Lnet/minecraft/server/packs/resources/PreparableReloadListener;)V

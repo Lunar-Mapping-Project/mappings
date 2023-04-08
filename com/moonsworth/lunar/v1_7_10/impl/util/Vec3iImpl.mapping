@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_7_10/impl/util/Vec3iImpl
+	FIELD x x I
+	FIELD y y I
+	FIELD z z I
+	METHOD <init> <init> (III)V
+	METHOD bridge$getX bridge$getX ()I
+	METHOD bridge$getY bridge$getY ()I
+	METHOD bridge$getZ bridge$getZ ()I
+	METHOD bridge$setPos bridge$setPos (III)V

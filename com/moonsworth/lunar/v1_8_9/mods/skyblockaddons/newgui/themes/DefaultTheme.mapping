@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/newgui/themes/DefaultTheme
+	FIELD name name Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD getName getName ()Ljava/lang/String;

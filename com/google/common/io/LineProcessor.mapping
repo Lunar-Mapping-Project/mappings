@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/HICCCOROHIIHIHRCOIHHCRHCR com/google/common/io/LineProcessor
+	METHOD getResult getResult ()Ljava/lang/Object;
+	METHOD processLine processLine (Ljava/lang/String;)Z

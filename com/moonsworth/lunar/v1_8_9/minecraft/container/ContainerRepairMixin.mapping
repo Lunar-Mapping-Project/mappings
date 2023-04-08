@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/container/ContainerRepairMixin
+	FIELD inputSlots inputSlots Lnet/minecraft/inventory/IInventory;
+	FIELD materialCost materialCost I
+	FIELD maximumCost maximumCost I
+	FIELD outputSlot outputSlot Lnet/minecraft/inventory/IInventory;
+	FIELD repairedItemName repairedItemName Ljava/lang/String;
+	FIELD thePlayer thePlayer Lnet/minecraft/entity/player/EntityPlayer;
+	METHOD <init> <init> ()V
+	METHOD bridge$detectAndSendChanges bridge$detectAndSendChanges ()V
+	METHOD bridge$getMaximumCost bridge$getMaximumCost ()I
+	METHOD bridge$inputSlots bridge$inputSlots ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$outputSlot bridge$outputSlot ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$player bridge$player ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$repairedItemName bridge$repairedItemName ()Ljava/lang/String;
+	METHOD bridge$setMaterialCost bridge$setMaterialCost (I)V
+	METHOD bridge$setMaximumCost bridge$setMaximumCost (I)V
+	METHOD impl$updateRepairOutput impl$updateRepairOutput (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD legacyRepairOutput legacyRepairOutput ()V

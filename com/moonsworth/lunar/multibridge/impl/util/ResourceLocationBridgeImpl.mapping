@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/impl/util/ResourceLocationBridgeImpl
+	METHOD <init> <init> (Ljava/lang/String;Lnet/minecraft/resources/ResourceLocation;)V
+	METHOD bridge$getDomain bridge$getDomain ()Ljava/lang/String;
+	METHOD bridge$getPath bridge$getPath ()Ljava/lang/String;
+	METHOD compareTo compareTo (Ljava/lang/Object;)I
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD hashCode hashCode ()I

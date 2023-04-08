@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/bridge/client/gui/GuiScreenBridge
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI isCustomScreen (Ljava/lang/Class;)Z
+	METHOD bridge$allowUserInput bridge$allowUserInput ()Z
+	METHOD bridge$doesGuiPauseGame bridge$doesGuiPauseGame ()Z
+	METHOD bridge$drawScreen bridge$drawScreen (IIF)V
+		ARG 1 mouseX
+		ARG 2 mouseY
+		ARG 3 partialTicks
+	METHOD bridge$drawScrollableHoveringText bridge$drawScrollableHoveringText (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ROOHRHIRRRIOCHOOOOOICHHIO;Ljava/util/List;II)V
+		ARG 1 context
+		ARG 2 components
+	METHOD bridge$handleMouseInput bridge$handleMouseInput ()V
+	METHOD bridge$isControlsGui bridge$isControlsGui ()Z
+	METHOD bridge$keyTyped bridge$keyTyped (CLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 c
+		ARG 2 key
+	METHOD bridge$mouseClicked bridge$mouseClicked (III)V
+	METHOD bridge$mouseReleased bridge$mouseReleased (III)V
+	METHOD bridge$onGuiClosed bridge$onGuiClosed ()V
+	METHOD bridge$setClickedLinkURI bridge$setClickedLinkURI (Ljava/net/URI;)V
+		ARG 1 uri
+	METHOD bridge$setWorldAndResolution bridge$setWorldAndResolution (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR;II)V
+		ARG 1 mc
+		ARG 2 width
+		ARG 3 height
+	METHOD bridge$updateScreen bridge$updateScreen ()V

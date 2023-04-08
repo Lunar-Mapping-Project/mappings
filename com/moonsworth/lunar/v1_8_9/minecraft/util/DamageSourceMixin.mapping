@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRROCIIHHROCROOHICOCHRIR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/minecraft/util/DamageSourceMixin
+	METHOD <init> <init> ()V
+	METHOD isGeneric isGeneric ()Z

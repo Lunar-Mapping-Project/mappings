@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/impl/client/player/DummyPlayerBridgeImpl
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;Lnet/minecraft/client/multiplayer/ClientLevel;Lnet/minecraft/client/multiplayer/ClientPacketListener;)V
+	METHOD getPlayerInfo getPlayerInfo ()Lnet/minecraft/client/multiplayer/PlayerInfo;
+	METHOD isCreative isCreative ()Z
+	METHOD isSpectator isSpectator ()Z

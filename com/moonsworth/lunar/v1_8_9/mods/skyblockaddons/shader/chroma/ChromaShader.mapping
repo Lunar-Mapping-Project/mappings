@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/shader/chroma/ChromaShader
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD lambda$registerUniforms$0 lambda$registerUniforms$0 ()Ljava/lang/Float;
+	METHOD lambda$registerUniforms$1 lambda$registerUniforms$1 ()Ljava/lang/Float;
+	METHOD lambda$registerUniforms$2 lambda$registerUniforms$2 ()Ljava/lang/Float;
+	METHOD registerUniforms registerUniforms ()V

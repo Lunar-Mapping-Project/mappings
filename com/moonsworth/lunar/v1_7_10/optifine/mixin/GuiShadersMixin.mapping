@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/v1_7_10/optifine/mixin/GuiShadersMixin
+	FIELD fontRendererObj fontRendererObj Lnet/minecraft/client/gui/FontRenderer;
+	METHOD <init> <init> ()V
+	METHOD impl$fixFontRenderer impl$fixFontRenderer (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

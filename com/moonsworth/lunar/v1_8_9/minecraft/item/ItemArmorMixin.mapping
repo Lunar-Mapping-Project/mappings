@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/item/ItemArmorMixin
+	FIELD armorType armorType I
+	FIELD material material Lnet/minecraft/item/ItemArmor$ArmorMaterial;
+	METHOD <init> <init> ()V
+	METHOD bridge$getArmorMaterial bridge$getArmorMaterial ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getArmorType bridge$getArmorType ()I
+	METHOD bridge$getColor bridge$getColor (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)I
+	METHOD bridge$hasColor bridge$hasColor (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+	METHOD getColor getColor (Lnet/minecraft/item/ItemStack;)I
+	METHOD hasColor hasColor (Lnet/minecraft/item/ItemStack;)Z

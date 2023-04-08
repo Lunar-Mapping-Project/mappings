@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/client/morph/SnowstormMorph
+	FIELD COIIRHCHCHCHICIHCCCRROIOH matrix Ljavax/vecmath/Matrix4f;
+	FIELD HRRIORHORCRIHCOHIORIOOHCI INSTANCE Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO;
+	FIELD ROHIOOCIIHCIHICOCHRHCRHCO translate [F
+	FIELD rotation rotation [F
+	FIELD scale scale [F
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Lmchorse/emoticons/morph/Morph;)V
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Ljavax/vecmath/Matrix4f;)V
+		ARG 1 transform

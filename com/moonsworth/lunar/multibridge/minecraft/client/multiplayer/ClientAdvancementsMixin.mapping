@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ClientAdvancementsMixin
+	METHOD <init> <init> ()V
+	METHOD impl$shouldShowToast impl$shouldShowToast (Lnet/minecraft/advancements/DisplayInfo;)Z

@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/minecraft/client/resources/VanillaPackResourcesMixin
+	FIELD namespaces namespaces Ljava/util/Set;
+	METHOD <init> <init> ()V
+	METHOD bridge$getInputStream bridge$getInputStream (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)Ljava/io/InputStream;
+	METHOD bridge$getPackImage bridge$getPackImage ()Ljava/util/Optional;
+	METHOD bridge$getPackName bridge$getPackName ()Ljava/lang/String;
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getResource getResource (Lnet/minecraft/server/packs/PackType;Lnet/minecraft/resources/ResourceLocation;)Ljava/io/InputStream;
+	METHOD lunar$addLunarNamespace$v1_16 lunar$addLunarNamespace$v1_16 ([Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$addLunarNamespace$v1_17 lunar$addLunarNamespace$v1_17 (Lnet/minecraft/server/packs/metadata/pack/PackMetadataSection;[Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$addLunarNamespace lunar$addLunarNamespace ()V

@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/RIHOOROIIHIHROCCHIRICHOII com/moonsworth/lunar/client/util/Defaults
+	METHOD <init> <init> ()V
+	METHOD OIOORRORCRHOOCICORRCHOHRC getOrDefault (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;

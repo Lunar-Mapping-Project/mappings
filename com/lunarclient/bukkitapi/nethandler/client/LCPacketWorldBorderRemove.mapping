@@ -1,0 +1,9 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderRemove com/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderRemove
+	FIELD id id Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 id
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD process process (Lcom/lunarclient/bukkitapi/nethandler/shared/LCNetHandler;)V
+	METHOD read read (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V
+	METHOD write write (Lcom/lunarclient/bukkitapi/nethandler/ByteBufWrapper;)V

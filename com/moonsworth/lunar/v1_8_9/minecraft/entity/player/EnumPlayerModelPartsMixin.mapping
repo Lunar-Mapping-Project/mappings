@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/minecraft/entity/player/EnumPlayerModelPartsMixin
+	FIELD partMask partMask I
+	FIELD partName partName Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD bridge$getId bridge$getId ()Ljava/lang/String;
+	METHOD bridge$getMask bridge$getMask ()I

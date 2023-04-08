@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/WorldVertexBufferUploaderMixin
+	METHOD <init> <init> ()V
+	METHOD sba$draw sba$draw (Lnet/minecraft/client/renderer/WorldRenderer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

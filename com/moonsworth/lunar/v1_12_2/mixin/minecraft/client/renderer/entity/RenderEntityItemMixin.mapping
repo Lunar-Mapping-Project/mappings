@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/renderer/entity/RenderEntityItemMixin
+	FIELD clumpSpread clumpSpread F
+	METHOD <init> <init> ()V
+	METHOD impl$onInitialTranslate impl$onInitialTranslate (FFFLnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)V
+	METHOD impl$onRenderScale impl$onRenderScale (Lnet/minecraft/entity/item/EntityItem;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/item/ItemStack;IZLnet/minecraft/client/renderer/block/model/IBakedModel;)V
+	METHOD impl$onRotate impl$onRotate (FFFFLnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)V
+	METHOD impl$onSetSeed impl$onSetSeed (Ljava/util/Random;JLnet/minecraft/entity/item/EntityItem;DDDFF)V
+	METHOD impl$tweakClumping impl$tweakClumping (F)F
+	METHOD onRender onRender (Lnet/minecraft/entity/item/EntityItem;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

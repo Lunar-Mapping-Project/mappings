@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/optifine/impl/ConfigBridgeImpl
+	METHOD <init> <init> ()V
+	METHOD hasAntiAliasing hasAntiAliasing ()Z
+	METHOD hasConnectedTextures hasConnectedTextures ()Z
+	METHOD hasConnectedTexturesFancy hasConnectedTexturesFancy ()Z
+	METHOD hasCustomColors hasCustomColors ()Z
+	METHOD hasCustomFonts hasCustomFonts ()Z
+	METHOD hasCustomItems hasCustomItems ()Z
+	METHOD hasCustomSky hasCustomSky ()Z
+	METHOD hasDynamicFov hasDynamicFov ()Z
+	METHOD hasFastRender hasFastRender ()Z
+	METHOD hasNaturalTextures hasNaturalTextures ()Z
+	METHOD hasShaders hasShaders ()Z
+	METHOD hasShowCapes hasShowCapes ()Z
+	METHOD hasSmoothBiomes hasSmoothBiomes ()Z
+	METHOD hasTranslucentBlocksFancy hasTranslucentBlocksFancy ()Z
+	METHOD isWeatherEnabled isWeatherEnabled ()Z
+	METHOD isZooming isZooming ()Z
+	METHOD setFastRender setFastRender (Z)V
+	METHOD setZooming setZooming (Z)V

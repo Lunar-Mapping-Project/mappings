@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/advancements/AdvancementListMixin
+	FIELD LOGGER LOGGER Lorg/apache/logging/log4j/Logger;
+	FIELD advancements advancements Ljava/util/Map;
+	FIELD listener listener Lnet/minecraft/advancements/AdvancementList$Listener;
+	FIELD nonRoots nonRoots Ljava/util/Set;
+	FIELD roots roots Ljava/util/Set;
+	METHOD <init> <init> ()V
+	METHOD loadAdvancements loadAdvancements (Ljava/util/Map;)V

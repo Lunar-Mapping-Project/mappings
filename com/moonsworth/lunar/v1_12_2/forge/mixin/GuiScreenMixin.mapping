@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/forge/mixin/GuiScreenMixin
+	METHOD <init> <init> ()V
+	METHOD fixInvalidCommands fixInvalidCommands (Lnet/minecraftforge/client/ClientCommandHandler;Lnet/minecraft/command/ICommandSender;Ljava/lang/String;)I

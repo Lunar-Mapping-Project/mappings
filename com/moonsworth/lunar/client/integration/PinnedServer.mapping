@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ROIOOOIRHICHRHRHCIROCRCCH/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/integration/PinnedServer
+	FIELD CRCRORIRIRCRRCOOIHOCHICHO removable Z
+	FIELD HCOCIOHCOHHCRRIRHRIOOIHIC ip Ljava/lang/String;
+	FIELD HOIHCOHCCOHRHIORHOIHHRCOH supportVersion Z
+	FIELD HOIHRIHIRIIIOHRHORIROCRCH expirationDate Ljava/lang/Long;
+	FIELD RRICIICIICRIOCHCIIORCIIOR name Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/Long;ZLjava/util/List;)V
+		ARG 1 name
+		ARG 2 ip
+		ARG 3 expirationDate
+		ARG 4 removable
+		ARG 5 supportVersion
+	METHOD CRCOOICHROCCHCHOCCIORHOCC isSupportVersion ()Z
+	METHOD OCCOOIHIHOIRHRIHRRRRHOIRO getExpirationDate ()Ljava/lang/Long;
+	METHOD RCHHIRCHICHRCRIHRROOHOIIO isRemovable ()Z
+	METHOD RRRIHHCORCHOIIHICOOIIROOH getIp ()Ljava/lang/String;
+	METHOD getName getName ()Ljava/lang/String;

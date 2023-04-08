@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/bridge/v1_19_2/mixin/RemotePlayerMixin
+	METHOD <init> <init> (Lnet/minecraft/client/multiplayer/ClientLevel;Lcom/mojang/authlib/GameProfile;Lnet/minecraft/world/entity/player/ProfilePublicKey;)V
+	METHOD bridge$getArmor bridge$getArmor (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Ljava/lang/String;
+	METHOD bridge$getFallDistance bridge$getFallDistance ()F
+	METHOD bridge$getLocationSkin bridge$getLocationSkin ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD bridge$getRidingEntity bridge$getRidingEntity ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getSkinType bridge$getSkinType ()Ljava/lang/String;
+	METHOD bridge$isSprinting bridge$isSprinting ()Z
+	METHOD event$entityLivingHurt event$entityLivingHurt (Lnet/minecraft/world/damagesource/DamageSource;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD hurt hurt (Lnet/minecraft/world/damagesource/DamageSource;F)Z
+	METHOD impl$cosmeticPostUpdate impl$cosmeticPostUpdate (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

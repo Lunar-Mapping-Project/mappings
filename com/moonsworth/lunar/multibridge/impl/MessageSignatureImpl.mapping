@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/multibridge/impl/MessageSignatureImpl
+	FIELD ahG id I
+	METHOD <init> <init> (ILjava/util/UUID;Ljava/time/Instant;Lnet/minecraft/util/Crypt$SaltSignaturePair;)V
+		ARG 1 id
+		ARG 2 uuid
+		ARG 3 instant
+		ARG 4 pair
+	METHOD <init> <init> (ILnet/minecraft/network/FriendlyByteBuf;)V
+		ARG 1 id
+		ARG 2 buf
+	METHOD <init> <init> (I[B)V
+		ARG 1 id
+		ARG 2 bytes
+	METHOD ICHRCIRROROHRRIRICRHRCHIC init (I)Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/RIORHCCRCIOORHIHIHIHHRIOH;
+		ARG 0 id
+	METHOD getId getId ()I

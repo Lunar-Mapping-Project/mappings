@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/RIORHCCRCIOORHIHIHIHHRIOH com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/MathUtils
+	METHOD <init> <init> ()V
+	METHOD clamp clamp (FFF)F
+	METHOD denormalizeSliderValue denormalizeSliderValue (FFFF)F
+	METHOD distance distance (DDDD)D
+	METHOD distance distance (DDDDDD)D
+	METHOD distance distance (FFFF)D
+	METHOD distance distance (FFFFFF)D
+	METHOD interpolate interpolate (DDF)D
+	METHOD interpolateX interpolateX (Lnet/minecraft/entity/Entity;F)D
+	METHOD interpolateY interpolateY (Lnet/minecraft/entity/Entity;F)D
+	METHOD interpolateZ interpolateZ (Lnet/minecraft/entity/Entity;F)D
+	METHOD isInside isInside (FFFFFF)Z
+	METHOD isInside isInside (IIIIII)Z
+	METHOD normalizeSliderValue normalizeSliderValue (FFFF)F
+	METHOD snapToStep snapToStep (FF)F

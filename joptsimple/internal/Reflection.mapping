@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ORRCHORCCOOOCCORCIHCROOCC joptsimple/internal/Reflection
+	METHOD <init> <init> ()V
+	METHOD CCCOIHOROCIHCHHRHIHIIRRCC valueOfConverter (Ljava/lang/Class;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;
+	METHOD CCICIOHIORRHHICCOHCOOHICI findConverter (Ljava/lang/Class;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;
+	METHOD COHRICRCHCHROHCHRRCOCIRCI constructorConverter (Ljava/lang/Class;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI convertWith (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROIOOOIRHICHRHRHCIROCRCCH;Ljava/lang/String;)Ljava/lang/Object;
+	METHOD instantiate instantiate (Ljava/lang/reflect/Constructor;[Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD invoke invoke (Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD meetsConverterRequirements meetsConverterRequirements (Ljava/lang/reflect/Method;Ljava/lang/Class;)Z
+	METHOD reflectionException reflectionException (Ljava/lang/Exception;)Ljava/lang/RuntimeException;

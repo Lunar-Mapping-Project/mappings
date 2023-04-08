@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/client/event/impl/network/PlayerDisconnectEvent
+	FIELD reason reason Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD HHRCROCIHCHOOHOORHCCHHCCI getReason ()Ljava/lang/String;

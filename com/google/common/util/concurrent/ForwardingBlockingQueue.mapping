@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOICOIICOIOORHCHIHCOICII com/google/common/util/concurrent/ForwardingBlockingQueue
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD IICOHOCRHCOCRHIROCCCIHCCH delegate ()Ljava/util/Queue;
+	METHOD OOHIICRCHHHIHHROOCCCHCOCO delegate ()Ljava/util/Collection;
+	METHOD RCROICOCRHOIIHHRIOIOOHCHO delegate ()Ljava/util/concurrent/BlockingQueue;
+	METHOD drainTo drainTo (Ljava/util/Collection;)I
+	METHOD drainTo drainTo (Ljava/util/Collection;I)I
+	METHOD offer offer (Ljava/lang/Object;JLjava/util/concurrent/TimeUnit;)Z
+	METHOD poll poll (JLjava/util/concurrent/TimeUnit;)Ljava/lang/Object;
+	METHOD put put (Ljava/lang/Object;)V
+	METHOD remainingCapacity remainingCapacity ()I
+	METHOD take take ()Ljava/lang/Object;

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/ParticleFootStepMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderParticle$color impl$renderParticle$color (Lnet/minecraft/client/renderer/BufferBuilder;FFFF)Lnet/minecraft/client/renderer/BufferBuilder;
+	METHOD impl$renderParticle$scale impl$renderParticle$scale (Lnet/minecraft/client/renderer/BufferBuilder;DDD)Lnet/minecraft/client/renderer/BufferBuilder;
+	METHOD impl$renderParticle impl$renderParticle (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

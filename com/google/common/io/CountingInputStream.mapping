@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/ROOHRHIRRRIOCHOOOOOICHHIO com/google/common/io/CountingInputStream
+	FIELD RIOOCHOOCIRORHCIIIRCROIHR mark J
+	FIELD count count J
+	METHOD <init> <init> (Ljava/io/InputStream;)V
+	METHOD getCount getCount ()J
+	METHOD mark mark (I)V
+	METHOD read read ()I
+	METHOD read read ([BII)I
+	METHOD reset reset ()V
+	METHOD skip skip (J)J

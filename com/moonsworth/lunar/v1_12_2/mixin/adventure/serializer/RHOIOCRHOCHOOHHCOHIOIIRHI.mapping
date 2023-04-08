@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/adventure/serializer/RHOIOCRHOCHOOHHCOHIOIIRHI
+	FIELD GSON GSON Lnet/kyori/adventure/text/serializer/gson/GsonComponentSerializer;
+	FIELD NBT_CODEC NBT_CODEC Lnet/kyori/adventure/util/Codec;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/text/ITextComponent;)Lnet/kyori/adventure/text/Component;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/text/TextFormatting;)Lnet/kyori/adventure/text/format/NamedTextColor;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/text/event/ClickEvent$Action;)Lnet/kyori/adventure/text/event/ClickEvent$Action;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/text/event/HoverEvent;)Lnet/kyori/adventure/text/event/HoverEvent;
+	METHOD asBinaryTagHolder asBinaryTagHolder (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/kyori/adventure/nbt/api/BinaryTagHolder;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/Component;)Lnet/minecraft/util/text/ITextComponent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/ClickEvent$Action;)Lnet/minecraft/util/text/event/ClickEvent$Action;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/ClickEvent;)Lnet/minecraft/util/text/event/ClickEvent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/HoverEvent$Action;)Lnet/minecraft/util/text/event/HoverEvent$Action;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/HoverEvent;)Lnet/minecraft/util/text/event/HoverEvent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/format/NamedTextColor;)Lnet/minecraft/util/text/TextFormatting;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/format/TextColor;)Lnet/minecraft/util/text/TextFormatting;
+	METHOD asVanillaCompound asVanillaCompound (Lnet/kyori/adventure/nbt/api/BinaryTagHolder;)Lnet/minecraft/nbt/NBTTagCompound;
+	CLASS 1
+		METHOD decode decode (Ljava/lang/Object;)Ljava/lang/Object;
+		METHOD encode encode (Ljava/lang/Object;)Ljava/lang/Object;

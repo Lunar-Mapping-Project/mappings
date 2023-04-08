@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/v1_8_9/minecraft/client/gui/GuiChatMixin
+	FIELD waitingOnAutocomplete waitingOnAutocomplete Z
+	METHOD <init> <init> ()V
+	METHOD onAutocompleteResponse onAutocompleteResponse ([Ljava/lang/String;)V
+	METHOD sendAutocompleteRequest sendAutocompleteRequest (Ljava/lang/String;Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

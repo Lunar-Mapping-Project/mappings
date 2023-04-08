@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/particle/EntityFootStepFXMixin
+	METHOD <init> <init> ()V
+	METHOD impl$renderParticle$scale impl$renderParticle$scale (Lnet/minecraft/client/renderer/Tessellator;DDDDD)V
+	METHOD impl$renderParticle$setColorRGBA_F impl$renderParticle$setColorRGBA_F (Lnet/minecraft/client/renderer/Tessellator;FFFF)V
+	METHOD impl$renderParticle impl$renderParticle (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

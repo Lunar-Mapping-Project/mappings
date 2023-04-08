@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RICOIRCRRHCICRRIOCRHCIRCO/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/v1_19_0/mixin/gui/KeyBindsListMixin
+	METHOD <init> <init> (Lnet/minecraft/client/Minecraft;IIIII)V
+	METHOD getFocused getFocused ()Lnet/minecraft/client/gui/components/events/GuiEventListener;
+	METHOD lunar$modKeybinds lunar$modKeybinds (Lnet/minecraft/client/gui/screens/controls/KeyBindsScreen;Lnet/minecraft/client/Minecraft;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

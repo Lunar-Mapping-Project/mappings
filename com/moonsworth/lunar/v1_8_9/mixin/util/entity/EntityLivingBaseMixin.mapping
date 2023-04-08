@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/entity/EntityLivingBaseMixin
+	METHOD <init> <init> (Lnet/minecraft/world/World;)V
+	METHOD getHealth getHealth ()F
+	METHOD lunar$cancelLocalPlayerParticles lunar$cancelLocalPlayerParticles (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$updateEntityHealthEvent lunar$updateEntityHealthEvent (Ljava/lang/Object;)Ljava/lang/Object;

@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ClientLevelMixin
+	FIELD players players Ljava/util/List;
+	METHOD <init> <init> (Lnet/minecraft/world/level/storage/WritableLevelData;Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/world/level/dimension/DimensionType;Ljava/util/function/Supplier;ZZJ)V
+	METHOD bridge$disconnect bridge$disconnect ()V
+	METHOD bridge$getScoreboard bridge$getScoreboard ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$setWorldTime bridge$setWorldTime (J)V
+	METHOD disconnect disconnect ()V
+	METHOD forType forType (Lnet/minecraft/world/level/dimension/DimensionType;)Lnet/minecraft/client/renderer/DimensionSpecialEffects;
+	METHOD prepareWeather prepareWeather (Lnet/minecraft/client/multiplayer/ClientLevel;)V
+	METHOD removeValue removeValue (Lnet/minecraft/client/multiplayer/ClientLevel;I)Lnet/minecraft/client/multiplayer/ClientChunkCache;
+	METHOD setDayTime setDayTime (J)V
+	METHOD updateSkyBrightness updateSkyBrightness (Lnet/minecraft/client/multiplayer/ClientLevel;)V

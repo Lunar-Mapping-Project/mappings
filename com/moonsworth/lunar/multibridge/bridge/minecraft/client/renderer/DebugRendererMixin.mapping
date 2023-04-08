@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/renderer/DebugRendererMixin
+	FIELD renderChunkborder renderChunkborder Z
+	METHOD <init> <init> ()V
+	METHOD impl$toggleChunkBorders impl$toggleChunkBorders (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

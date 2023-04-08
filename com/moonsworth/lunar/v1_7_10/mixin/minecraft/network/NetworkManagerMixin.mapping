@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/network/NetworkManagerMixin
+	METHOD <init> <init> ()V
+	METHOD interceptPacket interceptPacket (Lnet/minecraft/network/Packet;[Lio/netty/util/concurrent/GenericFutureListener;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

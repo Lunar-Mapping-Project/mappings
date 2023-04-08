@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/IOICICOOIRRHCCHORRHOOOICR com/moonsworth/lunar/bridge/client/gui/GuiNewChatBridge
+	METHOD bridge$deleteMessage bridge$deleteMessage (I)V
+	METHOD bridge$getChatOpen bridge$getChatOpen ()Z
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;
+	METHOD bridge$printChatMessage bridge$printChatMessage (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD bridge$sendMessageWithId bridge$sendMessageWithId (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;I)V

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO com/moonsworth/lunar/v1_12_2/optifine/mixin/RenderItemMixin
+	FIELD modelLocation modelLocation Lnet/minecraft/util/ResourceLocation;
+	METHOD <init> <init> ()V
+	METHOD bridge$getModelLocation bridge$getModelLocation ()Ljava/util/Optional;

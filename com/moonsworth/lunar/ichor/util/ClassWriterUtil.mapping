@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/ichor/util/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/ichor/util/ClassWriterUtil
+	FIELD agr wrappers Ljava/util/List;
+	METHOD <init> <init> (Lorg/objectweb/asm/ClassWriter;)V
+		ARG 1 classWriter
+	METHOD CRCOHHOHROCIOHOOOICOCRRII getWrappers ()Ljava/util/List;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI EntryWrapper
+		FIELD ags asmEntry Ljava/lang/Object;
+		FIELD agt data J
+		FIELD index index I
+		FIELD name name Ljava/lang/String;
+		FIELD owner owner Ljava/lang/String;
+		FIELD tag tag I
+		FIELD value value Ljava/lang/String;
+		METHOD <init> <init> (Ljava/lang/Object;)V
+			ARG 1 asmEntry
+		METHOD HHRHCIOORIIIRHHOCIHCIHROO getData ()J
+		METHOD getIndex getIndex ()I
+		METHOD getName getName ()Ljava/lang/String;
+		METHOD getOwner getOwner ()Ljava/lang/String;
+		METHOD getTag getTag ()I
+		METHOD getValue getValue ()Ljava/lang/String;
+		METHOD toString toString ()Ljava/lang/String;

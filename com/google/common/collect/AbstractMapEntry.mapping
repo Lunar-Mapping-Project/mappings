@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC com/google/common/collect/AbstractMapEntry
+	METHOD <init> <init> ()V
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getKey getKey ()Ljava/lang/Object;
+	METHOD getValue getValue ()Ljava/lang/Object;
+	METHOD hashCode hashCode ()I
+	METHOD setValue setValue (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RIORHCCRCIOORHIHIHIHHRIOH/RHRROCIIHHROCROOHICOCHRIR com/google/common/primitives/Primitives
+	FIELD Sx PRIMITIVE_TO_WRAPPER_TYPE Ljava/util/Map;
+	FIELD Sy WRAPPER_TO_PRIMITIVE_TYPE Ljava/util/Map;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD CCIOIRICHHRIOHIOIORIOCCCR allPrimitiveTypes ()Ljava/util/Set;
+	METHOD CORRCOHOIHRHIICCICIIOHOOH allWrapperTypes ()Ljava/util/Set;
+	METHOD OCOOOORCHOCROCHHIIHIRHOOI isWrapperType (Ljava/lang/Class;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI add (Ljava/util/Map;Ljava/util/Map;Ljava/lang/Class;Ljava/lang/Class;)V
+	METHOD unwrap unwrap (Ljava/lang/Class;)Ljava/lang/Class;
+	METHOD wrap wrap (Ljava/lang/Class;)Ljava/lang/Class;

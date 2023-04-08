@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/bridge/client/renderer/texture/NativeImageBridge
+	METHOD OIOORRORCRHOOCICORRCHOHRC bridge$isPresent (II)Z
+		ARG 1 x
+		ARG 2 y
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR bridge$isOpaque (II)Z
+		ARG 1 x
+		ARG 2 y
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI writeToPngFile (Ljava/io/File;)V
+		ARG 1 file
+	METHOD bridge$getHeight bridge$getHeight ()I
+	METHOD bridge$getWidth bridge$getWidth ()I
+	METHOD close close ()V

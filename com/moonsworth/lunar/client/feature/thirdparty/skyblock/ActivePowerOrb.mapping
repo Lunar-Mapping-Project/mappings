@@ -1,0 +1,44 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/feature/thirdparty/skyblock/ActivePowerOrb
+	FIELD OCIOHHRIHOHHRIRHICORHHHHC icon Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	FIELD display display Ljava/lang/String;
+	FIELD healIncrease healIncrease D
+	FIELD healthRegen healthRegen D
+	FIELD manaRegen manaRegen D
+	FIELD seconds seconds I
+	FIELD strength strength I
+	METHOD <init> <init> (ILjava/lang/String;DDIDLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+		ARG 1 seconds
+		ARG 2 display
+		ARG 3 healthRegen
+		ARG 5 manaRegen
+		ARG 7 strength
+		ARG 8 healIncrease
+		ARG 10 icon
+	METHOD HOHOHRIHCIICROCRCRIIOCCHC setManaRegen (D)V
+		ARG 1 manaRegen
+	METHOD IIRROCIOHHHCRHHRRCIRCIHHC setDisplay (Ljava/lang/String;)V
+		ARG 1 display
+	METHOD OHICCROHCCHCRCROHHIHCRCIO setHealIncrease (D)V
+		ARG 1 healIncrease
+	METHOD ORRRHOCRCOOCHIIOOHCICOCRO getIcon ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD RHOHHRHHRCHRRIOCIIRHICCIC setIcon (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+		ARG 1 icon
+	METHOD ROOIRIIIRHHIIRRCOCHIOCIHO setHealthRegen (D)V
+		ARG 1 healthRegen
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD getDisplay getDisplay ()Ljava/lang/String;
+	METHOD getHealIncrease getHealIncrease ()D
+	METHOD getHealthRegen getHealthRegen ()D
+	METHOD getManaRegen getManaRegen ()D
+	METHOD getSeconds getSeconds ()I
+	METHOD getStrength getStrength ()I
+	METHOD hashCode hashCode ()I
+	METHOD isInRadius isInRadius (D)Z
+	METHOD setSeconds setSeconds (I)V
+		ARG 1 seconds
+	METHOD setStrength setStrength (I)V
+		ARG 1 strength
+	METHOD toString toString ()Ljava/lang/String;

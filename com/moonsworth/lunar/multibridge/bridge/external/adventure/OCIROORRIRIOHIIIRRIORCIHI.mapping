@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/external/adventure/OCIROORRIRIOHIIIRRIORCIHI
+	FIELD ahj NBT_CODEC Lnet/kyori/adventure/util/Codec;
+	METHOD IIROHIIHCHOORORIIHORHRORO asVanilla (Lnet/kyori/adventure/text/Component;)Lnet/minecraft/network/chat/Component;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI asAdventure (Lnet/minecraft/ChatFormatting;)Lnet/kyori/adventure/text/format/NamedTextColor;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanillaCompound (Lnet/kyori/adventure/nbt/api/BinaryTagHolder;)Lnet/minecraft/nbt/CompoundTag;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanilla (Lnet/kyori/adventure/text/event/ClickEvent$Action;)Lnet/minecraft/network/chat/ClickEvent$Action;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanilla (Lnet/kyori/adventure/text/event/ClickEvent;)Lnet/minecraft/network/chat/ClickEvent;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanilla (Lnet/kyori/adventure/text/event/HoverEvent$Action;)Lnet/minecraft/network/chat/HoverEvent$Action;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanilla (Lnet/kyori/adventure/text/event/HoverEvent;)Lnet/minecraft/network/chat/HoverEvent;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanilla (Lnet/kyori/adventure/text/format/NamedTextColor;)Lnet/minecraft/ChatFormatting;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanilla (Lnet/kyori/adventure/text/format/TextColor;)Lnet/minecraft/network/chat/TextColor;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asBinaryTagHolder (Lnet/minecraft/nbt/CompoundTag;)Lnet/kyori/adventure/nbt/api/BinaryTagHolder;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asVanilla (Lnet/minecraft/network/chat/ClickEvent$Action;)Lnet/kyori/adventure/text/event/ClickEvent$Action;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asAdventure (Lnet/minecraft/network/chat/Component;)Lnet/kyori/adventure/text/Component;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI asAdventure (Lnet/minecraft/network/chat/HoverEvent;)Lnet/kyori/adventure/text/event/HoverEvent;
+	CLASS 1
+		METHOD decode decode (Ljava/lang/Object;)Ljava/lang/Object;
+		METHOD encode encode (Ljava/lang/Object;)Ljava/lang/Object;

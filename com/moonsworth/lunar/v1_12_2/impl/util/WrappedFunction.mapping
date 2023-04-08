@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/impl/util/WrappedFunction
+	FIELD wrapped wrapped Lcom/google/common/base/Function;
+	METHOD <init> <init> (Lcom/google/common/base/Function;)V
+		ARG 1 wrapped
+	METHOD apply apply (Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD equals equals (Ljava/lang/Object;)Z

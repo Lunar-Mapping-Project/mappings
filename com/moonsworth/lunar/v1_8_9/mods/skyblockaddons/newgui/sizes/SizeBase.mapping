@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/newgui/sizes/SizeBase
+	FIELD forceUpdate forceUpdate Z
+	FIELD h h F
+	FIELD lastPositionsUpdate lastPositionsUpdate I
+	FIELD lastSizesUpdate lastSizesUpdate I
+	FIELD w w F
+	FIELD x x F
+	FIELD y y F
+	METHOD <init> <init> ()V
+	METHOD getH getH ()F
+	METHOD getW getW ()F
+	METHOD getX getX ()F
+	METHOD getY getY ()F
+	METHOD positionsNeedUpdate positionsNeedUpdate ()Z
+	METHOD setForceUpdate setForceUpdate ()V
+	METHOD sizesNeedUpdate sizesNeedUpdate ()Z
+	METHOD updatePositions updatePositions ()V
+	METHOD updateSizes updateSizes ()V

@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/meta/data/util/ClassLoaderWrapper
+	FIELD classLoader classLoader Ljava/lang/ClassLoader;
+	METHOD <init> (Lcom/moonsworth/lunar/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI/ORRCHORCCOOOCCORCIHCROOCC;Ljava/lang/ClassLoader;)V
+		ARG 2 classLoader
+	METHOD getClassLoader getClassLoader ()Ljava/lang/ClassLoader;
+	METHOD setClassLoader setClassLoader (Ljava/lang/ClassLoader;)V
+		ARG 1 classLoader

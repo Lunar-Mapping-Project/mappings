@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/multibridge/optifine/mixin/RenderTargetMixin
+	FIELD stencilEnabled stencilEnabled Z
+	METHOD <init> <init> ()V
+	METHOD impl$onInit impl$onInit (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

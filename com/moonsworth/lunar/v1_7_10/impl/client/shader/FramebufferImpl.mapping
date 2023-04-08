@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RHOHHRHHRCHRRIOCIIRHICCIC/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/impl/client/shader/FramebufferImpl
+	METHOD <init> <init> (III)V
+	METHOD createBindFramebuffer createBindFramebuffer (II)V

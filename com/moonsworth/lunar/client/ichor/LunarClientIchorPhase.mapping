@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/ichor/LunarClientIchorPhase
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI initialize (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;)V
+		ARG 1 classNode
+		ARG 2 classLoader

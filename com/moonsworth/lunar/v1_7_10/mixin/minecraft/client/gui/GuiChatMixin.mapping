@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/gui/GuiChatMixin
+	METHOD <init> <init> ()V
+	METHOD impl$drawScreen impl$drawScreen (IIIII)V
+	METHOD impl$mouseClick impl$mouseClick (Lnet/minecraft/util/IChatComponent;)Lnet/minecraft/util/ChatStyle;
+	METHOD impl$submitChatMessage impl$submitChatMessage (Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

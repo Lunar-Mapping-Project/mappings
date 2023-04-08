@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CCRHOHCCOIICHCCHIOIICHHOO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/crash/CrashReportSerializer
+	METHOD <init> <init> ()V
+	METHOD serialize serialize (Ljava/lang/Object;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;
+		ARG 1 report
+		ARG 2 type
+		ARG 3 context

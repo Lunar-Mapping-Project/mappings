@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/gui/buttons/ButtonToggleNew
+	FIELD TOGGLE_BORDER TOGGLE_BORDER Lnet/minecraft/util/ResourceLocation;
+	FIELD TOGGLE_INSIDE_BACKGROUND TOGGLE_INSIDE_BACKGROUND Lnet/minecraft/util/ResourceLocation;
+	FIELD TOGGLE_INSIDE_CIRCLE TOGGLE_INSIDE_CIRCLE Lnet/minecraft/util/ResourceLocation;
+	FIELD animationButtonClicked animationButtonClicked J
+	FIELD animationSlideDistance animationSlideDistance I
+	FIELD animationSlideTime animationSlideTime I
+	FIELD circlePaddingLeft circlePaddingLeft I
+	FIELD enabledSupplier enabledSupplier Ljava/util/function/Supplier;
+	FIELD onClickRunnable onClickRunnable Ljava/lang/Runnable;
+	FIELD timeOpened timeOpened J
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (DDILjava/util/function/Supplier;Ljava/lang/Runnable;)V
+	METHOD drawButton drawButton (Lnet/minecraft/client/Minecraft;II)V
+	METHOD getButtonStartingX getButtonStartingX (Z)I
+	METHOD mousePressed mousePressed (Lnet/minecraft/client/Minecraft;II)Z

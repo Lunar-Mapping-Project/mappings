@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/client/particle/ParticleManagerMixin
+	FIELD particleEmitters particleEmitters Ljava/util/Queue;
+	FIELD particleTypes particleTypes Ljava/util/Map;
+	FIELD random random Ljava/util/Random;
+	FIELD world world Lnet/minecraft/world/World;
+	METHOD <init> <init> ()V
+	METHOD addEffect addEffect (Lnet/minecraft/client/particle/Particle;)V
+	METHOD bridge$addEffect bridge$addEffect (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+	METHOD bridge$emitParticleAtEntity bridge$emitParticleAtEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD emitParticleAtEntity emitParticleAtEntity (Lnet/minecraft/entity/Entity;Lnet/minecraft/util/EnumParticleTypes;)V
+	METHOD impl$addBlockDestroyEffects$head impl$addBlockDestroyEffects$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$addBlockHitEffects$head impl$addBlockHitEffects$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$registerVanillaParticles impl$registerVanillaParticles (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderParticle impl$renderParticle (Lnet/minecraft/client/particle/Particle;Lnet/minecraft/client/renderer/BufferBuilder;Lnet/minecraft/entity/Entity;FFFFFF)V
+	METHOD impl$spawnEffectParticle impl$spawnEffectParticle (IDDDDDD[ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$setIdOfBreakingParticles lunar$setIdOfBreakingParticles (Lnet/minecraft/client/particle/ParticleDigging;)Lnet/minecraft/client/particle/ParticleDigging;

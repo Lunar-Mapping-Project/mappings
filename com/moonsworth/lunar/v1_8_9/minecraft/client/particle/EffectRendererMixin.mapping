@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/client/particle/EffectRendererMixin
+	FIELD particleEmitters particleEmitters Ljava/util/List;
+	FIELD particleTypes particleTypes Ljava/util/Map;
+	FIELD rand rand Ljava/util/Random;
+	FIELD random random Ljava/util/Random;
+	FIELD worldObj worldObj Lnet/minecraft/world/World;
+	METHOD <init> <init> ()V
+	METHOD addEffect addEffect (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD bridge$addEffect bridge$addEffect (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOHHRHHRCHRRIOCIIRHICCIC/RCHHIHHRCCIHIRCCCRHIOCCHR;)V
+	METHOD bridge$emitParticleAtEntity bridge$emitParticleAtEntity (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC;)V
+	METHOD emitParticleAtEntity emitParticleAtEntity (Lnet/minecraft/entity/Entity;Lnet/minecraft/util/EnumParticleTypes;)V
+	METHOD impl$addBlockDestroyEffects$head impl$addBlockDestroyEffects$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$addBlockHitEffects$head impl$addBlockHitEffects$head (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$registerVanillaParticles impl$registerVanillaParticles (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderParticle impl$renderParticle (Lnet/minecraft/client/particle/EntityFX;Lnet/minecraft/client/renderer/WorldRenderer;Lnet/minecraft/entity/Entity;FFFFFF)V
+	METHOD impl$spawnEffectParticle$getEntityFX impl$spawnEffectParticle$getEntityFX (Lnet/minecraft/client/particle/IParticleFactory;ILnet/minecraft/world/World;DDDDDD[I)Lnet/minecraft/client/particle/EntityFX;
+	METHOD impl$spawnEffectParticle impl$spawnEffectParticle (IDDDDDD[ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

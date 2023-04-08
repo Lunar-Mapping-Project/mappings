@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/resources/ClientPackSourceMixin
+	METHOD <init> <init> ()V
+	METHOD impl$injectCosmetics impl$injectCosmetics (Ljava/util/function/Consumer;Lnet/minecraft/server/packs/repository/Pack$PackConstructor;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$impl$injectCosmetics$0 lambda$impl$injectCosmetics$0 (Lnet/minecraft/server/packs/PackResources;)Lnet/minecraft/server/packs/PackResources;
+	METHOD lambda$impl$injectCosmetics$1 lambda$impl$injectCosmetics$1 (Lnet/minecraft/server/packs/repository/Pack$PackConstructor;Ljava/util/function/Consumer;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/OCRHRIOCIICCRHCHHHOHHCROC;)V

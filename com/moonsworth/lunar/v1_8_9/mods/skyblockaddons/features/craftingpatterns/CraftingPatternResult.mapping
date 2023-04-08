@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/craftingpatterns/CraftingPatternResult
+	FIELD emptySpace emptySpace I
+	FIELD filled filled Z
+	FIELD freeSpaceMap freeSpaceMap Ljava/util/Map;
+	FIELD satisfied satisfied Z
+	METHOD <init> <init> (ZZILjava/util/Map;)V
+	METHOD fitsItem fitsItem (Lnet/minecraft/item/ItemStack;)Z
+	METHOD isFilled isFilled ()Z
+	METHOD isSatisfied isSatisfied ()Z

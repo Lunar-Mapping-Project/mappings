@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/ichor/descriptor/TypeDesc
+	METHOD getDescriptor getDescriptor ()Ljava/lang/String;
+	METHOD getOpcode getOpcode (I)I
+	METHOD getSize getSize ()I

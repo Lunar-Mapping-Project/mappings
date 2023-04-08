@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/shader/chroma/Chroma3DShader
+	FIELD alpha alpha F
+	METHOD <init> <init> ()V
+	METHOD lambda$registerUniforms$0 lambda$registerUniforms$0 ()[Ljava/lang/Float;
+	METHOD lambda$registerUniforms$1 lambda$registerUniforms$1 ()Ljava/lang/Float;
+	METHOD lambda$registerUniforms$2 lambda$registerUniforms$2 ()Ljava/lang/Float;
+	METHOD registerUniforms registerUniforms ()V
+	METHOD setAlpha setAlpha (F)V

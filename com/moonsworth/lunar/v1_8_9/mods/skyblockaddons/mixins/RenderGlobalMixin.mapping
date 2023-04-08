@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/ROOIRIIIRHHIIRRCOCHIOCIHO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/RenderGlobalMixin
+	METHOD <init> <init> ()V
+	METHOD sba$isRenderEntityOutlines sba$isRenderEntityOutlines (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD sba$renderEntities sba$renderEntities (Lnet/minecraft/client/renderer/RenderGlobal;Lnet/minecraft/entity/Entity;Lnet/minecraft/client/renderer/culling/ICamera;F)Z
+	METHOD sba$renderEntityOutlineFramebuffer sba$renderEntityOutlineFramebuffer (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD sba$sendBlockBreakProgress sba$sendBlockBreakProgress (ILnet/minecraft/util/BlockPos;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

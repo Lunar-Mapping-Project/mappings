@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IOICCORHHICCROCCRIHOIIRHC com/google/common/base/Predicate
+	METHOD apply apply (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD test test (Ljava/lang/Object;)Z

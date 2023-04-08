@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RIORHCCRCIOORHIHIHIHHRIOH/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/tweaker/SkyblockAddonsDuplicateChecker
+	METHOD <init> <init> ()V
+	METHOD call call ()Ljava/lang/Void;
+	METHOD injectData injectData (Ljava/util/Map;)V
+	METHOD log log (Lorg/apache/logging/log4j/Level;Ljava/lang/Throwable;Ljava/lang/String;)V
+	METHOD logDebug logDebug (Ljava/lang/String;)V

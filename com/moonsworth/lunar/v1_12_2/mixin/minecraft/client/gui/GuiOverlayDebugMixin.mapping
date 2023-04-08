@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/gui/GuiOverlayDebugMixin
+	METHOD <init> <init> ()V
+	METHOD impl$addAsyncMemUsage impl$addAsyncMemUsage (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/optifine/mixin/MinecraftMixin
+	METHOD <init> <init> ()V
+	METHOD impl$startGame impl$startGame (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD lunar$blurMenusOptiFine lunar$blurMenusOptiFine (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci

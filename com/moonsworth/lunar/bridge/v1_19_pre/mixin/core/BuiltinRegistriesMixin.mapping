@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RIHOOROIIHIHROCCHIRICHOII/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/v1_19_pre/mixin/core/BuiltinRegistriesMixin
+	FIELD ACCESS ACCESS Lnet/minecraft/core/RegistryAccess;
+	FIELD LOADERS LOADERS Ljava/util/Map;
+	FIELD LOGGER LOGGER Lorg/slf4j/Logger;
+	FIELD REGISTRY REGISTRY Lnet/minecraft/core/Registry;
+	FIELD WRITABLE_REGISTRY WRITABLE_REGISTRY Lnet/minecraft/core/WritableRegistry;
+	METHOD <init> <init> ()V
+	METHOD bridge$registry$clinit bridge$registry$clinit (Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/data/BuiltinRegistries$RegistryBootstrap;)Lnet/minecraft/core/Registry;
+	METHOD bridge$v1_19$bootstrap bridge$v1_19$bootstrap (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lambda$bridge$registry$clinit$0 lambda$bridge$registry$clinit$0 (Lnet/minecraft/resources/ResourceLocation;Ljava/util/function/Supplier;)V
+	METHOD register register (Lnet/minecraft/core/Registry;Lnet/minecraft/resources/ResourceKey;Ljava/lang/Object;)Lnet/minecraft/core/Holder;
+	METHOD registerSimple registerSimple (Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/data/BuiltinRegistries$RegistryBootstrap;)Lnet/minecraft/core/Registry;

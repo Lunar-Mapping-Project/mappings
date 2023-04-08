@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/IIROHIIHCHOORORIIHORHRORO/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/multibridge/minecraft/client/renderer/texture/TextureAtlasSpriteMixin
+	FIELD info$v1_16_1 info$v1_16_1 Lnet/minecraft/client/renderer/texture/TextureAtlasSprite$Info;
+	FIELD name$v1_17_0 name$v1_17_0 Lnet/minecraft/resources/ResourceLocation;
+	METHOD <init> <init> ()V
+	METHOD bridge$getName bridge$getName ()Ljava/lang/String;

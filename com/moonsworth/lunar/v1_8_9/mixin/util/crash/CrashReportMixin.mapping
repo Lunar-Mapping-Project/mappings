@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/crash/CrashReportMixin
+	FIELD cause cause Ljava/lang/Throwable;
+	METHOD <init> <init> ()V
+	METHOD fixCause fixCause (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

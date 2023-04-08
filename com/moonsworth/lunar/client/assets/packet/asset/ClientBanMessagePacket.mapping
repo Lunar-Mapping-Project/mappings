@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROIOOOIRHICHRHRHCIROCRCCH com/moonsworth/lunar/client/assets/packet/asset/ClientBanMessagePacket
+	FIELD id id I
+	FIELD servers servers Ljava/util/List;
+	FIELD username username Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (ILjava/lang/String;Ljava/util/List;)V
+	METHOD HHCCOCCHCRHIOHHOOHHCIHRRI getServers ()Ljava/util/List;
+	METHOD OIOORRORCRHOOCICORRCHOHRC read (Ljava/lang/Object;)V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR write (Ljava/lang/Object;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI handle (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD getId getId ()I
+	METHOD getUsername getUsername ()Ljava/lang/String;

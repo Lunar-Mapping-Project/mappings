@@ -1,0 +1,159 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC com/google/common/collect/Lists
+	METHOD <init> <init> ()V
+	METHOD CRORIOCOIOOHROHORIORIHRRI asList (Ljava/lang/Object;[Ljava/lang/Object;)Ljava/util/List;
+	METHOD HCHIHRIRROHOOIIHIHCIOHROC newArrayListWithExpectedSize (I)Ljava/util/ArrayList;
+	METHOD HCHIRCHCOHCHRROHRCRCHHHCH charactersOf (Ljava/lang/String;)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICCORIORRCOIIORCRHIRRRCHO;
+	METHOD HCORIHIHIOCROIHHHHRHIRHRI newArrayList (Ljava/lang/Iterable;)Ljava/util/ArrayList;
+	METHOD HHHCHHIORCOOHICRHCOIRHRCI cast (Ljava/lang/Iterable;)Ljava/util/List;
+	METHOD HICCCOROHIIHIHRCOIHHCRHCR charactersOf (Ljava/lang/CharSequence;)Ljava/util/List;
+	METHOD HIRROCOOCIRHOHIIIRCCOIOHH newCopyOnWriteArrayList ()Ljava/util/concurrent/CopyOnWriteArrayList;
+	METHOD IICRIHORCCRICCRCCHICIHHIO newLinkedList ()Ljava/util/LinkedList;
+	METHOD IIROHIIHCHOORORIIHORHRORO lastIndexOfRandomAccess (Ljava/util/List;Ljava/lang/Object;)I
+	METHOD IIRRCOIHOHHRRHOCCORROCIRR newArrayListWithCapacity (I)Ljava/util/ArrayList;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI newArrayList (Ljava/util/Iterator;)Ljava/util/ArrayList;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI listIteratorImpl (Ljava/util/List;I)Ljava/util/ListIterator;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI indexOfImpl (Ljava/util/List;Ljava/lang/Object;)I
+	METHOD OHIRORCCROIIRCIHCOCIRORHH hashCodeImpl (Ljava/util/List;)I
+	METHOD OHRCRICIRHCHIOHRCIRRCRRHH newCopyOnWriteArrayList (Ljava/lang/Iterable;)Ljava/util/concurrent/CopyOnWriteArrayList;
+	METHOD OIOORRORCRHOOCICORRCHOHRC asList (Ljava/lang/Object;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/util/List;
+	METHOD OIOORRORCRHOOCICORRCHOHRC indexOfRandomAccess (Ljava/util/List;Ljava/lang/Object;)I
+	METHOD OORCOCHHRRCCOHIOHIHRCICRI cartesianProduct (Ljava/util/List;)Ljava/util/List;
+	METHOD ORHCHOHOOCHROOCRORROCHORH newLinkedList (Ljava/lang/Iterable;)Ljava/util/LinkedList;
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR lastIndexOfImpl (Ljava/util/List;Ljava/lang/Object;)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI partition (Ljava/util/List;I)Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI subListImpl (Ljava/util/List;II)Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI addAllImpl (Ljava/util/List;ILjava/lang/Iterable;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI transform (Ljava/util/List;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)Ljava/util/List;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI equalsImpl (Ljava/util/List;Ljava/lang/Object;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI cartesianProduct ([Ljava/util/List;)Ljava/util/List;
+	METHOD RICOIRCRRHCICRRIOCRHCIRCO reverse (Ljava/util/List;)Ljava/util/List;
+	METHOD ROICHCOOHOOCRCIOHOIHHOCIC computeArrayListCapacity (I)I
+	METHOD ROIOOOIRHICHRHRHCIROCRCCH newArrayList ([Ljava/lang/Object;)Ljava/util/ArrayList;
+	METHOD RRHOOHRIORHOIROCRRRICOICR newArrayList ()Ljava/util/ArrayList;
+	CLASS 1 1
+		FIELD oy serialVersionUID J
+		METHOD <init> <init> (Ljava/util/List;)V
+		METHOD listIterator listIterator (I)Ljava/util/ListIterator;
+	CLASS 2 2
+		FIELD oz serialVersionUID J
+		METHOD <init> <init> (Ljava/util/List;)V
+		METHOD listIterator listIterator (I)Ljava/util/ListIterator;
+	CLASS CRCCHRCHCRCIHROCRHOHIROCR TransformingSequentialList
+		FIELD oP fromList Ljava/util/List;
+		FIELD oQ function Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;
+		FIELD oR serialVersionUID J
+		METHOD <init> <init> (Ljava/util/List;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)V
+		METHOD RCHHIHHRCCIHIRCCCRHIOCCHR lambda$removeIf$0 (Ljava/util/function/Predicate;Ljava/lang/Object;)Z
+		METHOD clear clear ()V
+		METHOD listIterator listIterator (I)Ljava/util/ListIterator;
+		METHOD removeIf removeIf (Ljava/util/function/Predicate;)Z
+		METHOD size size ()I
+		CLASS 1 1
+			FIELD oS this$0 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC$CRCCHRCHCRCIHROCRHOHIROCR;
+			METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC$CRCCHRCHCRCIHROCRHOHIROCR;Ljava/util/ListIterator;)V
+			METHOD transform transform (Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS CRORIOCOIOOHROHORIORIHRRI TransformingRandomAccessList
+		FIELD oL fromList Ljava/util/List;
+		FIELD oM function Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;
+		FIELD oN serialVersionUID J
+		METHOD <init> <init> (Ljava/util/List;Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/ROOIRIIIRHHIIRRCOCHIOCIHO;)V
+		METHOD RCHHIHHRCCIHIRCCCRHIOCCHR lambda$removeIf$0 (Ljava/util/function/Predicate;Ljava/lang/Object;)Z
+		METHOD clear clear ()V
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD isEmpty isEmpty ()Z
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD listIterator listIterator (I)Ljava/util/ListIterator;
+		METHOD remove remove (I)Ljava/lang/Object;
+		METHOD removeIf removeIf (Ljava/util/function/Predicate;)Z
+		METHOD size size ()I
+		CLASS 1 1
+			FIELD oO this$0 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC$CRORIOCOIOOHROHORIORIHRRI;
+			METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC$CRORIOCOIOOHROHORIORIHRRI;Ljava/util/ListIterator;)V
+			METHOD transform transform (Ljava/lang/Object;)Ljava/lang/Object;
+	CLASS HICHICCCOCIORRHICHHIHOHIR StringAsImmutableList
+		FIELD oK string Ljava/lang/String;
+		METHOD <init> <init> (Ljava/lang/String;)V
+		METHOD ORCOROOOIHHOHIOHCIOOCHCIO isPartialView ()Z
+		METHOD ORICCRORCIHCRRROCCHHCCRIH subList (II)Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ICCORIORRCOIIORCRHIRRRCHO;
+		METHOD get get (I)Ljava/lang/Character;
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD indexOf indexOf (Ljava/lang/Object;)I
+		METHOD lastIndexOf lastIndexOf (Ljava/lang/Object;)I
+		METHOD size size ()I
+		METHOD subList subList (II)Ljava/util/List;
+	CLASS HORRIRRROCHOHCCORHOOCHICO TwoPlusArrayList
+		FIELD oT first Ljava/lang/Object;
+		FIELD oU second Ljava/lang/Object;
+		FIELD oV rest [Ljava/lang/Object;
+		FIELD oW serialVersionUID J
+		METHOD <init> <init> (Ljava/lang/Object;Ljava/lang/Object;[Ljava/lang/Object;)V
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD size size ()I
+	CLASS IIROHIIHCHOORORIIHORHRORO RandomAccessListWrapper
+		METHOD <init> <init> (Ljava/util/List;)V
+	CLASS OCIROORRIRIOHIIIRRIORCIHI CharSequenceAsList
+		FIELD oB sequence Ljava/lang/CharSequence;
+		METHOD <init> <init> (Ljava/lang/CharSequence;)V
+		METHOD get get (I)Ljava/lang/Character;
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD size size ()I
+	CLASS OCRHRIOCIICCRHCHHHOHHCROC RandomAccessReverseList
+		METHOD <init> <init> (Ljava/util/List;)V
+	CLASS OIOORRORCRHOOCICORRCHOHRC OnePlusArrayList
+		FIELD oC first Ljava/lang/Object;
+		FIELD oD rest [Ljava/lang/Object;
+		FIELD oE serialVersionUID J
+		METHOD <init> <init> (Ljava/lang/Object;[Ljava/lang/Object;)V
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD size size ()I
+	CLASS ORRCHORCCOOOCCORCIHCROOCC ReverseList
+		FIELD oH forwardList Ljava/util/List;
+		METHOD <init> <init> (Ljava/util/List;)V
+		METHOD COCRHOIOCROCHCHHROIRHRRCR reverseIndex (I)I
+		METHOD OIOHRIIIHICHRCRCCHOHOCCHI reversePosition (I)I
+		METHOD ORRIIHCRIIRHHRCCCOCCRHORO getForwardList ()Ljava/util/List;
+		METHOD RHOIOCRHOCHOOHHCOHIOIIRHI access$000 (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC$ORRCHORCCOOOCCORCIHCROOCC;I)I
+		METHOD add add (ILjava/lang/Object;)V
+		METHOD clear clear ()V
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD iterator iterator ()Ljava/util/Iterator;
+		METHOD listIterator listIterator (I)Ljava/util/ListIterator;
+		METHOD remove remove (I)Ljava/lang/Object;
+		METHOD removeRange removeRange (II)V
+		METHOD set set (ILjava/lang/Object;)Ljava/lang/Object;
+		METHOD size size ()I
+		METHOD subList subList (II)Ljava/util/List;
+		CLASS 1 1
+			FIELD RHICHCCCRCCCOHOIRHOIIRCRO canRemoveOrSet Z
+			FIELD oI val$forwardIterator Ljava/util/ListIterator;
+			FIELD oJ this$0 Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC$ORRCHORCCOOOCCORCIHCROOCC;
+			METHOD <init> <init> (Lcom/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RIROIOIOIOIORHRICCIHHHIIC$ORRCHORCCOOOCCORCIHCROOCC;Ljava/util/ListIterator;)V
+			METHOD add add (Ljava/lang/Object;)V
+			METHOD hasNext hasNext ()Z
+			METHOD hasPrevious hasPrevious ()Z
+			METHOD next next ()Ljava/lang/Object;
+			METHOD nextIndex nextIndex ()I
+			METHOD previous previous ()Ljava/lang/Object;
+			METHOD previousIndex previousIndex ()I
+			METHOD remove remove ()V
+			METHOD set set (Ljava/lang/Object;)V
+	CLASS RCHHIHHRCCIHIRCCCRHIOCCHR Partition
+		FIELD oF list Ljava/util/List;
+		FIELD oG size I
+		METHOD <init> <init> (Ljava/util/List;I)V
+		METHOD ORROROOCCIIRIRHICCORICCCC get (I)Ljava/util/List;
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD isEmpty isEmpty ()Z
+		METHOD size size ()I
+	CLASS RHOHHRHHRCHRRIOCIIRHICCIC RandomAccessPartition
+		METHOD <init> <init> (Ljava/util/List;I)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI AbstractListWrapper
+		FIELD oA backingList Ljava/util/List;
+		METHOD <init> <init> (Ljava/util/List;)V
+		METHOD add add (ILjava/lang/Object;)V
+		METHOD addAll addAll (ILjava/util/Collection;)Z
+		METHOD contains contains (Ljava/lang/Object;)Z
+		METHOD get get (I)Ljava/lang/Object;
+		METHOD remove remove (I)Ljava/lang/Object;
+		METHOD set set (ILjava/lang/Object;)Ljava/lang/Object;
+		METHOD size size ()I

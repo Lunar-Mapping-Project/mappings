@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC com/google/common/reflect/Reflection
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI newProxy (Ljava/lang/Class;Ljava/lang/reflect/InvocationHandler;)Ljava/lang/Object;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI initialize ([Ljava/lang/Class;)V
+	METHOD getPackageName getPackageName (Ljava/lang/Class;)Ljava/lang/String;
+	METHOD getPackageName getPackageName (Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/RIORHCCRCIOORHIHIHIHHRIOH/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/core/DirectionMixin
+	FIELD data2d data2d I
+	FIELD data3d data3d I
+	METHOD <init> <init> ()V
+	METHOD bridge$horizontalIndex bridge$horizontalIndex ()I
+	METHOD bridge$index bridge$index ()I

@@ -1,0 +1,32 @@
+CLASS com/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/ichor/util/IchorLogger
+	FIELD RIOHOCROOORHIHHOORCCRHOIC INSTANCE Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC;
+	FIELD agw agw Ljava/lang/String;
+	FIELD agx agx Ljava/text/SimpleDateFormat;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD IHCCCOOOCIHROHHOCCCCCORHC getLogger (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getPrintStream (Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;)Ljava/io/PrintStream;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI log (Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;Ljava/lang/Throwable;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI log (Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/String;[Ljava/lang/Object;)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI catching (Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/lang/Throwable;)V
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD fatal fatal (Ljava/lang/String;[Ljava/lang/Object;)V
+	METHOD hashCode hashCode ()I
+	METHOD id id ()Ljava/lang/String;
+	METHOD info info (Ljava/lang/String;[Ljava/lang/Object;)V
+	METHOD throwing throwing (Ljava/lang/Throwable;)Ljava/lang/Throwable;
+	METHOD toString toString ()Ljava/lang/String;
+	METHOD warn warn (Ljava/lang/String;[Ljava/lang/Object;)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Level
+		FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD DEBUG DEBUG Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD ERROR ERROR Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD FATAL FATAL Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD INFO INFO Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD TRACE TRACE Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD WARN WARN Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD $values $values ()[Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Ljava/lang/String;I)V
+		METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD values values ()[Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC$RHOIOCRHOCHOOHHCOHIOIIRHI;

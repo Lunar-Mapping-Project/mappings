@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/client/resources/data/AnimationMetadataSectionMixin
+	FIELD frameHeight frameHeight I
+	FIELD frameTime frameTime I
+	FIELD frameWidth frameWidth I
+	METHOD <init> <init> ()V
+	METHOD bridge$getAnimationFrame bridge$getAnimationFrame (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getFrameCount bridge$getFrameCount ()I
+	METHOD bridge$getFrameHeight bridge$getFrameHeight ()I
+	METHOD bridge$getFrameIndex bridge$getFrameIndex (I)I
+	METHOD bridge$getFrameIndexSet bridge$getFrameIndexSet ()Ljava/util/Set;
+	METHOD bridge$getFrameTime bridge$getFrameTime ()I
+	METHOD bridge$getFrameTimeSingle bridge$getFrameTimeSingle (I)I
+	METHOD bridge$getFrameWidth bridge$getFrameWidth ()I
+	METHOD bridge$hasTime bridge$hasTime (I)Z
+	METHOD bridge$shouldInterpolate bridge$shouldInterpolate ()Z
+	METHOD frameHasTime frameHasTime (I)Z
+	METHOD getAnimationFrame getAnimationFrame (I)Lnet/minecraft/client/resources/data/AnimationFrame;
+	METHOD getFrameCount getFrameCount ()I
+	METHOD getFrameIndex getFrameIndex (I)I
+	METHOD getFrameIndexSet getFrameIndexSet ()Ljava/util/Set;
+	METHOD getFrameTimeSingle getFrameTimeSingle (I)I
+	METHOD isInterpolate isInterpolate ()Z

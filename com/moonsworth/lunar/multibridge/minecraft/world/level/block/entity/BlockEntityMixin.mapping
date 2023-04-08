@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/level/block/entity/BlockEntityMixin
+	FIELD blockState blockState Lnet/minecraft/world/level/block/state/BlockState;
+	METHOD <init> <init> ()V
+	METHOD bridge$getBlockType bridge$getBlockType ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getPos bridge$getPos ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;
+	METHOD getBlockPos getBlockPos ()Lnet/minecraft/core/BlockPos;
+	METHOD getType getType ()Lnet/minecraft/world/level/block/entity/BlockEntityType;

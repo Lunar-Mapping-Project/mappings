@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/ichor/itf/IGenesisClassLoader
+	METHOD OIOORRORCRHOOCICORRCHOHRC defineClass (Ljava/lang/String;[B)Ljava/util/Optional;
+		ARG 1 className
+		ARG 2 bytes
+	METHOD RHHCIHIHIRHHCOIOIRIROOHOI getPipeline ()Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;

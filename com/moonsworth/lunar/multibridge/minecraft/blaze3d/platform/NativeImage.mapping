@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/blaze3d/platform/NativeImage
+	FIELD components components I
+	METHOD <init> <init> ()V
+	METHOD impl$setPackPixelStoreState_components impl$setPackPixelStoreState_components (Lcom/mojang/blaze3d/platform/NativeImage$Format;)I
+	METHOD impl$setUnpackPixelStoreState_components impl$setUnpackPixelStoreState_components (Lcom/mojang/blaze3d/platform/NativeImage$Format;)I

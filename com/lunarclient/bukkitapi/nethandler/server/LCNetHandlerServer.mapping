@@ -1,0 +1,9 @@
+CLASS com/lunarclient/bukkitapi/nethandler/server/LCNetHandlerServer com/lunarclient/bukkitapi/nethandler/server/LCNetHandlerServer
+	METHOD handleStaffModStatus handleStaffModStatus (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketStaffModStatus;)V
+		ARG 1 packet
+	METHOD handleVoice handleVoice (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketClientVoice;)V
+		ARG 1 packet
+	METHOD handleVoiceChannelSwitch handleVoiceChannelSwitch (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketVoiceChannelSwitch;)V
+		ARG 1 packet
+	METHOD handleVoiceMute handleVoiceMute (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketVoiceMute;)V
+		ARG 1 packet

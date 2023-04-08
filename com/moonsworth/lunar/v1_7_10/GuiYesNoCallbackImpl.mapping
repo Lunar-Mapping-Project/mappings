@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/GuiYesNoCallbackImpl
+	FIELD uri uri Ljava/net/URI;
+	METHOD <init> <init> (Ljava/net/URI;)V
+	METHOD confirmClicked confirmClicked (ZI)V

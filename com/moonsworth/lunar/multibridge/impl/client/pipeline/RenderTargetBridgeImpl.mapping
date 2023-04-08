@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/impl/client/pipeline/RenderTargetBridgeImpl
+	METHOD <init> <init> (III)V
+		ARG 1 width
+		ARG 2 height
+		ARG 3 colorTextureId

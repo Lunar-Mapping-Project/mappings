@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/RenderItemMixin
+	FIELD nextModel nextModel Z
+	METHOD <init> <init> ()V
+	METHOD impl$renderModel impl$renderModel (Lnet/minecraft/client/resources/model/IBakedModel;ILnet/minecraft/item/ItemStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

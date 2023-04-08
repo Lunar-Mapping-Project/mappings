@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/forge/mixin/C00HandshakeMixin
+	FIELD ip ip Ljava/lang/String;
+	FIELD port port I
+	FIELD protocolVersion protocolVersion I
+	FIELD requestedState requestedState Lnet/minecraft/network/EnumConnectionState;
+	METHOD <init> <init> ()V
+	METHOD readPacketData readPacketData (Lnet/minecraft/network/PacketBuffer;)V
+	METHOD writePacketData writePacketData (Lnet/minecraft/network/PacketBuffer;)V

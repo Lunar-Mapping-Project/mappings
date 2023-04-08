@@ -1,0 +1,32 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/external/adventure/WrappedComponent
+	FIELD ahd converted Lnet/minecraft/network/chat/Component;
+	FIELD ahe deepConvertedLocalized Ljava/util/Locale;
+	FIELD ahf wrapped Lnet/kyori/adventure/text/Component;
+	FIELD ahg renderer Lnet/kyori/adventure/text/renderer/ComponentRenderer;
+	FIELD ahh lastData Ljava/util/Locale;
+	FIELD ahi lastRendered Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD <init> (Lnet/kyori/adventure/text/Component;Lnet/kyori/adventure/text/renderer/ComponentRenderer;)V
+		ARG 1 wrapped
+		ARG 2 renderer
+	METHOD CROCOOCCOORRICHICROCCICIR deepConvertedIfPresent ()Lnet/minecraft/network/chat/Component;
+	METHOD HOCIIRIIICRICCICIIHIHOIIC renderer ()Lnet/kyori/adventure/text/renderer/ComponentRenderer;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI createWrappedComponent (Lnet/kyori/adventure/text/Component;Lnet/kyori/adventure/text/renderer/ComponentRenderer;)Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 wrapped
+		ARG 2 renderer
+	METHOD OIOHIRHOCHRIRIIOHOOCIORHH deepConverted ()Lnet/minecraft/network/chat/Component;
+	METHOD OIOORRORCRHOOCICORRCHOHRC rendered (Ljava/util/Locale;)Lcom/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 data
+	METHOD ROHHIOOCHCHOOCHCIHCROIROR wrapped ()Lnet/kyori/adventure/text/Component;
+	METHOD copy copy ()Lnet/minecraft/network/chat/MutableComponent;
+	METHOD getSiblings getSiblings ()Ljava/util/List;
+	METHOD getString getString ()Ljava/lang/String;
+	METHOD getString getString (I)Ljava/lang/String;
+		ARG 1 length
+	METHOD getStyle getStyle ()Lnet/minecraft/network/chat/Style;
+	METHOD getVisualOrderText$v1_16_5 getVisualOrderText$v1_16_5 ()Lnet/minecraft/util/FormattedCharSequence;
+	METHOD plainCopy plainCopy ()Lnet/minecraft/network/chat/MutableComponent;
+	METHOD visit visit (Lnet/minecraft/network/chat/FormattedText$ContentConsumer;)Ljava/util/Optional;
+		ARG 1 visitor
+	METHOD visit visit (Lnet/minecraft/network/chat/FormattedText$StyledContentConsumer;Lnet/minecraft/network/chat/Style;)Ljava/util/Optional;
+		ARG 1 visitor
+		ARG 2 style

@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/impl/renderer/RenderItemSpriteBridgeImpl
+	FIELD DRINK_POTION DRINK_POTION Lnet/minecraft/util/ResourceLocation;
+	FIELD FIREWORKS_CHARGE FIREWORKS_CHARGE Lnet/minecraft/util/ResourceLocation;
+	FIELD LEATHER_ARMOR_OVERLAY LEATHER_ARMOR_OVERLAY Ljava/util/List;
+	FIELD SPAWN_EGG_OVERLAY SPAWN_EGG_OVERLAY Lnet/minecraft/util/ResourceLocation;
+	FIELD SPLASH_POTION SPLASH_POTION Lnet/minecraft/util/ResourceLocation;
+	FIELD random random Ljava/util/Random;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD color color (Lnet/minecraft/client/renderer/WorldRenderer;IIIZ)Lnet/minecraft/client/renderer/WorldRenderer;
+	METHOD getOverlayTexture getOverlayTexture (Lnet/minecraft/item/ItemStack;)Lnet/minecraft/util/ResourceLocation;
+	METHOD getScale getScale (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;)F
+	METHOD hasOverlays hasOverlays (Lnet/minecraft/item/ItemStack;)Z
+	METHOD renderBlock renderBlock (Lnet/minecraft/entity/item/EntityItem;DDDF)V
+	METHOD renderItemSpriteLegacy renderItemSpriteLegacy (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI;DDDF)V
+	METHOD renderSprite renderSprite (Lnet/minecraft/client/renderer/WorldRenderer;Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;IIIZ)V
+	METHOD renderStackSize renderStackSize (I)I
+	METHOD setupTransforms setupTransforms (I)V

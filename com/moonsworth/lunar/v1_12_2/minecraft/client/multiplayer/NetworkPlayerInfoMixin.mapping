@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_12_2/minecraft/client/multiplayer/NetworkPlayerInfoMixin
+	FIELD playerTextures playerTextures Ljava/util/Map;
+	METHOD <init> <init> ()V
+	METHOD bridge$setLocationOfCape bridge$setLocationOfCape (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD getGameProfile getGameProfile ()Lcom/mojang/authlib/GameProfile;
+	METHOD getLocationSkin getLocationSkin ()Lnet/minecraft/util/ResourceLocation;
+	METHOD getSkinType getSkinType ()Ljava/lang/String;
+	METHOD proxy$getLocationSkin proxy$getLocationSkin ()Lnet/minecraft/util/ResourceLocation;
+	METHOD proxy$getSkinType proxy$getSkinType ()Ljava/lang/String;

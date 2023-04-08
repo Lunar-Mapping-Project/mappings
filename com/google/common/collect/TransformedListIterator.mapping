@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RICRRROHIICCRHCOCHOHOOORO com/google/common/collect/TransformedListIterator
+	METHOD <init> <init> (Ljava/util/ListIterator;)V
+	METHOD HOCOCICHORCCIIOCCIROCCCOO backingIterator ()Ljava/util/ListIterator;
+	METHOD add add (Ljava/lang/Object;)V
+	METHOD hasPrevious hasPrevious ()Z
+	METHOD nextIndex nextIndex ()I
+	METHOD previous previous ()Ljava/lang/Object;
+	METHOD previousIndex previousIndex ()I
+	METHOD set set (Ljava/lang/Object;)V

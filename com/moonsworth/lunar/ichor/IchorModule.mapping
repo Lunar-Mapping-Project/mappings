@@ -1,0 +1,26 @@
+CLASS com/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/ichor/IchorModule
+	FIELD id id Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 id
+	METHOD IIIRHOOROORRIHORIRRHOHOOI getPriority ()Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI;Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)Ljava/util/Map;
+		ARG 1 version
+		ARG 2 pipeline
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI load (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)Ljava/util/List;
+		ARG 1 pipeline
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI readEntries (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;Ljava/lang/String;Ljava/util/function/BiConsumer;)V
+		ARG 1 pipeline
+		ARG 2 path
+	METHOD compareTo compareTo (Ljava/lang/Object;)I
+		ARG 1 other
+	METHOD getId getId ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI Priority
+		FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD INIT INIT Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD NORMAL NORMAL Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		FIELD PRE_INIT PRE_INIT Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD $values $values ()[Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD <clinit> <clinit> ()V
+		METHOD <init> <init> (Ljava/lang/String;I)V
+		METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD values values ()[Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC$RHOIOCRHOCHOOHHCOHIOIIRHI;

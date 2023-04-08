@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/ichor/RHOHHRHHRCHRRIOCIIRHICCIC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/ichor/mappings/RemapperImpl
+	FIELD aff mappings Lorg/cadixdev/lorenz/MappingSet;
+	FIELD afg inheritanceProvide Lorg/cadixdev/bombe/analysis/InheritanceProvider;
+	METHOD <init> <init> (Lorg/cadixdev/lorenz/MappingSet;Lorg/cadixdev/bombe/analysis/InheritanceProvider;)V
+		ARG 1 mappings
+		ARG 2 inheritanceProvide
+	METHOD RIROCRROORRORCRHIIRIIHCRO getInheritanceProvider ()Lorg/cadixdev/bombe/analysis/InheritanceProvider;
+	METHOD getCompletedClassMapping getCompletedClassMapping (Ljava/lang/String;)Lorg/cadixdev/lorenz/model/ClassMapping;
+	METHOD getMappings getMappings ()Lorg/cadixdev/lorenz/MappingSet;
+	METHOD map map (Ljava/lang/String;)Ljava/lang/String;
+	METHOD mapFieldName mapFieldName (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD mapInnerClassName mapInnerClassName (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD mapInvokeDynamicMethodName mapInvokeDynamicMethodName (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	METHOD mapMethodName mapMethodName (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/pojo/SkyblockAddonsAPIResponse
+	FIELD response response Lcom/google/gson/JsonObject;
+	FIELD success success Z
+	METHOD <init> <init> ()V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getResponse getResponse ()Lcom/google/gson/JsonObject;
+	METHOD hashCode hashCode ()I
+	METHOD isSuccess isSuccess ()Z
+	METHOD setResponse setResponse (Lcom/google/gson/JsonObject;)V
+	METHOD setSuccess setSuccess (Z)V
+	METHOD toString toString ()Ljava/lang/String;

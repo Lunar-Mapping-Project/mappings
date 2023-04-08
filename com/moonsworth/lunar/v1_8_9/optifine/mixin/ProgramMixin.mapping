@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/v1_8_9/optifine/mixin/ProgramMixin
+	FIELD id id I
+	METHOD <init> <init> ()V
+	METHOD getId getId ()I

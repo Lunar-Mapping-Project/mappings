@@ -1,0 +1,2 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/minecraft/entity/player/EntityPlayerMPMixin
+	METHOD <init> <init> (Lnet/minecraft/world/World;Lcom/mojang/authlib/GameProfile;)V

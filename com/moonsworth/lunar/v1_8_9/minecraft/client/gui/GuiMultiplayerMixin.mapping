@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/ROOIRIIIRHHIIRRCOCHIOCIHO com/moonsworth/lunar/v1_8_9/minecraft/client/gui/GuiMultiplayerMixin
+	FIELD btnDeleteServer btnDeleteServer Lnet/minecraft/client/gui/GuiButton;
+	FIELD btnEditServer btnEditServer Lnet/minecraft/client/gui/GuiButton;
+	FIELD deletingServer deletingServer Z
+	FIELD parentScreen parentScreen Lnet/minecraft/client/gui/GuiScreen;
+	FIELD savedServerList savedServerList Lnet/minecraft/client/multiplayer/ServerList;
+	FIELD serverListSelector serverListSelector Lnet/minecraft/client/gui/ServerSelectionList;
+	METHOD <init> <init> ()V
+	METHOD connectToServer connectToServer (Lnet/minecraft/client/multiplayer/ServerData;)V
+	METHOD func_175391_a func_175391_a (Lnet/minecraft/client/gui/ServerListEntryNormal;IZ)V
+	METHOD func_175392_a func_175392_a (Lnet/minecraft/client/gui/ServerListEntryNormal;I)Z
+	METHOD impl$actionPerformed impl$actionPerformed (Lnet/minecraft/client/gui/GuiButton;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$confirmClick impl$confirmClick (ZILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$connectToSelected impl$connectToSelected (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/client/gui/GuiListExtended$IGuiListEntry;)V
+	METHOD impl$onConnectToServer impl$onConnectToServer (Lnet/minecraft/client/multiplayer/ServerData;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$selectServer impl$selectServer (ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD refreshServerList refreshServerList ()V
+	METHOD selectServer selectServer (I)V

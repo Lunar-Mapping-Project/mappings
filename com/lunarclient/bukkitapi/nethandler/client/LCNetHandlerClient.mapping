@@ -1,0 +1,51 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/LCNetHandlerClient com/lunarclient/bukkitapi/nethandler/client/LCNetHandlerClient
+	METHOD handleAddHologram handleAddHologram (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketHologram;)V
+		ARG 1 packet
+	METHOD handleBossBar handleBossBar (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketBossBar;)V
+		ARG 1 packet
+	METHOD handleCooldown handleCooldown (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketCooldown;)V
+		ARG 1 packet
+	METHOD handleGhost handleGhost (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketGhost;)V
+		ARG 1 packet
+	METHOD handleModSettings handleModSettings (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketModSettings;)V
+		ARG 1 packet
+	METHOD handleNametagsUpdate handleNametagsUpdate (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketNametagsUpdate;)V
+		ARG 1 packet
+	METHOD handleNotification handleNotification (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketNotification;)V
+		ARG 1 packet
+	METHOD handleOverrideNametags handleOverrideNametags (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketNametagsOverride;)V
+		ARG 1 packet
+	METHOD handleRemoveHologram handleRemoveHologram (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketHologramRemove;)V
+		ARG 1 packet
+	METHOD handleServerRule handleServerRule (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketServerRule;)V
+		ARG 1 packet
+	METHOD handleServerUpdate handleServerUpdate (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketServerUpdate;)V
+		ARG 1 packet
+	METHOD handleStaffModState handleStaffModState (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketStaffModState;)V
+		ARG 1 packet
+	METHOD handleTeammates handleTeammates (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketTeammates;)V
+		ARG 1 packet
+	METHOD handleTitle handleTitle (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketTitle;)V
+		ARG 1 packet
+	METHOD handleUpdateHologram handleUpdateHologram (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketHologramUpdate;)V
+		ARG 1 packet
+	METHOD handleUpdateWorld handleUpdateWorld (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketUpdateWorld;)V
+		ARG 1 packet
+	METHOD handleVoice handleVoice (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoice;)V
+		ARG 1 packet
+	METHOD handleVoiceChannelDelete handleVoiceChannelDelete (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannelRemove;)V
+		ARG 1 packet
+	METHOD handleVoiceChannelUpdate handleVoiceChannelUpdate (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannelUpdate;)V
+		ARG 1 packet
+	METHOD handleVoiceChannels handleVoiceChannels (Lcom/lunarclient/bukkitapi/nethandler/server/LCPacketVoiceChannel;)V
+		ARG 1 packet
+	METHOD handleWorldBorder handleWorldBorder (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorder;)V
+		ARG 1 packet
+	METHOD handleWorldBorderCreateNew handleWorldBorderCreateNew (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderCreateNew;)V
+		ARG 1 packet
+	METHOD handleWorldBorderRemove handleWorldBorderRemove (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderRemove;)V
+		ARG 1 packet
+	METHOD handleWorldBorderUpdate handleWorldBorderUpdate (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderUpdate;)V
+		ARG 1 packet
+	METHOD handleWorldBorderUpdateNew handleWorldBorderUpdateNew (Lcom/lunarclient/bukkitapi/nethandler/client/LCPacketWorldBorderUpdateNew;)V
+		ARG 1 packet

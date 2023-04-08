@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/player/LocalPlayerMixin
+	FIELD connection connection Lnet/minecraft/client/multiplayer/ClientPacketListener;
+	FIELD sprintTriggerTime sprintTriggerTime I
+	METHOD <init> <init> (Lnet/minecraft/client/multiplayer/ClientLevel;Lcom/mojang/authlib/GameProfile;)V
+	METHOD lambda$lunar$livingUpdateEvent$0 lambda$lunar$livingUpdateEvent$0 ()V
+	METHOD lunar$chatMessageEvents lunar$chatMessageEvents (Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$clientCommandEvent$v1_19_0 lunar$clientCommandEvent$v1_19_0 (Ljava/lang/String;Lnet/minecraft/network/chat/Component;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$clientCommandEvent$v1_19_2 lunar$clientCommandEvent$v1_19_2 (Ljava/lang/String;Lnet/minecraft/network/chat/Component;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$cosmeticPostUpdateEvent lunar$cosmeticPostUpdateEvent (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$criticalStrikeEvent lunar$criticalStrikeEvent (Lnet/minecraft/world/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 2 ci
+	METHOD lunar$enchantCriticalStrikeEvent lunar$enchantCriticalStrikeEvent (Lnet/minecraft/world/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 2 ci
+	METHOD lunar$entityLivingHurtEvent lunar$entityLivingHurtEvent (Lnet/minecraft/world/damagesource/DamageSource;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$livingUpdateEvent lunar$livingUpdateEvent (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$onSprinting lunar$onSprinting (Lnet/minecraft/client/player/LocalPlayer;Z)V
+	METHOD lunar$sendChatEvent lunar$sendChatEvent (Lnet/minecraft/client/multiplayer/ClientPacketListener;Lnet/minecraft/network/protocol/Packet;)V
+	METHOD lunar$sendUnsignedCommandEvent$v1_19_2 lunar$sendUnsignedCommandEvent$v1_19_2 (Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$stopAnimatingOnDamage lunar$stopAnimatingOnDamage (Lnet/minecraft/world/damagesource/DamageSource;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

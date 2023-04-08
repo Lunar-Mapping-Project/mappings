@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/EffectRendererMixin
+	METHOD <init> <init> ()V
+	METHOD sba$addEffect sba$addEffect (Lnet/minecraft/client/particle/EntityFX;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD sba$renderParticles sba$renderParticles (Lnet/minecraft/entity/Entity;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

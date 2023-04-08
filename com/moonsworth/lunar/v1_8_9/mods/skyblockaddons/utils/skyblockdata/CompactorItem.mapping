@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/skyblockdata/CompactorItem
+	FIELD displayName displayName Ljava/lang/String;
+	FIELD enchanted enchanted Z
+	FIELD itemId itemId Ljava/lang/String;
+	FIELD itemStack itemStack Lnet/minecraft/item/ItemStack;
+	FIELD skullId skullId Ljava/lang/String;
+	FIELD texture texture Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Z)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;ZLjava/lang/String;Ljava/lang/String;)V
+	METHOD getItemStack getItemStack ()Lnet/minecraft/item/ItemStack;
+	METHOD gsonInit gsonInit ()V
+	METHOD makeItemStack makeItemStack ()V
+	METHOD toString toString ()Ljava/lang/String;

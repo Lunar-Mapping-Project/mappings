@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/ROOICOIICOIOORHCHIHCOICII com/google/common/io/MultiInputStream
+	FIELD in in Ljava/io/InputStream;
+	FIELD it it Ljava/util/Iterator;
+	METHOD <init> <init> (Ljava/util/Iterator;)V
+	METHOD advance advance ()V
+	METHOD available available ()I
+	METHOD close close ()V
+	METHOD markSupported markSupported ()Z
+	METHOD read read ()I
+	METHOD read read ([BII)I
+	METHOD skip skip (J)J

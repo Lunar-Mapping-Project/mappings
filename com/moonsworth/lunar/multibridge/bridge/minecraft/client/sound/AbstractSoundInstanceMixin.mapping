@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/sound/AbstractSoundInstanceMixin
+	METHOD <init> <init> ()V
+	METHOD getLocation getLocation ()Lnet/minecraft/resources/ResourceLocation;
+	METHOD getVolume getVolume ()F
+	METHOD proxy$getVolume proxy$getVolume ()F

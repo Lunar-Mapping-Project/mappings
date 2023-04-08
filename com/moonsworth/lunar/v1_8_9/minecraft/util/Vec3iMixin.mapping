@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHRROCIIHHROCROOHICOCHRIR/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_8_9/minecraft/util/Vec3iMixin
+	FIELD x x I
+	FIELD y y I
+	FIELD z z I
+	METHOD <init> <init> ()V
+	METHOD bridge$getX bridge$getX ()I
+	METHOD bridge$getY bridge$getY ()I
+	METHOD bridge$getZ bridge$getZ ()I
+	METHOD bridge$setPos bridge$setPos (III)V
+	METHOD getX getX ()I
+	METHOD getY getY ()I
+	METHOD getZ getZ ()I
+	METHOD setXyz setXyz (III)V

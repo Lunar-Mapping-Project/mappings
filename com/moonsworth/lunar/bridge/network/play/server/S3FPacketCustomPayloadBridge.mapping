@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/network/play/server/S3FPacketCustomPayloadBridge
+	METHOD bridge$getBufferData bridge$getBufferData ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getChannelName bridge$getChannelName ()Ljava/lang/String;

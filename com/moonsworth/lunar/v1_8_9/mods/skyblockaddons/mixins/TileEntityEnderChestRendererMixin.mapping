@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR/HICCCOROHIIHIHRCOIHHCRHCR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/mixins/TileEntityEnderChestRendererMixin
+	FIELD ENDER_CHEST_TEXTURE ENDER_CHEST_TEXTURE Lnet/minecraft/util/ResourceLocation;
+	METHOD <init> <init> ()V
+	METHOD impl$bindTexture impl$bindTexture (Lnet/minecraft/client/renderer/tileentity/TileEntityEnderChestRenderer;Lnet/minecraft/util/ResourceLocation;)V
+	METHOD impl$renderAll impl$renderAll (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

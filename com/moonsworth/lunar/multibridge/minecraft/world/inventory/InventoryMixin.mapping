@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/world/inventory/InventoryMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Lnet/kyori/adventure/text/Component;
+	METHOD bridge$getStackInSlot bridge$getStackInSlot (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$setInventorySlotContents bridge$setInventorySlotContents (ILcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)V
+	METHOD getItem getItem (I)Lnet/minecraft/world/item/ItemStack;
+	METHOD getName getName ()Lnet/minecraft/network/chat/Component;
+	METHOD setItem setItem (ILnet/minecraft/world/item/ItemStack;)V

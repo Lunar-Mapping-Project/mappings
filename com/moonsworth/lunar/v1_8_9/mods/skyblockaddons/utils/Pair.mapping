@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/Pair
+	FIELD key key Ljava/lang/Object;
+	FIELD value value Ljava/lang/Object;
+	METHOD <init> <init> (Ljava/lang/Object;Ljava/lang/Object;)V
+	METHOD getKey getKey ()Ljava/lang/Object;
+	METHOD getValue getValue ()Ljava/lang/Object;
+	METHOD setKey setKey (Ljava/lang/Object;)V
+	METHOD setValue setValue (Ljava/lang/Object;)V

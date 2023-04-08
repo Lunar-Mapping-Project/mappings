@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/OIOORRORCRHOOCICORRCHOHRC/OIOOCIIHICICRRHCROHOOHOCI com/moonsworth/lunar/v1_7_10/minecraft/client/gui/GuiIngameMixin
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD bridge$getChatGUI bridge$getChatGUI ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/IOICICOOIRRHCCHORRHOOOICR;
+	METHOD bridge$getTicks bridge$getTicks ()I
+	METHOD bridge$getTitle bridge$getTitle ()Lnet/kyori/adventure/title/Title;
+	METHOD bridge$renderGameOverlay bridge$renderGameOverlay (F)V
+	METHOD bridge$resetTitleTimer bridge$resetTitleTimer ()V
+	METHOD bridge$showCrosshair bridge$showCrosshair ()Z
+	METHOD bridge$titlesTimer bridge$titlesTimer ()I
+	METHOD getChatGUI getChatGUI ()Lnet/minecraft/client/gui/GuiNewChat;
+	METHOD getUpdateCounter getUpdateCounter ()I
+	METHOD renderGameOverlay renderGameOverlay (FZII)V

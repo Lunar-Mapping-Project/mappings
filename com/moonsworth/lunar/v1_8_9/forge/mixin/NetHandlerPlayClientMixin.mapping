@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_8_9/forge/mixin/NetHandlerPlayClientMixin
+	FIELD clientWorldController clientWorldController Lnet/minecraft/client/multiplayer/WorldClient;
+	FIELD currentServerMaxPlayers currentServerMaxPlayers I
+	FIELD gameController gameController Lnet/minecraft/client/Minecraft;
+	FIELD netManager netManager Lnet/minecraft/network/NetworkManager;
+	METHOD <init> <init> ()V
+	METHOD handleJoinGame handleJoinGame (Lnet/minecraft/network/play/server/S01PacketJoinGame;)V
+	METHOD impl$handleChat impl$handleChat (Lnet/minecraft/network/play/server/S02PacketChat;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

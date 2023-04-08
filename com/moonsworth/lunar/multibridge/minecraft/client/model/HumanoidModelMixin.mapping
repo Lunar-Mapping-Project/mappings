@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/model/HumanoidModelMixin
+	FIELD body body Lnet/minecraft/client/model/geom/ModelPart;
+	FIELD crouching crouching Z
+	FIELD hat hat Lnet/minecraft/client/model/geom/ModelPart;
+	FIELD head head Lnet/minecraft/client/model/geom/ModelPart;
+	FIELD leftArm leftArm Lnet/minecraft/client/model/geom/ModelPart;
+	FIELD leftLeg leftLeg Lnet/minecraft/client/model/geom/ModelPart;
+	FIELD rightArm rightArm Lnet/minecraft/client/model/geom/ModelPart;
+	FIELD rightLeg rightLeg Lnet/minecraft/client/model/geom/ModelPart;
+	METHOD <init> <init> ()V
+	METHOD bridge$bipedBody bridge$bipedBody ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedHead bridge$bipedHead ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedHeadwear bridge$bipedHeadwear ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedLeftArm bridge$bipedLeftArm ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedLeftLeg bridge$bipedLeftLeg ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedRightArm bridge$bipedRightArm ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$bipedRightLeg bridge$bipedRightLeg ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$setRotationAngles bridge$setRotationAngles (FFFFFFLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+	METHOD bridge$setSneak bridge$setSneak (Z)V
+	METHOD setupAnim setupAnim (Lnet/minecraft/world/entity/LivingEntity;FFFFF)V

@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/v1_8_9/optifine/mixin/TextureMapMixin
+	METHOD <init> <init> ()V
+	METHOD impl$scaleTexture impl$scaleTexture (Ljava/awt/image/BufferedImage;I)Ljava/awt/image/BufferedImage;
+	METHOD onLoadTextureAtlas onLoadTextureAtlas (Lnet/minecraft/client/resources/IResourceManager;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/client/renderer/texture/Stitcher;IIIIILjava/util/Iterator;Ljava/util/Map$Entry;Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/client/resources/IResource;[Ljava/awt/image/BufferedImage;)V

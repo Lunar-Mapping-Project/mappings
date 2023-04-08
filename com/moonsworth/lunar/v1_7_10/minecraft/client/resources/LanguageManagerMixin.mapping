@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/minecraft/client/resources/LanguageManagerMixin
+	FIELD currentLanguage currentLanguage Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD handleLanguageUpdate handleLanguageUpdate ()V
+	METHOD impl$onConstruct impl$onConstruct (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onCurrentLanguage impl$onCurrentLanguage (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

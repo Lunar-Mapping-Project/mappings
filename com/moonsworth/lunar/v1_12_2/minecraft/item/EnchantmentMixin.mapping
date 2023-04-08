@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/minecraft/item/EnchantmentMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$canApply bridge$canApply (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+	METHOD bridge$canApplyTogether bridge$canApplyTogether (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI;)Z
+	METHOD bridge$getMaxLevel bridge$getMaxLevel ()I
+	METHOD bridge$getWeight bridge$getWeight ()I
+	METHOD canApply canApply (Lnet/minecraft/item/ItemStack;)Z
+	METHOD canApplyTogether canApplyTogether (Lnet/minecraft/enchantment/Enchantment;)Z
+	METHOD getMaxLevel getMaxLevel ()I
+	METHOD getRarity getRarity ()Lnet/minecraft/enchantment/Enchantment$Rarity;

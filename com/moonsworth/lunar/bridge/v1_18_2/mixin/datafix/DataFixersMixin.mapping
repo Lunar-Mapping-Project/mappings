@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ICOICORHIORHRCRIIIOCCCOCO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/v1_18_2/mixin/datafix/DataFixersMixin
+	METHOD <init> <init> ()V
+	METHOD create$replaceBuilder create$replaceBuilder (I)Lcom/mojang/datafixers/DataFixerBuilder;

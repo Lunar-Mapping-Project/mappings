@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_8_9/minecraft/item/ItemFoodMixin
+	FIELD alwaysEdible alwaysEdible Z
+	FIELD healAmount healAmount I
+	FIELD potionId potionId I
+	FIELD saturationModifier saturationModifier F
+	METHOD <init> <init> ()V
+	METHOD bridge$canEatWhenFull bridge$canEatWhenFull ()Z
+	METHOD bridge$getHealing bridge$getHealing (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)I
+	METHOD bridge$getSaturation bridge$getSaturation (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)F
+	METHOD bridge$givesBadEffect bridge$givesBadEffect ()Z
+	METHOD getHealAmount getHealAmount (Lnet/minecraft/item/ItemStack;)I
+	METHOD getSaturationModifier getSaturationModifier (Lnet/minecraft/item/ItemStack;)F

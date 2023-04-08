@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/utils/objects/FloatPair
+	FIELD x x Lorg/apache/commons/lang3/mutable/MutableFloat;
+	FIELD y y Lorg/apache/commons/lang3/mutable/MutableFloat;
+	METHOD <init> <init> (FF)V
+	METHOD cloneCoords cloneCoords ()Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD equals equals (Ljava/lang/Object;)Z
+	METHOD getX getX ()F
+	METHOD getY getY ()F
+	METHOD hashCode hashCode ()I
+	METHOD setX setX (F)V
+	METHOD setY setY (F)V
+	METHOD toString toString ()Ljava/lang/String;

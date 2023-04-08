@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/entity/EntityMixin
+	FIELD CLIENT_ENTITY_COUNTER CLIENT_ENTITY_COUNTER Ljava/util/concurrent/atomic/AtomicInteger;
+	FIELD level level Lnet/minecraft/world/level/Level;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD lunar$useClientEntityIdCounter lunar$useClientEntityIdCounter (Ljava/util/concurrent/atomic/AtomicInteger;Lcom/llamalad7/mixinextras/injector/wrapoperation/Operation;)I

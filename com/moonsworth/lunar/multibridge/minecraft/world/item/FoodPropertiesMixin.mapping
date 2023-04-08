@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/multibridge/minecraft/world/item/FoodPropertiesMixin
+	FIELD canAlwaysEat canAlwaysEat Z
+	METHOD <init> <init> ()V
+	METHOD bridge$canEatWhenFull bridge$canEatWhenFull ()Z
+	METHOD bridge$getHealing bridge$getHealing (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)I
+	METHOD bridge$getSaturation bridge$getSaturation (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)F
+	METHOD bridge$givesBadEffect bridge$givesBadEffect ()Z
+	METHOD getEffects getEffects ()Ljava/util/List;
+	METHOD getNutrition getNutrition ()I
+	METHOD getSaturationModifier getSaturationModifier ()F

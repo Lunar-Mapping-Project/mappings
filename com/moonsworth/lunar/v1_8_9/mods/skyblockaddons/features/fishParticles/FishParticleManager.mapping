@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/CRORIOCOIOOHROHORIORIHRRI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/fishParticles/FishParticleManager
+	FIELD ANGLE_EXPECTED ANGLE_EXPECTED D
+	FIELD DIST_EXPECTED DIST_EXPECTED D
+	FIELD DIST_VARIATION DIST_VARIATION D
+	FIELD TIME_VARIATION TIME_VARIATION I
+	FIELD cacheEmpty cacheEmpty Z
+	FIELD idx idx I
+	FIELD overlay overlay Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD particleAngl particleAngl [D
+	FIELD particleDist particleDist [D
+	FIELD particleHash particleHash Ljava/util/LinkedHashMap;
+	FIELD particleList particleList [Ljava/util/ArrayList;
+	FIELD particleMatrixRows particleMatrixRows [J
+	FIELD particleTime particleTime [J
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD bitwiseMatrixSquare bitwiseMatrixSquare ([J[J)V
+	METHOD calculateTrails calculateTrails ()V
+	METHOD clearParticleCache clearParticleCache ()V
+	METHOD onFishWakeSpawn onFishWakeSpawn (Lnet/minecraft/client/particle/EntityFishWakeFX;)V

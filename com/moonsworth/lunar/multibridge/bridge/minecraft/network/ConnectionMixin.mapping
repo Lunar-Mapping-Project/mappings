@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/network/ConnectionMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$checkPacket$wTapping lunar$checkPacket$wTapping (Lnet/minecraft/network/protocol/Packet;)V
+	METHOD lunar$checkPacket$wTapping lunar$checkPacket$wTapping (Lnet/minecraft/network/protocol/Packet;Lio/netty/util/concurrent/GenericFutureListener;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$checkPacket$wTapping lunar$checkPacket$wTapping (Lnet/minecraft/network/protocol/Packet;Lnet/minecraft/network/PacketSendListener;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/multibridge/minecraft/client/multiplayer/ServerListMixin
+	FIELD hiddenServers hiddenServers Ljava/util/Map;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	FIELD pinnedServer pinnedServer Ljava/util/Set;
+	FIELD serverList serverList Ljava/util/List;
+	METHOD <init> <init> ()V
+	METHOD bridge$canSwapServers bridge$canSwapServers (II)Z
+	METHOD bridge$isPinned bridge$isPinned (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC;)Z
+	METHOD get get (I)Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD impl$swapServers impl$swapServers (IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD load load ()V
+	METHOD save save ()V

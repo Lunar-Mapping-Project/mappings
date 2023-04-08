@@ -1,0 +1,38 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/EntityRendererMixin
+	FIELD fovModifierHand fovModifierHand F
+	FIELD fovModifierHandPrev fovModifierHandPrev F
+	FIELD getFOVModifierThreadLocal getFOVModifierThreadLocal Z
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	FIELD random random Ljava/util/Random;
+	METHOD <init> <init> ()V
+	METHOD bridge$disableLightmap bridge$disableLightmap ()V
+	METHOD bridge$enableLightmap bridge$enableLightmap ()V
+	METHOD bridge$getShaderGroup bridge$getShaderGroup ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$isShaderActive bridge$isShaderActive ()Z
+	METHOD bridge$loadShader bridge$loadShader (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$stopUseShader bridge$stopUseShader ()V
+	METHOD disableLightmap disableLightmap ()V
+	METHOD enableLightmap enableLightmap ()V
+	METHOD getShaderGroup getShaderGroup ()Lnet/minecraft/client/shader/ShaderGroup;
+	METHOD getZoomLevel getZoomLevel (FZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$fovModifierRedirect impl$fovModifierRedirect (FFZ)F
+	METHOD impl$getFovModifier$modifyArg2 impl$getFovModifier$modifyArg2 (Z)Z
+	METHOD impl$onProfilerEndStartSection impl$onProfilerEndStartSection (Lnet/minecraft/profiler/Profiler;Ljava/lang/String;IFJ)V
+	METHOD impl$onRenderHand impl$onRenderHand (Lnet/minecraft/client/renderer/EntityRenderer;IFJ)Z
+	METHOD impl$onUpdateCameraRender impl$onUpdateCameraRender (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD impl$prevRotationPitch impl$prevRotationPitch (Lnet/minecraft/entity/Entity;)F
+	METHOD impl$prevRotationYaw impl$prevRotationYaw (Lnet/minecraft/entity/Entity;)F
+	METHOD impl$renderWorldPass impl$renderWorldPass (IFJLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 5 ci
+	METHOD impl$rotationPitch impl$rotationPitch (Lnet/minecraft/entity/Entity;)F
+	METHOD impl$rotationYaw impl$rotationYaw (Lnet/minecraft/entity/Entity;)F
+	METHOD impl$setAngles impl$setAngles (Lnet/minecraft/client/entity/EntityPlayerSP;FF)V
+	METHOD impl$sin impl$sin (F)F
+	METHOD isShaderActive isShaderActive ()Z
+	METHOD loadShader loadShader (Lnet/minecraft/util/ResourceLocation;)V
+		ARG 1 location
+	METHOD lunar$updateCameraAndRender$drawScreen$forge lunar$updateCameraAndRender$drawScreen$forge (Lnet/minecraft/client/gui/GuiScreen;IIF)V
+	METHOD lunar$updateCameraAndRender$drawScreen$vanilla lunar$updateCameraAndRender$drawScreen$vanilla (Lnet/minecraft/client/gui/GuiScreen;IIF)V
+	METHOD lunar$updateCameraAndRender$drawScreen lunar$updateCameraAndRender$drawScreen (Lnet/minecraft/client/gui/GuiScreen;IIF)V
+	METHOD stopUseShader stopUseShader ()V

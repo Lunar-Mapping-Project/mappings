@@ -1,0 +1,18 @@
+CLASS com/lunarclient/bukkitapi/nethandler/client/obj/ServerRule com/lunarclient/bukkitapi/nethandler/client/obj/ServerRule
+	FIELD $VALUES $VALUES [Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD COMPETITIVE_GAME COMPETITIVE_GAME Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD LEGACY_COMBAT LEGACY_COMBAT Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD LEGACY_ENCHANTING LEGACY_ENCHANTING Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD MINIMAP_STATUS MINIMAP_STATUS Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD SERVER_HANDLES_WAYPOINTS SERVER_HANDLES_WAYPOINTS Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD SHADERS_DISABLED SHADERS_DISABLED Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD VOICE_ENABLED VOICE_ENABLED Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	FIELD id id Ljava/lang/String;
+	FIELD type type Ljava/lang/Class;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;ILjava/lang/String;Ljava/lang/Class;)V
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getRule getRule (Ljava/lang/String;)Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	METHOD getType getType ()Ljava/lang/Class;
+	METHOD valueOf valueOf (Ljava/lang/String;)Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;
+	METHOD values values ()[Lcom/lunarclient/bukkitapi/nethandler/client/obj/ServerRule;

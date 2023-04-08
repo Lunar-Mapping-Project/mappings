@@ -1,0 +1,27 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/EffectRendererHook
+	FIELD effectRenderers effectRenderers Ljava/util/Set;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD onAddParticle onAddParticle (Lnet/minecraft/client/particle/EntityFX;)V
+	METHOD registerOverlay registerOverlay (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/CRCCHRCHCRCIHROCRHOHIROCR;)V
+	METHOD renderParticleOverlays renderParticleOverlays (F)V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI OverlayInfo
+		FIELD partialTicks partialTicks F
+		FIELD renderViewEntity renderViewEntity Lnet/minecraft/entity/Entity;
+		FIELD renderer renderer Lnet/minecraft/client/renderer/texture/TextureManager;
+		FIELD rotationX rotationX F
+		FIELD rotationXY rotationXY F
+		FIELD rotationXZ rotationXZ F
+		FIELD rotationYZ rotationYZ F
+		FIELD rotationZ rotationZ F
+		FIELD worldRenderer worldRenderer Lnet/minecraft/client/renderer/WorldRenderer;
+		METHOD <init> <init> (F)V
+		METHOD getPartialTicks getPartialTicks ()F
+		METHOD getRenderViewEntity getRenderViewEntity ()Lnet/minecraft/entity/Entity;
+		METHOD getRenderer getRenderer ()Lnet/minecraft/client/renderer/texture/TextureManager;
+		METHOD getRotationX getRotationX ()F
+		METHOD getRotationXY getRotationXY ()F
+		METHOD getRotationXZ getRotationXZ ()F
+		METHOD getRotationYZ getRotationYZ ()F
+		METHOD getRotationZ getRotationZ ()F
+		METHOD getWorldRenderer getWorldRenderer ()Lnet/minecraft/client/renderer/WorldRenderer;

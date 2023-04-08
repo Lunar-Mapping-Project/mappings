@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/renderer/entity/RenderLivingBaseMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$doRenderModel lunar$doRenderModel (Lnet/minecraft/client/renderer/entity/RenderLivingBase;Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V
+	METHOD lunar$modifyHitColorAlpha lunar$modifyHitColorAlpha (F)F
+	METHOD lunar$modifyHitColorBlue lunar$modifyHitColorBlue (F)F
+	METHOD lunar$modifyHitColorGreen lunar$modifyHitColorGreen (F)F
+	METHOD lunar$modifyHitColorRed lunar$modifyHitColorRed (F)F

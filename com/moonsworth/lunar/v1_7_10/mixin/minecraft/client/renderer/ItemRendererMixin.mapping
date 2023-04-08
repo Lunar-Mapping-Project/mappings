@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/renderer/ItemRendererMixin
+	FIELD RES_ITEM_GLINT RES_ITEM_GLINT Lnet/minecraft/util/ResourceLocation;
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD impl$renderFire impl$renderFire (FFF)V
+	METHOD impl$renderItem$hasEffect impl$renderItem$hasEffect (Lnet/minecraft/item/ItemStack;)Z
+	METHOD impl$renderItemInFirstPerson$rotateYaw impl$renderItemInFirstPerson$rotateYaw (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

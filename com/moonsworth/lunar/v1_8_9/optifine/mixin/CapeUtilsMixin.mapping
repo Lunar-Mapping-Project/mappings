@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/optifine/mixin/CapeUtilsMixin
+	METHOD <init> <init> ()V
+	METHOD downloadCape downloadCape (Lnet/minecraft/client/entity/AbstractClientPlayer;)V

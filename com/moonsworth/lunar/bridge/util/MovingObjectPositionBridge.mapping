@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HOHOHRIHCIICROCRCRIIOCCHC com/moonsworth/lunar/bridge/util/MovingObjectPositionBridge
+	METHOD bridge$border bridge$border ()V
+	METHOD bridge$getBlockPosition bridge$getBlockPosition ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/ICOICORHIORHRCRIIIOCCCOCO;
+	METHOD bridge$getEntityHit bridge$getEntityHit ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$isBorder bridge$isBorder ()Z
+	METHOD bridge$isTypeOfHit bridge$isTypeOfHit (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/OIOOCIIHICICRRHCROHOOHOCI;)Z

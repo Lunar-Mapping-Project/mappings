@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RCRIIRROHHOCHHHCHOCIICRHR com/google/common/util/concurrent/ExecutionError
+	FIELD XN serialVersionUID J
+	METHOD <init> <init> ()V
+	METHOD <init> <init> (Ljava/lang/Error;)V
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/Error;)V

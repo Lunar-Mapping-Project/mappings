@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HICHICCCOCIORRHICHHIHOHIR/CRCCHRCHCRCIHROCRHOHIROCR com/moonsworth/lunar/bridge/client/resources/SkinManagerBridge
+	METHOD bridge$getInsecureSkinInformation bridge$getInsecureSkinInformation (Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;
+	METHOD bridge$registerTexture bridge$registerTexture (Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;

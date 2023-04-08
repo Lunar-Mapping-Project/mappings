@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HHHCHHIORCOOHICRHCOIRHRCI com/google/common/collect/ForwardingConcurrentMap
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD OHRRIROHIICHOHOHIOICCCRHR delegate ()Ljava/util/Map;
+	METHOD OOCIROORORCHCCROOCORHCOOR delegate ()Ljava/util/concurrent/ConcurrentMap;
+	METHOD putIfAbsent putIfAbsent (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD remove remove (Ljava/lang/Object;Ljava/lang/Object;)Z
+	METHOD replace replace (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+	METHOD replace replace (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Z

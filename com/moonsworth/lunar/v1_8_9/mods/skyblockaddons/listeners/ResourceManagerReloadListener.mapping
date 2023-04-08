@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/listeners/ResourceManagerReloadListener
+	FIELD containerPreviewLocation containerPreviewLocation Lnet/minecraft/util/ResourceLocation;
+	FIELD furfSkyRebornName furfSkyRebornName Ljava/util/regex/Pattern;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD onResourceManagerReload onResourceManagerReload (Lnet/minecraft/client/resources/IResourceManager;)V

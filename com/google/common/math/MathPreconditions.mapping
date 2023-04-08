@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRCCHRCHCRCIHROCRHOHIROCR/OCRHRIOCIICCRHCHHHOHHCROC com/google/common/math/MathPreconditions
+	METHOD <init> <init> ()V
+	METHOD HICHICCCOCIORRHICHHIHOHIR checkNonNegative (Ljava/lang/String;I)I
+	METHOD IICOHCHCCIRORIRIOOCIRCHHH checkRoundingUnnecessary (Z)V
+	METHOD IIROHIIHCHOORORIIHORHRORO checkNonNegative (Ljava/lang/String;J)J
+	METHOD OCIROORRIRIOHIIIRRIORCIHI checkNonNegative (Ljava/lang/String;Ljava/math/BigInteger;)Ljava/math/BigInteger;
+	METHOD ORRCHORCCOOOCCORCIHCROOCC checkNonNegative (Ljava/lang/String;D)D
+	METHOD ORRCHORCCOOOCCORCIHCROOCC checkPositive (Ljava/lang/String;I)I
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR checkPositive (Ljava/lang/String;J)J
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR checkNoOverflow (ZLjava/lang/String;II)V
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR checkNoOverflow (ZLjava/lang/String;JJ)V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI checkPositive (Ljava/lang/String;Ljava/math/BigInteger;)Ljava/math/BigInteger;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI checkInRangeForRoundingInputs (ZDLjava/math/RoundingMode;)V

@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/util/client/renderer/EntityRendererMixin
+	FIELD mc mc Lnet/minecraft/client/Minecraft;
+	FIELD renderingWorldDirections renderingWorldDirections Z
+	METHOD <init> <init> ()V
+	METHOD lunar$applyViewBobbing lunar$applyViewBobbing (Lnet/minecraft/client/renderer/EntityRenderer;F)Z
+	METHOD lunar$canRain lunar$canRain (Z)Z
+	METHOD lunar$changeRainColor lunar$changeRainColor (Lnet/minecraft/client/renderer/WorldRenderer;FFFF)Lnet/minecraft/client/renderer/WorldRenderer;
+	METHOD lunar$forceRainInAllBiomes lunar$forceRainInAllBiomes (F)F
+	METHOD lunar$limitFps lunar$limitFps (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$modifyRainStrength lunar$modifyRainStrength (F)F
+	METHOD lunar$onTranslateEyeHeight lunar$onTranslateEyeHeight (FFF)V
+	METHOD lunar$optifineWeatherControl lunar$optifineWeatherControl (FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$preventRainParticles lunar$preventRainParticles (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$renderWorldDirections lunar$renderWorldDirections (Lnet/minecraft/client/renderer/EntityRenderer;F)V
+	METHOD orientCamera orientCamera (F)V

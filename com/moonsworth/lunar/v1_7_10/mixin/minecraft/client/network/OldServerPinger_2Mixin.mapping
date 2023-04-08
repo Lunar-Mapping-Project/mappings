@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/network/OldServerPinger_2Mixin
+	METHOD <init> <init> ()V
+	METHOD impl$noIp impl$noIp (Lio/netty/channel/ChannelConfig;Lio/netty/channel/ChannelOption;Ljava/lang/Object;)Z
+	METHOD impl$tcpNoDelay impl$tcpNoDelay (Ljava/lang/Object;)Ljava/lang/Object;

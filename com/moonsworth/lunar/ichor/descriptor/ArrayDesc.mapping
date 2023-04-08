@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/descriptor/ArrayDesc
+	FIELD afK type Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD <init> <init> ()V
+	METHOD canEqual canEqual (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD equals equals (Ljava/lang/Object;)Z
+		ARG 1 other
+	METHOD getDescriptor getDescriptor ()Ljava/lang/String;
+	METHOD hashCode hashCode ()I

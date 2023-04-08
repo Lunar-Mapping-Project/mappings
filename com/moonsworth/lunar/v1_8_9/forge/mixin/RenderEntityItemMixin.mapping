@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_8_9/forge/mixin/RenderEntityItemMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$onRenderScale$forge lunar$onRenderScale$forge (Lnet/minecraft/entity/item/EntityItem;DDDFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/item/ItemStack;ZLnet/minecraft/client/resources/model/IBakedModel;)V

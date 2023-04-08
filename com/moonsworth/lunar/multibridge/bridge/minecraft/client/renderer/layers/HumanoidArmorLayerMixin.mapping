@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/IIROHIIHCHOORORIIHORHRORO/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/bridge/minecraft/client/renderer/layers/HumanoidArmorLayerMixin
+	FIELD RED_OVERLAY RED_OVERLAY I
+	FIELD lunar$armorCutoutNoCullWithHitColor$v1_17_0 lunar$armorCutoutNoCullWithHitColor$v1_17_0 Ljava/util/function/Function;
+	FIELD lunar$shouldRenderHurtColor lunar$shouldRenderHurtColor Z
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD lambda$static$0 lambda$static$0 (Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/renderer/RenderType;
+	METHOD lunar$armorHitColor lunar$armorHitColor ()I
+	METHOD lunar$armorRenderType lunar$armorRenderType (Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/renderer/RenderType;
+	METHOD lunar$setHurtColor lunar$setHurtColor (Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/EquipmentSlot;ILnet/minecraft/client/model/HumanoidModel;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

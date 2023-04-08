@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RCHHIHHRCCIHIRCCCRHIOCCHR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/multibridge/impl/client/renderer/OpenGLHelperImpl
+	METHOD <init> <init> ()V
+	METHOD bridge$defaultTexUnit bridge$defaultTexUnit ()I
+	METHOD bridge$disableLightMap bridge$disableLightMap ()V
+	METHOD bridge$enableLightMap bridge$enableLightMap ()V
+	METHOD bridge$getCPU bridge$getCPU ()Ljava/lang/String;
+	METHOD bridge$glBlendFunc bridge$glBlendFunc (IIII)V
+	METHOD bridge$isFramebufferEnabled bridge$isFramebufferEnabled ()Z
+	METHOD bridge$isOffscreenRenderTargetEnabled bridge$isOffscreenRenderTargetEnabled ()Z
+	METHOD bridge$lastBrightnessX bridge$lastBrightnessX ()F
+	METHOD bridge$lastBrightnessY bridge$lastBrightnessY ()F
+	METHOD bridge$lightmapTexUnit bridge$lightmapTexUnit ()I
+	METHOD bridge$setLightmapTextureCoords bridge$setLightmapTextureCoords (IFF)V

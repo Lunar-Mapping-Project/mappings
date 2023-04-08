@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CRORIOCOIOOHROHORIORIHRRI/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/feature/thirdparty/ThirdPartyMod
+	METHOD IRRRIRRCCHCROOCHIIHIRORHO modid ()Ljava/lang/String;
+	METHOD name name ()Ljava/lang/String;
+	METHOD version version ()Ljava/lang/String;

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/optifine/mixin/CapeUtilsMixin
+	METHOD <init> <init> ()V
+	METHOD impl$download impl$download (Lnet/minecraft/client/player/AbstractClientPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+		ARG 1 ci
+	METHOD impl$proxyOptiFineUrl impl$proxyOptiFineUrl (Ljava/lang/String;)Ljava/lang/String;

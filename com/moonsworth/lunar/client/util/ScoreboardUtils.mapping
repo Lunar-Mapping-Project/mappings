@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/IHOOIHRHOCRCOHHOOOIIIRIOR com/moonsworth/lunar/client/util/ScoreboardUtils
+	FIELD ORORIIHIRHOIIIICCCRIIRIIH formattingCodePattern Ljava/util/regex/Pattern;
+	FIELD RCCRHHCHRIOICOHIIRCRRRIIC proxyNamePattern Ljava/util/regex/Pattern;
+	FIELD server server Ljava/lang/String;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD CCOOHCIRRCHCCOHIHORHIIHOC updateServer ()V
+	METHOD IHRIIOOOCCCRCIRIHHCRIOOOI isProxyBrand (Ljava/lang/String;)Z
+	METHOD IRCHOORRCOIIRCORRHHHCIIOR isOnServer (Ljava/lang/String;)Z
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI isProxyBrand (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/ORHHOORIHIRHCICRORRCCIIOR/ICHOOOOOCROIHROCRIRCIOORH;)Z
+	METHOD RHOOCROHIOCHRRHORORHOCHIC getGamemode (Ljava/lang/String;)Ljava/lang/String;
+	METHOD getScoreboardTitle getScoreboardTitle ()Ljava/lang/String;
+	METHOD getServer getServer ()Ljava/lang/String;

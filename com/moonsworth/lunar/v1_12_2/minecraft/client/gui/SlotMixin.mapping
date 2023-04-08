@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/CCRHOHCCOIICHCCHIOIICHHOO com/moonsworth/lunar/v1_12_2/minecraft/client/gui/SlotMixin
+	FIELD inventory inventory Lnet/minecraft/inventory/IInventory;
+	FIELD slotIndex slotIndex I
+	FIELD xPos xPos I
+	FIELD yPos yPos I
+	METHOD <init> <init> ()V
+	METHOD bridge$getIndex bridge$getIndex ()I
+	METHOD bridge$getInventory bridge$getInventory ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$getItem bridge$getItem ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getXDisplayPosition bridge$getXDisplayPosition ()I
+	METHOD bridge$getYDisplayPosition bridge$getYDisplayPosition ()I
+	METHOD getStack getStack ()Lnet/minecraft/item/ItemStack;

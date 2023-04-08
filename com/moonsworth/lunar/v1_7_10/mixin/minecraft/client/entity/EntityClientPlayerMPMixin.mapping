@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/client/entity/EntityClientPlayerMPMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$chatMessageEvents lunar$chatMessageEvents (Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$entityLivingHurtEvent lunar$entityLivingHurtEvent (Lnet/minecraft/util/DamageSource;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD lunar$stopAnimatingOnDamage lunar$stopAnimatingOnDamage (Lnet/minecraft/util/DamageSource;FLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

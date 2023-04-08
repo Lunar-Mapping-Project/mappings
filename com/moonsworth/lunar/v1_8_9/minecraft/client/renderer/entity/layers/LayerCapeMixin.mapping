@@ -1,0 +1,13 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/minecraft/client/renderer/entity/layers/LayerCapeMixin
+	FIELD lastPartialTick lastPartialTick F
+	FIELD playerRenderer playerRenderer Lnet/minecraft/client/renderer/entity/RenderPlayer;
+	FIELD slicedModelCloak slicedModelCloak Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/HORRIRRROCHOHCCORHOOCHICO/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <init> <init> ()V
+	METHOD bridge$render bridge$render (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI;FFFFFFF)V
+	METHOD doRenderLayer doRenderLayer (Lnet/minecraft/client/entity/AbstractClientPlayer;FFFFFFF)V
+	METHOD impl$doRenderLayer$pushMatrix impl$doRenderLayer$pushMatrix (Lnet/minecraft/client/entity/AbstractClientPlayer;FFFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$doRenderLayer impl$doRenderLayer (Lnet/minecraft/client/model/ModelPlayer;FLnet/minecraft/client/entity/AbstractClientPlayer;)V
+	METHOD impl$getLocationCape impl$getLocationCape (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation;
+	METHOD impl$isSneaking impl$isSneaking (Lnet/minecraft/client/entity/AbstractClientPlayer;)Z
+	METHOD impl$isWearing impl$isWearing (Lnet/minecraft/client/entity/AbstractClientPlayer;Lnet/minecraft/entity/player/EnumPlayerModelParts;)Z
+	METHOD lambda$impl$doRenderLayer$0 lambda$impl$doRenderLayer$0 (Lnet/minecraft/client/entity/AbstractClientPlayer;Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)Ljava/lang/Boolean;

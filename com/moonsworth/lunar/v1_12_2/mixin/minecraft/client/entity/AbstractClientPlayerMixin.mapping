@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/mixin/minecraft/client/entity/AbstractClientPlayerMixin
+	METHOD <init> <init> ()V
+	METHOD impl$getFovModifier impl$getFovModifier (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V

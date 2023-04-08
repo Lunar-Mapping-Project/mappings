@@ -1,0 +1,21 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHIRORCCROIIRCIHCOCIRORHH/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/v1_19_2/mixin/GameRendererMixin
+	FIELD fov fov F
+	FIELD getFOVModifierThreadLocal getFOVModifierThreadLocal Z
+	FIELD impl$savedCamera impl$savedCamera Lnet/minecraft/client/Camera;
+	FIELD impl$savedModelView impl$savedModelView Lcom/mojang/math/Matrix4f;
+	FIELD impl$savedProjection impl$savedProjection Lcom/mojang/math/Matrix4f;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	FIELD oldFov oldFov F
+	METHOD <init> <init> ()V
+	METHOD bobView bobView (Lcom/mojang/blaze3d/vertex/PoseStack;F)V
+	METHOD impl$beforeHudRender impl$beforeHudRender (FJZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$captureCamera impl$captureCamera (Lnet/minecraft/client/Camera;)Lnet/minecraft/client/Camera;
+	METHOD impl$captureModelView impl$captureModelView (Lcom/mojang/blaze3d/vertex/PoseStack;)Lcom/mojang/blaze3d/vertex/PoseStack;
+	METHOD impl$captureProjection impl$captureProjection (Lcom/mojang/math/Matrix4f;)Lcom/mojang/math/Matrix4f;
+	METHOD impl$fovModifierRedirect impl$fovModifierRedirect (DLnet/minecraft/client/Camera;FZ)D
+	METHOD impl$getFovModifier$modifyArg3 impl$getFovModifier$modifyArg3 (Z)Z
+	METHOD impl$getZoomLevel impl$getZoomLevel (Lnet/minecraft/client/Camera;FZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$render impl$render (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$renderLevel$viewbob impl$renderLevel$viewbob (Lnet/minecraft/client/renderer/GameRenderer;Lcom/mojang/blaze3d/vertex/PoseStack;F)V
+	METHOD lambda$impl$render$0 lambda$impl$render$0 (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Optional;
+	METHOD onRender onRender (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

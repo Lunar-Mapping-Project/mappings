@@ -1,0 +1,30 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mixin/adventure/serializer/LunarAdventure
+	FIELD GSON GSON Lnet/kyori/adventure/text/serializer/gson/GsonComponentSerializer;
+	FIELD NBT_CODEC NBT_CODEC Lnet/kyori/adventure/util/Codec;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD asAdventure asAdventure (Lnet/minecraft/event/ClickEvent$Action;)Lnet/kyori/adventure/text/event/ClickEvent$Action;
+	METHOD asAdventure asAdventure (Lnet/minecraft/event/HoverEvent;)Lnet/kyori/adventure/text/event/HoverEvent;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/EnumChatFormatting;)Lnet/kyori/adventure/text/format/NamedTextColor;
+	METHOD asAdventure asAdventure (Lnet/minecraft/util/IChatComponent;)Lnet/kyori/adventure/text/Component;
+	METHOD asBinaryTagHolder asBinaryTagHolder (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/kyori/adventure/nbt/api/BinaryTagHolder;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/Component;)Lnet/minecraft/util/IChatComponent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/ClickEvent$Action;)Lnet/minecraft/event/ClickEvent$Action;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/ClickEvent;)Lnet/minecraft/event/ClickEvent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/HoverEvent$Action;)Lnet/minecraft/event/HoverEvent$Action;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/event/HoverEvent;)Lnet/minecraft/event/HoverEvent;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/format/NamedTextColor;)Lnet/minecraft/util/EnumChatFormatting;
+	METHOD asVanilla asVanilla (Lnet/kyori/adventure/text/format/TextColor;)Lnet/minecraft/util/EnumChatFormatting;
+	METHOD asVanillaCompound asVanillaCompound (Lnet/kyori/adventure/nbt/api/BinaryTagHolder;)Lnet/minecraft/nbt/NBTTagCompound;
+	CLASS 1
+		METHOD <init> <init> ()V
+		METHOD decode decode (Ljava/lang/Object;)Ljava/lang/Object;
+		METHOD decode decode (Ljava/lang/String;)Lnet/minecraft/nbt/NBTTagCompound;
+		METHOD encode encode (Ljava/lang/Object;)Ljava/lang/Object;
+		METHOD encode encode (Lnet/minecraft/nbt/NBTTagCompound;)Ljava/lang/String;
+	CLASS 2
+		FIELD $SwitchMap$net$kyori$adventure$text$event$ClickEvent$Action $SwitchMap$net$kyori$adventure$text$event$ClickEvent$Action [I
+		FIELD $SwitchMap$net$minecraft$event$ClickEvent$Action $SwitchMap$net$minecraft$event$ClickEvent$Action [I
+		FIELD $SwitchMap$net$minecraft$event$HoverEvent$Action $SwitchMap$net$minecraft$event$HoverEvent$Action [I
+		FIELD $SwitchMap$net$minecraft$util$EnumChatFormatting $SwitchMap$net$minecraft$util$EnumChatFormatting [I
+		METHOD <clinit> <clinit> ()V

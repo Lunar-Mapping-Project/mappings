@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/multibridge/optifine/mixin/VideoSettingsScreenMixin
+	METHOD <init> <init> ()V
+	METHOD lunar$noShadersFullbright lunar$noShadersFullbright (Lnet/optifine/gui/GuiButtonOF;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

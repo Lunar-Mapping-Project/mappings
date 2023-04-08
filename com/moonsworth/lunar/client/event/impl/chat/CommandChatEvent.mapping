@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/client/event/impl/chat/CommandChatEvent
+	FIELD HHHIROHRCHHRCOHHIRICIROII arguments [Ljava/lang/String;
+	FIELD HRIOOCHIIHCHCHHHOHIICRHOH argumentsString Ljava/lang/String;
+	FIELD command command Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 command
+	METHOD HHHRRCIICRRIIIRIRCCRHICHR getArgumentsString ()Ljava/lang/String;
+	METHOD HRIIHRRHICRIOCHHOCCIHRIIR getArguments ()[Ljava/lang/String;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI setArguments ([Ljava/lang/String;)V
+		ARG 1 arguments
+	METHOD OIOOCIIHICICRRHCROHOOHOCI argumentsEqual (Ljava/lang/String;)Z
+		ARG 1 string
+	METHOD get getArgument (I)Ljava/lang/String;
+		ARG 1 index
+	METHOD getCommand getCommand ()Ljava/lang/String;

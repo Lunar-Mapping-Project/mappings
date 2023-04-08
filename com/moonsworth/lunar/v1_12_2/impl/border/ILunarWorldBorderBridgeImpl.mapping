@@ -1,0 +1,67 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_12_2/impl/border/ILunarWorldBorderBridgeImpl
+	FIELD WALL_WIDTH WALL_WIDTH I
+	FIELD allowInteraction allowInteraction Z
+	FIELD canShrink canShrink Z
+	FIELD cancelEntry cancelEntry Z
+	FIELD cancelExit cancelExit Z
+	FIELD color color I
+	FIELD first first Z
+	FIELD id id Ljava/lang/String;
+	FIELD staticBounds staticBounds Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD walls walls Ljava/util/List;
+	FIELD wasInside wasInside Z
+	FIELD worldBorder worldBorder Z
+	FIELD world world Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;I)V
+		ARG 1 id
+		ARG 2 world
+		ARG 3 color
+	METHOD allowsInteraction allowsInteraction ()Z
+	METHOD bridge$getClosestDistance bridge$getClosestDistance (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)D
+	METHOD bridge$maxX bridge$maxX ()D
+	METHOD bridge$maxZ bridge$maxZ ()D
+	METHOD bridge$minX bridge$minX ()D
+	METHOD bridge$minZ bridge$minZ ()D
+	METHOD bridge$setCenter bridge$setCenter (DD)V
+	METHOD bridge$setTransition bridge$setTransition (D)V
+	METHOD contains contains (DD)Z
+	METHOD getColor getColor ()I
+	METHOD getId getId ()Ljava/lang/String;
+	METHOD getStaticBounds getStaticBounds ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD getWalls getWalls ()Ljava/util/List;
+	METHOD getWorld getWorld ()Ljava/lang/String;
+	METHOD isAllowInteraction isAllowInteraction ()Z
+	METHOD isCanShrink isCanShrink ()Z
+	METHOD isCancelEntry isCancelEntry ()Z
+	METHOD isCancelExit isCancelExit ()Z
+	METHOD isFirst isFirst ()Z
+	METHOD isStatic isStatic ()Z
+	METHOD isWasInside isWasInside ()Z
+	METHOD isWorldBorder isWorldBorder ()Z
+	METHOD maxX maxX ()D
+	METHOD maxZ maxZ ()D
+	METHOD minX minX ()D
+	METHOD minZ minZ ()D
+	METHOD recalculateWalls recalculateWalls (Ljava/util/List;Z)V
+	METHOD setAllowInteraction setAllowInteraction (Z)V
+	METHOD setCanShrink setCanShrink (Z)V
+	METHOD setCancelEntry setCancelEntry (Z)V
+	METHOD setCancelExit setCancelExit (Z)V
+	METHOD setColor setColor (I)V
+	METHOD setStaticBounds setStaticBounds (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD setTransition setTransition (DDJ)V
+		ARG 1 x
+		ARG 3 z
+	METHOD setWorldBorder setWorldBorder (Z)V
+	METHOD shouldRender shouldRender ()Z
+	METHOD update update (DDDDI)V
+	CLASS 1
+		FIELD this$0 this$0 Lcom/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+		METHOD onCenterChanged onCenterChanged (Lnet/minecraft/world/border/WorldBorder;DD)V
+		METHOD onDamageAmountChanged onDamageAmountChanged (Lnet/minecraft/world/border/WorldBorder;D)V
+		METHOD onDamageBufferChanged onDamageBufferChanged (Lnet/minecraft/world/border/WorldBorder;D)V
+		METHOD onSizeChanged onSizeChanged (Lnet/minecraft/world/border/WorldBorder;D)V
+		METHOD onTransitionStarted onTransitionStarted (Lnet/minecraft/world/border/WorldBorder;DDJ)V
+		METHOD onWarningDistanceChanged onWarningDistanceChanged (Lnet/minecraft/world/border/WorldBorder;I)V
+		METHOD onWarningTimeChanged onWarningTimeChanged (Lnet/minecraft/world/border/WorldBorder;I)V

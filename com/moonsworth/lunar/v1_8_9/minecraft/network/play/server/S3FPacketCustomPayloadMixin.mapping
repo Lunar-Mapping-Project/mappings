@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/HORRIRRROCHOHCCORHOOCHICO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/network/play/server/S3FPacketCustomPayloadMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getBufferData bridge$getBufferData ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/OIOORRORCRHOOCICORRCHOHRC;
+	METHOD bridge$getChannelName bridge$getChannelName ()Ljava/lang/String;
+	METHOD getBufferData getBufferData ()Lnet/minecraft/network/PacketBuffer;
+	METHOD getChannelName getChannelName ()Ljava/lang/String;

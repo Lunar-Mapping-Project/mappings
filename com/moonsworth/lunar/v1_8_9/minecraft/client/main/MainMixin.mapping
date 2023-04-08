@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/minecraft/client/main/MainMixin
+	FIELD hwid hwid Ljoptsimple/OptionSpec;
+	FIELD launcherVersion launcherVersion Ljoptsimple/OptionSpec;
+	FIELD texturesDir texturesDir Ljoptsimple/OptionSpec;
+	METHOD <init> <init> ()V
+	METHOD impl$main$ impl$main$ ([Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljoptsimple/OptionParser;)V
+	METHOD impl$main$parse impl$main$parse (Ljoptsimple/OptionParser;[Ljava/lang/String;)Ljoptsimple/OptionSet;
+	METHOD impl$main impl$main ([Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

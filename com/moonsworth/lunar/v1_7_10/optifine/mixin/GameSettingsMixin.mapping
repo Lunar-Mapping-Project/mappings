@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI/ORRCHORCCOOOCCORCIHCROOCC com/moonsworth/lunar/v1_7_10/optifine/mixin/GameSettingsMixin
+	FIELD ofChunkLoading ofChunkLoading I
+	FIELD ofKeyBindZoom ofKeyBindZoom Lnet/minecraft/client/settings/KeyBinding;
+	METHOD <init> <init> ()V
+	METHOD bridge$getChunkLoading bridge$getChunkLoading ()I
+	METHOD bridge$getZoomKey bridge$getZoomKey ()Ljava/util/Optional;
+	METHOD bridge$setChunkLoading bridge$setChunkLoading (I)V
+	METHOD impl$isKeyDown impl$isKeyDown (Lnet/minecraft/client/settings/KeyBinding;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD impl$setOptionValueOF$head impl$setOptionValueOF$head (Lnet/minecraft/client/settings/GameSettings_Options;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$setOptionValueOF$tail impl$setOptionValueOF$tail (Lnet/minecraft/client/settings/GameSettings_Options;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/client/event/impl/chat/IncomingChatEvent
+	FIELD HICORRHHOOROCRCOROHHHCICO isProfane Z
+	FIELD IHIROROOCOCRIORRCCIIHOICR chatMessage Lnet/kyori/adventure/text/Component;
+	FIELD type type I
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Lnet/kyori/adventure/text/Component;)V
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Lnet/kyori/adventure/text/Component;IZ)V
+	METHOD CRICHCCHIICOICHICOCROICCH getFormattedMessage ()Ljava/lang/String;
+	METHOD HRHHCIIIROHRROOORCCOIRIIC getRawChatMessage ()Ljava/lang/String;
+	METHOD OIOIIOCOICCCOIOCCICRCOROC getChatMessage ()Lnet/kyori/adventure/text/Component;
+	METHOD RCRIIOHOCOCHROOCOOIRIOHHC isProfane ()Z
+	METHOD getType getType ()I

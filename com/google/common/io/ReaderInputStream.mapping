@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/IOICCORHHICCROCCRIHOIIRHC com/google/common/io/ReaderInputStream
+	FIELD ICHCCIOCRHIRIOCRRHCIIHORR draining Z
+	FIELD IIORIOOIRHIRICIICHIHIHRHC doneFlushing Z
+	FIELD JN reader Ljava/io/Reader;
+	FIELD JO encoder Ljava/nio/charset/CharsetEncoder;
+	FIELD JP singleByte [B
+	FIELD RRICCORHIIOROOORCIOIHCOHI endOfInput Z
+	FIELD byteBuffer byteBuffer Ljava/nio/ByteBuffer;
+	FIELD charBuffer charBuffer Ljava/nio/CharBuffer;
+	METHOD <init> <init> (Ljava/io/Reader;Ljava/nio/charset/Charset;I)V
+	METHOD <init> <init> (Ljava/io/Reader;Ljava/nio/charset/CharsetEncoder;I)V
+	METHOD COHHOIRHIHHRHHHHHORRCHORI startDraining (Z)V
+	METHOD RCHIORORROCHORIHCOHHOOHRR drain ([BII)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI availableCapacity (Ljava/nio/Buffer;)I
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI grow (Ljava/nio/CharBuffer;)Ljava/nio/CharBuffer;
+	METHOD RRIHHOOHHRORICIICHHOCORCO readMoreChars ()V
+	METHOD close close ()V
+	METHOD read read ()I
+	METHOD read read ([BII)I

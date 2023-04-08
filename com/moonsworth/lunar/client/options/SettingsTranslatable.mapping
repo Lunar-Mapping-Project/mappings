@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OHICCROHCCHCRCROHHIHCRCIO/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/client/options/SettingsTranslatable
+	METHOD getLanguagePath getLanguagePath ()Ljava/lang/String;
+	METHOD id id ()Ljava/lang/String;
+	METHOD toString toString ()Ljava/lang/String;

@@ -1,0 +1,15 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/multibridge/minecraft/world/item/ItemMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getColorFromItemStack bridge$getColorFromItemStack (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;I)Ljava/lang/Integer;
+	METHOD bridge$getEnchantments bridge$getEnchantments (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Ljava/util/Map;
+	METHOD bridge$getFood bridge$getFood ()Ljava/util/Optional;
+	METHOD bridge$getRegistryName bridge$getRegistryName ()Ljava/lang/String;
+	METHOD bridge$hasEffect bridge$hasEffect (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+	METHOD bridge$isItemBlock bridge$isItemBlock ()Z
+	METHOD bridge$isItemPotion bridge$isItemPotion ()Z
+	METHOD bridge$isItemSkull bridge$isItemSkull ()Z
+	METHOD bridge$isItemSoup bridge$isItemSoup ()Z
+	METHOD bridge$isRepairable bridge$isRepairable (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)Z
+	METHOD getFoodProperties getFoodProperties ()Lnet/minecraft/world/food/FoodProperties;
+	METHOD isFoil isFoil (Lnet/minecraft/world/item/ItemStack;)Z
+	METHOD isValidRepairItem isValidRepairItem (Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z

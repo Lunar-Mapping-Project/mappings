@@ -1,0 +1,8 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCRIIRROHHOCHHHCHOCIICRHR com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/asm/hooks/RendererLivingEntityHook
+	FIELD coolPeople coolPeople Ljava/util/Set;
+	FIELD isCoolPerson isCoolPerson Z
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD equals equals (Ljava/lang/String;Ljava/lang/Object;)Z
+	METHOD isWearing isWearing (Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/entity/player/EnumPlayerModelParts;)Z
+	METHOD setOutlineColor setOutlineColor (Lnet/minecraft/entity/EntityLivingBase;I)I

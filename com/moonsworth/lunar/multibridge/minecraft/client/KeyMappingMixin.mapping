@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/client/KeyMappingMixin
+	FIELD category category Ljava/lang/String;
+	FIELD clashesWith clashesWith Ljava/util/List;
+	FIELD isDown isDown Z
+	FIELD key key Lcom/mojang/blaze3d/platform/InputConstants$Key;
+	FIELD name name Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD bridge$getCategory bridge$getCategory ()Ljava/lang/String;
+	METHOD bridge$getClashesWith bridge$getClashesWith ()Ljava/util/List;
+	METHOD bridge$getKey bridge$getKey ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD bridge$getKeyDescription bridge$getKeyDescription ()Ljava/lang/String;
+	METHOD bridge$getKeyName bridge$getKeyName ()Ljava/lang/String;
+	METHOD bridge$isKeyDown bridge$isKeyDown ()Z
+	METHOD bridge$setKey bridge$setKey (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD bridge$setKeyBindState bridge$setKeyBindState (Z)V
+	METHOD getName getName ()Ljava/lang/String;
+	METHOD getTranslatedKeyMessage getTranslatedKeyMessage ()Lnet/minecraft/network/chat/Component;
+	METHOD isDown isDown ()Z
+	METHOD setKey setKey (Lcom/mojang/blaze3d/platform/InputConstants$Key;)V
+	CLASS 1
+		FIELD ahp ahp [I
+		METHOD <clinit> <clinit> ()V

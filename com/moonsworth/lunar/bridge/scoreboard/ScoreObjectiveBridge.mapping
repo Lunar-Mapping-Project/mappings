@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/scoreboard/ScoreObjectiveBridge
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getScoreboard bridge$getScoreboard ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HOHOHRIHCIICROCRCRIIOCCHC/RCHHIHHRCCIHIRCCCRHIOCCHR;
+	METHOD bridge$setDisplayName bridge$setDisplayName (Ljava/lang/String;)V
+		ARG 1 displayName

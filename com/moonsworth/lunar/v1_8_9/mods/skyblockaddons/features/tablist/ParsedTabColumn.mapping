@@ -1,0 +1,12 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHRROCIIHHROCROOHICOCHRIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/tablist/ParsedTabColumn
+	FIELD lines lines Ljava/util/List;
+	FIELD sections sections Ljava/util/List;
+	FIELD title title Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;)V
+	METHOD addLine addLine (Ljava/lang/String;)V
+	METHOD addSection addSection (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHRROCIIHHROCROOHICOCHRIR/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD getLines getLines ()Ljava/util/List;
+	METHOD getSections getSections ()Ljava/util/List;
+	METHOD getTitle getTitle ()Ljava/lang/String;
+	METHOD setSections setSections (Ljava/util/List;)V
+	METHOD size size ()I

@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/RIORHCCRCIOORHIHIHIHHRIOH/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/CRORIOCOIOOHROHORIORIHRRI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_7_10/mixin/minecraft/resources/ResourceLocationMixin
+	METHOD <init> <init> ()V
+	METHOD adventure$asString adventure$asString ()Ljava/lang/String;
+	METHOD adventure$namespace adventure$namespace ()Ljava/lang/String;
+	METHOD adventure$value adventure$value ()Ljava/lang/String;
+	METHOD shadow$getResourceDomain shadow$getResourceDomain ()Ljava/lang/String;
+	METHOD shadow$getResourcePath shadow$getResourcePath ()Ljava/lang/String;

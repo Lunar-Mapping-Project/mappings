@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/bridge/client/gui/container/GuiContainerBridge
+	METHOD bridge$getGuiLeft bridge$getGuiLeft ()I
+	METHOD bridge$getGuiTop bridge$getGuiTop ()I
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;
+	METHOD bridge$getSlotAtPosition bridge$getSlotAtPosition (II)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD bridge$inventorySlots bridge$inventorySlots ()Ljava/util/List;
+	METHOD bridge$title bridge$title ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;

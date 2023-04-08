@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/IOICCHIHCCHCOCROIRRHIHORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/v1_16_1/mixin/BiomeMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$getBiomeID bridge$getBiomeID ()Ljava/util/Optional;
+	METHOD bridge$getBiomeName bridge$getBiomeName ()Ljava/lang/String;
+	METHOD getName getName ()Lnet/minecraft/network/chat/Component;

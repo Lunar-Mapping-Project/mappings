@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/ORRCHORCCOOOCCORCIHCROOCC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/multibridge/minecraft/log4j/JndiManagerMixin
+	METHOD <init> <init> ()V
+	METHOD lookup lookup (Ljava/lang/String;)Ljava/lang/Object;

@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/ichor/util/CRORIOCOIOOHROHORIORIHRRI com/moonsworth/lunar/ichor/util/ResourceUtil
+	METHOD <init> <init> ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI load (Ljava/nio/file/Path;Ljava/nio/file/Path;Ljava/util/function/BiFunction;)V
+		ARG 0 path
+		ARG 1 out
+		ARG 2 action
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI load (Ljava/nio/file/Path;Ljava/nio/file/Path;Ljava/util/function/Consumer;Ljava/lang/ClassLoader;)V
+		ARG 0 path
+		ARG 1 out
+		ARG 2 action
+		ARG 3 classLoader
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI load (Ljava/nio/file/Path;Ljava/nio/file/Path;ZLjava/util/function/BiFunction;)V
+		ARG 0 path
+		ARG 1 out
+		ARG 2 dumpAll
+		ARG 3 action
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI getNotchClassNames (Ljava/nio/file/Path;Ljava/util/Set;)V
+		ARG 0 path
+		ARG 1 dst
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/util/function/Consumer;Ljava/lang/ClassLoader;Ljava/lang/String;[B)Lcom/moonsworth/lunar/ichor/util/RIORHCCRCIOORHIHIHIHHRIOH;
+		ARG 2 className
+		ARG 3 bytes

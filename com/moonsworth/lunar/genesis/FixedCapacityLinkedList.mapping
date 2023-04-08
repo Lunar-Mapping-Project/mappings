@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/genesis/FixedCapacityLinkedList
+	FIELD CRIICOROHHHCCORHCOHROCOIH max I
+	METHOD <init> <init> (I)V
+	METHOD add add (Ljava/lang/Object;)Z

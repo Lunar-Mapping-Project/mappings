@@ -1,0 +1,32 @@
+CLASS com/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/IchorClassLoader
+	FIELD acI logger Lcom/moonsworth/lunar/ichor/util/ORRCHORCCOOOCCORCIHCROOCC;
+	FIELD acK injector Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;
+	FIELD acL phase Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+	FIELD acM loadedMixin Z
+	FIELD acO mixinProxy Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOHHRHHRCHRRIOCIIRHICCIC;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/ClassLoader;)V
+		ARG 1 injector
+		ARG 2 phase
+		ARG 3 parent
+	METHOD CROHRCHCCICCIIHOORIIRIRCH setupMixins ()V
+	METHOD HRHHCHRIOCHRIICCICCHIIOOI getPhase ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+	METHOD HRHHOCCOIHIRIIROORCHOOIIH isReservedClass (Ljava/lang/String;)Z
+		ARG 1 className
+	METHOD IRRIIOHHCHORIIRIHRRROCHIC getInjector ()Lcom/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO;
+	METHOD OIORRCCRCHIHOCOROHRHIHORR getMixinProxy ()Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOHHRHHRCHRRIOCIIRHICCIC;
+	METHOD OOHORHHHICCRICOIOIIOOIIIR loadSandboxedMixin ()V
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI setMixinProxy (Lcom/moonsworth/lunar/ichor/OCRHRIOCIICCRHCHHHOHHCROC/RHOHHRHHRCHRRIOCIIRHICCIC;)V
+		ARG 1 mixinProxy
+	METHOD RIORHCCRCIOORHIHIHIHHRIOH getTransformedClass (Ljava/lang/String;Z)Lcom/moonsworth/lunar/ichor/util/RIORHCCRCIOORHIHIHIHHRIOH;
+		ARG 1 className
+		ARG 2 resolve
+	METHOD findClass findClass (Ljava/lang/String;)Ljava/lang/Class;
+		ARG 1 className
+	METHOD get get (Ljava/lang/String;)[B
+		ARG 1 className
+	METHOD getResourceAsStream getResourceAsStream (Ljava/lang/String;)Ljava/io/InputStream;
+	METHOD loadClass loadClass (Ljava/lang/String;Z)Ljava/lang/Class;
+		ARG 1 className
+		ARG 2 resolve
+	METHOD toString toString ()Ljava/lang/String;

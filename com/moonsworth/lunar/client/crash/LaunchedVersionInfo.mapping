@@ -1,0 +1,20 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/CCRHOHCCOIICHCCHIOIICHHOO/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/client/crash/LaunchedVersionInfo
+	FIELD CCORCHHROIRRIRHHIHHOIHHOR branch Ljava/lang/String;
+	FIELD CRCRROIRIHOIHIOOOHIOICIIC architecture Ljava/lang/String;
+	FIELD HCROHOHIHRICOIRCCHHOHIOOR cpu Ljava/lang/String;
+	FIELD HRCHHCRCHHHOICIRCORHOOOHI os Ljava/lang/String;
+	FIELD ICRHIHOIIOIOCOICCHRIIIRHC ichorModules [Ljava/lang/String;
+	FIELD IHICRIHCHRICCIIRHCHCCORRI gitCommit Ljava/lang/String;
+	FIELD IHOCHCHOHOHCRRHOOCOHIIICC launcherVersion Ljava/lang/String;
+	FIELD OOOIHHIOORRCHHCHHORHCIHHH minecraftVersion Ljava/lang/String;
+	FIELD javaVersion javaVersion Ljava/lang/String;
+	METHOD <init> <init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V
+	METHOD CCOROHOCHIOORIOOHOROCRRHR getArchitecture ()Ljava/lang/String;
+	METHOD CRORIOCRHOCRCHOCHOOOCIOOI getBranch ()Ljava/lang/String;
+	METHOD IHCIOORORHIOCRCHCCHRROCRR getOs ()Ljava/lang/String;
+	METHOD IOHICOOOCRHHOHHRIOHICOHRR getMinecraftVersion ()Ljava/lang/String;
+	METHOD IOOOICRRRHRHIHHRCORHICIIO getCPU ()Ljava/lang/String;
+	METHOD RICOHORRICRRIIIOCRRRICICI getIchorModules ()[Ljava/lang/String;
+	METHOD RRHCIICIRCOHHCOOHIRIHIHIC getLauncherVersion ()Ljava/lang/String;
+	METHOD RROHHROCOOHIOOCOOCOOHCRIR getGitCommit ()Ljava/lang/String;
+	METHOD getJavaVersion getJavaVersion ()Ljava/lang/String;

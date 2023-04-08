@@ -1,0 +1,3 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC com/moonsworth/lunar/v1_8_9/optifine/impl/SignEditUtils
+	FIELD currentlyEditedSign currentlyEditedSign Lnet/minecraft/tileentity/TileEntitySign;
+	METHOD <init> <init> ()V

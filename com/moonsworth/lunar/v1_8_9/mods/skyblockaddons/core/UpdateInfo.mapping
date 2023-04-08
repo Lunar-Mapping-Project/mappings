@@ -1,0 +1,18 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC/ROOHRHIRRRIOCHOOOOOICHHIO com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/core/UpdateInfo
+	FIELD betaChangelog betaChangelog Ljava/lang/String;
+	FIELD betaDownload betaDownload Ljava/lang/String;
+	FIELD betaShowcase betaShowcase Ljava/lang/String;
+	FIELD latestBeta latestBeta Ljava/lang/String;
+	FIELD latestRelease latestRelease Ljava/lang/String;
+	FIELD releaseChangelog releaseChangelog Ljava/lang/String;
+	FIELD releaseDownload releaseDownload Ljava/lang/String;
+	FIELD releaseShowcase releaseShowcase Ljava/lang/String;
+	METHOD <init> <init> ()V
+	METHOD getBetaChangelog getBetaChangelog ()Ljava/lang/String;
+	METHOD getBetaDownload getBetaDownload ()Ljava/lang/String;
+	METHOD getBetaShowcase getBetaShowcase ()Ljava/lang/String;
+	METHOD getLatestBeta getLatestBeta ()Ljava/lang/String;
+	METHOD getLatestRelease getLatestRelease ()Ljava/lang/String;
+	METHOD getReleaseChangelog getReleaseChangelog ()Ljava/lang/String;
+	METHOD getReleaseDownload getReleaseDownload ()Ljava/lang/String;
+	METHOD getReleaseShowcase getReleaseShowcase ()Ljava/lang/String;

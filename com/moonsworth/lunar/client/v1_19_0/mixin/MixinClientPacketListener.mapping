@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/RICOIRCRRHCICRRIOCRHCIRCO/OCIROORRIRIOHIIIRRIORCIHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/client/v1_19_0/mixin/MixinClientPacketListener
+	FIELD LOGGER LOGGER Lorg/slf4j/Logger;
+	FIELD level level Lnet/minecraft/client/multiplayer/ClientLevel;
+	FIELD minecraft minecraft Lnet/minecraft/client/Minecraft;
+	METHOD <init> <init> ()V
+	METHOD getPlayerInfo getPlayerInfo (Ljava/util/UUID;)Lnet/minecraft/client/multiplayer/PlayerInfo;
+	METHOD handlePlayerChat handlePlayerChat (Lnet/minecraft/network/chat/ChatType;Lnet/minecraft/network/chat/PlayerChatMessage;Lnet/minecraft/network/chat/ChatSender;)V
+	METHOD handleSetTime handleSetTime (Lnet/minecraft/network/protocol/game/ClientboundSetTimePacket;)V
+	METHOD handleSystemChat handleSystemChat (Lnet/minecraft/network/protocol/game/ClientboundSystemChatPacket;)V
+	METHOD hasValidSignature hasValidSignature (Lnet/minecraft/network/chat/PlayerChatMessage;Lnet/minecraft/client/multiplayer/PlayerInfo;)Z
+	METHOD impl$handleSpawnObj impl$handleSpawnObj (Lnet/minecraft/network/protocol/game/ClientboundAddEntityPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$handleUpdateAttributes impl$handleUpdateAttributes (Lnet/minecraft/network/protocol/game/ClientboundUpdateAttributesPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onPlayerInfo impl$onPlayerInfo (Lnet/minecraft/network/protocol/game/ClientboundPlayerInfoPacket;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD lunar$handleComponent lunar$handleComponent (Lnet/minecraft/network/chat/Component;)Lnet/minecraft/network/chat/Component;
+	CLASS 1
+		METHOD <clinit> <clinit> ()V

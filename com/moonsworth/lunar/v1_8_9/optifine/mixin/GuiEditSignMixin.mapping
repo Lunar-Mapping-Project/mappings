@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/RHOHHRHHRCHRRIOCIIRHICCIC/RHOIOCRHOCHOOHHCOHIOIIRHI/HICHICCCOCIORRHICHHIHOHIR com/moonsworth/lunar/v1_8_9/optifine/mixin/GuiEditSignMixin
+	FIELD tileSign tileSign Lnet/minecraft/tileentity/TileEntitySign;
+	METHOD <init> <init> ()V
+	METHOD impl$initGui impl$initGui (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$onGuiClosed impl$onGuiClosed (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

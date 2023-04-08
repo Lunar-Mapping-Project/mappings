@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/v1_8_9/impl/entity/data/DummySkinCallback
+	FIELD playerInfo playerInfo Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD <init> <init> (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/ORRCHORCCOOOCCORCIHCROOCC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI;)V
+	METHOD skinAvailable skinAvailable (Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/util/ResourceLocation;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;)V
+	CLASS 1
+		FIELD $SwitchMap$com$mojang$authlib$minecraft$MinecraftProfileTexture$Type $SwitchMap$com$mojang$authlib$minecraft$MinecraftProfileTexture$Type [I
+		METHOD <clinit> <clinit> ()V

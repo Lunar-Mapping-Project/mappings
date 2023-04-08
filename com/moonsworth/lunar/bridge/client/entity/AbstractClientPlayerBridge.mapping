@@ -1,0 +1,11 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCRHRIOCIICCRHCHHHOHHCROC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/client/entity/AbstractClientPlayerBridge
+	METHOD bridge$getLocationSkin bridge$getLocationSkin ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD bridge$getLocationSkinDefault bridge$getLocationSkinDefault ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD bridge$getSkinType bridge$getSkinType ()Ljava/lang/String;
+	METHOD bridge$getSwingProgress bridge$getSwingProgress (F)F
+	METHOD bridge$isModelPartShown bridge$isModelPartShown (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC;)Z
+	METHOD bridge$isSkinTextureUploaded bridge$isSkinTextureUploaded ()Z
+	METHOD bridge$loadAndGetRealSkinType bridge$loadAndGetRealSkinType ()Ljava/util/Optional;
+	METHOD bridge$setLocationOfCape bridge$setLocationOfCape (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setLocationOfCapeOverride bridge$setLocationOfCapeOverride (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setSkinLocationOverride bridge$setSkinLocationOverride (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;Ljava/lang/String;)V

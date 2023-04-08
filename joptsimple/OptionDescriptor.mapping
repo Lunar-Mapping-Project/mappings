@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/OCIROORRIRIOHIIIRRIORCIHI/OIOOCIIHICICRRHCROHOOHOCI joptsimple/OptionDescriptor
+	METHOD ROICRCCCOOOORHHICCIOCRRII options ()Ljava/util/List;
+	METHOD acceptsArguments acceptsArguments ()Z
+	METHOD argumentDescription argumentDescription ()Ljava/lang/String;
+	METHOD argumentTypeIndicator argumentTypeIndicator ()Ljava/lang/String;
+	METHOD defaultValues defaultValues ()Ljava/util/List;
+	METHOD description description ()Ljava/lang/String;
+	METHOD isRequired isRequired ()Z
+	METHOD representsNonOptions representsNonOptions ()Z
+	METHOD requiresArgument requiresArgument ()Z

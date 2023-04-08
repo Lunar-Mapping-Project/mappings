@@ -1,0 +1,16 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/bridge/client/CameraBridge
+	METHOD bridge$getPitch bridge$getPitch ()F
+	METHOD bridge$getPosX bridge$getPosX ()D
+	METHOD bridge$getPosY bridge$getPosY ()D
+	METHOD bridge$getPosZ bridge$getPosZ ()D
+	METHOD bridge$getYaw bridge$getYaw ()F
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI NearPlane
+		FIELD CHCRCCRHHHHOCOOCIOCOOROHH forward F
+		FIELD ORHHOORIHIRHCICRORRCCIIOR entity Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD <init> <init> (FLcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/OCIROORRIRIOHIIIRRIORCIHI;)V
+		METHOD bridge$getPitch bridge$getPitch ()F
+		METHOD bridge$getPosX bridge$getPosX ()D
+		METHOD bridge$getPosY bridge$getPosY ()D
+		METHOD bridge$getPosZ bridge$getPosZ ()D
+		METHOD bridge$getYaw bridge$getYaw ()F
+		METHOD lerp lerp (DDD)D

@@ -1,0 +1,17 @@
+CLASS com/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/ichor/fabric/Entrypoint
+	FIELD aeo name Ljava/lang/String;
+	FIELD containers containers Ljava/util/Map;
+	METHOD <init> <init> (Ljava/lang/String;)V
+		ARG 1 name
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/OIOORRORCRHOOCICORRCHOHRC/OCIROORRIRIOHIIIRRIORCIHI;Ljava/lang/String;)V
+		ARG 1 mod
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Ljava/lang/Class;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;
+		ARG 3 v
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI loadEntrypoint (Ljava/lang/ClassLoader;Ljava/lang/Class;Ljava/util/function/Consumer;)V
+		ARG 1 classLoader
+		ARG 2 clazz
+		ARG 3 action
+	METHOD getName getName ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		FIELD aep aep Ljava/util/Map;
+		METHOD <init> <init> ()V

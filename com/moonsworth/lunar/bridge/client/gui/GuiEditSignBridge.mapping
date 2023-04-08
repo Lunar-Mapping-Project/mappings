@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO com/moonsworth/lunar/bridge/client/gui/GuiEditSignBridge
+	METHOD bridge$getEditLine bridge$getEditLine ()I
+	METHOD bridge$getLine bridge$getLine (I)Ljava/lang/String;
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;

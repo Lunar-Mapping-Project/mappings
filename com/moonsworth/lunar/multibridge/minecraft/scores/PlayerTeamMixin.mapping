@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/CRCCHRCHCRCIHROCRHOHIROCR/OIOORRORCRHOOCICORRCHOHRC com/moonsworth/lunar/multibridge/minecraft/scores/PlayerTeamMixin
+	METHOD <init> <init> ()V
+	METHOD bridge$formatString bridge$formatString (Ljava/lang/String;)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/ROOHRHIRRRIOCHOOOOOICHHIO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI;
+	METHOD bridge$getChatFormat bridge$getChatFormat ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/IIROHIIHCHOORORIIHORHRORO;
+	METHOD getColor getColor ()Lnet/minecraft/ChatFormatting;
+	METHOD getFormattedName getFormattedName (Lnet/minecraft/network/chat/Component;)Lnet/minecraft/network/chat/MutableComponent;
+	METHOD getName getName ()Ljava/lang/String;

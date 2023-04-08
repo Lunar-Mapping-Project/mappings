@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/ichor/itf/IchorPipelineUtils
+	METHOD <init> <init> ()V
+	METHOD HOCCIRHCCHOOORROROCIOHHIR getIchorPiplineFrom (Ljava/lang/Object;)Ljava/util/Optional;
+		ARG 0 object
+	METHOD HORRIRRROCHOHCCORHOOCHICO getIchorPipelineFrom (Ljava/lang/ClassLoader;)Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;
+		ARG 0 loader

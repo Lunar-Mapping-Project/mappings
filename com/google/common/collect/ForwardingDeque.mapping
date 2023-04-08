@@ -1,0 +1,23 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RCHHIHHRCCIHIRCCCRHIOCCHR/HRORHICOOORCIICRCCOHRCCHR com/google/common/collect/ForwardingDeque
+	METHOD <init> <init> ()V
+	METHOD CHCRCHHRCHIOOCIHOCOCCRIHI delegate ()Ljava/lang/Object;
+	METHOD IICOHOCRHCOCRHIROCCCIHCCH delegate ()Ljava/util/Queue;
+	METHOD OCHCIOORORIRCCHOCHOCHOCOH delegate ()Ljava/util/Deque;
+	METHOD OOHIICRCHHHIHHROOCCCHCOCO delegate ()Ljava/util/Collection;
+	METHOD addFirst addFirst (Ljava/lang/Object;)V
+	METHOD addLast addLast (Ljava/lang/Object;)V
+	METHOD descendingIterator descendingIterator ()Ljava/util/Iterator;
+	METHOD getFirst getFirst ()Ljava/lang/Object;
+	METHOD getLast getLast ()Ljava/lang/Object;
+	METHOD offerFirst offerFirst (Ljava/lang/Object;)Z
+	METHOD offerLast offerLast (Ljava/lang/Object;)Z
+	METHOD peekFirst peekFirst ()Ljava/lang/Object;
+	METHOD peekLast peekLast ()Ljava/lang/Object;
+	METHOD pollFirst pollFirst ()Ljava/lang/Object;
+	METHOD pollLast pollLast ()Ljava/lang/Object;
+	METHOD pop pop ()Ljava/lang/Object;
+	METHOD push push (Ljava/lang/Object;)V
+	METHOD removeFirst removeFirst ()Ljava/lang/Object;
+	METHOD removeFirstOccurrence removeFirstOccurrence (Ljava/lang/Object;)Z
+	METHOD removeLast removeLast ()Ljava/lang/Object;
+	METHOD removeLastOccurrence removeLastOccurrence (Ljava/lang/Object;)Z

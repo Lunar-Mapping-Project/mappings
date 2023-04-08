@@ -1,0 +1,9 @@
+CLASS com/moonsworth/lunar/genesis/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/ORRCHORCCOOOCCORCIHCROOCC com/google/common/escape/Platform
+	FIELD Bn DEST_TL Ljava/lang/ThreadLocal;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD ROIICCCROHOIHOICICOROCRCO charBufferFromThreadLocal ()[C
+	CLASS 1 1
+		METHOD <init> <init> ()V
+		METHOD initialValue initialValue ()Ljava/lang/Object;
+		METHOD initialValue initialValue ()[C

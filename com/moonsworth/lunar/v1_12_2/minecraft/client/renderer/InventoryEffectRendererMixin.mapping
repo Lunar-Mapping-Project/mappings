@@ -1,0 +1,4 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/v1_12_2/minecraft/client/renderer/InventoryEffectRendererMixin
+	METHOD <init> <init> (Lnet/minecraft/inventory/Container;)V
+	METHOD impl$drawActivePotionEffects impl$drawActivePotionEffects (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+	METHOD impl$updateActivePotionEffects impl$updateActivePotionEffects (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

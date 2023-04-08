@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/HORRIRRROCHOHCCORHOOCHICO/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/OIOORRORCRHOOCICORRCHOHRC/RHCICOIRIORCIOIOIHHHCHHHI com/moonsworth/lunar/v1_12_2/minecraft/client/gui/ServerListEntryNormalMixin
+	FIELD server server Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD <init> <init> ()V
+	METHOD getServerData getServerData ()Lnet/minecraft/client/multiplayer/ServerData;
+	METHOD impl$drawEntry impl$drawEntry (IIIIIIIZFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V

@@ -1,0 +1,22 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OICCIHOCRHCCRRHCRCCCHIIRC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/tabtimers/TabEffectManager
+	FIELD EFFECT_COUNT_PATTERN EFFECT_COUNT_PATTERN Ljava/util/regex/Pattern;
+	FIELD EFFECT_PATTERN EFFECT_PATTERN Ljava/util/regex/Pattern;
+	FIELD GOD_POTION_PATTERN GOD_POTION_PATTERN Ljava/util/regex/Pattern;
+	FIELD dummyPotionTimers dummyPotionTimers Ljava/util/List;
+	FIELD dummyPowerupTimers dummyPowerupTimers Ljava/util/List;
+	FIELD effectCount effectCount I
+	FIELD instance instance Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OICCIHOCRHCCRRHCRCCCHIIRC/OCIROORRIRIOHIIIRRIORCIHI;
+	FIELD potionTimers potionTimers Ljava/util/List;
+	FIELD powerupTimers powerupTimers Ljava/util/List;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD getDummyPotionTimers getDummyPotionTimers ()Ljava/util/List;
+	METHOD getDummyPowerupTimers getDummyPowerupTimers ()Ljava/util/List;
+	METHOD getEffectCount getEffectCount ()I
+	METHOD getInstance getInstance ()Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OICCIHOCRHCCRRHCRCCCHIIRC/OCIROORRIRIOHIIIRRIORCIHI;
+	METHOD getPotionTimers getPotionTimers ()Ljava/util/List;
+	METHOD getPowerupTimers getPowerupTimers ()Ljava/util/List;
+	METHOD putEffect putEffect (Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/OICCIHOCRHCCRRHCRCCCHIIRC/RHOIOCRHOCHOOHHCOHIOIIRHI;Ljava/util/List;)V
+	METHOD putPotionEffect putPotionEffect (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD putPowerup putPowerup (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD update update (Ljava/lang/String;Ljava/lang/String;)V

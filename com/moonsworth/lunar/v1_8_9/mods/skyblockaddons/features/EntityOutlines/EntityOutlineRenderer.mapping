@@ -1,0 +1,36 @@
+CLASS com/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/v1_8_9/mods/skyblockaddons/features/EntityOutlines/EntityOutlineRenderer
+	FIELD emptyLastTick emptyLastTick Z
+	FIELD entityRenderCache entityRenderCache Lcom/moonsworth/lunar/OIOOCIIHICICRRHCROHOOHOCI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI/RHOIOCRHOCHOOHHCOHIOIIRHI$RHOIOCRHOCHOOHHCOHIOIIRHI;
+	FIELD isAntialiasing isAntialiasing Ljava/lang/reflect/Method;
+	FIELD isFastRender isFastRender Ljava/lang/reflect/Method;
+	FIELD isShaders isShaders Ljava/lang/reflect/Method;
+	FIELD logger logger Lorg/apache/logging/log4j/Logger;
+	FIELD stopLookingForOptifine stopLookingForOptifine Z
+	FIELD swapBuffer swapBuffer Lnet/minecraft/client/shader/Framebuffer;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> ()V
+	METHOD copyBuffers copyBuffers (Lnet/minecraft/client/shader/Framebuffer;Lnet/minecraft/client/shader/Framebuffer;I)V
+	METHOD getCustomOutlineColor getCustomOutlineColor (Lnet/minecraft/entity/EntityLivingBase;)Ljava/lang/Integer;
+	METHOD initSwapBuffer initSwapBuffer ()Lnet/minecraft/client/shader/Framebuffer;
+	METHOD isCacheEmpty isCacheEmpty ()Z
+	METHOD isNoOutlineCacheEmpty isNoOutlineCacheEmpty ()Z
+	METHOD isNoXrayCacheEmpty isNoXrayCacheEmpty ()Z
+	METHOD isXrayCacheEmpty isXrayCacheEmpty ()Z
+	METHOD lambda$shouldRenderEntityOutlines$0 lambda$shouldRenderEntityOutlines$0 (Ljava/util/concurrent/atomic/AtomicBoolean;Ljava/util/concurrent/atomic/AtomicBoolean;Ljava/util/concurrent/atomic/AtomicBoolean;Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHRROCIIHHROCROOHICOCHRIR/RHOIOCRHOCHOOHHCOHIOIIRHI;)V
+	METHOD lambda$shouldRenderEntityOutlines$1 lambda$shouldRenderEntityOutlines$1 ()V
+	METHOD onTick onTick (Lcom/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/HICHICCCOCIORRHICHHIHOHIR/OIOOCIIHICICRRHCROHOOHOCI;)V
+	METHOD renderEntityOutlines renderEntityOutlines (Lnet/minecraft/client/renderer/culling/ICamera;FDDD)Z
+	METHOD shouldRender shouldRender (Lnet/minecraft/client/renderer/culling/ICamera;Lnet/minecraft/entity/Entity;DDD)Z
+	METHOD shouldRenderEntityOutlines shouldRenderEntityOutlines ()Z
+	METHOD updateFramebufferSize updateFramebufferSize ()V
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI CachedInfo
+		FIELD noOutlineCache noOutlineCache Ljava/util/HashSet;
+		FIELD noXrayCache noXrayCache Ljava/util/HashMap;
+		FIELD xrayCache xrayCache Ljava/util/HashMap;
+		METHOD <init> <init> ()V
+		METHOD getNoOutlineCache getNoOutlineCache ()Ljava/util/HashSet;
+		METHOD getNoXrayCache getNoXrayCache ()Ljava/util/HashMap;
+		METHOD getXrayCache getXrayCache ()Ljava/util/HashMap;
+		METHOD setNoOutlineCache setNoOutlineCache (Ljava/util/HashSet;)V
+		METHOD setNoXrayCache setNoXrayCache (Ljava/util/HashMap;)V
+		METHOD setXrayCache setXrayCache (Ljava/util/HashMap;)V

@@ -1,0 +1,83 @@
+CLASS com/moonsworth/lunar/ichor/IIROHIIHCHOORORIIHORHRORO com/moonsworth/lunar/ichor/IchorInjector
+	FIELD adc INITIAL_CAPACITY I
+	FIELD ade INJECT_PHASE Ljava/lang/String;
+	FIELD adf FAIL_ON_MIXIN_ERROR Z
+	FIELD adg DUMP_ALL_PHASES Z
+	FIELD adh MARK_CLASSES Z
+	FIELD adi pipeline Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;
+	FIELD adj containers Ljava/util/Map;
+	FIELD adk loaders Ljava/util/Map;
+	FIELD adl resources Ljava/util/Map;
+	FIELD adn phases Ljava/util/Set;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;)V
+		ARG 1 pipeline
+	METHOD CIIHIIHRIOHROCRCRRCHROHRO loadInjection (Ljava/lang/Class;)Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;
+		ARG 1 clazz
+	METHOD CIOCHIOCCCRORIROIOIHRIICI shouldDump (Ljava/lang/String;)Z
+		ARG 1 className
+	METHOD CRRCHORCIOOCOIIRIRCORRCOH getIchorClassLoaders ()Ljava/util/Collection;
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;)Ljava/util/List;
+		ARG 1 phase
+	METHOD OCIROORRIRIOHIIIRRIORCIHI (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 phase
+		ARG 2 className
+	METHOD OIOORRORCRHOOCICORRCHOHRC (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/String;)Ljava/util/Set;
+		ARG 1 phase
+		ARG 2 className
+	METHOD OOHOHRRRRCRHIOROOORORHOIH (Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 className
+	METHOD ORHRHOROIOCHHCHICORIHCCCO loadInjection (Ljava/lang/Object;)Lcom/moonsworth/lunar/ichor/RCHHIHHRCCIHIRCCCRHIOCCHR;
+		ARG 1 object
+	METHOD RCHHIHHRCCIHIRCCCRHIOCCHR (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 phase
+		ARG 2 className
+	METHOD RHHCIHIHIRHHCOIOIRIROOHOI getPipeline ()Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC;
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/ClassLoader;Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;)Lcom/moonsworth/lunar/ichor/ORRCHORCCOOOCCORCIHCROOCC/RHOIOCRHOCHOOHHCOHIOIIRHI;
+		ARG 1 phase
+		ARG 2 classLoader
+		ARG 3 resource
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI transform (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/ClassLoader;ZLjava/lang/String;[BLcom/moonsworth/lunar/ichor/util/HICHICCCOCIORRHICHHIHOHIR;)[B
+		ARG 1 phase
+		ARG 2 classLoader
+		ARG 4 className
+	METHOD RHOIOCRHOCHOOHHCOHIOIIRHI (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/String;)Ljava/lang/String;
+		ARG 1 phase
+		ARG 2 className
+	METHOD close close ()V
+	CLASS OCIROORRIRIOHIIIRRIORCIHI
+		FIELD ads phase Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+		FIELD parent parent Ljava/lang/ClassLoader;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/ClassLoader;)V
+			ARG 1 phase
+			ARG 2 parent
+		METHOD OCCHIOOCCCOOHCIHCCOCIHRRR parent ()Ljava/lang/ClassLoader;
+		METHOD OHIRIIICRRORCRCCRICOCHCRH phase ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS OIOORRORCRHOOCICORRCHOHRC ClassResource
+		FIELD adt classNode Lorg/objectweb/asm/tree/ClassNode;
+		FIELD adu ichorClassLoader Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;
+		FIELD adv injectMixin Z
+		METHOD <init> <init> (Lorg/objectweb/asm/tree/ClassNode;Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;Z)V
+			ARG 1 classNode
+			ARG 2 ichorClassLoader
+			ARG 3 injectMixin
+		METHOD CHCCRRHIOHCOCRIOIOIHICIIC classNode ()Lorg/objectweb/asm/tree/ClassNode;
+		METHOD HCOIHRORRRIOHRHCHHOOIHCCH ichorClassLoader ()Lcom/moonsworth/lunar/ichor/OCIROORRIRIOHIIIRRIORCIHI;
+		METHOD RIOCHCRORRHOICRHRHHIHIICO injectMixin ()Z
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;
+	CLASS RHOIOCRHOCHOOHHCOHIOIIRHI
+		FIELD adq phase Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+		FIELD adr className Ljava/lang/String;
+		METHOD <init> <init> (Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;Ljava/lang/String;)V
+			ARG 1 phase
+			ARG 2 className
+		METHOD OHIRIIICRRORCRCCRICOCHCRH phase ()Lcom/moonsworth/lunar/ichor/HICHICCCOCIORRHICHHIHOHIR;
+		METHOD className className ()Ljava/lang/String;
+		METHOD equals equals (Ljava/lang/Object;)Z
+		METHOD hashCode hashCode ()I
+		METHOD toString toString ()Ljava/lang/String;

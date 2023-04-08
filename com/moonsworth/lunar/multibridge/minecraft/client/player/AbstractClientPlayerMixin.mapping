@@ -1,0 +1,19 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOORRORCRHOOCICORRCHOHRC/HICHICCCOCIORRHICHHIHOHIR/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/client/player/AbstractClientPlayerMixin
+	FIELD skinLocationOverride skinLocationOverride Lnet/minecraft/resources/ResourceLocation;
+	FIELD skinTypeOverride skinTypeOverride Ljava/lang/String;
+	METHOD <init> <init> (Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;FLcom/mojang/authlib/GameProfile;)V
+	METHOD bridge$getArmor bridge$getArmor (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+	METHOD bridge$getLocationSkinDefault bridge$getLocationSkinDefault ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;
+	METHOD bridge$getPlayerCapabilities bridge$getPlayerCapabilities ()Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/IIROHIIHCHOORORIIHORHRORO;
+	METHOD bridge$getSwingProgress bridge$getSwingProgress (F)F
+	METHOD bridge$impl$getModelName bridge$impl$getModelName (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD bridge$impl$getSkinTextureLocation bridge$impl$getSkinTextureLocation (Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+	METHOD bridge$isModelPartShown bridge$isModelPartShown (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC/IIROHIIHCHOORORIIHORHRORO/OIOORRORCRHOOCICORRCHOHRC;)Z
+	METHOD bridge$isSkinTextureUploaded bridge$isSkinTextureUploaded ()Z
+	METHOD bridge$isSpectator bridge$isSpectator ()Z
+	METHOD bridge$loadAndGetRealSkinType bridge$loadAndGetRealSkinType ()Ljava/util/Optional;
+	METHOD bridge$setLocationOfCape bridge$setLocationOfCape (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setLocationOfCapeOverride bridge$setLocationOfCapeOverride (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;)V
+	METHOD bridge$setSkinLocationOverride bridge$setSkinLocationOverride (Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HICCCOROHIIHIHRCOIHHCRHCR/HICCCOROHIIHIHRCOIHHCRHCR;Ljava/lang/String;)V
+	METHOD getPlayerInfo getPlayerInfo ()Lnet/minecraft/client/multiplayer/PlayerInfo;
+	METHOD isSpectator isSpectator ()Z

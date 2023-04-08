@@ -1,0 +1,10 @@
+CLASS com/moonsworth/lunar/ichor/util/RHRROCIIHHROCROOHICOCHRIR com/moonsworth/lunar/ichor/util/RandomUtil
+	FIELD $VALUES $VALUES [Lcom/moonsworth/lunar/ichor/util/RHRROCIIHHROCROOHICOCHRIR;
+	FIELD RANDOM RANDOM Ljava/util/Random;
+	METHOD $values $values ()[Lcom/moonsworth/lunar/ichor/util/RHRROCIIHHROCROOHICOCHRIR;
+	METHOD <clinit> <clinit> ()V
+	METHOD <init> <init> (Ljava/lang/String;I)V
+	METHOD randomDouble randomDouble ()D
+	METHOD randomLong randomLong ()J
+	METHOD valueOf valueOf (Ljava/lang/String;)Lcom/moonsworth/lunar/ichor/util/RHRROCIIHHROCROOHICOCHRIR;
+	METHOD values values ()[Lcom/moonsworth/lunar/ichor/util/RHRROCIIHHROCROOHICOCHRIR;

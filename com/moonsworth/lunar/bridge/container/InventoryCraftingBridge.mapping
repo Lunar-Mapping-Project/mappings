@@ -1,0 +1,7 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/CRCCHRCHCRCIHROCRHOHIROCR/RCHHIHHRCCIHIRCCCRHIOCCHR com/moonsworth/lunar/bridge/container/InventoryCraftingBridge
+	METHOD bridge$getDisplayName bridge$getDisplayName ()Lnet/kyori/adventure/text/Component;
+	METHOD bridge$getStackInSlot bridge$getStackInSlot (I)Lcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;
+		ARG 1 slot
+	METHOD bridge$setInventorySlotContents bridge$setInventorySlotContents (ILcom/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/HORRIRRROCHOHCCORHOOCHICO/OIOOCIIHICICRRHCROHOOHOCI;)V
+		ARG 1 slot
+		ARG 2 item

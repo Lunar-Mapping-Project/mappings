@@ -1,0 +1,14 @@
+CLASS com/moonsworth/lunar/OCRHRIOCIICCRHCHHHOHHCROC/RCHHIHHRCCIHIRCCCRHIOCCHR/OIOOCIIHICICRRHCROHOOHOCI/OCRHRIOCIICCRHCHHHOHHCROC/IIROHIIHCHOORORIIHORHRORO/RHOIOCRHOCHOOHHCOHIOIIRHI com/moonsworth/lunar/multibridge/minecraft/world/level/storage/PrimaryLevelDataMixin
+	FIELD gameTime gameTime J
+	FIELD xSpawn xSpawn I
+	FIELD ySpawn ySpawn I
+	FIELD zSpawn zSpawn I
+	METHOD <init> <init> ()V
+	METHOD bridge$getDayTime bridge$getDayTime ()J
+	METHOD bridge$getGameTime bridge$getGameTime ()J
+	METHOD bridge$getSpawnX bridge$getSpawnX ()I
+	METHOD bridge$getSpawnY bridge$getSpawnY ()I
+	METHOD bridge$getSpawnZ bridge$getSpawnZ ()I
+	METHOD bridge$isRaining bridge$isRaining ()Z
+	METHOD getDayTime getDayTime ()J
+	METHOD isRaining isRaining ()Z

@@ -1,0 +1,5 @@
+CLASS com/moonsworth/lunar/OCIROORRIRIOHIIIRRIORCIHI/RCHHIHHRCCIHIRCCCRHIOCCHR/OCIROORRIRIOHIIIRRIORCIHI/RHOHHRHHRCHRRIOCIIRHICCIC com/moonsworth/lunar/bridge/client/gui/GuiScreenBookBridge
+	METHOD bridge$getCurrentPage bridge$getCurrentPage ()I
+	METHOD bridge$getPageContents bridge$getPageContents (I)Ljava/lang/String;
+	METHOD bridge$getPageCount bridge$getPageCount ()I
+	METHOD bridge$getScreenName bridge$getScreenName ()Ljava/util/Optional;

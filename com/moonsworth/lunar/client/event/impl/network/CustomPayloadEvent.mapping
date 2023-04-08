@@ -1,0 +1,6 @@
+CLASS com/moonsworth/lunar/OIOORRORCRHOOCICORRCHOHRC/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI/OCRHRIOCIICCRHCHHHOHHCROC/OCIROORRIRIOHIIIRRIORCIHI com/moonsworth/lunar/client/event/impl/network/CustomPayloadEvent
+	FIELD channel channel Ljava/lang/String;
+	FIELD data data [B
+	METHOD <init> <init> (Ljava/lang/String;[B)V
+	METHOD OCOOIROOHRCRORHOIRIRIHCHR getChannel ()Ljava/lang/String;
+	METHOD getData getData ()[B

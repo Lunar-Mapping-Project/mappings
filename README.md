@@ -5,21 +5,20 @@
 
 ## Updates
 
-Great news, the mapping team have reached the mid 90%s on a more recent version of lunar (93d4dd4/master), which also includes all platform modules, genesis & ichor!<br>
-We are currently in the process of cleaning up the mappings, and getting all the files ready for release to the public.<br>
 For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to keep posted with the latest news and updates.
 
 ## Contents
 
-- Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/v1.0)
+- (Pretty much) complete mappings for [93d4dd4/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/93d4dd4%2Fmaster)
+- Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/a397868)
 
 ## FAQ
 
-#### Where are the mappings?
+#### Where are the latest mappings?
 
-The mappings are still incomplete and have not yet been converted into an intermediate format to be matched with the latest version of lunar client.
+The mappings are slowly being migrated to newer versions of lunar client.
 
-However, you can find 'dirty' mappings in the [releases](https://github.com/Lunar-Mapping-Project/mappings/releases) for specific versions of lunar.
+You can find 'dirty' or old mappings in the [releases](https://github.com/Lunar-Mapping-Project/mappings/releases) for specific versions of lunar.
 
 #### How can I contribute?
 

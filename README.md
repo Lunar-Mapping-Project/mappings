@@ -46,7 +46,7 @@ And other anonymous contributors <3
 ## Roadmap
 
 - Migrate current mappings into intermediate format
-- Updated mappings (currently migrating from a397868/master -> 93d4dd4/master)
+- Updated mappings (migrate to latest when possible)
 - Javadoc
 
 

@@ -10,6 +10,7 @@ For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to
 
 - (Pretty much) complete mappings for [93d4dd4/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/93d4dd4%2Fmaster)
 - Dirty mappings for [1.8.9-a397868/master](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/a397868)
+- Genesis mappings for [2.22.25-2632](https://github.com/Lunar-Mapping-Project/mappings/releases/tag/genesis%2F2.22.25-2632)
 
 ## FAQ
 

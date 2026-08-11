@@ -4,7 +4,7 @@
 
 ## Updates
 
-For more information join the [Discord](https://discord.gg/wbQv3sRenF) server to keep posted with the latest news and updates
+For more information join the [Discord](https://discord.gg/h3K7DS4U2f) server to keep posted with the latest news and updates
 
 ## Contents
 
